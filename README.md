@@ -51,7 +51,7 @@ We believe that in the age of AI, the way we "write" and "share" stories is evol
 This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
 
 ---
-### **Explore via NotebookLM:**
+### **Explore via NotebookLM**
 
  You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 
