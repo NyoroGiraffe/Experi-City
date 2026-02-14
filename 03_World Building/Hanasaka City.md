@@ -13,7 +13,7 @@ cssclasses:
 
 # **Definition:** 
 
-An **[[Experimental Cities|Experimental City]]** established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
+An **Experimental City** established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
 
 # **1. Geographical Information**
 
@@ -61,8 +61,8 @@ An **[[Experimental Cities|Experimental City]]** established by an island nation
 
 ### **Overview**:
 
-**Castle Park** is a lush, green public space covering approximately **1 square kilometer** in the heart of Hanasaka City. It is a nearly square-shaped park that serves as a vital recreational area for the citizens (Hanafolk). The park encompasses the entire **[[Hanasaka Castle|Hanasaka Castle]]** complex, including its multi-layered moats and defense zones.
-The park is entirely owned and managed by the **[[Hanasaka Castle|Castle Office]]**.
+**Castle Park** is a lush, green public space covering approximately **1 square kilometer** in the heart of Hanasaka City. It is a nearly square-shaped park that serves as a vital recreational area for the citizens (Hanafolk). The park encompasses the entire **[Hanasaka Castle](./03_Workld Building/Hanasaka Castle.md)** complex, including its multi-layered moats and defense zones.
+The park is entirely owned and managed by the **Castle Office**.
 
 ### **Key Facilities in Castle Park:**
 

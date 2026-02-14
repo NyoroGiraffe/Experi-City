@@ -53,7 +53,7 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 ---
 ### **Explore via NotebookLM:**
 
- You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [[https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5]]
+ You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 
 ---
 # **PREFACE**
@@ -92,11 +92,11 @@ The narrative is organized into three levels of detail to ensure a clear and imm
 Part 1 introduces the main characters, explores the lives of Hanasaka's citizens in this era, and examines the conflicts that arise. It also showcases Kassen matches, illustrating how people enjoyed this sport and inviting you into the world of the story.
 
 ### Chapters:
-[[Part1_Chapter1.1-1.3]]
-[[Part1_Chapter1.4-1.6]]
-[[Part1_Chapter1.7-1.9]]
-[[Part1_Chapter1.10]]
-[[Part1_Chapter1.11-13]]
+[Part1_Chapter1.1-1.3](./01_Story/Part1_Chapter1.1-1.3.md)
+[Part1_Chapter1.4-1.6](./01_Story/Part1_Chapter1.4-1.6.md)
+[Part1_Chapter1.7-1.9](./01_Story/Part1_Chapter1.7-1.9.md)
+[Part1_Chapter1.10](./01_Story/Part1_Chapter1.10.md)
+[Part1_Chapter1.11-13](./01_Story/Part1_Chapter1.11-1.13.md)
 #### 1.1 Holder of the Black Stone
 #### 1.2 Sapphire Comet
 #### 1.3 A Special Order for Workshop Nemophila
@@ -117,12 +117,12 @@ Part 1 introduces the main characters, explores the lives of Hanasaka's citizens
 In Part 2, the enemies, who have been showing an ominous presence, finally launch a surprise attack, placing Hanasaka under considerable strain. In response, the Hanasaka side attempts to raise the flag of counterattack using a trump card: Kasga, an iconic representative of Kassen. Also, a hypothesis is presented about why Flora has such a strong interest in Kassen.
 
 ### Chapters:
-[[Part2_Chapter2.1-2.3]]
-[[Part2_Chapter2.4-2.6]]
-[[Part2_Chapter2.7-2.9]]
-[[Part2_Chapter2.10-2.11]]
-[[Part2_Chapter2.12-2.13]]
-[[Part2_Chapter2.14-16]]
+[Part2_Chapter2.1-2.3](./01_Story/Part2_Chapter2.1-2.3.md)
+[Part2_Chapter2.4-2.6](./01_Story/Part2_Chapter2.4-2.6.md)
+[Part2_Chapter2.7-2.9](./01_Story/Part2_Chapter2.7-2.9.md)
+[Part2_Chapter2.10-2.11](./01_Story/Part2_Chapter2.10-2.11.md)
+[Part2_Chapter2.12-2.13](./01_Story/Part2_Chapter2.12-2.13.md)
+[Part2_Chapter2.14-16](./01_Story/Part2_Chapter2.14-2.16.md)
 #### 2.1 Memories Best Forgotten
 #### 2.2 Hypothesis
 #### 2.3 A Fabricated Conspiracy
@@ -146,16 +146,16 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligence Flora is revealed, and the day of the decisive battle finally arrives. To win against the enemy, Flora needs to unleash her latent abilities, and the activation conditions are somewhat incomprehensible to humans, requiring the involvement of a certain Kassen Fighter. Can Flora, with her unique abilities and strategy, protect Hanasaka?
 
 ### Chapters:
-[[Part3_Chapter3.1-3.2]]
-[[Part3_Chapter3.3-3.5]]
-[[Part3_Chapter3.6-3.7]]
-[[Part3_Chapter3.8-3.10]]
-[[Part3_Chapter3.11-3.12]]
-[[Part3_Chapter3.13-3.15]]
-[[Part3_Chapter3.16-3.17]]
-[[Part3_Chapter3.18-3.20]]
-[[Part3_Chapter3.21-3.22]]
-[[Part3_Chapter3.23]]
+[Part3_Chapter3.1-3.2](./01_Story/Part3_Chapter3.1-3.2.md)
+[Part3_Chapter3.3-3.5](./01_Story/Part3_Chapter3.3-3.5.md)
+[Part3_Chapter3.6-3.7](./01_Story/Part3_Chapter3.6-3.7.md)
+[Part3_Chapter3.8-3.10](./01_Story/Part3_Chapter3.18-3.10.md)
+[Part3_Chapter3.11-3.12](./01_Story/Part3_Chapter3.11-3.12.md)
+[Part3_Chapter3.13-3.15](./01_Story/Part3_Chapter3.13-3.15.md)
+[Part3_Chapter3.16-3.17](./01_Story/Part3_Chapter3.16-3.17.md)
+[Part3_Chapter3.18-3.20](./01_Story/Part3_Chapter3.18-3.20.md)
+[Part3_Chapter3.21-3.22](./01_Story/Part3_Chapter3.21-3.22.md)
+[Part3_Chapter3.23](./01_Story/Part3_Chapter3.23.md)
 #### 3.1 Mayor's Assassination
 #### 3.2 Operation Shark Teeth
 #### 3.3 The Honored Eight
@@ -186,12 +186,12 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 # **Essential Guide**
 
 The following notes contain the foundational information required to understand the story outlined above.
-- [[Characters]]
-- [[Experimental Cities|Experimental Cities]]: 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
-- [[Hanasaka City]]: One of the 23 Experimental Cities, built around a centuries-old castle ("Hanasaka Castle") and governed by the super-intelligence **"Flora"**.
-- [[Technologies]]
-- [[Kassen]]: A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
-- [[Hanasaka Castle|Hanasaka Castle]]
+- [Characters](./02_Characters/Characters.md)
+- [Experimental Cities](./03_Workld Building/Experimental Cities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
+- [Hanasaka City](./03_Workld Building/Hanasaka Citiy.md): One of the 23 Experimental Cities, built around a centuries-old castle ("Hanasaka Castle") and governed by the super-intelligence **"Flora"**.
+- [Technologies](./03_Workld Building/Technologies.md)
+- [Kassen](./03_Workld Building/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
+- [Hanasaka Castle](./03_Workld Building/Hanasaka Castle.md)
 
 ---
 ## **Interpretation Guide:**
