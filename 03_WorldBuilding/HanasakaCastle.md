@@ -68,14 +68,14 @@ These two routes provide access from the Outer Defense Zone into the **Main Keep
 
 #### Map:
 
-![[hanasaka_castle.png]]
+![Hanasaka Castle](../assets/hanasaka_castle.png)
 
 ---
 # **Castle Office**
 
 ## **Definition:** 
 
-A private organization that develops and manages "Castle Park", including "Hanasaka Castle", and also hosts games for [Kassen](./03_WorldBuilding/Kassen.md), a sport that originated in Hanasaka City. It is composed of multiple sections under four Directors, including the **EIS** (Equipment Inspection Section), **CBS** (Castle Building Section), **ISS** (Information System Section), **GAS** (General Affairs Section), and **GAMS** (Games and Arena Management Section).
+A private organization that develops and manages "Castle Park", including "Hanasaka Castle", and also hosts games for [Kassen](./Kassen.md), a sport that originated in Hanasaka City. It is composed of multiple sections under four Directors, including the **EIS** (Equipment Inspection Section), **CBS** (Castle Building Section), **ISS** (Information System Section), **GAS** (General Affairs Section), and **GAMS** (Games and Arena Management Section).
 
 ## Buildings:
 
