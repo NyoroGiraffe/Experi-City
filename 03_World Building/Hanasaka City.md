@@ -61,7 +61,7 @@ An **Experimental City** established by an island nation off the eastern coast o
 
 ### **Overview**:
 
-**Castle Park** is a lush, green public space covering approximately **1 square kilometer** in the heart of Hanasaka City. It is a nearly square-shaped park that serves as a vital recreational area for the citizens (Hanafolk). The park encompasses the entire **[Hanasaka Castle](./03_Workld Building/Hanasaka Castle.md)** complex, including its multi-layered moats and defense zones.
+**Castle Park** is a lush, green public space covering approximately **1 square kilometer** in the heart of Hanasaka City. It is a nearly square-shaped park that serves as a vital recreational area for the citizens (Hanafolk). The park encompasses the entire **[Hanasaka Castle](./03_World Building/Hanasaka Castle.md)** complex, including its multi-layered moats and defense zones.
 The park is entirely owned and managed by the **Castle Office**.
 
 ### **Key Facilities in Castle Park:**
