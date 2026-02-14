@@ -9,7 +9,7 @@ cssclasses:
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
 - **Language:** Japanese 
-- **Latest Version:** 1.1 (Work in Progress) 
+- **Latest Version:** 1.1 
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 
@@ -186,12 +186,12 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 # **Essential Guide**
 
 The following notes contain the foundational information required to understand the story outlined above.
-- [Characters](./02_Characters/Characters.md)
-- [Experimental Cities](./03_World Building/Experimental Cities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
-- [Hanasaka City](./03_Workld Building/Hanasaka Citiy.md): One of the 23 Experimental Cities, built around a centuries-old castle ("Hanasaka Castle") and governed by the super-intelligence **"Flora"**.
-- [Technologies](./03_World Building/Technologies.md)
-- [Kassen](./03_World Building/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
-- [Hanasaka Castle](./03_World Building/Hanasaka Castle.md)
+- [Characters](Characters.md)
+- [Experimental Cities](ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
+- [Hanasaka City](./03_WorldBuilding/HanasakaCitiy.md): One of the 23 Experimental Cities, built around a centuries-old castle ("Hanasaka Castle") and governed by the super-intelligence **"Flora"**.
+- [Technologies](Technologies.md)
+- [Kassen](Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
+- [Hanasaka Castle](HanasakaCastle.md)
 
 ---
 ## **Interpretation Guide:**

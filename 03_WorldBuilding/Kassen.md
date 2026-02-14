@@ -12,7 +12,7 @@ cssclasses:
 
 # **Overview** 
 
-**Kassen** is a popular sport developed alongside the establishment of **[Hanasaka City](./03_World Building/Hanasaka City.md)** to provide human-centric, physical entertainment in a society managed by advanced technology. While the sport is themed after the historical warfare associated with **Hanasaka Castle**, it is designed as a modern competition with strict safety rules and primarily uses English terminology. Official matches are held at the **Hanasaka Arena**, a stadium characterized by its white granite structure and movable petal-shaped walls.
+**Kassen** is a popular sport developed alongside the establishment of **[Hanasaka City](./03_WorldBuilding/HanasakaCity.md)** to provide human-centric, physical entertainment in a society managed by advanced technology. While the sport is themed after the historical warfare associated with **Hanasaka Castle**, it is designed as a modern competition with strict safety rules and primarily uses English terminology. Official matches are held at the **Hanasaka Arena**, a stadium characterized by its white granite structure and movable petal-shaped walls.
 
 The sport is played by **Fighters**, who are citizens aged 20 or older. These athletes belong to one of the four official **Kassen clubs**—"Garnet East", "Topaz South", "Sapphire West", or "Emerald North"—each based in a different administrative district of the city. Furthermore, there are 16 recognized **Alliance clubs** located outside Hanasaka that follow the official regulations and maintain cooperative relationships with the city’s clubs.
 
