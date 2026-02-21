@@ -742,3 +742,5 @@ Kasgaは, Stone Coldが人間の無意識を使った因果関係の連鎖によ
 “Sapinesさんって, やっぱり変態なのね.”
 
 “何とでも言え.  今から5分以内だ.  それを過ぎれば, 子供らを爆破する.”
+
+[<- Previous](./Part3_Chapter3.11-3.12.md) | [-> Next](./Part3_Chapter3.16-3.17.md)

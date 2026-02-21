@@ -277,3 +277,4 @@ Keikoはそう言いつつ, またハンカチで目を当てた. 
 Akioがうれし泣きで目を輝かせているKeikoを優しく見つめていると, 彼女は, “じゃあ, またね.”と言ってほほ笑んで胸元で小さく手を振った.  そしてまた新たなドラマが始まる予感を残しながら, 小走りで広場の端にあるエスカレーターのほうに向かい, 空中のステージからさっそうと駆け下りていった.
 
 (Part 3 finished.  Part 4 will be continued, but it is still a work in progress.)
+[<- Previous](./Part3_Chapter3.21-3.22.md) | [-> Back to OUTLINE](../../README.md#outline)

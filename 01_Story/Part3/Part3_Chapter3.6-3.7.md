@@ -659,3 +659,5 @@ Hanasakaに敵対的な団体の筆頭株である“Awakeners”は, 教祖の�
 JuliaがAR viewに表示された応答ボタンを押すや, 1年ぶりに聞く声が鼓膜を叩いた. 
 
 “あら, 久しぶり.  お元気ですか?”
+
+[<- Previous](./Part3_Chapter3.3-3.5.md) | [-> Next](./Part3_Chapter3.8-3.10.md)

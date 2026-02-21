@@ -861,3 +861,4 @@ Keikoは体を小刻みに震わせながら声をしぼり出して泣き出し
 KasgaはKeikoの頭をぐっと自分の胸元に抱き寄せた.  そしてそれ以上はKasgaも声が詰まって何も言えなくなってしまった. 
 
 (End of Part 2.  Continued in Part 3.)
+[<- Previous](./Part2_Chapter2.12-2.13.md) | [-> Next](../Part3/Part3_Chapter3.1-3.2.md)

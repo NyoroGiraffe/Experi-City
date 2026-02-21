@@ -557,3 +557,5 @@ Monicaの姿が目の前に設置されているモニターではなく, Kasga�
 *“あぁ, そんなことを言ったら, Harunaさん, 完全に本気出すわよ.”*
 
 そして, 7時の時報が鳴った.
+
+[<- Previous](./Part3_Chapter3.13-3.15.md) | [-> Next](./Part3_Chapter3.18-3.20.md)

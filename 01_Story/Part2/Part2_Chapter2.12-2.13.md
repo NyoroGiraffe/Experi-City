@@ -637,3 +637,5 @@ Lemolainは, 今日, すなわち8月4日を特別な日として自らの記憶
 >The following sentence “夫子之道, 忠恕而已矣” is read as “夫子 (ふうし) の道は忠恕 (ちゅうじょ) のみ” in Japanese.
 >
 >“吾道一以之貫” roughly translates to “My way is all along one thread.” in English, and “夫子之道, 忠恕而已矣” translates to “The Master's way is simply to show consideration to others.” However, there are various translations, so if you are interested, please look into them.
+
+[<- Previous](./Part2_Chapter2.10-2.11.md) | [-> Next](./Part2_Chapter2.14-2.16.md)

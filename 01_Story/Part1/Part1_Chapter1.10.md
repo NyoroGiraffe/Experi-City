@@ -373,3 +373,5 @@ Moglaが思案していると, 今度は彼のAR viewに突然, "エージェン
 >ここでは, 現実または仮想の世界で様々な情報を分析し判断し行動するために, 個々のユーザーを日常的に支援するソフトウェアのことである.  Nexus Unitにインストールされている.
 
 “緊急通知.  Akio DiasおよびNew Moon in the Dark, 要保護対象.”
+
+[<- Previous](./Part1_Chapter1.7-1.9.md) | [-> Next](./Part1_Chapter1.11-1.13.md)

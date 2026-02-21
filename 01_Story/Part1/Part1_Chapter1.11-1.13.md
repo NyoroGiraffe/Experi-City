@@ -575,3 +575,4 @@ Keikoは, smart gogglesを右手で眉の上にずらして, 泣き顔をぬぐ�
 2人は肩を組みながら泣いていた. 
 
  (End of Part 1.  Continued in Part 2.)
+ [<- Previous](./Part1_Chapter1.10.md) | [-> Next](../Part2/Part2_Chapter2.1-2.3.md)

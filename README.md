@@ -96,7 +96,7 @@ Part 1 introduces the main characters, explores the lives of Hanasaka's citizens
 [Part1_Chapter1.4-1.6](./01_Story/Part1/Part1_Chapter1.4-1.6.md), 
 [Part1_Chapter1.7-1.9](./01_Story/Part1/Part1_Chapter1.7-1.9.md), 
 [Part1_Chapter1.10](./01_Story/Part1/Part1_Chapter1.10.md), 
-[Part1_Chapter1.11-13](./01_Story/Part1/Part1_Chapter1.11-1.13.md)
+[Part1_Chapter1.11-1.13](./01_Story/Part1/Part1_Chapter1.11-1.13.md)
 #### 1.1 Holder of the Black Stone
 #### 1.2 Sapphire Comet
 #### 1.3 A Special Order for Workshop Nemophila
@@ -122,7 +122,7 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 [Part2_Chapter2.7-2.9](./01_Story/Part2/Part2_Chapter2.7-2.9.md), 
 [Part2_Chapter2.10-2.11](./01_Story/Part2/Part2_Chapter2.10-2.11.md), 
 [Part2_Chapter2.12-2.13](./01_Story/Part2/Part2_Chapter2.12-2.13.md), 
-[Part2_Chapter2.14-16](./01_Story/Part2/Part2_Chapter2.14-2.16.md)
+[Part2_Chapter2.14-2.16](./01_Story/Part2/Part2_Chapter2.14-2.16.md)
 #### 2.1 Memories Best Forgotten
 #### 2.2 Hypothesis
 #### 2.3 A Fabricated Conspiracy

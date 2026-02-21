@@ -560,3 +560,5 @@ Director Prishaは, 東側スタンドにあるKassen Representative Councilの�
 
 >補足: CCPについて
 >"CCP”は, Castle Officeの人たちが使っていた用語で, Floraの攻撃力と防御力の合計値を意味する.  正式にはCombined Combat Powerという.
+
+[<- Previous](./Part2_Chapter2.7-2.9.md) | [-> Next](./Part2_Chapter2.12-2.13.md)
