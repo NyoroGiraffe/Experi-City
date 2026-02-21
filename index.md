@@ -11,3 +11,18 @@ cssclasses:
 - [**STORY**](./01_Story/Part1/Part1_Chapter1.1-1.3.md)
 
 Nyoro Giraffe
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Experi-City",
+  "author": {
+    "@type": "Person",
+    "name": "Nyoro Giraffe"
+  },
+  "description": "A narrative project exploring the symbiosis between humans and AI in a near-future experimental city.",
+  "genre": "Science Fiction",
+  "url": "https://nyorogiraffe.github.io/Experi-City/"
+}
+</script>
