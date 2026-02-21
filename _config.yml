@@ -2,3 +2,7 @@ theme: jekyll-theme-cayman
 title: Experi-City Official Archive
 description: A knowledge base and narrative project exploring the symbiosis between humans and AI in a near-future experimental city.
 lang: ja-JP
+plugins:
+  - jekyll-sitemap
+url: "https://nyorogiraffe.github.io"
+baseurl: "/Experi-City"
