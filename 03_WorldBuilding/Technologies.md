@@ -17,13 +17,15 @@ cssclasses:
 
 This story features a variety of objects and items created with advanced technology.
 
+---
 # Gadgets and Small Items:
 
 ## **1. Nexus Unit**:
 
 An information terminal carried by almost everyone, used to communicate with various city systems and exchange information. It is often referred to simply as "**Nexus**." 
 The terminal has no screen; instead, it links with smart glasses and is operated through an augmented reality view displayed in front of the user’s eyes.
-During Kassen, specialized Nexus Units are used to track and record a Fighter's **Hit Points (HP)**.
+Citizens of the [Experimental Cities](./ExperimentalCities.md) use Nexus Units provided by the city, and the use of any units not authorized by the city is prohibited.
+During [Kassen](./Kassen.md), specialized Nexus Units are used to track and record a Fighter's **Hit Points (HP)**.
 
 ## **2. Enhancers**:
 
@@ -32,30 +34,38 @@ During Kassen, specialized Nexus Units are used to track and record a Fighter's 
 ### Sensory and Facial Enhancers:
 
 **1. Smart Glasses**
+
 A near-universal device worn by everyone except young children, regardless of their visual acuity. They overlay a wide range of information onto the real world via an **AR view**. The devices often include bone conduction audio components for communication.
 They are often simply referred to as "Glasses." 
 
 **2. Smart Goggles**
+
 Used as an alternative to glasses during intense physical movement or when a wider field of vision and more data are required. These are standard equipment for **Kassen Fighters** during matches.
 
 **3. Air Enhancer**
+
 A small device attached to the tip of the nose that extends it by about two centimeters. It features an extremely thin, breathable membrane that blocks harmful floating substances and allows users to adjust their olfactory sensitivity. Many users wear them continuously, even while sleeping or bathing.
 
 ### Physical and Mobility Enhancers:
 
 **1. Foot Enhancers (Enhancer Shoes)** 
+
 Specialized footwear used by Kassen Fighters, designed like split-toe socks to significantly increase jumping power. While they expand a Fighter's dynamic range, they can also place significant strain on the knees and hips upon landing.
 
 **2. Leg Enhancer** 
+
 Mobility devices used to assist walking or compensate for limb loss. Users like **Resilin** may also use them in conjunction with motorized unicycles that are adjusted to their specific limb structure.
 
 **3. Arm Enhancer** 
+
 Mechanical reinforcements for the arms. **Captain Soa** utilizes an Arm Enhancer due to a previous combat injury. While it provides superior strength and grip, its use for direct combat during Kassen matches is strictly prohibited by regulations.
 
 **4. Smart Gloves** 
+
 Specialized gloves that assist the user in performing precise hand movements. During the Hanasaka defense, they provided AI-assisted aiming for those using ranged weapons.
 
 **５. Exoskeleton** 
+
 Reinforcement frameworks worn on the arms, back, and legs to augment muscular strength. 
 
 ## **3. Facial Disguise**:
@@ -64,7 +74,7 @@ A thin film applied over the face to alter a person’s appearance for the purpo
 
 ## **4. Micro-chips**:
 
-Identification and management chips embedded in the base of the thumb and index finger of all citizens over the age of 18. They are essential for accessing municipal services, health management, and safety systems managed by **Flora**.
+Identification and management chips embedded in the base of the thumb and index finger of all citizens over the age of 18. They are essential for accessing municipal services, health management, and safety systems managed by **Flora** in the Experimental Cities.
 
 ## **5. Nano-machines**:
 
@@ -86,9 +96,10 @@ Identification and management chips embedded in the base of the thumb and index 
 
 • **Stealth and Self-Destruction:** Advanced malicious versions can **disguise themselves as normal cells** to avoid detection by medical systems or trigger self-destructive behavior in the host.
 
+---
 # Robots (Mech-animals):
 
-In the world of Hanasaka City, **mech-animals** are robots designed after animals, insects, and birds, serving various roles in sports, daily life, and warfare.
+**Mech-animals** are robots designed after animals, insects, and birds, serving various roles in sports, daily life, and warfare.
 
 ### **Land-Based Mech-Animals**
 

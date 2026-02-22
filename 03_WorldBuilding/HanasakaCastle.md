@@ -10,12 +10,13 @@ cssclasses:
 ---
 # **Hanasaka Castle**
 
-### **Definition:** 
+### **Overview** 
 
-**Overview** **Hanasaka Castle** is a medieval-style fortress built over **400 years ago**, serving as the symbolic heart and spiritual pillar of **Hanasaka City**. The castle and the surrounding 1-square-kilometer **Castle Park** are owned and managed by the **Castle Office** (Hanasaka Castle Development Association).
+**Hanasaka Castle** is a medieval-style fortress built over **400 years ago**, serving as the symbolic heart and spiritual pillar of [**Hanasaka City**](./HanasakaCity.md). The castle and the surrounding 1-square-kilometer **Castle Park** are owned and managed by the **Castle Office** (Hanasaka Castle Development Association).
 
 ## Structure & Components: 
 #### **Physical Structure and Layout** 
+
 The castle features a sophisticated, multi-layered defensive design centered on a **pentagonal** central area. The layers, from outside to inside, consist of:
 
 • **Outer Moat:** The outermost water barrier surrounding the entire complex.
@@ -73,9 +74,9 @@ These two routes provide access from the Outer Defense Zone into the **Main Keep
 ---
 # **Castle Office**
 
-## **Definition:** 
+## **Overview** 
 
-A private organization that develops and manages "Castle Park", including "Hanasaka Castle", and also hosts games for [Kassen](./Kassen.md), a sport that originated in Hanasaka City. It is composed of multiple sections under four Directors, including the **EIS** (Equipment Inspection Section), **CBS** (Castle Building Section), **ISS** (Information System Section), **GAS** (General Affairs Section), and **GAMS** (Games and Arena Management Section).
+A private organization that develops and manages "Castle Park", including "Hanasaka Castle", and also hosts games for [**Kassen**](./Kassen.md), a sport that originated in Hanasaka City. It is composed of multiple sections under four Directors, including the **EIS** (Equipment Inspection Section), **CBS** (Castle Building Section), **ISS** (Information System Section), **GAS** (General Affairs Section), and **GAMS** (Games and Arena Management Section).
 
 ## Buildings:
 
@@ -140,6 +141,7 @@ Formally known as the "Equipment Inspection Section," this is one section within
 ### **General Affairs Section (GAS)**
 
 ### **Games and Arena Management Section (GAMS)**
+
 
 ---
 ## Kassen Representative Council

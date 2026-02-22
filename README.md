@@ -12,6 +12,7 @@ cssclasses:
 - **Latest Version:** 1.1 
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
+- URL: https://nyorogiraffe.github.io/Experi-City/
 
 ## Release History 
 
@@ -46,6 +47,7 @@ We believe that in the age of AI, the way we "write" and "share" stories is evol
 
 - Creating a "High-Resolution" story template that remains consistent across different media while preserving the author's original vision.
 
+---
 ## Licensing & Collaboration
 
 This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
@@ -97,20 +99,21 @@ Part 1 introduces the main characters, explores the lives of Hanasaka's citizens
 [Part1_Chapter1.7-1.9](./01_Story/Part1/Part1_Chapter1.7-1.9.md), 
 [Part1_Chapter1.10](./01_Story/Part1/Part1_Chapter1.10.md), 
 [Part1_Chapter1.11-1.13](./01_Story/Part1/Part1_Chapter1.11-1.13.md)
-#### 1.1 Holder of the Black Stone
-#### 1.2 Sapphire Comet
-#### 1.3 A Special Order for Workshop Nemophila
-#### 1.4: Kasga's Concern
-#### 1.5 The Center of Flora's Coordinates
-#### 1.6 Three Lightning Spears
-#### 1.7 Fanfare of Revival
-#### 1.8 Sapphire Comet vs. Flash Lightning
-#### 1.9 Keiko's Regret
-#### 1.10 Unraveling the Mystery
-#### 1.11 Confusion at the Arena
-#### 1.12 Sapphire Comet vs. Emerald Angel
-#### 1.13 The Sparkling Flow of Blue Star
- 
+
+- **1.1 Holder of the Black Stone**
+- **1.2 Sapphire Comet**
+- **1.3 A Special Order for Workshop Nemophila**
+- **1.4: Kasga's Concern**
+- **1.5 The Center of Flora's Coordinates**
+- **1.6 Three Lightning Spears**
+- **1.7 Fanfare of Revival**
+- **1.8 Sapphire Comet vs. Flash Lightning**
+- **1.9 Keiko's Regret**
+- **1.10 Unraveling the Mystery**
+- **1.11 Confusion at the Arena**
+- **1.12 Sapphire Comet vs. Emerald Angel**
+- **1.13 The Sparkling Flow of Blue Star**
+
 ## **Part 2: The Ninth Summer**
 
 ### Summary:
@@ -123,22 +126,23 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 [Part2_Chapter2.10-2.11](./01_Story/Part2/Part2_Chapter2.10-2.11.md), 
 [Part2_Chapter2.12-2.13](./01_Story/Part2/Part2_Chapter2.12-2.13.md), 
 [Part2_Chapter2.14-2.16](./01_Story/Part2/Part2_Chapter2.14-2.16.md)
-#### 2.1 Memories Best Forgotten
-#### 2.2 Hypothesis
-#### 2.3 A Fabricated Conspiracy
-#### 2.4 The Looming Shadow of the Mayor
-#### 2.5 Kasga, the Voiceless Singer
-#### 2.6 Those Who Protect Kasga
-#### 2.7 Stronghold of the Weak
-#### 2.8 Collapse
-#### 2.9 Hanasaka in a Tight Spot
-#### 2.10 Keiko's Persuasion
-#### 2.11 The Start of the Revenge
-#### 2.12 Kassen: Transformed
-#### 2.13 A Gift for Keiko
-#### 2.14 A World Without Violence
-#### 2.15 Further Unraveling the Mystery
-#### 2.16 Conflicted Feelings
+
+- **2.1 Memories Best Forgotten**
+- **2.2 Hypothesis**
+- **2.3 A Fabricated Conspiracy**
+- **2.4 The Looming Shadow of the Mayor**
+- **2.5 Kasga, the Voiceless Singer**
+- **2.6 Those Who Protect Kasga**
+- **2.7 Stronghold of the Weak**
+- **2.8 Collapse**
+- **2.9 Hanasaka in a Tight Spot**
+- **2.10 Keiko's Persuasion**
+- **2.11 The Start of the Revenge**
+- **2.12 Kassen: Transformed**
+- **2.13 A Gift for Keiko**
+- **2.14 A World Without Violence**
+- **2.15 Further Unraveling the Mystery**
+- **2.16 Conflicted Feelings**
 
 ## **Part 3: The Ninth Autumn**
 
@@ -156,29 +160,30 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 [Part3_Chapter3.18-3.20](./01_Story/Part3/Part3_Chapter3.18-3.20.md), 
 [Part3_Chapter3.21-3.22](./01_Story/Part3/Part3_Chapter3.21-3.22.md), 
 [Part3_Chapter3.23](./01_Story/Part3/Part3_Chapter3.23.md)
-#### 3.1 Mayor's Assassination
-#### 3.2 Operation Shark Teeth
-#### 3.3 The Honored Eight
-#### 3.4 Rising from Resentment
-#### 3.5 Sapphire Comet vs. Elegant Lightning
-#### 3.6 The Loving Guardian of Hanasaka Descends!
-#### 3.7 Haruki's Backroom Deal
-#### 3.8 The Looming Shadow of the Other Enemy
-#### 3.9 A Special Visit to Workshop Nemophila
-#### 3.10 Puppets of the Machines
-#### 3.11 Garnet East's Onslaught
-#### 3.12 Sapphire West's Counterattack
-#### 3.13 Sapphire Comet vs. the King of Flame
-#### 3.14 Haruna's Wish
-#### 3.15 Point of No Return
-#### 3.16 Insect Ambush
-#### 3.17 The Eve of the Raid
-#### 3.18 The Sneaky Opening
-#### 3.19 Decisive Weapon: Shining Black Sapphire Booster
-#### 3.20 Fighter Kasga
-#### 3.21 The Battle Guardian of Hanasaka Descends!
-#### 3.22 The Aftermath of the Raid
-#### 3.23 At Fortuna Station: Until We Meet Again
+
+- **3.1 Mayor's Assassination**
+- **3.2 Operation Shark Teeth**
+- **3.3 The Honored Eight**
+- **3.4 Rising from Resentment**
+- **3.5 Sapphire Comet vs. Elegant Lightning**
+- **3.6 The Loving Guardian of Hanasaka Descends!**
+- **3.7 Haruki's Backroom Deal**
+- **3.8 The Looming Shadow of the Other Enemy**
+- **3.9 A Special Visit to Workshop Nemophila**
+- **3.10 Puppets of the Machines**
+- **3.11 Garnet East's Onslaught**
+- **3.12 Sapphire West's Counterattack**
+- **3.13 Sapphire Comet vs. the King of Flame**
+- **3.14 Haruna's Wish**
+- **3.15 Point of No Return**
+- **3.16 Insect Ambush**
+- **3.17 The Eve of the Raid**
+- **3.18 The Sneaky Opening**
+- **3.19 Decisive Weapon: Shining Black Sapphire Booster**
+- **3.20 Fighter Kasga**
+- **3.21 The Battle Guardian of Hanasaka Descends!**
+- **3.22 The Aftermath of the Raid**
+- **3.23 At Fortuna Station: Until We Meet Again**
 
 (Part 4 will be continued, but it is still a work in progress.)
 
@@ -186,12 +191,16 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 # **Essential Guide**
 
 The following notes contain the foundational information required to understand the story outlined above.
-- [Characters](./02_Characters/Characters.md)
-- [Experimental Cities](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
-- [Hanasaka City](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle ("Hanasaka Castle") and governed by the super-intelligence **"Flora"**.
-- [Technologies](./03_WorldBuilding/Technologies.md)
-- [Kassen](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
-- [Hanasaka Castle](./03_WorldBuilding/HanasakaCastle.md)
+- [**Characters**](./02_Characters/Characters.md)
+- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
+- [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle ("[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)") and governed by the super-intelligence **"Flora"**.
+- [**Technologies**](./03_WorldBuilding/Technologies.md)
+- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
+
+---
+# Analyses
+
+- [Analysis_AI_Flora](../04_Analyses/Analysis_AI_Flora.md)
 
 ---
 ## **Interpretation Guide:**

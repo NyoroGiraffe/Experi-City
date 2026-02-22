@@ -10,6 +10,9 @@ cssclasses:
 - [**README**](./README.md) 
 - [**STORY**](./01_Story/Part1/Part1_Chapter1.1-1.3.md)
 
+**CC-BY 4.0**
+Creative Commons Attribution 4.0 International
+
 Nyoro Giraffe
 
 <script type="application/ld+json">

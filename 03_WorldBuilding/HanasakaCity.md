@@ -13,7 +13,7 @@ cssclasses:
 
 # **Definition:** 
 
-An **Experimental City** established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
+An [**Experimental City**](./ExperimentalCities.md) established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
 
 # **1. Geographical Information**
 
@@ -73,7 +73,7 @@ The Castle Office's main building, the **"Green House"** (named for its distinct
 The Castle Office's temporary field office to oversee the ongoing restoration and construction work within the castle grounds (named for its pale-blue tiled roof). It is located within the **Southern Section of the Outer Defense Zone**, situated at the southern end of the **Rose Bridge**. 
 
 **3. Hanasaka Arena** 
-Located just east of the castle's Outer Moat, this stadium is the primary venue for **Kassen** matches. 
+Located just east of the castle's Outer Moat, this stadium is the primary venue for [**Kassen**](./Kassen.md) matches. 
 
 ### **Surroundings:**
 
@@ -274,25 +274,24 @@ A violent **Tokyo-based criminal gang** involved in illegal activities, includin
 
 **Awakeners and Vaminas** shared a **symbiotic relationship** described as a "criminal ecosystem". While the Awakeners provided the ideological motivation for attacks, Vaminas supplied the cult with the necessary **weapons, stimulants, and physical muscle** to carry them out.
 
-## 6. Mukade
-
-The leader of a rival **illegal weapons-rental organization**. He utilizes a "sharing-economy" model to distribute weapons and holds a **deep personal grudge** against the Awakeners for destroying his family.
-
-Mukade’s organization and Vaminas (specifically the faction led by a man named Nezman) were **fierce competitors** in the underground weapons market. They were engaged in a constant struggle for market share.
 
 ---
 # Others:
 ## 1. Moto
 
 The people of Hanasaka City used to refer to the country that ceded a portion of its territory for the city's establishment as "Moto," **without mentioning the specific country name**. Hanasaka City and Moto are connected by land.
+
 ### Government:
 - Prime Minister: Matsudaira
+
 ### Cities in Moto:
 - Tokyo
 - South-Musashi
 - Hikone
 - Okayama
-### “Moto natives”:
+
+### “Moto natives”
+
 - **"Moto natives"** are individuals originally from the neighboring country **Moto**, comprising approximately **67%** of Hanasaka's population.
 - While they share a common linguistic heritage, Moto natives in Hanasaka often use a **simplified version of their original language**. For example, while their language originally had many counters depending on the noun, they came to use only the main ones, and sometimes even omitted them. 
   Therefore, this story describes things using the simplified counters, without employing the diverse counters they originally used.
@@ -304,4 +303,10 @@ The people of Hanasaka City used to refer to the country that ceded a portion of
 
 The **Kassen Liberty League** is the primary rival to the Kassen organized by the **Castle Office**, differing significantly in its philosophy, regulations, and use of technology.
 The Kassen Liberty League is based in the neighboring country of **"Moto,"** it was founded in 6 E.E. as a **non-political** entertainment organization. While the Castle Office uses Kassen to foster a balanced, idealistic society, the Liberty League offers a more **unrestricted, high-tech, and commercially driven** version of the sport.
+
+## 3. Mukade
+
+The leader of a rival **illegal weapons-rental organization**. He utilizes a "sharing-economy" model to distribute weapons and holds a **deep personal grudge** against the Awakeners for destroying his family.
+
+Mukade’s organization and Vaminas (specifically the faction led by a man named Nezman) were **fierce competitors** in the underground weapons market. They were engaged in a constant struggle for market share.
 
