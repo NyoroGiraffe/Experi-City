@@ -277,6 +277,7 @@ A violent **Tokyo-based criminal gang** involved in illegal activities, includin
 
 ---
 # Others:
+
 ## 1. Moto
 
 The people of Hanasaka City used to refer to the country that ceded a portion of its territory for the city's establishment as "Moto," **without mentioning the specific country name**. Hanasaka City and Moto are connected by land.
