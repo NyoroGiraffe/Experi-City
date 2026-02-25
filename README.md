@@ -153,7 +153,7 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 [Part3_Chapter3.1-3.2](./01_Story/Part3/Part3_Chapter3.1-3.2.md), 
 [Part3_Chapter3.3-3.5](./01_Story/Part3/Part3_Chapter3.3-3.5.md), 
 [Part3_Chapter3.6-3.7](./01_Story/Part3/Part3_Chapter3.6-3.7.md), 
-[Part3_Chapter3.8-3.10](./01_Story/Part3/Part3_Chapter3.18-3.10.md), 
+[Part3_Chapter3.8-3.10](./01_Story/Part3/Part3_Chapter3.8-3.10.md), 
 [Part3_Chapter3.11-3.12](./01_Story/Part3/Part3_Chapter3.11-3.12.md), 
 [Part3_Chapter3.13-3.15](./01_Story/Part3/Part3_Chapter3.13-3.15.md), 
 [Part3_Chapter3.16-3.17](./01_Story/Part3/Part3_Chapter3.16-3.17.md), 
