@@ -811,15 +811,20 @@ For further context on the themes discussed in this analysis, refer to the follo
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Comparative AI Analysis: Flora's Ideology and Logic",
+  "headline": "Comparative Analysis of Flora by Gemini, ChatGPT, and Claude",
   "author": {
     "@type": "Person",
     "name": "Nyoro Giraffe"
   },
-  "description": "A comparative analysis by Gemini, ChatGPT, and Claude on the governance and combat logic of the AI 'Flora'.",
-  "about": {
-    "@type": "Thing",
-    "name": "Flora (AI Characters)"
-  }
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "AI Ethics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Human-AI Symbiosis"
+    }
+  ]
 }
 </script>
