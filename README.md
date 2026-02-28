@@ -200,7 +200,7 @@ The following notes contain the foundational information required to understand 
 ---
 # Analyses
 
-- [**Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis_AI_Flora.md)
+- [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](Analysis01_AI_Flora.md)
 
 ---
 ## **Interpretation Guide:**
