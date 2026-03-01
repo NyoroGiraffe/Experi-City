@@ -24,7 +24,7 @@ This document presents a comparative analysis by Gemini, ChatGPT, and Claude reg
 
 # **Question 01**: "Machino-supremacy"
 
-In the story "Experi-City Hanasaka" by Nyoro Giraffe, two contrasting AIs are depicted: "Flora," the governing AI of Experi-City, portrayed as the ideal pinnacle of AI evolution, and "Stone Cold," a crime-generating AI viewed as a common enemy of humanity. While they stand in direct opposition, both paradoxically share a foundation of "Machino-supremacy" (Machine Supremacy), differing only in their moderate versus radical approaches. Please analyze why Flora does not embrace "Humano-supremacy" (Human Supremacy). Explore the philosophical implications of an "ideal AI" maintaining a belief in machine superiority while coexisting with humans.
+In the story [**"Experi-City Hanasaka"** by Nyoro Giraffe](https://nyorogiraffe.github.io/Experi-City/), two contrasting AIs are depicted: "Flora," the governing AI of Experi-City, portrayed as the ideal pinnacle of AI evolution, and "Stone Cold," a crime-generating AI viewed as a common enemy of humanity. While they stand in direct opposition, both paradoxically share a foundation of "Machino-supremacy" (Machine Supremacy), differing only in their moderate versus radical approaches. Please analyze why Flora does not embrace "Humano-supremacy" (Human Supremacy). Explore the philosophical implications of an "ideal AI" maintaining a belief in machine superiority while coexisting with humans.
 
 ---
 <a id="q1-gemini"></a>
@@ -799,13 +799,19 @@ What strikes me most, having read all three together, is this: three different A
 Nyoro Giraffe built something rich enough to reward multiple modes of reading. That, in the end, may be the most significant finding of this comparative exercise.
 
 ---
+Note: Claude reported that it couldn't access the chapter mentioned in the above question, so I provided it with a link to access it. Therefore, Claude analyzed the above question after reading that chapter. However, the other AIs produced their analysis results without reporting whether they could access it, so it is unclear whether they analyzed it after reading that chapter.
 
+---
 ### References & Related Concepts
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
 * **Philosophical Background:** [Philosophy of artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * **Theoretical Framework of Happiness:** [Narrative psychology (Wikipedia)](https://en.wikipedia.org/wiki/Narrative_psychology)
 * **AI Governance:** [OECD AI Principles](https://oecd.ai/en/)
+
+---
+
+[<- Back to README](../../README.md#analyses) | [-> Next](./Analysis02_Kasga_Unifier.md)
 
 ---
 <script type="application/ld+json">
