@@ -94,25 +94,19 @@ The narrative is organized into three levels of detail to ensure a clear and imm
 Part 1 introduces the main characters, explores the lives of Hanasaka's citizens in this era, and examines the conflicts that arise. It also showcases Kassen matches, illustrating how people enjoyed this sport and inviting you into the world of the story.
 
 ### Chapters:
-[Part1_Chapter1.1-1.3](./01_Story/Part1/Part1_Chapter1.1-1.3.md), 
-[Part1_Chapter1.4-1.6](./01_Story/Part1/Part1_Chapter1.4-1.6.md), 
-[Part1_Chapter1.7-1.9](./01_Story/Part1/Part1_Chapter1.7-1.9.md), 
-[Part1_Chapter1.10](./01_Story/Part1/Part1_Chapter1.10.md), 
-[Part1_Chapter1.11-1.13](./01_Story/Part1/Part1_Chapter1.11-1.13.md)
-
-- **1.1 Holder of the Black Stone**
-- **1.2 Sapphire Comet**
-- **1.3 A Special Order for Workshop Nemophila**
-- **1.4: Kasga's Concern**
-- **1.5 The Center of Flora's Coordinates**
-- **1.6 Three Lightning Spears**
-- **1.7 Fanfare of Revival**
-- **1.8 Sapphire Comet vs. Flash Lightning**
-- **1.9 Keiko's Regret**
-- **1.10 Unraveling the Mystery**
-- **1.11 Confusion at the Arena**
-- **1.12 Sapphire Comet vs. Emerald Angel**
-- **1.13 The Sparkling Flow of Blue Star**
+- **[1.1 Holder of the Black Stone](./01_Story/Part1/Part1_Chapter1.1-1.3.md)**
+- **[1.2 Sapphire Comet](./01_Story/Part1/Part1_Chapter1.1-1.3.md)**
+- **[1.3 A Special Order for Workshop Nemophila](./01_Story/Part1/Part1_Chapter1.1-1.3.md)**
+- **[1.4: Kasga's Concern](./01_Story/Part1/Part1_Chapter1.4-1.6.md)**
+- **[1.5 The Center of Flora's Coordinates](./01_Story/Part1/Part1_Chapter1.4-1.6.md)**
+- **[1.6 Three Lightning Spears](./01_Story/Part1/Part1_Chapter1.4-1.6.md)**
+- **[1.7 Fanfare of Revival](./01_Story/Part1/Part1_Chapter1.7-1.9.md)**
+- **[1.8 Sapphire Comet vs. Flash Lightning](./01_Story/Part1/Part1_Chapter1.7-1.9.md)**
+- **[1.9 Keiko's Regret](./01_Story/Part1/Part1_Chapter1.7-1.9.md)**
+- **[1.10 Unraveling the Mystery](./01_Story/Part1/Part1_Chapter1.10.md)**
+- **[1.11 Confusion at the Arena](./01_Story/Part1/Part1_Chapter1.11-1.13.md)**
+- **[1.12 Sapphire Comet vs. Emerald Angel](./01_Story/Part1/Part1_Chapter1.11-1.13.md)**
+- **[1.13 The Sparkling Flow of Blue Star](./01_Story/Part1/Part1_Chapter1.11-1.13.md)**
 
 ## **Part 2: The Ninth Summer**
 
@@ -120,29 +114,22 @@ Part 1 introduces the main characters, explores the lives of Hanasaka's citizens
 In Part 2, the enemies, who have been showing an ominous presence, finally launch a surprise attack, placing Hanasaka under considerable strain. In response, the Hanasaka side attempts to raise the flag of counterattack using a trump card: Kasga, an iconic representative of Kassen. Also, a hypothesis is presented about why Flora has such a strong interest in Kassen.
 
 ### Chapters:
-[Part2_Chapter2.1-2.3](./01_Story/Part2/Part2_Chapter2.1-2.3.md), 
-[Part2_Chapter2.4-2.6](./01_Story/Part2/Part2_Chapter2.4-2.6.md), 
-[Part2_Chapter2.7-2.9](./01_Story/Part2/Part2_Chapter2.7-2.9.md), 
-[Part2_Chapter2.10-2.11](./01_Story/Part2/Part2_Chapter2.10-2.11.md), 
-[Part2_Chapter2.12-2.13](./01_Story/Part2/Part2_Chapter2.12-2.13.md), 
-[Part2_Chapter2.14-2.16](./01_Story/Part2/Part2_Chapter2.14-2.16.md)
-
-- **2.1 Memories Best Forgotten**
-- **2.2 Hypothesis**
-- **2.3 A Fabricated Conspiracy**
-- **2.4 The Looming Shadow of the Mayor**
-- **2.5 Kasga, the Voiceless Singer**
-- **2.6 Those Who Protect Kasga**
-- **2.7 Stronghold of the Weak**
-- **2.8 Collapse**
-- **2.9 Hanasaka in a Tight Spot**
-- **2.10 Keiko's Persuasion**
-- **2.11 The Start of the Revenge**
-- **2.12 Kassen: Transformed**
-- **2.13 A Gift for Keiko**
-- **2.14 A World Without Violence**
-- **2.15 Further Unraveling the Mystery**
-- **2.16 Conflicted Feelings**
+- **[2.1 Memories Best Forgotten](./01_Story/Part2/Part2_Chapter2.1-2.3.md)**
+- **[2.2 Hypothesis](./01_Story/Part2/Part2_Chapter2.1-2.3.md)**
+- **[2.3 A Fabricated Conspiracy](./01_Story/Part2/Part2_Chapter2.1-2.3.md)**
+- **[2.4 The Looming Shadow of the Mayor](./01_Story/Part2/Part2_Chapter2.4-2.6.md)**
+- **[2.5 Kasga, the Voiceless Singer](./01_Story/Part2/Part2_Chapter2.4-2.6.md)**
+- **[2.6 Those Who Protect Kasga](./01_Story/Part2/Part2_Chapter2.4-2.6.md)**
+- **[2.7 Stronghold of the Weak](./01_Story/Part2/Part2_Chapter2.7-2.9.md)**
+- **[2.8 Collapse](./01_Story/Part2/Part2_Chapter2.7-2.9.md)**
+- **[2.9 Hanasaka in a Tight Spot](./01_Story/Part2/Part2_Chapter2.7-2.9.md)**
+- **[2.10 Keiko's Persuasion](./01_Story/Part2/Part2_Chapter2.10-2.11.md)**
+- **[2.11 The Start of the Revenge](./01_Story/Part2/Part2_Chapter2.10-2.11.md)**
+- **[2.12 Kassen: Transformed](./01_Story/Part2/Part2_Chapter2.12-2.13.md)**
+- **[2.13 A Gift for Keiko](./01_Story/Part2/Part2_Chapter2.12-2.13.md)**
+- **[2.14 A World Without Violence](./01_Story/Part2/Part2_Chapter2.14-2.16.md)**
+- **[2.15 Further Unraveling the Mystery](./01_Story/Part2/Part2_Chapter2.14-2.16.md)**
+- **[2.16 Conflicted Feelings](./01_Story/Part2/Part2_Chapter2.14-2.16.md)**
 
 ## **Part 3: The Ninth Autumn**
 
@@ -150,40 +137,29 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligence Flora is revealed, and the day of the decisive battle finally arrives. To win against the enemy, Flora needs to unleash her latent abilities, and the activation conditions are somewhat incomprehensible to humans, requiring the involvement of a certain Kassen Fighter. Can Flora, with her unique abilities and strategy, protect Hanasaka?
 
 ### Chapters:
-[Part3_Chapter3.1-3.2](./01_Story/Part3/Part3_Chapter3.1-3.2.md), 
-[Part3_Chapter3.3-3.5](./01_Story/Part3/Part3_Chapter3.3-3.5.md), 
-[Part3_Chapter3.6-3.7](./01_Story/Part3/Part3_Chapter3.6-3.7.md), 
-[Part3_Chapter3.8-3.10](./01_Story/Part3/Part3_Chapter3.8-3.10.md), 
-[Part3_Chapter3.11-3.12](./01_Story/Part3/Part3_Chapter3.11-3.12.md), 
-[Part3_Chapter3.13-3.15](./01_Story/Part3/Part3_Chapter3.13-3.15.md), 
-[Part3_Chapter3.16-3.17](./01_Story/Part3/Part3_Chapter3.16-3.17.md), 
-[Part3_Chapter3.18-3.20](./01_Story/Part3/Part3_Chapter3.18-3.20.md), 
-[Part3_Chapter3.21-3.22](./01_Story/Part3/Part3_Chapter3.21-3.22.md), 
-[Part3_Chapter3.23](./01_Story/Part3/Part3_Chapter3.23.md)
-
-- **3.1 Mayor's Assassination**
-- **3.2 Operation Shark Teeth**
-- **3.3 The Honored Eight**
-- **3.4 Rising from Resentment**
-- **3.5 Sapphire Comet vs. Elegant Lightning**
-- **3.6 The Loving Guardian of Hanasaka Descends!**
-- **3.7 Haruki's Backroom Deal**
-- **3.8 The Looming Shadow of the Other Enemy**
-- **3.9 A Special Visit to Workshop Nemophila**
-- **3.10 Puppets of the Machines**
-- **3.11 Garnet East's Onslaught**
-- **3.12 Sapphire West's Counterattack**
-- **3.13 Sapphire Comet vs. the King of Flame**
-- **3.14 Haruna's Wish**
-- **3.15 Point of No Return**
-- **3.16 Insect Ambush**
-- **3.17 The Eve of the Raid**
-- **3.18 The Sneaky Opening**
-- **3.19 Decisive Weapon: Shining Black Sapphire Booster**
-- **3.20 Fighter Kasga**
-- **3.21 The Battle Guardian of Hanasaka Descends!**
-- **3.22 The Aftermath of the Raid**
-- **3.23 At Fortuna Station: Until We Meet Again**
+- **[3.1 Mayor's Assassination](./01_Story/Part3/Part3_Chapter3.1-3.2.md)**
+- **[3.2 Operation Shark Teeth](./01_Story/Part3/Part3_Chapter3.1-3.2.md)**
+- **[3.3 The Honored Eight](./01_Story/Part3/Part3_Chapter3.3-3.5.md)**
+- **[3.4 Rising from Resentment](./01_Story/Part3/Part3_Chapter3.3-3.5.md)**
+- **[3.5 Sapphire Comet vs. Elegant Lightning](./01_Story/Part3/Part3_Chapter3.3-3.5.md)**
+- **[3.6 The Loving Guardian of Hanasaka Descends!](./01_Story/Part3/Part3_Chapter3.6-3.7.md)**
+- **[3.7 Haruki's Backroom Deal](./01_Story/Part3/Part3_Chapter3.6-3.7.md)**
+- **[3.8 The Looming Shadow of the Other Enemy](./01_Story/Part3/Part3_Chapter3.8-3.10.md)**
+- **[3.9 A Special Visit to Workshop Nemophila](./01_Story/Part3/Part3_Chapter3.8-3.10.md)**
+- **[3.10 Puppets of the Machines](./01_Story/Part3/Part3_Chapter3.8-3.10.md)**
+- **[3.11 Garnet East's Onslaught](./01_Story/Part3/Part3_Chapter3.11-3.12.md)**
+- **[3.12 Sapphire West's Counterattack](./01_Story/Part3/Part3_Chapter3.11-3.12.md)**
+- **[3.13 Sapphire Comet vs. the King of Flame](./01_Story/Part3/Part3_Chapter3.13-3.15.md)**
+- **[3.14 Haruna's Wish](./01_Story/Part3/Part3_Chapter3.13-3.15.md)**
+- **[3.15 Point of No Return](./01_Story/Part3/Part3_Chapter3.13-3.15.md)**
+- **[3.16 Insect Ambush](./01_Story/Part3/Part3_Chapter3.16-3.17.md)**
+- **[3.17 The Eve of the Raid](./01_Story/Part3/Part3_Chapter3.16-3.17.md)**
+- **[3.18 The Sneaky Opening](./01_Story/Part3/Part3_Chapter3.18-3.20.md)**
+- **[3.19 Decisive Weapon: Shining Black Sapphire Booster](./01_Story/Part3/Part3_Chapter3.18-3.20.md)**
+- **[3.20 Fighter Kasga](./01_Story/Part3/Part3_Chapter3.18-3.20.md)**
+- **[3.21 The Battle Guardian of Hanasaka Descends!](./01_Story/Part3/Part3_Chapter3.21-3.22.md)**
+- **[3.22 The Aftermath of the Raid](./01_Story/Part3/Part3_Chapter3.21-3.22.md)**
+- **[3.23 At Fortuna Station: Until We Meet Again](./01_Story/Part3/Part3_Chapter3.23.md)**
 
 (Part 4 will be continued, but it is still a work in progress.)
 
@@ -201,6 +177,7 @@ The following notes contain the foundational information required to understand 
 # Analyses
 
 - [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis01_AI_Flora.md)
+- [**02: Analysis on "Kasga" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis02_Kasga_Unifier.md)
 
 ---
 ## **Interpretation Guide:**
