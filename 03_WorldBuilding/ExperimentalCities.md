@@ -54,13 +54,18 @@ Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md)
 
 ## **3. Urban Planning and Wealth Policy**
 
-• **Centralized Residency:** To optimize city management, Hanasaka implements a policy of **centralizing its population**. The city incentivizes citizens to move from the outskirts to the central areas by offering **free rent and increased UBI** for those who surrender land ownership to the city.
+• **Land as a Public Good & Leasehold System:** The Experimental Cities operate on the fundamental principle that **land is a communal asset.** Private ownership by individuals or corporations is strictly restricted. Instead, the city implements a **Universal Leasehold System**. While citizens cannot own land, they can lease it from the municipal government under terms that prioritize city-wide optimization and fluid urban planning.
 
-• **Peripheral Buffer Zones:** The reclaimed land at the city’s edges is converted into **agricultural and green zones** known as the **Green Field Zone**. These areas serve as a **buffer zone** to facilitate the detection of intruders and meet the green space requirements set by the League of Experimental Cities.
+• **The Strategic Transfer Incentive:** To encourage the transition to public land, Hanasaka imposes exceptionally high taxes on private land ownership. Conversely, those who voluntarily surrender their land titles to the city receive significant benefits: 
+* **Rent-Free Leasing:** Citizens receive alternative land or housing provided by the city at no cost. 
+* **The "22-Day Mobility" Agreement:** If a citizen agrees to vacate and relocate within **22 days** upon the city’s request, they are granted **double the standard UBI (Experi-Coins)** for a full year. 
+* **Enhanced Incentive for Peripheral Zones:** In areas near the city borders, a more aggressive policy is applied to encourage centralization. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**.
+* **Relocation Support:** The city compensates **80% of all moving expenses**, ensuring that urban restructuring remains a low-stress transition for the resident.
 
-• **Land as a Public Good:** The city operates on the principle that **land is a public asset**. Citizens lease land from the municipal government rather than owning it privately.
+• **Taxation and Asset Regulation:** To prevent wealth hoarding and ensure resource circulation, the city imposes heavy taxes on high-value real estate and tangible assets. However, essential infrastructure is protected: 
+* **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures that while private hoarding is discouraged, the means of social production and community welfare remain robust.
 
-• **Prevention of Wealth Hoarding:** To prevent citizens from **clinging to private wealth**, Hanasaka imposes **extremely high taxes** on those who hold significant assets or property. This policy reinforces the idea that resources should circulate within the community rather than being accumulated by individuals.
+• **Peripheral Buffer Zones (The Green Field Zone):** Reclaimed land at the city’s edges, particularly from those who moved under the 15-day agreement, is converted into agricultural and green belts. These areas meet environmental requirements set by the League of Experimental Cities and function as a security buffer to facilitate the detection of intruders.
 
 ## **4. E.E. (Establishment Era)**
 
