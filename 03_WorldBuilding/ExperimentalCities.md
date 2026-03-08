@@ -44,6 +44,8 @@ The fundamental commitments that all citizens of the Experimental Cities must up
 
 • **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the city reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 
+Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md) 
+
 ## **2. Self-Sufficiency and Resource Management**
 
 • **Food Self-Sufficiency:** Hanasaka strives for high **self-sufficiency**. Approximately **80% of the ingredients** used in the city's public canteens—which provide three free healthy meals a day to citizens—are produced locally.

@@ -19,8 +19,12 @@ cssclasses:
 **Ver. 1.0:** August 9, 2025
 - Initial release of the story on **Inkitt**.
 
- **Ver. 1.1:** February 14, 2026
+ **Ver. 1.1.00:** February 14, 2026
 - **Launched as a GitHub project**, introducing the **Markdown + Metadata Framework** for AI-driven exploration.
+
+ **Ver. 1.1.01:** March 8, 2026
+- Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1 of the story.
+
 
 ---
 # Project Purpose: A Story World Optimized for AI and Humans
@@ -178,6 +182,7 @@ The following notes contain the foundational information required to understand 
 
 - [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis01_AI_Flora.md)
 - [**02: Analysis on "Kasga" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis02_Kasga_Unifier.md)
+- [**03: Analysis on "UBI" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis03_UBI_ExperiCity.md) "Not yet posted"
 
 ---
 ## **Interpretation Guide:**
