@@ -9,7 +9,7 @@ cssclasses:
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
 - **Language:** Japanese 
-- **Latest Version:** 1.1 
+- **Latest Version:** 1.1.01 
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - URL: https://nyorogiraffe.github.io/Experi-City/
