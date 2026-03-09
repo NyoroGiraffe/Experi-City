@@ -54,18 +54,16 @@ Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md)
 
 ## **3. Urban Planning and Wealth Policy**
 
-• **Land as a Public Good & Leasehold System:** The Experimental Cities operate on the fundamental principle that **land is a communal asset.** Private ownership by individuals or corporations is strictly restricted. Instead, the city implements a **Universal Leasehold System**. While citizens cannot own land, they can lease it from the municipal government under terms that prioritize city-wide optimization and fluid urban planning.
+• **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
 
-• **The Strategic Transfer Incentive:** To encourage the transition to public land, Hanasaka imposes exceptionally high taxes on private land ownership. Conversely, those who voluntarily surrender their land titles to the city receive significant benefits: 
-* **Rent-Free Leasing:** Citizens receive alternative land or housing provided by the city at no cost. 
-* **The "22-Day Mobility" Agreement:** If a citizen agrees to vacate and relocate within **22 days** upon the city’s request, they are granted **double the standard UBI (Experi-Coins)** for a full year. 
-* **Enhanced Incentive for Peripheral Zones:** In areas near the city borders, a more aggressive policy is applied to encourage centralization. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**.
-* **Relocation Support:** The city compensates **80% of all moving expenses**, ensuring that urban restructuring remains a low-stress transition for the resident.
+• **The Strategic Transfer & Continuous Use Agreement:** To incentivize the transition to public land without disrupting current lives or businesses, Hanasaka offers a unique conversion program: 
+* **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city grants them the right to **continue using that same land rent-free** as a leaseholder. 
+* **The "22-Day Mobility" Clause:** This rent-free arrangement is contingent on a legal commitment: if the city requests the land for urban optimization, the citizen must agree to **vacate the premises or terminate the business operations within 22 days**. 
+* **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a high-reward transition. 
+* **Enhanced Incentive for Peripheral Zones:** In strategic areas near the city borders, a more aggressive policy applies. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**, facilitating the rapid expansion of the Green Field Zone.
 
-• **Taxation and Asset Regulation:** To prevent wealth hoarding and ensure resource circulation, the city imposes heavy taxes on high-value real estate and tangible assets. However, essential infrastructure is protected: 
-* **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures that while private hoarding is discouraged, the means of social production and community welfare remain robust.
-
-• **Peripheral Buffer Zones (The Green Field Zone):** Reclaimed land at the city’s edges, particularly from those who moved under the 15-day agreement, is converted into agricultural and green belts. These areas meet environmental requirements set by the League of Experimental Cities and function as a security buffer to facilitate the detection of intruders.
+• **Taxation and Asset Regulation:** To ensure resource circulation, high taxes are imposed on high-value private real estate and tangible assets. However, essential infrastructure remains protected: 
+* **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures the means of social production remain robust and decentralized.
 
 ## **4. E.E. (Establishment Era)**
 
