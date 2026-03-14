@@ -7,7 +7,6 @@ tags:
 cssclasses:
 ---
 # Analyses on "Flora" by Gemini, ChatGPT and Claude
-## Theme01: AI Flora
 
 **Abstract:** 
 This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the AI character 'Flora' from the 'Experi-City' project. It examines her unique ideology on **Machino-supremacy** and the underlying logic of her defense system based on **Narrative Happiness**, contrasting the three AI models' interpretations of her actions and strategic decisions.

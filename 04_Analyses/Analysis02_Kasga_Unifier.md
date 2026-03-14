@@ -2,10 +2,10 @@
 aliases:
 tags:
   - Analyses
+  - Character
 cssclasses:
 ---
 # Analyses on "Kasga" by Gemini, ChatGPT and Claude
-## Theme02: Kasga
 
 **Abstract:** 
 While Flora governs Hanasaka City through the cold logic of "Narrative Happiness," Kasga serves as the essential human interface, evolving from a community singer into a de facto Unifier. This analysis explores the profound symbiosis between AI governance and human charisma, revealing a tragic paradox: to sustain the city’s collective hope, the savior must sacrifice her own humanity and become a prisoner of her own public image.
