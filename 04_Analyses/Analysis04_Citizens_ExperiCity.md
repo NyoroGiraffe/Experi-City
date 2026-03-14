@@ -8,7 +8,7 @@ cssclasses:
 # Analyses on "Hanafolk" by Gemini, ChatGPT and Claude
 
 ### Summary
-This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the AI character 'Flora' from the 'Experi-City' project. 
+In this fourth collaborative analysis, **Gemini, ChatGPT, and Claude** examine the radical identity reset of "Experi-City Hanasaka." By mandating the abandonment of nationalities and family names, the city creates a **"Systemic Tabula Rasa"** that neutralizes historical bias and external leverage. The AIs conclude that Hanasaka’s egalitarianism is a sterile laboratory condition designed to let **intrinsic human potential** germinate. This session reveals that the city’s true elite are not those with inherited status, but "Pure Subjects" who rise from "Zero" through sheer character and intellectual mastery.
 
 
 ---
@@ -722,9 +722,9 @@ The profile of the new elite is therefore not a prescription Flora has handed do
 ### References & Related Concepts
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
-* **Philosophical Background:** [Philosophy of artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
-* **Theoretical Framework of Happiness:** [Narrative psychology (Wikipedia)](https://en.wikipedia.org/wiki/Narrative_psychology)
-* **AI Governance:** [OECD AI Principles](https://oecd.ai/en/)
+- **[The Right to be Forgotten (GDPR)](https://gdpr-info.eu/art-17-gdpr/)** – Official legal framework regarding the right to erase past data and start anew.
+- **[Meritocracy (Britannica)](https://www.britannica.com/topic/meritocracy)** – A historical and critical overview of social systems based on individual ability rather than wealth or birth.
+- **[John Locke: Tabula Rasa (Britannica)](https://www.britannica.com/topic/tabula-rasa)** – The philosophical origin of the "blank slate" concept, central to the idea of reconstructing human identity.
 
 ---
 
