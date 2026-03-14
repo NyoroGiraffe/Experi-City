@@ -7,8 +7,7 @@ cssclasses:
 # Analyses on "Universal Basic Income" by Gemini, ChatGPT and Claude
 
 ### Summary
-This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the AI character 'Flora' from the 'Experi-City' project. 
-
+This collaborative analysis by **Gemini, ChatGPT, and Claude** examines the economic sustainability of "Experi-City Hanasaka." By dismantling traditional survival-based labor and interest-bearing savings, Hanasaka utilizes **"perishable" currency (XC)**, **land publicism**, and **AI-led resource management** to create a metabolic, circular economy. The AIs conclude that the city’s UBI is not a mere handout, but a highly engineered system that shifts the human focus from wealth accumulation to mastery and community contribution.
 
 ---
 
@@ -759,9 +758,11 @@ This is what circular economics looks like when applied to public finance — an
 ### References & Related Concepts
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
-* **Philosophical Background:** [Philosophy of artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
-* **Theoretical Framework of Happiness:** [Narrative psychology (Wikipedia)](https://en.wikipedia.org/wiki/Narrative_psychology)
-* **AI Governance:** [OECD AI Principles](https://oecd.ai/en/)
+- **[Henry George and the Single Tax (Land Policy)](https://www.britannica.com/money/Henry-George)** – A historical and economic overview of Henry George’s philosophy on land ownership and social wealth.
+    
+- **[The Stanford Basic Income Lab](https://basicincome.stanford.edu/about/what-is-ubi/)** – Comprehensive research on the global implementation and psychological effects of Universal Basic Income.
+    
+- **[Circular Economy Overview](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview)** – Principles of designing systems to circulate resources and eliminate waste.
 
 ---
 <script type="application/ld+json">
@@ -776,11 +777,11 @@ For further context on the themes discussed in this analysis, refer to the follo
   "about": [
     {
       "@type": "Thing",
-      "name": "AI Ethics"
+      "name": "Universal Basic Income"
     },
     {
       "@type": "Thing",
-      "name": "Human-AI Symbiosis"
+      "name": "Circular Economy"
     }
   ]
 }
