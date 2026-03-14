@@ -573,7 +573,9 @@ The requirement to discard past wealth and names does not imply that Hanasaka is
 
 #### **1. Calibration, Not Flattening**
 
-Hanasaka is not aiming for "Equality of Outcome," but for **"Equality of Starting Conditions."** * **The Logic:** In the outside world, inherited wealth acts as "social gravity." By forcing everyone to start at "Zero," Flora cleanses the environment of external noise.
+Hanasaka is not aiming for "Equality of Outcome," but for **"Equality of Starting Conditions."** 
+
+* **The Logic:** In the outside world, inherited wealth acts as "social gravity." By forcing everyone to start at "Zero," Flora cleanses the environment of external noise.
 
 - **The Purpose:** This ensures that any influence a person gains is a direct result of their own actions and intelligence.
 
