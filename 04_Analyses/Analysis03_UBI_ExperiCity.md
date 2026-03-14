@@ -853,6 +853,10 @@ For further context on the themes discussed in this analysis, refer to the follo
 - **[Circular Economy Overview](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview)** – Principles of designing systems to circulate resources and eliminate waste.
 
 ---
+
+[<- Previous](./Analysis02_Kasga_Unifier.md) | [-> Back to README](../../README.md#analyses)
+
+---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

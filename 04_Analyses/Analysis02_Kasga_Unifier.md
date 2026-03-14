@@ -953,7 +953,7 @@ For further context on the themes discussed in this analysis, refer to the follo
 
 ---
 
-[<- Previous](./Analysis01_AI_Flora.md) | [-> Back to README](../../README.md#analyses)
+[<- Previous](./Analysis01_AI_Flora.md) | [-> Next](./Analysis03_UBI_ExperiCity.md)
 
 ---
 
