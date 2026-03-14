@@ -26,7 +26,7 @@ cssclasses:
 - Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1 of the story.
 
 **Ver. 1.1.01a:** March 9, 2026
-- Minor change to the Chapter 3.1 of the story.
+- Minor changes to the Chapter 3.1 of the story.
 
 
 ---
@@ -185,7 +185,8 @@ The following notes contain the foundational information required to understand 
 
 - [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis01_AI_Flora.md)
 - [**02: Analysis on "Kasga" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis02_Kasga_Unifier.md)
-- [**03: Analysis on "UBI" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis03_UBI_ExperiCity.md) "Not yet posted"
+- [**03: Analysis on "UBI" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis03_UBI_ExperiCity.md)
+- [**04: Analysis on Citizens/"Hanafolk" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
 
 ---
 ## **Interpretation Guide:**
