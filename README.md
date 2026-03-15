@@ -30,7 +30,8 @@ cssclasses:
 
 
 ---
-# Project Purpose: A Story World Optimized for AI and Humans
+<a id="project-purpose"></a>
+## Project Purpose: A Story World Optimized for AI and Humans
 
 The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, this repository is first and foremost a creative endeavor to build a "Narrative Foundation."
 
@@ -55,16 +56,19 @@ We believe that in the age of AI, the way we "write" and "share" stories is evol
 - Creating a "High-Resolution" story template that remains consistent across different media while preserving the author's original vision.
 
 ---
+<a id="license"></a>
 ## Licensing & Collaboration
 
 This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
 
 ---
-### **Explore via NotebookLM**
+<a id="notebook-lm"></a>
+## Explore via NotebookLM
 
  You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 
 ---
+<a id="preface"></a>
 # **PREFACE**
 
 Thank you for choosing this story.
@@ -84,6 +88,7 @@ Now, please enjoy the story.
 Nyoro Giraffe
 
 ---
+<a id="outline"></a>
 # **OUTLINE**
 
 This story is structured as a multi-part epic. The current version covers up to Part 3, with plans for further expansion in the future.
@@ -171,28 +176,32 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 (Part 4 will be continued, but it is still a work in progress.)
 
 ---
+<a id="characters-worldbuilding"></a>
 # **Essential Guide**
 
 The following notes contain the foundational information required to understand the story outlined above.
 - [**Characters**](./02_Characters/Characters.md)
-- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using advanced technology and AI governance to ensure human happiness and safety.
+- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle ("[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)") and governed by the super-intelligence **"Flora"**.
-- [**Technologies**](./03_WorldBuilding/Technologies.md)
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
 ---
+<a id="analyses"></a>
 # **Analyses**
 
-- [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis01_AI_Flora.md)
-- [**02: Analysis on "Kasga" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis02_Kasga_Unifier.md)
-- [**03: Analysis on "UBI" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis03_UBI_ExperiCity.md)
-- [**04: Analysis on Citizens/"Hanafolk" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
+These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
+
+- [**01: Analysis on AI "Flora"**](./04_Analyses/Analysis01_AI_Flora.md)
+- [**02: Analysis on "Kasga"**](./04_Analyses/Analysis02_Kasga_Unifier.md)
+- [**03: Analysis on "UBI"**](./04_Analyses/Analysis03_UBI_ExperiCity.md)
+- [**04: Analysis on Citizens/"Hanafolk"**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
 
 ---
+<a id="interpretation"></a>
 # Interpretation Guide
 
 - Descriptions of the characters in this story—including their physical appearance, facial features, gender, and origins (nationality or ethnicity)—are often intentionally omitted or kept abstract and ambiguous. This is a deliberate choice to leave details that are not essential to the plot to the individual interpretation of each reader. Therefore, when translating or visualizing this original text, please select the words, elements, or motifs you find most appropriate based on the character’s atmosphere, behavior, and speech.
 
-### **Temporal Setting and Worldview**
+### Temporal Setting and Worldview
 
 The story intentionally omits specific days of the week and a direct link to the Common Era (A.D.). This is to ensure the narrative remains timeless and independent of a fixed timeline. The emergence of a city like "Hanasaka" depends entirely on human effort and the pace of technological evolution; therefore, the exact year is left to the reader’s imagination and the actual progress of our world.

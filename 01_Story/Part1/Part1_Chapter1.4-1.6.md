@@ -9,7 +9,7 @@ tags:
 cssclasses:
 ---
 # Part 1: The Ninth Spring
-
+<a id="chapter1.4"></a>
 ## Chapter 1.4: Kasga's Concern
 
 ### Scene 1.4.1: 
@@ -316,6 +316,7 @@ KeikoはKasgaを指差し, 意地悪くニヤリとして見せた. 
 *“Keiちゃんが見たっていう紙には, なんて書いてあったのかしら?”*
 
 ---
+<a id="chapter1.5"></a>
 ## Chapter 1.5: The Center of Flora's Coordinates
 
 ### Scene 1.5.1: 
@@ -519,6 +520,7 @@ Resonating with your hearts,
 Sapphire West”
 
 ---
+<a id="chapter1.6"></a>
 ## Chapter 1.6: Three Lightning Spears
 
 ### Scene 1.6.1: 

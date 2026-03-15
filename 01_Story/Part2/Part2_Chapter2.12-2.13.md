@@ -10,7 +10,7 @@ cssclasses:
 # Part 2: The Ninth Summer
 
 ## Chapter 2.12: Kassen: Transformed
-
+<a id="chapter2.12"></a>
 ### Scene 2.12.1: 
 
 7月8日のHanasaka Arenaでの決起集会の状況は, 様々なメディアを通してリアルタイムで, Kasgaの演説も各言語に翻訳されて, 全世界に発信された. 
@@ -247,6 +247,7 @@ Akioは, 石集めのアプリのお告げに基づけばKasgaが11月9日に殺
 彼の申し出にJuliaは3秒ほど沈黙したが, “分かりました.  じゃあ, 私からMoglaさんに問い合わせてみるけど, あのかたも忙しいから, 今回はすぐにアポイントメントがとれないと思います.  それでも良ければ, お願いはしてみるわ.  Yugoさんと一緒でもいいわよ.”
 
 ---
+<a id="chapter2.13"></a>
 ## Chapter 2.13: A Gift for Keiko
 
 ### Scene 2.13.1: 

@@ -8,7 +8,7 @@ tags:
 cssclasses:
 ---
 # Part 3: The Ninth Autumn
-
+<a id="chapter3.21"></a>
 ## Chapter 3.21: The Battle Guardian of Hanasaka Descends!
 
 ### Scene 3.21.1: 
@@ -414,6 +414,7 @@ Monicaは, 最初からこうなることは分かっていたかのようなコ
 そしてその1分後, Floraは, Kasgaに, Stone Coldは再起不能となり, 戦いに勝ったことを彼女の口から全世界に向けて発表するよう求めた.
 
 ---
+<a id="chapter3.22"></a>
 ## Chapter 3.22: The Aftermath of the Raid
 
 ### Scene 3.22.1: 

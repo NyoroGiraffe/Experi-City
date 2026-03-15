@@ -9,7 +9,7 @@ tags:
 cssclasses:
 ---
 # Part 3: The Ninth Autumn
-
+<a id="chapter3.18"></a>
 ## Chapter 3.18: The Sneaky Opening
 
 ### Scene 3.18.1: 
@@ -229,6 +229,7 @@ Outer Defense Zoneに入ると, 子供たちの上を飛行するmech-beeやmech
 7時42分.  目に見えないワイヤをFloraに張られた, 赤い目を光らせる真っ白の4機のmech-dogと2機のmech-hawkが子供たちを連れて, 全身ナス色のコスチュームをまとったKassen Fighterたちが待ち構えるRose Bridgeの前に到着した.
 
 ---
+<a id="chapter3.19"></a>
 ## Chapter 3.19: Decisive Weapon: Shining Black Sapphire Booster
 
 ### Scene 3.19.1: 
@@ -398,6 +399,7 @@ Yoenの鋭い質問に, Akioは顔を赤らめながら, “だ, 大丈夫です
 Juliaにとって, それは満点の回答だったため, 彼の肩をポンと叩いて, “さあ, 行きましょう.  彼女のいるRose Bridgeに.”と, いよいよ決戦の場に向かう時が来たことを告げた.
 
 ---
+<a id="chapter3.20"></a>
 ## Chapter 3.20: Fighter Kasga
 
 ### Scene 3.20.1: 

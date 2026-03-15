@@ -9,7 +9,7 @@ tags:
 cssclasses:
 ---
 # Part 2: The Ninth Summer
-
+<a id="chapter2.14"></a>
 ## Chapter 2.14: A World Without Violence
 
 ### Scene 2.14.1: 
@@ -227,6 +227,7 @@ Juliaはそう言っていなしたが, 妙に気になった. 
 >その反対が“Humano-supremacy”であり, 人間社会を統治し運営するのはあくまで人間であるべきで, 機械はその補助をするものであるという前提で, 物事を判断し行動する考え方である.
 
 ---
+<a id="chapter2.15"></a>
 ## Chapter 2.15: Further Unraveling the Mystery
 
 ### Scene 2.15.1: 
@@ -463,6 +464,7 @@ Akioは, 今度は半笑いをすることなく, 確かにそうであればい
 "にもかかわらず, もしFighterが敵の襲撃の日に戦いに参加するようなことがあるとしたら, それはその発動条件に関わるからなのかもしれない.  Akioさんとしては, その青い光が何なのか, そしてFighterが戦いに参加するとしたらそれはどういう意味があるのかを探ることが大事な仕事なんじゃないかな.”
 
 ---
+<a id="chapter2.16"></a>
 ## Chapter 2.16: Conflicted Feelings
 
 ### Scene 2.16.1: 
