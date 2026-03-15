@@ -12,7 +12,7 @@ cssclasses:
 - **Latest Version:** 1.1.01a 
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
-- URL: https://nyorogiraffe.github.io/Experi-City/
+- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 
 ## Release History 
 
@@ -189,7 +189,7 @@ The following notes contain the foundational information required to understand 
 - [**04: Analysis on Citizens/"Hanafolk" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
 
 ---
-## **Interpretation Guide:**
+# **Interpretation Guide:**
 
 - Descriptions of the characters in this story—including their physical appearance, facial features, gender, and origins (nationality or ethnicity)—are often intentionally omitted or kept abstract and ambiguous. This is a deliberate choice to leave details that are not essential to the plot to the individual interpretation of each reader. Therefore, when translating or visualizing this original text, please select the words, elements, or motifs you find most appropriate based on the character’s atmosphere, behavior, and speech.
 
