@@ -7,8 +7,8 @@ cssclasses:
 ---
 # **Characters**
 
--> [**Go to Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
--> [**Outline of Story**](../README.md#outline)
+- [**Go to Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
+- [**Outline of Story**](../README.md#outline)
 
 ---
 # Main Characters:
