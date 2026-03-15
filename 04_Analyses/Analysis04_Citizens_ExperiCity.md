@@ -17,7 +17,7 @@ In this fourth collaborative analysis, **Gemini, ChatGPT, and Claude** examine t
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 - Target Character: ["Hanafolk"](../03_WorldBuilding/ExperimentalCities.md)
-- Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
+- Analyzed Concepts: Citizenship, Equality, AI Governance
 
 ---
 
