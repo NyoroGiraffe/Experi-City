@@ -7,8 +7,8 @@ cssclasses:
 ---
 # **Characters**
 
-- [**Go to Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
 - [**Outline of Story**](../README.md#outline)
+- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
 
 ---
 # Main Characters:
@@ -136,7 +136,7 @@ cssclasses:
 	- Harimou: teammate (Squad Leader, Garnet East)
 	- Buaya: teammate (Garnet East)
 	- Saza: teammate (Garnet East)
-- Characteristics: [Supportive/Caretaking]
+- **Characteristics**: [Supportive/Caretaking]
 
 ## Emilo
 - **Name:** [Emilio Tunde] 
@@ -152,7 +152,7 @@ cssclasses:
 	- Abilio and Nelio: younger brothers, teammates (Topaz South)
 	- Chammei: 
 	  Emilio, known "womanizer," frequently makes advances toward Chammei,. He explicitly expressed a wish that she would direct some of her affection toward him, but Chammei firmly reasserted that they are **only friends**.
-- Characteristics: [Social/Friendly] 
+- **Characteristics**: [Social/Friendly] 
 
 ## Abilio
 - **Name:** [Abilio Tunde] 
@@ -167,7 +167,7 @@ cssclasses:
 	- Emilio: older brother, teammate (Topaz South)
 	- Nelio: younger brother, teammate (Topaz South)
 	- Don: friend
-- Characteristics: [Decisive] 
+- **Characteristics**: [Decisive] 
 
 ## Nelio
 - **Name:** [Nelio Tunde] 
@@ -182,7 +182,7 @@ cssclasses:
 	- Emilio and Abilio: older brothers, teammates (Topaz South)
 	- Keiko: "Douki Peers" (joined in spring, 4 E.E.)
 	  In the world of Kassen, those who started their careers in the same season are called **"Douki Peers."** They are bound by a unique sense of camaraderie that transcends club rivalries.
-- Characteristics: [Persistent] 
+- **Characteristics**: [Persistent] 
 
 ## Soa
 - **Name:** [Soa] (Last name: unknown) 
@@ -201,7 +201,7 @@ cssclasses:
 	- Aila: Club Manager of the Sapphire West she belongs to
 	- Don:
 	  Both Soa and Don served in the same war on the Eurasian continent. Soa was a **Captain leading a small squad**, while Don was part of a larger unit nearby.
-- Characteristics: 
+- **Characteristics**: 
 	- Methodical/Planning
 	- Before coming to Hanasaka, she lost her left arm from the elbow down and suffered significant hearing loss in her left ear during the war. 
 
@@ -218,7 +218,7 @@ cssclasses:
 	- Haruna: respected mentor (Refer to "Haruna.")
 	- Prisha, Haruki and Lerhi: 
 	  Monica is a member of the Board of Directors of the Castle Office alongside Prisha, Haruki and Lerhi.
-- Characteristics: [Bright/Cheerful]
+- **Characteristics**: [Bright/Cheerful]
 
 ## Prisha
 - **Name:** [Prisha] (Last name: unknown) 
@@ -231,7 +231,7 @@ cssclasses:
 - **Relationships**: 
 	- Haruna: respected mentor (Refer to "Haruna.")
 	- Suyuan: Manager of the Information Systems Section (ISS) under the direction of Prisha.
-- Characteristics: [Logical Thinking]
+- **Characteristics**: [Logical Thinking]
 
 ## Haruki
 - **Name:** [Haruki Flinkas] 
@@ -247,7 +247,7 @@ cssclasses:
 	- Haruki's wife who is Haruna and Kasga's mother is not mentioned in this story.
 	- Julia: Manager of the Equipment Inspection Section (EIS) under the direction of Haruki.
 	- Casto: Manager of the Castle Building Section (CBS) under the direction of Haruki. 
-- Characteristics: [Methodical/Planning]
+- **Characteristics**: [Methodical/Planning]
 
 ## Lerhi
 - **Name:** [Lerhi] (Last name: unknown) 
@@ -261,7 +261,7 @@ cssclasses:
 	- Haruna and Kasga: nieces
 	- Naoe: professional colleague
 	  The public persona of **Kasga Wisteria** is the result of a long-term strategic partnership between **Lerhi** and **Naoe**, who work together to develop her into a **beloved public icon** while prioritizing different aspects of her life and career.
-- Characteristics: [Social/Friendly]
+- **Characteristics**: [Social/Friendly]
 
 ## Julia
 - **Name:** [Julia Azalea] 
@@ -275,7 +275,7 @@ cssclasses:
 	- Akio, Yugo, Matilda, Yoen, Resilin and Altan: colleagues (the same section members)
 	- Haruki: supervisor (Director, Castle Office)
 	- Jasca: a former member of EIS
- - Characteristics: 
+ - **Characteristics**: 
 	 - Analytical
 	 - A former special agent
  
@@ -292,7 +292,7 @@ cssclasses:
 	- Julia: supervisor (EIS)
 	- Akio: colleague
 	  Yugo and Akio lived in the neighboring country of **"Moto"** for a long time and speak the language perfectly, yet neither was perceived as a native due to their physical appearance. This shared experience of social struggle helped them bond quickly when they met at the Castle Office.
-- Characteristics: 
+- **Characteristics**: 
 	 - Curious/Inquisitive
 	 - Rather stubborn
 	 - Yugo describes himself as **"neuro-atypical"** and feels he lacks the social "dexterity" of others.
@@ -308,7 +308,7 @@ cssclasses:
 - **Relationships**: 
 	- Julia: supervisor (EIS)
 	- Akio: colleague
-- Characteristics: [Rather nervous]
+- **Characteristics**: [Rather nervous]
 
 ## Yoen
 - **Name:** [Yoen] (Last name: unknown) 
@@ -321,7 +321,7 @@ cssclasses:
 - **Relationships**: 
 	- Julia: supervisor (EIS)
 	- Akio: colleague
-- Characteristics: [Meticulous]
+- **Characteristics**: [Meticulous]
 
 ## Resilin
 - **Name:** [Resilin] (Last name: unknown) 
@@ -334,7 +334,7 @@ cssclasses:
 - **Relationships**: 
 	- Julia: supervisor (EIS)
 	- Akio: colleague
-- Characteristics: [Flexible/Adaptable]
+- **Characteristics**: [Flexible/Adaptable]
 
 ## Altan
 - **Name:** [Altan] (Last name: unknown) 
@@ -347,7 +347,7 @@ cssclasses:
 - **Relationships**: 
 	- Julia: supervisor (EIS)
 	- Akio: colleague
-- Characteristics: [Taciturn]
+- **Characteristics**: [Taciturn]
 
 ## Polina
 - **Name:** [Polina] (Last name: unknown) 
@@ -360,7 +360,7 @@ cssclasses:
 - **Relationships**: 
 	- Casto: supervisor (CBS)
 	- Akio: colleague (not the same section member)
-- Characteristics: [Strong Sense of Responsibility]
+- **Characteristics**: [Strong Sense of Responsibility]
 
 # People Around Kasga:
 ## Haruna
@@ -384,7 +384,7 @@ cssclasses:
 	  Haruna’s relationship with **Monica** and **Prisha** was that of a **mentor and her "beloved disciples"**.
 		- In **5 E.E.**, Haruna was betrayed by a colleague named **Sapines** (the creator of the malicious AI Stone Cold), who attempted to destroy her work. Monica and Prisha were the ones who had secretly backed up the most critical data, allowing Haruna’s legacy to survive.
 		- Even after becoming terminally ill, Haruna spent her final years working with Monica and Prisha to develop **Hanasaka’s defensive AI programs** to protect the city from future external threats. Following Haruna’s death in **6 E.E.** at the age of 33, Monica and Prisha dedicated to maintaining Haruna’s philosophy and safeguarding the secret "Haru-Sword" programs she left behind.
- - Characteristics: 
+ - **Characteristics**: 
 	  - Challenging Spirit
 	  - Compassionate
 	  - Persistent
@@ -400,7 +400,7 @@ cssclasses:
 - **Relationships**: 
 	- Kasga: 
 	  Naoe is Kasga’s employer and the person who cultivated her career as a singer from its beginning, even creating her stage name, "UESGI Kasga."
-- Characteristics: [Supportive/Caretaking]
+- **Characteristics**: [Supportive/Caretaking]
 
 # People Around Keiko:
 
@@ -419,7 +419,7 @@ cssclasses:
 	- Don:
 	  For the first nine years of Kassen, Kagero and Don were the only two individuals to ever earn the prestigious **"Apex Fighter" title**. They engaged in numerous famous matches, and Don still considers Kagero a **"battle friend"**.
 	  In 5 E.E., their competitive relationship took a tragic turn when Kagero suffered a career-ending injury during a match against Don. Don’s mech-horse trampled and kicked Kagero, resulting in **permanent paralysis of his legs**.
-- Characteristics: [Supportive/Caretaking]
+- **Characteristics**: [Supportive/Caretaking]
 
 ## Lui
 - **Name:** [Lui Cefiro]  
@@ -437,7 +437,7 @@ cssclasses:
 	- Keiko: 
 	  Through his relationship with Kagero's family, **Lui** is an acquaintance of **Keiko** and is also a fan of her performance in Kassen.
 	- Yugo: younger brother
-- Characteristics: 
+- **Characteristics**: 
     Lui Cefiro is characterized by the **Hanafolk** (citizens of Hanasaka) as a **"Rusty-believer"**—a term they use to describe individuals stuck in outdated ideologies who refuse to accept that machines can effectively run human society.
     While the Hanafolk see Lui as a **Rusty-believer** clinging to the past, Lui sees himself as a realist warning against a future where humans are merely "puppets of the machines".
      - **View on Flora:** As a proponent of "Humano-supremacy," Lui views Flora not as a benevolent protector, but as a dangerous entity that **delegitimizes human governance**. From his **Rusty-believer** perspective, he fears that Flora’s overwhelming success will lead humanity to surrender all autonomy, warning of the psychological "side effects" of relying on a god-like AI.
@@ -455,7 +455,7 @@ cssclasses:
 - **Relationships**: 
 	- Lui: husband
 	- Sawae: friend
-- Characteristics: 
+- **Characteristics**: 
     Kaya Cefiro was a fervent member of the religious organization "**Awakeners**," a group of "Rusty-believers" who regarded Hanasaka City as a "Satanic City".
     Within the Awakeners, Kaya held the rank of **"2-star Awakener"**. This rank signifies a **district representative level**, which is above entry-level members but below the 5-star elite and the "Supreme Awakener" (the late cult leader).
     Kaya was deeply committed to the group's radical beliefs, viewing the late Haruna Laliguras as an "incarnation of Satan" and the Unifier Kasga as a "demonic angel".
@@ -473,7 +473,7 @@ cssclasses:
 	- Lemolain and Orango: colleagues (Cypas)
 	- Julia: acquaintance
 	- Toppo: Director of the Police Department
-- Characteristics: [Friendly and Supportive]
+- **Characteristics**: [Friendly and Supportive]
 
 ## Lemolain
 - **Name:** [Lemolain] (Last name: unknown) 
@@ -485,7 +485,7 @@ cssclasses:
 - **Affiliation**: [Cyber Patrol Section ("Cypas"), Police Department]
 - **Relationships**: 
 	- Mogla and Orango: colleagues (Cypas)
-- Characteristics: [Analytical]
+- **Characteristics**: [Analytical]
 
 ## Anju
 - **Name:** [Anju] (Last name: unknown) 
@@ -500,7 +500,7 @@ cssclasses:
 	   Anju, Melona and Banan had been responsible for her escort until Kasga hid inside the Hanasaka Castle.
 	- Chammei and Haruki
 	  Anju participated in the operation "Shark Teeth" as a sniper on the day of the assault alongside Chammei and Haruki.
-- Characteristics: [Bright/Cheerful]
+- **Characteristics**: [Bright/Cheerful]
   
 ## Melona
 - **Name:** [Melona] (Last name: unknown) 
@@ -515,7 +515,7 @@ cssclasses:
 	   Anju, Melona and Banan had been responsible for her escort until Kasga hid inside the Hanasaka Castle.
 	- Lemolain: colleague (not the same section)
 	   Melona, Banan and Lemolain were assigned to escort Akio to the Hanasaka Castle.
-- Characteristics: [Calm]
+- **Characteristics**: [Calm]
 
 ## Toppo
 - **Name:** [Toppo] (Last name: unknown) 
@@ -528,7 +528,7 @@ cssclasses:
 - **Relationships**: 
 	- Goblino: Mayor
 	- Ron: Deputy Director of Police Department
-- Characteristics: 
+- **Characteristics**: 
   Initially, Toppo’s political convictions were unclear and ambiguous. However, much like the police officers Melona and Banan—who were originally skeptical of Kassen but were eventually "unboned" (won over) by Kasga’s sincere charm and intelligence—Toppo was gradually drawn into Kasga’s orbit through repeated conversations. By the height of the crisis in 9 E.E., he had fully committed to the side of **protecting Kasga**, prioritizing her safety and the defense of the city alongside the Castle Office.
 
 # Hanasaka City Office (except Police Department):
@@ -542,7 +542,7 @@ cssclasses:
 - **Affiliation**: [Finance Department, City Office]
 - **Relationships**: 
 	- Goblino: Mayor
-- Characteristics: 
+- **Characteristics**: 
   Nora did not belong to the Pro-Mayor Faction because she viscerally disliked Goblino’s crude and sinister personality. At the same time, she was careful **not to be seen as a proponent of the city's experiments** (the Anti-Mayor Faction) represented by the Castle Office.
 
 ## Zansi
@@ -567,7 +567,7 @@ cssclasses:
 - **Affiliation**: [Hanasaka City]
 - **Relationships**: 
 	- Zansi: secretary
-- Characteristics: 
+- **Characteristics**: 
   The leader of the **Pro-Mayor Faction** until his assassination in 9 E.E.. He prioritized the status quo and was often hostile toward Kasga and the Castle Office, viewing them as threats to his administrative authority.
 
 
