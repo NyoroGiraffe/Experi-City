@@ -4,7 +4,7 @@ tags:
   - Core
 cssclasses:
 ---
-# Fundamental Information
+# **Fundamental Information**
 
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
@@ -181,7 +181,7 @@ The following notes contain the foundational information required to understand 
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
 ---
-# Analyses
+# **Analyses**
 
 - [**01: Analysis on AI "Flora" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis01_AI_Flora.md)
 - [**02: Analysis on "Kasga" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis02_Kasga_Unifier.md)
@@ -189,7 +189,7 @@ The following notes contain the foundational information required to understand 
 - [**04: Analysis on Citizens/"Hanafolk" by Gemini, ChatGPT and Claude**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
 
 ---
-# **Interpretation Guide:**
+# Interpretation Guide
 
 - Descriptions of the characters in this story—including their physical appearance, facial features, gender, and origins (nationality or ethnicity)—are often intentionally omitted or kept abstract and ambiguous. This is a deliberate choice to leave details that are not essential to the plot to the individual interpretation of each reader. Therefore, when translating or visualizing this original text, please select the words, elements, or motifs you find most appropriate based on the character’s atmosphere, behavior, and speech.
 

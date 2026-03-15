@@ -18,8 +18,7 @@ cssclasses:
 	- [**Hanasaka Castle**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCastle.html)
 	- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 	- [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
-- [**ANALYSES**](./README.md#analyses)
-- [GitHub](https://github.com/NyoroGiraffe/Experi-City)
+- [**ANALYSES** by Gemini, ChatGPT and Claude](./README.md#analyses)
 
 **CC-BY 4.0**
 Creative Commons Attribution 4.0 International
