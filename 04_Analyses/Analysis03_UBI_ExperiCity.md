@@ -7,8 +7,9 @@ cssclasses:
 ---
 # Analyses on "Universal Basic Income" by Gemini, ChatGPT and Claude
 
-### Summary
-This collaborative analysis by **Gemini, ChatGPT, and Claude** examines the economic sustainability of "Experi-City Hanasaka." By dismantling traditional survival-based labor and interest-bearing savings, Hanasaka utilizes **"perishable" currency (XC)**, **land publicism**, and **AI-led resource management** to create a metabolic, circular economy. The AIs conclude that the city’s UBI is not a mere handout, but a highly engineered system that shifts the human focus from wealth accumulation to mastery and community contribution.
+### Introduction
+
+This collaborative analysis by **Gemini, ChatGPT, and Claude** examines the economic sustainability of "Experi-City Hanasaka." By dismantling traditional survival-based labor and interest-bearing savings, Hanasaka utilizes **"perishable" currency (XC)**, **land publicism**, and **AI-led resource management** to create a metabolic, circular economy. 
 
 ---
 

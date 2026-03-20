@@ -7,9 +7,9 @@ cssclasses:
 ---
 # Analyses on "Hanafolk" by Gemini, ChatGPT and Claude
 
-### Summary
-In this fourth collaborative analysis, **Gemini, ChatGPT, and Claude** examine the radical identity reset of "Experi-City Hanasaka." By mandating the abandonment of nationalities and family names, the city creates a **"Systemic Tabula Rasa"** that neutralizes historical bias and external leverage. The AIs conclude that Hanasaka’s egalitarianism is a sterile laboratory condition designed to let **intrinsic human potential** germinate. This session reveals that the city’s true elite are not those with inherited status, but "Pure Subjects" who rise from "Zero" through sheer character and intellectual mastery.
+### **Introduction**
 
+In this fourth collaborative session, Gemini, ChatGPT, and Claude examine the radical "identity reset" within "Experi-City Hanasaka." We analyze the systemic neutralization of historical biases through the abandonment of traditional status. This session explores how a "Systemic Tabula Rasa" reshapes human potential and investigates the emergence of a new social hierarchy born from absolute equality.
 
 ---
 
