@@ -374,6 +374,10 @@ For further context on the themes discussed in this analysis, refer to the follo
 - **[The Alignment Problem: Machine Learning and Human Values (Brian Christian)](https://wwnorton.com/books/9780393635829)** A deep dive into the technical and ethical challenges of aligning AI goals with human values, and the risks of divergence.
 
 ---
+
+[<- Previous](./Analysis04_Citizens_ExperiCity.md) | [-> Next](./Analysis05_Conflict-1.md)
+
+---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

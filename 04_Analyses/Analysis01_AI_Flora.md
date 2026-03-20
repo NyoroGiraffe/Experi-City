@@ -810,7 +810,7 @@ For further context on the themes discussed in this analysis, refer to the follo
 
 ---
 
-[<- Back to README](../../README.md#analyses) | [-> Next](./Analysis02_Kasga_Unifier.md)
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html#analyses) | [-> Next](./Analysis02_Kasga_Unifier.md)
 
 ---
 <script type="application/ld+json">
