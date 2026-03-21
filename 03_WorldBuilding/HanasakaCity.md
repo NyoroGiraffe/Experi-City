@@ -11,7 +11,7 @@ cssclasses:
 ---
 # **Hanasaka** or **Hanasaka City**
 
-# **Definition:** 
+# Definition: 
 
 An [**Experimental City**](./ExperimentalCities.md) established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
 
@@ -100,7 +100,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
 • **Nearest City:** The closest Experimental City to Hanasaka is **Kochipina**. During the final conflict with "Stone Cold," Kochipina provided critical computational resource support to Hanasaka's Flora.
 
-# 5. History:
+# **5. History**
 
 *Note: Events related to the Kassen community are written in italics.*
 
@@ -192,45 +192,45 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
 - **Early Year:** **"Hanasakia"** (the city's virtual second layer) begins trial operations.
 
-# 6. **"Hanafolk"**
+# **6. "Hanafolk"**
 
   The common name for **citizens of Hanasaka**, who have renounced their previous nationalities and family names to join the city’s experiment. While their formal designation is "Hanasakans," the citizens themselves more commonly refer to themselves as "Hanafolk."
 
 ---
 # City Office
 
-## **Definition:** 
+## Definition: 
 
 The administrative body of **Hanasaka City**, comprised of multiple departments such as the Finance Department, Police Department, Emergency Services Department, Health Department, and Education Department, all under the authority of the Mayor.
 
-## Mayors:
+## **Mayors:**
 
-1 E.E. - 3 E.E. : Mayor Galeos
-4 E.E. - 7 E.E. (September):  Mayor Leo
-7 E.E. (September) - 9 E.E. (October): Mayor Goblino
+- 1 E.E. - 3 E.E. : Mayor Galeos
+- 4 E.E. - 7 E.E. (September):  Mayor Leo
+- 7 E.E. (September) - 9 E.E. (October): Mayor Goblino
 
-## Organizations:
+## **Organizations:**
 
 Mayor’s Secretary: Zansi
 
-### Police Department
+### **Police Department**
 
 - Director: Toppo
 - Deputy Director: Ron 
 
-#### Cyber Patrol Section (Cypas):
+#### **Cyber Patrol Section (Cypas)**
 ##### Members:
 - Mogla
 - Lemolain
 - Orango
 
-#### VIP Protection Section:
+#### **VIP Protection Section**
 ##### Members:
 - Anju
 - Melona
 - Banan
 
-### Finance Department
+### **Finance Department**
 
 - Director: Nora
 
@@ -259,16 +259,16 @@ Stone Cold was ultimately neutralized by the city’s AI, **Flora**, on November
 
 A term used from the perspective of citizens in the Experimental Cities to describe troublesome individuals stuck in outdated ideologies who perpetually fail to accept the reality that machines effectively run human society and attempt to obstruct their experiments.
 
-## 3. Pro-Mayor Faction
+## **3. Pro-Mayor Faction**
 
 The factions within the Hanasaka City Office are primarily divided between those clinging to human-led governance and pragmatists who cooperate with the city's AI-driven systems.
 This group, characterized by a **"Humano-supremacy"** or **"Old Regime"** ideology, was skeptical of the Castle Office's influence and the "divine" status of Kasga Wisteria.
 
-## 4. Awakeners
+## **4. Awakeners**
 
 A radical religious organization composed of **"Rusty-believers"** who view Hanasaka City as a "Satanic City". They are ideologically driven to destroy the city’s AI-led governance and were designated as a **provisional criminal organization** following a violent terror incident.
 
-## 5. Vaminas
+## **5. Vaminas**
 
 A violent **Tokyo-based criminal gang** involved in illegal activities, including drug trafficking (stimulants) and weapons smuggling. They operate as a practical arm for higher bidders in the underground world.
 
@@ -278,7 +278,7 @@ A violent **Tokyo-based criminal gang** involved in illegal activities, includin
 ---
 # Others:
 
-## 1. Moto
+## **1. Moto**
 
 The people of Hanasaka City used to refer to the country that ceded a portion of its territory for the city's establishment as "Moto," **without mentioning the specific country name**. Hanasaka City and Moto are connected by land.
 
@@ -300,12 +300,12 @@ The people of Hanasaka City used to refer to the country that ceded a portion of
 ### **Related Terms:** 
 - **Alliance clubs** 
 
-## 2. Kassen Liberty League
+## **2. Kassen Liberty League**
 
 The **Kassen Liberty League** is the primary rival to the Kassen organized by the **Castle Office**, differing significantly in its philosophy, regulations, and use of technology.
 The Kassen Liberty League is based in the neighboring country of **"Moto,"** it was founded in 6 E.E. as a **non-political** entertainment organization. While the Castle Office uses Kassen to foster a balanced, idealistic society, the Liberty League offers a more **unrestricted, high-tech, and commercially driven** version of the sport.
 
-## 3. Mukade
+## **3. Mukade**
 
 The leader of a rival **illegal weapons-rental organization**. He utilizes a "sharing-economy" model to distribute weapons and holds a **deep personal grudge** against the Awakeners for destroying his family.
 
