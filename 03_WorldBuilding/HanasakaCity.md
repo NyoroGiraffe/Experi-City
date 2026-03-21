@@ -118,11 +118,11 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 	- **Hanasaka City is officially established**.
 	- **Galeos** is inaugurated as the **first Mayor**.
 
-- **1 E.E. (January 2):
+- **1 E.E. (January 2):**
 	- ***Kassen** **begins** as a social experiment alongside the city's founding.*
 	- ***Haruna Laliguras** **is appointed as the first** **Unifier**.*
 
-- **2 E.E.: *Kassen rules are updated** to include "Block pushing" for scoring points.*
+- **2 E.E.**: *Kassen rules are updated** to include "Block pushing" for scoring points.*
 
 - **4 E.E. (January 1):** **Leo** is inaugurated as the **second Mayor**.
 
@@ -197,7 +197,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
   The common name for **citizens of Hanasaka**, who have renounced their previous nationalities and family names to join the city’s experiment. While their formal designation is "Hanasakans," the citizens themselves more commonly refer to themselves as "Hanafolk."
 
 ---
-# City Office
+# **City Office**
 
 ## Definition: 
 
@@ -235,7 +235,7 @@ Mayor’s Secretary: Zansi
 - Director: Nora
 
 ---
-# Hostile Parties:
+# **Hostile Parties**
 
 Factions or AIs hostile to Hanasaka City or Castle Office are as follows:
 
@@ -276,7 +276,7 @@ A violent **Tokyo-based criminal gang** involved in illegal activities, includin
 
 
 ---
-# Others:
+# **Others**
 
 ## **1. Moto**
 
