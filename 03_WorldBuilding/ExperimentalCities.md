@@ -44,8 +44,9 @@ The fundamental commitments that all citizens of the Experimental Cities must up
 * **Non-Bankable Currency:** XC cannot be deposited into traditional commercial banks to accumulate interest, nor can it be used as collateral in the conventional sense. The currency exists solely within the city’s proprietary digital ecosystem, ensuring that money remains a medium of exchange rather than a tool for capital accumulation.
 
 • **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the city reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
+> Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md) 
 
-Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md) 
+• **Prohibition of Physical Cash:** In Experimental Cities, the use and possession of physical cash, such as paper money and coins, is prohibited.
 
 ## **2. Self-Sufficiency and Resource Management**
 

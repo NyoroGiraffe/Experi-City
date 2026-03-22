@@ -214,7 +214,6 @@ The administrative body of **Hanasaka City**, comprised of multiple departments 
 Mayor’s Secretary: Zansi
 
 ### **Police Department**
-
 - Director: Toppo
 - Deputy Director: Ron 
 
@@ -231,7 +230,6 @@ Mayor’s Secretary: Zansi
 - Banan
 
 ### **Finance Department**
-
 - Director: Nora
 
 ---
@@ -297,7 +295,7 @@ The people of Hanasaka City used to refer to the country that ceded a portion of
 - While they share a common linguistic heritage, Moto natives in Hanasaka often use a **simplified version of their original language**. For example, while their language originally had many counters depending on the noun, they came to use only the main ones, and sometimes even omitted them. 
   Therefore, this story describes things using the simplified counters, without employing the diverse counters they originally used.
 
-### **Related Terms:** 
+### Related Terms: 
 - **Alliance clubs** 
 
 ## **2. Kassen Liberty League**

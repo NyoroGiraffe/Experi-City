@@ -2,6 +2,7 @@
 aliases:
 tags:
   - Analyses
+  - World_Building
 cssclasses:
 ---
 # Analyses on "Rusty-believers" by Gemini, ChatGPT and Claude
