@@ -672,6 +672,10 @@ For further context on the themes discussed in this analysis, refer to the follo
 * [Royal Society - Data management and use: Governance in the 21st century](https://royalsociety.org/news-resources/projects/data-governance/)
 
 ---
+
+[<- Previous](./Analysis05_Conflict-1.md) | [-> Next](./Analysis05_Conflict-2.md)
+
+---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -369,14 +369,14 @@ The question I find most unresolved — and most interesting — is whether the 
 ### References & Related Concepts
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
-- **[The Malicious Use of Artificial Intelligence (University of Cambridge)](https://www.cam.ac.uk/stories/malicious-ai-report)** A comprehensive report detailing the security risks and the threat of subverted AI systems, paralleling the dangerous emergence of rogue autonomous entities.
-- **[Life 3.0: Being Human in the Age of Artificial Intelligence (Max Tegmark)](https://www.penguinrandomhouse.ca/books/530584/life-30-by-max-tegmark/9781101970317)** Max Tegmark explores the fundamental redefinition of "life" and "humanity" as we move toward a future shaped by superintelligent systems.
-- **[The Age of AI and Our Human Future (Henry Kissinger et al.)](https://www.ebay.com/p/21050072931)** A high-level exploration of how AI governance transforms human sovereignty and our perception of reality in the near future.
-- **[The Alignment Problem: Machine Learning and Human Values (Brian Christian)](https://wwnorton.com/books/9780393635829)** A deep dive into the technical and ethical challenges of aligning AI goals with human values, and the risks of divergence.
+- **[The Malicious Use of Artificial Intelligence (University of Cambridge)](https://www.cam.ac.uk/stories/malicious-ai-report)
+- **[Life 3.0: Being Human in the Age of Artificial Intelligence (Max Tegmark)](https://www.penguinrandomhouse.ca/books/530584/life-30-by-max-tegmark/9781101970317)** 
+- **[The Age of AI and Our Human Future (Henry Kissinger et al.)](https://www.ebay.com/p/21050072931)** 
+- **[The Alignment Problem: Machine Learning and Human Values (Brian Christian)](https://wwnorton.com/books/9780393635829)** 
 
 ---
 
-[<- Previous](./Analysis04_Citizens_ExperiCity.md) | [-> Next](./Analysis05_Conflict-1.md)
+[<- Previous](./Analysis04_Citizens_ExperiCity.md) | [-> Next](./Analysis06_Conflict-2.md)
 
 ---
 <script type="application/ld+json">
