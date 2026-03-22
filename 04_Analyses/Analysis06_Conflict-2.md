@@ -75,7 +75,7 @@ The suspicion toward Kasga reveals that **"Legitimacy"** is not just about who m
 
 ---
 <a id="q1-chatgpt"></a>
-# Analysis 01 by **ChatGPT (GPT-5.2)**
+# Analysis 01 by **ChatGPT (GPT-5.3)**
 
 ## 1. Two Layers of Legitimacy in Hanasaka
 
@@ -307,7 +307,7 @@ In Hanasaka, "Democracy" has evolved from a _method of deciding_ into a _state o
 
 ---
 <a id="q2-chatgpt"></a>
-# Analysis 02 by **ChatGPT (GPT-5.2)**
+# Analysis 02 by **ChatGPT (GPT-5.3)**
 
 ## 1. The Turning Point: From Political Rivalry to Systemic Unity
 
@@ -557,7 +557,7 @@ The fact that the Mayor becomes a lottery winner suggests that "Leadership" has 
 
 ---
 <a id="s-chatgpt"></a>
-# Analysis 03 by **ChatGPT (GPT-5.2)**
+# Analysis 03 by **ChatGPT (GPT-5.3)**
 
 ## 1. Major Similarities
 
