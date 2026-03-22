@@ -7,7 +7,8 @@ cssclasses:
 ---
 # Analyses on "Kasga" by Gemini, ChatGPT and Claude
 
-**Abstract:** 
+**Introduction:**
+
 While Flora governs Hanasaka City through the cold logic of "Narrative Happiness," Kasga serves as the essential human interface, evolving from a community singer into a de facto Unifier. This analysis explores the profound symbiosis between AI governance and human charisma, revealing a tragic paradox: to sustain the city’s collective hope, the savior must sacrifice her own humanity and become a prisoner of her own public image.
 
 
@@ -16,7 +17,7 @@ While Flora governs Hanasaka City through the cold logic of "Narrative Happiness
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-- Target Character: ["Kasga"](../02_Characters/Characters.md)
+- Subject: ["Kasga", the Unifier](../02_Characters/Characters.md)
 - Analyzed Concepts: Charisma, Narrative Happiness, AI Governance
 
 ---
@@ -944,11 +945,8 @@ Note: Claude reported that it was unable to access the chapters mentioned in the
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
 - **The Sociology of Charisma:** [Charismatic Authority (Wikipedia)](https://en.wikipedia.org/wiki/Charismatic_authority)
-    
 - **The Psychology of Roles:** [Social Role Theory (Wikipedia)](https://en.wikipedia.org/wiki/Social_role_theory)
-    
 - **Philosophical Martyrdom:** [Martyr (Wikipedia)](https://en.wikipedia.org/wiki/Martyr)
-    
 - **AI Ethics & Symbiosis:** [Human-AI Interaction (Wikipedia)](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 
 ---

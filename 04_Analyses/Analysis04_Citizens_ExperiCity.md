@@ -16,7 +16,7 @@ In this fourth collaborative session, Gemini, ChatGPT, and Claude examine the ra
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-- Target Character: ["Hanafolk"](../03_WorldBuilding/ExperimentalCities.md)
+- Subject: ["Hanafolk" and Identity](../03_WorldBuilding/ExperimentalCities.md)
 - Analyzed Concepts: Citizenship, Equality, AI Governance
 
 ---

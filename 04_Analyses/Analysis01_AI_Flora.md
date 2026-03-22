@@ -8,7 +8,8 @@ cssclasses:
 ---
 # Analyses on "Flora" by Gemini, ChatGPT and Claude
 
-**Abstract:** 
+**Introduction:**
+
 This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the AI character 'Flora' from the 'Experi-City' project. It examines her unique ideology on **Machino-supremacy** and the underlying logic of her defense system based on **Narrative Happiness**, contrasting the three AI models' interpretations of her actions and strategic decisions.
 
 ---
@@ -16,7 +17,7 @@ This document presents a comparative analysis by Gemini, ChatGPT, and Claude reg
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-- Target Character: ["Flora"](../03_WorldBuilding/ExperimentalCities.md)
+- Subject: [Super-Intelligence "Flora"](../03_WorldBuilding/ExperimentalCities.md)
 - Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
 
 ---

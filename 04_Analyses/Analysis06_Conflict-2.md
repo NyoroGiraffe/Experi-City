@@ -16,7 +16,7 @@ This analysis explores the tension between **AI-driven systemic governance** and
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-- Target Character: ["Mayor"](../03_WorldBuilding/HanasakaCity.md)
+- Subject: ["Mayor" and Democracy](../03_WorldBuilding/HanasakaCity.md)
 - Analyzed Concepts: Mayor, Democracy, AI Governance
 
 ---
@@ -673,7 +673,7 @@ For further context on the themes discussed in this analysis, refer to the follo
 
 ---
 
-[<- Previous](./Analysis05_Conflict-1.md) | [-> Next](./Analysis05_Conflict-2.md)
+[<- Previous](./Analysis05_Conflict-1.md) | [-> Next](./Analysis07_Kassen.md)
 
 ---
 <script type="application/ld+json">

@@ -16,7 +16,7 @@ This collaborative analysis by **Gemini, ChatGPT, and Claude** examines the econ
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
 - [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-- Target Character: ["UBI"](../03_WorldBuilding/ExperimentalCities.md)
+- Subject: ["UBI" and Economy](../03_WorldBuilding/ExperimentalCities.md)
 - Analyzed Concepts: Universal Basic Income, Perishable Currency, AI Governance
 
 ---
@@ -848,9 +848,7 @@ What strikes me most across all three questions is that all three AIs noticed th
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
 - **[Henry George and the Single Tax (Land Policy)](https://www.britannica.com/money/Henry-George)** – A historical and economic overview of Henry George’s philosophy on land ownership and social wealth.
-    
-- **[The Stanford Basic Income Lab](https://basicincome.stanford.edu/about/what-is-ubi/)** – Comprehensive research on the global implementation and psychological effects of Universal Basic Income.
-    
+- **[The Stanford Basic Income Lab](https://basicincome.stanford.edu/about/what-is-ubi/)** – Comprehensive research on the global implementation and psychological effects of Universal Basic Income. 
 - **[Circular Economy Overview](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview)** – Principles of designing systems to circulate resources and eliminate waste.
 
 ---
