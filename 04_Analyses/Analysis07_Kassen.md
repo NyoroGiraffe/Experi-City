@@ -8,8 +8,7 @@ cssclasses:
 
 ### Introduction
 
-This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the AI character 'Flora' from the 'Experi-City' project. 
-
+This analysis explores **Kassen**, a high-stakes sport designed to unify a diverse global population through a shared narrative. We examine how its rigid, machine-governed rules and 'Formal Equality' allow human skill to transcend biological disparity, turning a physical contest into a universal language for **human-AI coexistence**.
 
 ---
 
@@ -462,9 +461,9 @@ What Hanasaka is ultimately trying to discover through Kassen is whether human e
 ### References & Related Concepts
 For further context on the themes discussed in this analysis, refer to the following authoritative resources:
 
-* **Philosophical Background:** [Philosophy of artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
-* **Theoretical Framework of Happiness:** [Narrative psychology (Wikipedia)](https://en.wikipedia.org/wiki/Narrative_psychology)
-* **AI Governance:** [OECD AI Principles](https://oecd.ai/en/)
+* [Britannica - Principles of Physical Science: Dynamics](https://www.britannica.com/science/principles-of-physical-science)
+* [UNESCO - International Day of Sport for Development and Peace](https://www.unesco.org/en/days/sport-development-and-peace)
+* [The Alan Turing Institute - Fairer Algorithm-led Decisions](https://www.turing.ac.uk/research/impact-stories/fairer-algorithm-led-decisions)
 
 ---
 
