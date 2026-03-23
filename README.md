@@ -197,7 +197,7 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 - [**04: Analysis on Citizens/"Hanafolk"**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
 - [**05: Analysis on Outsiders/"Rusty-believers"**](./04_Analyses/Analysis05_Conflict-1.md)
 - [**06: Analysis on "Mayor"**](./04_Analyses/Analysis06_Conflict-2.md)
-- [**07: Analysis on "Kassen"](./04_Analyses/Analysis07_Kassen.md)
+- [**07: Analysis on "Kassen"**](./04_Analyses/Analysis07_Kassen.md)
 
 ---
 <a id="interpretation"></a>
