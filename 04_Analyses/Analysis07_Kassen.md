@@ -595,7 +595,7 @@ For further context on the themes discussed in this analysis, refer to the follo
 
 ---
 
-[<- Previous](./Analysis06_Conflict-2.md) | [-> Next](Analysis07_Kassen.md)
+[<- Previous](./Analysis06_Conflict-2.md) | [-> Next](./Analysis07_Kassen.md)
 
 ---
 <script type="application/ld+json">

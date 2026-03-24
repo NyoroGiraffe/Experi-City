@@ -191,13 +191,13 @@ The following notes contain the foundational information required to understand 
 
 These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
 
-- [**01: Analysis on AI "Flora"**](./04_Analyses/Analysis01_AI_Flora.md)
-- [**02: Analysis on "Kasga"**](./04_Analyses/Analysis02_Kasga_Unifier.md)
-- [**03: Analysis on "UBI"**](./04_Analyses/Analysis03_UBI_ExperiCity.md)
-- [**04: Analysis on Citizens/"Hanafolk"**](./04_Analyses/Analysis04_Citizens_ExperiCity.md)
-- [**05: Analysis on Outsiders/"Rusty-believers"**](./04_Analyses/Analysis05_Conflict-1.md)
-- [**06: Analysis on "Mayor"**](./04_Analyses/Analysis06_Conflict-2.md)
-- [**07: Analysis on "Kassen"**](./04_Analyses/Analysis07_Kassen.md)
+- [**01: Analysis on AI "Flora"**](./a4_Analyses/Analysis01_AI_Flora.md)
+- [**02: Analysis on "Kasga"**](./a4_Analyses/Analysis02_Kasga_Unifier.md)
+- [**03: Analysis on "UBI"**](./a4_Analyses/Analysis03_UBI_ExperiCity.md)
+- [**04: Analysis on Citizens/"Hanafolk"**](./a4_Analyses/Analysis04_Citizens_ExperiCity.md)
+- [**05: Analysis on Outsiders/"Rusty-believers"**](./a4_Analyses/Analysis05_Conflict-1.md)
+- [**06: Analysis on "Mayor"**](./a4_Analyses/Analysis06_Conflict-2.md)
+- [**07: Analysis on "Kassen"**](./a4_Analyses/Analysis07_Kassen.md)
 
 ---
 <a id="interpretation"></a>

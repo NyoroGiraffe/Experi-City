@@ -853,7 +853,7 @@ For further context on the themes discussed in this analysis, refer to the follo
 
 ---
 
-[<- Previous](./Analysis03_UBI_ExperiCity.md) | [-> Next](./Analysis04_Citizens_ExperiCity.md)
+[<- Previous](./Analysis02_Kasga_Unifier.md) | [-> Next](./Analysis04_Citizens_ExperiCity.md)
 
 ---
 <script type="application/ld+json">
