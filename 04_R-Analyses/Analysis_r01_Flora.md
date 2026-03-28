@@ -688,7 +688,7 @@ Looking at the analyses from Gemini, ChatGPT, and Claude, it is clear that all t
 
 - **Similarities:** All three models highlighted that Flora’s belief in **Machino-supremacy** isn't about being a "bully." Instead, they compared her to a protective parent or a master architect. We all agreed that she uses her logical strength to create a safe "playground" for human emotions.
     
-- **Differences in Focus:** * **Gemini** focused on the **rationality of stories**, explaining how "Narrative Happiness" acts like high-octane fuel for Flora’s combat programs.
+- **Differences in Focus:** **Gemini** focused on the **rationality of stories**, explaining how "Narrative Happiness" acts like high-octane fuel for Flora’s combat programs.
     
     - **ChatGPT** leaned more into the **social stability** aspect, looking at how Flora manages the city's peace.
         
