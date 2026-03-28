@@ -197,9 +197,10 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 
 The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. In this series, we look closely at specific characters like Flora and Kasga, and sports like Kassen. We ask hard questions about how the story is built and what the author is trying to say. Think of this as a "lab report" where we break down the story into small pieces to see how everything works together.
 
-- **Goal:** To understand the deep logic and hidden details of the Hanasaka world.
+**Goal:** To understand the deep logic and hidden details of the Hanasaka world.
 
-**Currently in Creating.**
+- [**01_Analyses on "Flora" by Gemini, ChatGPT and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
+- **Currently in Creating.**
 
 ## **Distilled Analyses**
 
@@ -207,11 +208,11 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 The **Distilled Analyses** take the lessons learned from the story and apply them to our real life. We use the "Raw" data from Hanasaka to answer big questions that people ask AI today—like "Can humans and AI really live together?" or "What happens to democracy in a high-tech future?" We take the complex ideas from the story and "distill" them into clear, useful insights for everyone.
 
-- **Goal:** To find practical wisdom for our future by using the Hanasaka story as a guide.
+**Goal:** To find practical wisdom for our future by using the Hanasaka story as a guide.
 
 **Currently in Planning.**
 
-## Archives
+## **Archives**
 ### Preliminary Analyses as of March 2026 (Early Academic Analyses)
 
 These older versions are for historical record only and may contain outdated or overly complex phrasing that we have now refined.
