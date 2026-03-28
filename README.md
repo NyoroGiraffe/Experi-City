@@ -199,7 +199,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 **Goal:** To understand the deep logic and hidden details of the Hanasaka world.
 
-- [**01_Analyses on "Flora" by Gemini, ChatGPT and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
+- [**01_Analysis on "Flora" by Gemini, ChatGPT and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
 - **Currently in Creating.**
 
 ## **Distilled Analyses**
