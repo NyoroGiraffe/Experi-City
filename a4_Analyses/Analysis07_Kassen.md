@@ -14,7 +14,6 @@ This analysis explores **Kassen**, a high-stakes sport designed to unify a diver
 
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
-- [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 - Subject: ["Kassen"](../03_WorldBuilding/Kassen.md)
 - Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
 

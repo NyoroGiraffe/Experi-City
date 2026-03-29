@@ -16,7 +16,6 @@ This document presents a comparative analysis by Gemini, ChatGPT, and Claude reg
 
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
-- [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 - Subject: [Super-Intelligence "Flora"](../03_WorldBuilding/ExperimentalCities.md)
 - Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
 

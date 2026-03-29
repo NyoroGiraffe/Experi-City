@@ -15,7 +15,6 @@ This collaborative analysis by **Gemini, ChatGPT, and Claude** examines the econ
 
 - [Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub](https://github.com/NyoroGiraffe/Experi-City)
-- [Notebook LM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 - Subject: ["UBI" and Economy](../03_WorldBuilding/ExperimentalCities.md)
 - Analyzed Concepts: Universal Basic Income, Perishable Currency, AI Governance
 
