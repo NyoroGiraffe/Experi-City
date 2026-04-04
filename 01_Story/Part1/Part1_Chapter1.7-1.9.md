@@ -41,7 +41,7 @@ Jempinは興奮を抑えきれない様子だった.  彼は, 2か月前にHana
 まずは, 南東側のコーナーにある出入口からTopaz Southがfieldに入ってきた.  Captainに続いて, Vice-CaptainのAbilioとLeaderのNelioの兄弟が, “mech-horse”と呼ばれる, 人や貨物の運搬に使用される動物の馬に似せたロボットに乗って現れると, 歓声がさらに大きくなった.
 
 >補足: 動物に似たロボットについて
->この物語で出てくる動物型のロボットの種類や詳細は、[[Technologies]]を参照ください。
+>この物語で出てくる動物型のロボットの種類や詳細は, [Technologies](../../03_WorldBuilding/Technologies.md)を参照ください.
 
 “TopazのFighterは, 思ったより黒っぽいOutfitsを着ているんだね.”
 

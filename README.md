@@ -9,7 +9,7 @@ cssclasses:
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
 - **Language:** Japanese 
-- **Latest Version:** 1.1.01a 
+- **Latest Version:** 1.1.02 
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
@@ -26,8 +26,10 @@ cssclasses:
 - Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1 of the story.
 
 **Ver. 1.1.01a:** March 9, 2026
-- Minor changes to the Chapter 3.1 of the story.
+- Slight changes to the Chapter 3.1 of the story.
 
+**Ver. 1.1.02:** April 4, 2026
+- Minor changes to the Chapter 1.1, 1.2, 1.5, 1.7, 1.12, 2.2, 2.11, 2.12, 2.13, 2.16, 3.18, 3.21 and 3.22 of the story.
 
 ---
 <a id="project-purpose"></a>
