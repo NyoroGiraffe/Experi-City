@@ -661,7 +661,33 @@ That is why she stands next to Flora as an equal partner.
 <a id="q3-claude"></a>
 # Analysis 03 by **Claude Sonnet 4.6**
 
+## Why Kasga Has to Be "Too Perfect"
 
+The honest answer to the first question is: **no, Kasga's perfection is not a secret admission that Hanasaka can never exist.** But the reasoning behind that answer is more interesting than it first appears.
+
+### Sub-Question 1: Is "Perfect Kasga" = "Impossible Dream"?
+
+Look at what her perfection actually costs her. Kasga's beauty, her smile, her voice, her loyalty — all of it together makes the citizens worship her as a goddess. And as Chapter 3.22 shows, that worship is exactly what traps her in **Narrative Unhappiness**. She is too perfect to be treated as a real person anymore.
+
+If the author wanted to show that Hanasaka is pure fantasy, Kasga would be _happily_ perfect — a flawless hero in a flawless world. But instead, her perfection becomes her prison. That's not the message of a fairy tale. That's a warning. The author uses Kasga's suffering to say: **even the best possible version of this system has painful limits.** That is a very realistic thing to say about a very idealistic city.
+
+### Sub-Question 2: Could Hanasaka Work Without a "Perfect" Kasga?
+
+Yes — and the story actually hints at this through the role system itself. The position of Unifier was held before Kasga by her sister Haruna, who was a genius AI architect, not a singer. After Kasga, there will presumably be a third Unifier. The _role_ continues; the _person_ changes.
+
+What Hanasaka truly requires is not perfection, but **authentic emotional connection at scale**. Kasga's physical beauty and voice are tools that help her create that connection very quickly, across a city of 600,000 people from dozens of different backgrounds. A less gifted person could still be a Unifier — but they would need more time, more help, and perhaps a different approach. The city could survive with an "imperfect" Unifier. It just wouldn't be _this story_.
+
+### Sub-Question 3: So Why Make Her So Perfect?
+
+This is the most important question. The author's choice to create a near-perfect Kasga serves a very specific narrative purpose: **to make the cost of the Unifier role absolutely visible and undeniable.**
+
+If Kasga were an ordinary person who happened to be somewhat charismatic, readers might think: _"She's struggling because she's not cut out for this role."_ The story would become about choosing the wrong person.
+
+But because Kasga is as close to perfect as a human can be — and she _still_ ends up trapped, suffering, unable to simply be herself — the story forces a harder conclusion: **the problem is the role itself, not the person filling it.**
+
+This is the author's real message about the relationship between Flora and Kasga. It's not "find a better Kasga." It's this: even in the best possible version of human-AI partnership, **someone has to carry a weight that no system can design away.** Kasga's perfection makes that weight impossible to ignore — and impossible to excuse.
+
+She isn't too perfect to be real. She's too perfect to pretend the cost isn't real.
 
 
 ---
