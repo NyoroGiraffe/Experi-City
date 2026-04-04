@@ -204,32 +204,3 @@ Because of this rejection of human authority, the decisions delivered by **Themi
 
 The **transportation control system** that manages the city's road and railway networks. It enforces full automatic operation of all vehicles within city limits, as human driving is strictly prohibited.
 
----
-# Economy
-
-## **1. Universal Basic Income (UBI) and Experi-Coins (XC)**
-
-• **The UBI System:** Experimental Cities provide a **Universal Basic Income** to every citizen, including newborns and those with other income sources. This system ensures all citizens can afford basic necessities like food, clothing, and shelter regardless of their employment status.
-
-• **Experi-Coins (XC):** The electronic currency used across all 23 Experi-Cities is called **Experi-Coins**. **XC** (pronounced **"eksi"**) serves as the formal **unit of currency** in the city.
-
-• **Consumption-Oriented Design:** XC is distributed in virtual **"boxes"** monthly. Unlike traditional money, it acts like **perishable goods**; any coins remaining in a box after one year expire and vanish unless returned to the city. This system encourages **active consumption** rather than hoarding, as the coins cannot be deposited in banks to accumulate interest.
-
-• **Ideological Regulation:** While essential for daily life, the city can **freeze XC accounts** as a sanction against those who disparage the Experi-Cities' philosophy, which critics describe as a form of **ideological control**.
-
-## **2. Self-Sufficiency and Resource Management**
-
-• **Food Self-Sufficiency:** Hanasaka strives for high **self-sufficiency**. Approximately **80% of the ingredients** used in the city's public canteens—which provide three free healthy meals a day to citizens—are produced locally.
-
-• **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
-
-## **3. Urban Planning and Wealth Policy**
-
-• **Centralized Residency:** To optimize city management, Hanasaka implements a policy of **centralizing its population**. The city incentivizes citizens to move from the outskirts to the central areas by offering **free rent and increased UBI** for those who surrender land ownership to the city.
-
-• **Peripheral Buffer Zones:** The reclaimed land at the city’s edges is converted into **agricultural and green zones** known as the **Green Field Zone**. These areas serve as a **buffer zone** to facilitate the detection of intruders and meet the green space requirements set by the League of Experimental Cities.
-
-• **Land as a Public Good:** The city operates on the principle that **land is a public asset**. Citizens lease land from the municipal government rather than owning it privately.
-
-• **Prevention of Wealth Hoarding:** To prevent citizens from **clinging to private wealth**, Hanasaka imposes **extremely high taxes** on those who hold significant assets or property. This policy reinforces the idea that resources should circulate within the community rather than being accumulated by individuals.
-
