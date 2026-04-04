@@ -24,9 +24,13 @@ The **League of Experimental Cities** is an international organization governing
 
 All Experimental Cities must uphold the **"Charter of Experimental Cities"** and the **"Philosophy of the Experimental Cities,"** which serve as the highest legal norms prioritizing human dignity, safety, and a life free from economic hardship.
 
-# **Philosophy**
+# **"Philosophy"**
 
 The fundamental commitments that all citizens of the Experimental Cities must uphold, and the core values they should cherish, positioned as the highest legal norms. It is formally known as the **"Philosophy of the Experimental Cities."**
+
+The text of the “Philosophy of the Experimental Cities” established by the League of Experimental Cities is as follows.
+
+"**We understand that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule. To realize this, we, as citizens of the Experimental Cities, solemnly pledge on our honor to practice what we can daily and contribute to our planet and society.**"
 
 ---
 # Experimental Initiatives and Rules
