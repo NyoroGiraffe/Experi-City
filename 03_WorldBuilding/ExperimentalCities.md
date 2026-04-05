@@ -58,6 +58,8 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 
 • **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
+• In Experimental Cities, which places a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
+
 ## **3. Urban Planning and Wealth Policy**
 
 • **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
