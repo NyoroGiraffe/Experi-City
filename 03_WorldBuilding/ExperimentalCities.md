@@ -54,7 +54,7 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 
 ## **2. Self-Sufficiency and Resource Management**
 
-• **Food Self-Sufficiency:** Hanasaka strives for high **self-sufficiency**. Approximately **80% of the ingredients** used in the city's public canteens—which provide three free healthy meals a day to citizens—are produced locally.
+• **Food Self-Sufficiency:** Because Experimental Cities places a strong emphasis on self-sufficiency in food and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
 • **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
