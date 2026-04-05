@@ -50,17 +50,19 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 • **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the city reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 > Ref: [Chapter 1.5-Scene 1.5.2](../01_Story/Part1/Part1_Chapter1.4-1.6.md) 
 
-• **Prohibition of Physical Cash:** In Experimental Cities, the use and possession of physical cash, such as paper money and coins, is prohibited.
+## **2. Prohibition of Physical Cash**
 
-## **2. Self-Sufficiency and Resource Management**
+In Experimental Cities, the use and possession of physical cash, such as paper money and coins, is **prohibited.**
+
+## **3. Self-Sufficiency and Resource Management**
 
 • **Food Self-Sufficiency:** Because Experimental Cities places a strong emphasis on self-sufficiency in food and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
 • **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
-• In Experimental Cities, which places a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
+• **Social Contribution Activities:** In Experimental Cities, which places a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
 
-## **3. Urban Planning and Wealth Policy**
+## **4. Urban Planning and Wealth Policy**
 
 • **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
 
@@ -74,7 +76,7 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 • **Taxation and Asset Regulation:** To ensure resource circulation, high taxes are imposed on high-value private real estate and tangible assets. However, essential infrastructure remains protected: 
 * **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures the means of social production remain robust and decentralized.
 
-## **4. E.E. (Establishment Era)**
+## **5. E.E. (Establishment Era)**
 
 "**E.E.**" is an abbreviation for “Establishment Era,” the standard used for counting years in the Experiment Cities, including Hanasaka City. The first year that Hanasaka City and several other Experiment Cities were initially established is designated as the 1st year, written as "1 E.E."
 
@@ -82,7 +84,7 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 
 • **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
 
-## **5. The Principle of Non-Inquiry into Origins**
+## **6. The Principle of Non-Inquiry into Origins**
 
 **The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
 
@@ -90,7 +92,7 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 - **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
 - **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
 
-## **6. The Principle of Renunciation of Origins**
+## **7. The Principle of Renunciation of Origins**
 
 **The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
 
