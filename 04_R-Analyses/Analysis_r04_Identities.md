@@ -9,7 +9,7 @@ cssclasses:
 
 ### Document Introduction
 
-This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the 'Identities', the citizenship of Experimental City from the 'Experi-City' project. 
+This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding resetting 'Identities' to break Old World hierarchies and starting at zero as citizens of Experimental City from the 'Experi-City' project. 
 
 In this report, we explore the following three key questions:
 - **Question 01:** The Reset of Identity and the Power of Silence
