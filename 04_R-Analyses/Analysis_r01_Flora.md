@@ -454,7 +454,7 @@ Flora's greatest strength isn't her algorithms. It's the fact that she built a c
 
 ---
 <a id="analysis-q3"></a>
-# **Question 03**: **The Three Minds of Flora**
+# **Question 03**: The Three Minds of Flora
 
 According to the world-building document [**"Experimental Cities,"**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)　Flora has a special way of thinking for her most difficult decisions. Normally, for everyday tasks and even fast-paced battles with **Stone Cold**, Flora uses a single, efficient mind to make split-second choices.
 
