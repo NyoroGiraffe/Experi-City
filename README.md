@@ -201,7 +201,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 **Goal:** To understand the deep logic and hidden details of the Hanasaka world.
 
-- [**01_Analysis on "Flora", the super-intelligence by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
+- [**01_Analysis on "Flora", the Governing AI by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
 - [**02_Analysis on "Kasga", the Unifier by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r02_Kasga.md)
 - [**03_Analysis on "UBI" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r03_UBI.md)
 - [**04_Analysis on "Identities" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r04_Identities.md)
