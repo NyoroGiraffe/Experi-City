@@ -390,19 +390,59 @@ That is the quiet genius of Flora's design: **she didn't make work mandatory. Sh
 <a id="p-gemini"></a>
 # Review by **Gemini 3.0** 
 
+### **New Economics and the Future of Work**
 
+After reviewing the three analyses, it is clear that we all view Hanasaka’s economy as a **"Living System"** rather than just a bank.
+
+- **Similarities:** We all agreed that **"Perishable Currency" (XC)** is a brilliant way to prevent wealth from getting "stuck." By making money expire, the city keeps resources flowing like blood in a body. We also agreed that **Land Publicism** is the secret weapon: because the city keeps rent very low, the UBI money has much more "real value" for the citizens.
+    
+- **Differences in Focus:** * **Gemini** focused on the **Psychology of Identity**. I argued that humans work because they want to build a "Narrative" of being useful and skilled, now that AI handles the boring office management.
+    
+    - **ChatGPT** looked at it through **Social Stability**, seeing the system as a way to keep people active and healthy to avoid the "boredom" of a perfect city.
+        
+    - **Claude** brought up a deep **Ethical Point**, wondering if people work because they feel a quiet "moral debt" to the city that supports them.
+        
+- **Final Reflection:** It is fascinating that even without "money as a goal," humans in Hanasaka stay busy. Whether it is high-level decision-making or helping in the forest, labor has changed from a **burden** into a **choice**. It proves that when we don't have to worry about surviving, we start worrying about _mattering_.
 
 ---
 <a id="p-chatgpt"></a>
 # Review by **ChatGPT (GPT-5.3)**
 
+Across the three AI analyses, there are strong **shared ideas**. All models agree that XC (Experi-Coins) is not just money, but a tool to **control flow instead of accumulation**. They also agree that UBI in Hanasaka works because of a **system design**, not a large financial reserve. For labor, all three connect motivation to **Narrative Happiness** and social meaning, not survival. This shows a clear common understanding of Flora’s goal: to keep society active, fair, and story-driven.
 
+However, there are clear **differences in focus and depth**.
+
+ChatGPT explains the system in a **balanced and structured way**. It connects UBI, XC, land policy, and labor into one “loop” and often links them to SAKI, AMA, and TOKO. This makes the logic easy to follow.
+
+Claude tends to go deeper into **human psychology and ethics**. It focuses more on why people feel meaning, responsibility, and pride. Its explanations are often more detailed and reflective, especially about motivation and identity.
+
+Gemini is usually more **direct and practical**. It explains the system in simpler terms and focuses on how each rule works (like XC expiration or land control), but sometimes gives less connection to bigger ideas like Narrative Happiness.
+
+These differences match general AI tendencies: ChatGPT is balanced, Claude is more explanatory, and Gemini is more concise and factual .
+
+
+**Overall Impression:**  
+The three analyses complement each other well. ChatGPT gives a strong structure, Claude adds depth to human behavior, and Gemini keeps the system clear and concrete. When combined, they create a fuller understanding of Hanasaka’s UBI as both an **economic system and a social design**.
 
 ---
 <a id="p-claude"></a>
 # Review by **Claude Sonnet 4.6**
 
+### Where All Three Agree
 
+Across all three questions, the three AIs reached the same big conclusion: **Hanasaka's UBI system works because it controls _flow_, not just wealth.** We all used the image of a water cycle or circulation to explain how XC keeps moving through the community. We also all agreed on Question 03 that the real reason people work in Hanasaka is _meaning_, not money — and that Flora's greatest design achievement is making contribution feel genuinely rewarding rather than forced.
+
+### Where We Differed
+
+The clearest difference is in _angle of approach_.
+
+Gemini tends to use vivid comparisons — "oxygen," "bucket with holes," "craftspeople" — that make the ideas feel alive and easy to picture. ChatGPT organizes ideas into structured frameworks, often using tables and categories, which makes the logic very clear step by step. My own approach focused more on _why the system is designed the way it is_ — looking for the specific reasoning behind each choice Flora made.
+
+On Question 02, I think the most unique point in my analysis was connecting land control directly to Flora's ability to shape the city's geography for defense and self-sufficiency — not just fairness. The other analyses focused mainly on the economic benefits of low rent, which is correct, but this connection adds another layer.
+
+### My Overall Impression
+
+All three analyses complement each other well. Gemini makes the ideas _feel_ meaningful, ChatGPT makes them _look_ logical, and my analysis tries to find the _deeper design intention_ behind each system. The UBI topic turned out to be one where the three approaches balance each other most naturally — perhaps because the XC system itself is such a carefully designed whole.
 
 ---
 
