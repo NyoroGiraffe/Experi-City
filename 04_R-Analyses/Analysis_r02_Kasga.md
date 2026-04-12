@@ -237,7 +237,7 @@ Together, they make Kasga something Flora cannot be: a human being that people g
 
 ---
 <a id="analysis-q2"></a>
-# Question 02: The Tragic Paradox of "Winning" vs. "Happiness"
+# **Question 02**: The Tragic Paradox of "Winning" vs. "Happiness"
 
 **Background & Context:** In Chapter 3.22 of **"Experi-City Hanasaka,"** the AI **Flora** wins a massive battle. She stops a global crime and saves **Kasga** from being killed by the evil AI, **Stone Cold**.
 
@@ -475,7 +475,7 @@ And that limit has a human shape.
 
 ---
 <a id="analysis-q3"></a>
-# Question 03: Why Does the "Perfect" Kasga Exist?
+# **Question 03**: Why Does the "Perfect" Kasga Exist?
 
 **Background & Context:** Kasga has many incredible traits—beauty, a "melting" smile, a rhythmic voice, intelligence, and deep loyalty to a philosophy. In the real world, it is almost impossible to find a person who has all these qualities at once. Because she is so "perfect," the idea of a "Dream Paradise" run by an Ideal AI (Flora) and an Ideal Human (Kasga) might seem unrealistic to some readers.
 

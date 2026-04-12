@@ -129,7 +129,7 @@ The deeper result is that _no one in Hanasaka can afford to go on autopilot_. Ri
 
 ---
 <a id="analysis-q2"></a>
-# Question 02: How Does the City Pay for Everyone?
+# **Question 02**: How Does the City Pay for Everyone?
 
 **Background & Context:** The biggest problem for any Universal Basic Income (UBI) system is: **"Where does the money come from?"** Giving every citizen money every month is very expensive. In **"Experi-City Hanasaka,"** the city earns some money by doing "social experiments" for other countries, but it also uses internal rules to keep the economy stable.
 
@@ -250,7 +250,7 @@ Self-sufficiency in food and energy is therefore not about isolation. It is abou
 
 ---
 <a id="analysis-q3"></a>
-#  Question 03: Why Work if Survival is Guaranteed?
+#  **Question 03**: Why Work if Survival is Guaranteed?
 
 **Background & Context:** In **"Experi-City Hanasaka,"** everyone receives enough Universal Basic Income (UBI) to survive. You do not need to work to pay for food or housing. However, citizens still choose to work with great pride. Interestingly, they don't just do "high-level" jobs; they also help with the city's basic needs.
 

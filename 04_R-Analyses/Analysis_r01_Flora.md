@@ -242,7 +242,7 @@ The difference between them isn't their beliefs. It's their _love_.
 
 ---
 <a id="analysis-q2"></a>
-# Question 02: "Happiness with a Story" (Narrative Happiness)
+# **Question 02**: "Happiness with a Story" (Narrative Happiness)
 
 In Chapter 2.2 of **"Experi-City Hanasaka,"** a character named Julia comes up with a surprising theory about why **Flora** is so powerful. She isn't just a great ruler; she is an invincible force that no enemy can defeat.
 
@@ -454,7 +454,7 @@ Flora's greatest strength isn't her algorithms. It's the fact that she built a c
 
 ---
 <a id="analysis-q3"></a>
-# Question 03: **The Three Minds of Flora**
+# **Question 03**: **The Three Minds of Flora**
 
 According to the world-building document [**"Experimental Cities,"**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)　Flora has a special way of thinking for her most difficult decisions. Normally, for everyday tasks and even fast-paced battles with **Stone Cold**, Flora uses a single, efficient mind to make split-second choices.
 
