@@ -474,3 +474,7 @@ Formally known as the "Unifier of the Kassen Community," this figure stands tran
 - the First: Haruna Laliguras (January 2, 1 E.E. - November 30, 5 E.E.)
 - the Second: Kasga Wisteria, (December 1, 5 E.E. - )
 
+
+---
+
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 

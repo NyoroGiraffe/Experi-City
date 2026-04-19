@@ -309,3 +309,7 @@ The leader of a rival **illegal weapons-rental organization**. He utilizes a "sh
 
 Mukade’s organization and Vaminas (specifically the faction led by a man named Nezman) were **fierce competitors** in the underground weapons market. They were engaged in a constant struggle for market share.
 
+
+---
+
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 

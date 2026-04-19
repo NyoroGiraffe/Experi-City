@@ -124,3 +124,6 @@ Identification and management chips embedded in the base of the thumb and index 
 
 - **Mech-fly:** A multi-purpose hybrid weighing roughly 0.1g that combines the scouting and attacking functions of the roach and bee.
 
+---
+
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
