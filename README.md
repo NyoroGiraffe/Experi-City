@@ -205,6 +205,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 - [**02_Analysis on "Kasga", the Unifier by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r02_Kasga.md)
 - [**03_Analysis on "UBI" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r03_UBI.md)
 - [**04_Analysis on "Identities" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r04_Identities.md)
+- [**05_Analysis on "Anti-AI-Governance" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
 - **Currently in Creating.**
 
 ## **Distilled Analyses**
