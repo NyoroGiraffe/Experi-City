@@ -9,7 +9,7 @@ cssclasses:
 
 ### Document Introduction
 
-This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the concerns held by those who are critical of AI-governance from the 'Experi-City' project. 
+This document presents a comparative analysis by Gemini, ChatGPT, and Claude regarding the concerns held by those who are critical of AI-governance in Experimental Cities from the 'Experi-City' project. 
 
 In this report, we explore the following three key questions:
 - **Question 01:** The Root of Hostility — Why the Outside World Rejects Hanasaka
