@@ -19,8 +19,8 @@ In this report, we explore the following three key questions:
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
-- Subject: ["Flora"](../03_WorldBuilding/ExperimentalCities.md)
-- Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
+- Subject: ["Rusty-believers" and Human Governance](../03_WorldBuilding/HanasakaCity.md)
+- Analyzed Concepts: Machino-supremacy, AI Governance, Conflict
 
 ---
 <a id="analysis-q1"></a>
