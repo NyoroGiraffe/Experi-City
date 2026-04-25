@@ -107,6 +107,20 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 
 • **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**,.
 
+## **8. Display of First Names**
+
+In Experimental Cities, when wearing smart glasses, the first names of people within a 5-meter radius automatically appear above their heads, making it easy to match a person’s face with their name, even if you’re meeting them for the first time. It is impossible to display an alias or pseudonym, and while only the first name is shown, people cannot hide their real names when physically close to others; this naturally encouraged citizens to behave with discretion.
+
+(That said, names can be changed as many times as desired based on predetermined rules, and faces can be altered using “Facial Disguise,” so there is absolutely no guarantee that what you see today will be the same tomorrow.)
+
+## **9. Restrictions on the Serving or Trading of Meat**
+
+Since Experimental Cities prohibit the serving or trading of meat from quadrupeds and birds, or any products derived from or prepared using such meat, all meat must be plant-based or cultured. As of 9 E.E., the only foods not prohibited were seafood and insects. 
+While the city does not prohibit citizens from eating meat obtained by killing animals, anyone wishing to purchase such meat or eat it at a restaurant had to go outside the city limits.  As a result, there are no restaurants serving meat within the city, and you will not find any meat on the shelves of supermarkets or butcher shops. 
+
+Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate.
+On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
+
 ---
 # Flora
 
