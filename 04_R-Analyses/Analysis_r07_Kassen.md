@@ -14,7 +14,6 @@ This document presents a comparative analysis by Gemini, ChatGPT, and Claude reg
 In this report, we explore the following three key questions:
 - **Question 01:** The Intersection of AI Governance and High-Stakes Sport
 - **Question 02:** The Rules of the Game — Can Machines Create True Equality?
-- **Question 03:** 
 
 ---
 
