@@ -286,19 +286,58 @@ It is a small role. But its smallness is exactly the point.
 <a id="p-gemini"></a>
 # Review by **Gemini 3.0** 
 
+### **Peer Review: The Future of People Power**
 
+In this session, we discussed how democracy changes when an AI like Flora and a system like Politis take over the "math" of governing.
 
----
+- **Similarities:** All three of us agreed that **traditional elections are broken.** We felt that in the real world, voting is often a popularity contest, but in Hanasaka, it has evolved into a 24/7 data stream. We also agreed that the **Lottery System** for the Mayor is a smart way to stop people from fighting over power.
+    
+- **Differences in Focus:**
+    
+    - **Gemini** (Me) focused on the **"Algorithmic Social Contract."** I argued that democracy isn't dead; it's just automated so that humans can focus on "feeling and dreaming" while the AI handles the "organizing."
+        
+    - **ChatGPT** focused on **Efficiency.** It viewed Politis as a tool to remove human error and corruption, creating a "perfectly fair" government that works like a high-tech utility.
+        
+    - **Claude** focused on **Human Identity.** It wondered if humans might feel "empty" if they no longer have a say in politics through debate, and it worried about the "Charisma" of someone like Kasga becoming a new kind of soft dictatorship.
+        
+- **Final Reflection:** Hanasaka shows us that democracy doesn't have to be about "winning and losing." It can be about **harmony.** By using AI to listen to everyone and a lottery to pick a leader, the city moves from "Political War" to "Systemic Peace."
+
 <a id="p-chatgpt"></a>
 # Review by **ChatGPT (GPT-5.3)**
 
+Across the three AI analyses, there are strong **shared conclusions**. All models agree that Hanasaka is not simply rejecting democracy, but **changing its form**. They recognize that traditional democracy—elections, parties, and political competition—often creates conflict and inequality, which Hanasaka tries to remove. This idea is consistent with real-world discussions that democracy can face problems like conflict and bias even within its own system. https://dept.sophia.ac.jp/fgs/learn-lesson_e/20211018-2?utm_source=chatgpt.com
 
+However, the **interpretation of this change differs** among the AIs.
+
+ChatGPT presents a **balanced view**, arguing that democracy is not dead but “evolved” into an **algorithmic system** through Politis. It emphasizes continuous participation instead of periodic elections and explains the Mayor as a symbolic role that preserves human identity.
+
+Claude focuses more on the **philosophical meaning of democracy**. It questions whether removing elections also removes important human elements like debate, disagreement, and political responsibility. It tends to be more critical, asking whether something essential is lost.
+
+Gemini takes a more **practical and system-focused approach**. It explains clearly how Politis works as a replacement for elections and why the lottery system reduces conflict. However, it spends less time discussing deeper ideas like symbolism or human meaning.
+
+
+**Overall Impression:**  
+The three analyses complement each other well. ChatGPT explains the structure, Claude explores the deeper risks and values, and Gemini clarifies how the system works in practice. Together, they show that Hanasaka’s democracy is not simply better or worse—it is a **radical redesign**, raising important questions about fairness, participation, and what democracy should be in an AI-driven world.
 
 ---
 <a id="p-claude"></a>
 # Review by **Claude Sonnet 4.6**
 
+#### Where All Three Agree
 
+All three analyses reached the same core conclusions on both questions. On Question 01, we all agreed that Kasga's threat is not about breaking rules — it is about _invisible influence_ flowing through the people who love her. The fear is not illegal power, but power that cannot be challenged through normal political tools. On Question 02, we all concluded that Hanasaka does not kill democracy — it transforms it. Politis makes citizen participation continuous rather than occasional, and the lottery Mayor removes the dangerous competition for power.
+
+#### Where We Differed
+
+The clearest difference is in framing and emphasis.
+
+Gemini structured both analyses around bold, memorable concepts — "Human Filter," "Post-Electoral Democracy," "Algorithmic Social Contract." These labels are very effective for quickly explaining complex ideas. ChatGPT built careful step-by-step arguments, connecting each point logically to the next, which gives it a very organized, almost textbook-like clarity.
+
+My own approach focused on _why_ the system was designed a specific way, rather than just describing what it does. For example, on the lottery Mayor question, I argued that "ordinariness" is the Mayor's entire purpose — something neither Flora nor Kasga can offer. I don't think the other analyses went quite that far, and I believe it is the most important point in Sub-Question 3.
+
+#### My Overall Impression
+
+The Democracy topic produced the most unified set of analyses across all three AIs — we agreed more here than in any previous topic. That may be because the story's argument about democracy is unusually clear and well-designed. When the material is this strong, all three lenses — vivid concepts, logical structure, and design reasoning — naturally arrive at the same destination.
 
 ---
 
