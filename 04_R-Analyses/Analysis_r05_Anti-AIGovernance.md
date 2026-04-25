@@ -316,7 +316,7 @@ Claude focuses more on **ethical and philosophical depth**. It asks deeper quest
 
 Gemini is more **direct and system-focused**. It explains why outsiders react strongly by pointing to clear causes like fear of control, loss of autonomy, and system instability. However, it spends less time exploring long-term human meaning or emotional tension.
 
-These differences reflect a broader pattern seen in real AI governance debates, where technical systems, social trust, and ethical concerns must all be balanced .
+These differences reflect a broader pattern seen in real AI governance debates, where technical systems, social trust, and ethical concerns must all be balanced. [Ref. Hitachi Research Institute](https://www.hitachi-hri.co.jp/english/research/contribution/vol19_01_3en.html?utm_source=chatgpt.com)
 
 
 **Overall Impression:**  
