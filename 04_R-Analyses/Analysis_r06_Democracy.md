@@ -13,8 +13,7 @@ This document presents a comparative analysis by Gemini, ChatGPT, and Claude reg
 
 In this report, we explore the following three key questions:
 - **Question 01:** Democracy in Hanasaka — The Fear of the Charismatic Leader
-- **Question 02:** 
-- **Question 03:** 
+- **Question 02:** Is Democracy Obsolete or Evolved?
 
 ---
 
