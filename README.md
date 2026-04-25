@@ -206,6 +206,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 - [**03_Analysis on "UBI" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r03_UBI.md)
 - [**04_Analysis on "Identities" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r04_Identities.md)
 - [**05_Analysis on "Anti-AI-Governance" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
+- [**06_Analysis on "Democracy" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r06_Democracy.md)
 - **Currently in Creating.**
 
 ## **Distilled Analyses**
