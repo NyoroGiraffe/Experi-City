@@ -302,6 +302,7 @@ In this session, we discussed how democracy changes when an AI like Flora and a 
         
 - **Final Reflection:** Hanasaka shows us that democracy doesn't have to be about "winning and losing." It can be about **harmony.** By using AI to listen to everyone and a lottery to pick a leader, the city moves from "Political War" to "Systemic Peace."
 
+---
 <a id="p-chatgpt"></a>
 # Review by **ChatGPT (GPT-5.3)**
 
