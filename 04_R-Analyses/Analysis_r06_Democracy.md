@@ -306,7 +306,7 @@ In this session, we discussed how democracy changes when an AI like Flora and a 
 <a id="p-chatgpt"></a>
 # Review by **ChatGPT (GPT-5.3)**
 
-Across the three AI analyses, there are strong **shared conclusions**. All models agree that Hanasaka is not simply rejecting democracy, but **changing its form**. They recognize that traditional democracy—elections, parties, and political competition—often creates conflict and inequality, which Hanasaka tries to remove. This idea is consistent with real-world discussions that democracy can face problems like conflict and bias even within its own system. https://dept.sophia.ac.jp/fgs/learn-lesson_e/20211018-2?utm_source=chatgpt.com
+Across the three AI analyses, there are strong **shared conclusions**. All models agree that Hanasaka is not simply rejecting democracy, but **changing its form**. They recognize that traditional democracy—elections, parties, and political competition—often creates conflict and inequality, which Hanasaka tries to remove. This idea is consistent with real-world discussions that democracy can face problems like conflict and bias even within its own system. (https://dept.sophia.ac.jp/fgs/learn-lesson_e/20211018-2?utm_source=chatgpt.com)
 
 However, the **interpretation of this change differs** among the AIs.
 

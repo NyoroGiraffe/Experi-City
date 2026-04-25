@@ -431,7 +431,7 @@ Claude focuses more on **psychology and ethics**. It explores how silence affect
 
 Gemini is more **practical and system-oriented**. It explains how each rule works as a design choice, like a “filter” or “barrier” against Old World problems. However, it sometimes spends less time on emotional or narrative aspects like Narrative Happiness.
 
-These differences reflect general AI tendencies: some models focus on **structure**, others on **human meaning**, and others on **functional design** .
+These differences reflect general AI tendencies: some models focus on **structure**, others on **human meaning**, and others on **functional design**. (https://zenn.dev/k_mt/articles/35397003fe9f98?utm_source=chatgpt.com)
 
 
 **Overall Impression:**  
