@@ -184,7 +184,7 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 The following notes contain the foundational information required to understand the story outlined above.
 - [**Characters**](./02_Characters/Characters.md)
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
-- [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle ("[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)") and governed by the super-intelligence **"Flora"**.
+- [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle, "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)" and governed by the super-intelligence **"Flora"**.
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
 ---
@@ -207,8 +207,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 - [**04_Analysis on "Identities" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r04_Identities.md)
 - [**05_Analysis on "Anti-AI-Governance" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
 - [**06_Analysis on "Democracy" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r06_Democracy.md)
-- [**07_Analysis on "Kassen" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r07_Kassen.md)
-- **Currently in Creating.**
+- [**07_Analysis on "Kassen", a sport by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r07_Kassen.md)
 
 ## **Distilled Analyses**
 
