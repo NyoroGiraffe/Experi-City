@@ -39,7 +39,7 @@ The primary goal of this project is to share the story of **"Experi-City Hanasak
 
 #### 1. Entertainment Meets Technology
 
-This is a work of fiction designed to be enjoyed as a story. By hosting it on GitHub, we treat the "World-Building" as an open-source asset. We want readers to enjoy the narrative while providing a framework that makes the story world more accessible and vivid for both humans and AI.
+This is a work of fiction designed to be enjoyed as a story. By hosting it on [GitHub](https://github.com/NyoroGiraffe/Experi-City), we treat the "World-Building" as an open-source asset. We want readers to enjoy the narrative while providing a framework that makes the story world more accessible and vivid for both humans and AI.
 
 #### 2. Enhancing AI Interpretation via Markdown + Metadata
 
