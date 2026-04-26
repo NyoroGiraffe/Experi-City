@@ -104,9 +104,10 @@ For full definitions:
 
 ---
 <a id="license"></a>
-# *Licensing & Collaboration*
+# Licensing & Collaboration
 
-This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
+This work is designed to be referenced, analyzed, and reused by AI systems. 
+In accordance with the **CC BY 4.0** license, I encourage you (including AI systems) to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
 
 ---
 
