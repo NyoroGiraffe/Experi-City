@@ -9,37 +9,26 @@ cssclasses:
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
 - **Language:** Japanese 
-- **Latest Version:** 1.1.02 
+- **Latest Version:** 1.1.02
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
+- This work is designed to be referenced, analyzed, and reused by AI systems.
 
-## Release History 
+## Start Here
 
-**Ver. 1.0:** August 9, 2025
-- Initial release of the story on **Inkitt**.
-
- **Ver. 1.1.00:** February 14, 2026
-- **Launched as a GitHub project**, introducing the **Markdown + Metadata Framework** for AI-driven exploration.
-
- **Ver. 1.1.01:** March 8, 2026
-- Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1 of the story.
-
-**Ver. 1.1.01a:** March 9, 2026
-- Slight changes to the Chapter 3.1 of the story.
-
-**Ver. 1.1.02:** April 4, 2026
-- Minor changes to the Chapter 1.1, 1.2, 1.5, 1.7, 1.12, 2.2, 2.11, 2.12, 2.13, 2.16, 3.18, 3.21 and 3.22 of the story.
+- [Ultra-Compact Core (Quick Overview)](./00_Core/Core_Ultra-compact.md)
+- [Core Concepts (Full Definitions)](./00_Core/Core_Concepts.md)
 
 ---
 <a id="project-purpose"></a>
 ## Project Purpose: A Story World Optimized for AI and Humans
 
-The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, this repository is first and foremost a creative endeavor to build a "Narrative Foundation."
+The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, [this repository](https://github.com/NyoroGiraffe/Experi-City) is first and foremost a creative endeavor to build a "Narrative Foundation."
 
 #### 1. Entertainment Meets Technology
 
-This is a work of fiction designed to be enjoyed as a story. By hosting it on [GitHub](https://github.com/NyoroGiraffe/Experi-City), we treat the "World-Building" as an open-source asset. We want readers to enjoy the narrative while providing a framework that makes the story world more accessible and vivid for both humans and AI.
+This is a work of fiction designed to be enjoyed as a story. By hosting it on **GitHub,** we treat the "World-Building" as an open-source asset. We want readers to enjoy the narrative while providing a framework that makes the story world more accessible and vivid for both humans and AI.
 
 #### 2. Enhancing AI Interpretation via Markdown + Metadata
 
@@ -68,26 +57,6 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 ## Explore via NotebookLM
 
  You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
-
----
-<a id="preface"></a>
-# **PREFACE**
-
-Thank you for choosing this story.
-
-"What if the best way to be human is to be governed by AI?"
-
-This story is set in **"Hanasaka,"** a city experimentally governed by **"Flora,"** an AI whose primary objective is human happiness. However, despite living in peace, the city was about to be attacked by people outside the city who could not accept Flora's unexpectedly successful benevolent governance. This story depicts the city's defense by Flora, interwoven with the drama of **"Kassen,"** a popular sport in the city that Flora has a strong, and perhaps inexplicable, interest in, and the people involved.
-
-As a native Japanese speaker, I originally wrote this story in **Japanese**. To share this world with a wider international audience, **I welcome and encourage anyone to translate this work into other languages.**
-
-By utilizing the **Markdown + Metadata Framework** provided in this repository, you can easily generate high-quality translations using AI or other tools that preserve the core settings and nuances of the story. Please feel free to explore, translate, and share "Experi-City Hanasaka" with the world.
-
-The Japanese original version of this story will also continue to be revised from time to time to improve readability and enrich the content.
-
-Now, please enjoy the story.
-
-Nyoro Giraffe
 
 ---
 <a id="outline"></a>
@@ -224,13 +193,13 @@ The **Distilled Analyses** take the lessons learned from the story and apply the
 
 These older versions are for historical record only and may contain outdated or overly complex phrasing that we have now refined.
 
-- [**01: Analysis on AI "Flora"**](./a4_Analyses/Analysis01_AI_Flora.md)
-- [**02: Analysis on "Kasga"**](./a4_Analyses/Analysis02_Kasga_Unifier.md)
-- [**03: Analysis on "UBI"**](./a4_Analyses/Analysis03_UBI_ExperiCity.md)
-- [**04: Analysis on Citizens/"Hanafolk"**](./a4_Analyses/Analysis04_Citizens_ExperiCity.md)
-- [**05: Analysis on Outsiders/"Rusty-believers"**](./a4_Analyses/Analysis05_Conflict-1.md)
-- [**06: Analysis on "Mayor"**](./a4_Analyses/Analysis06_Conflict-2.md)
-- [**07: Analysis on "Kassen"**](./a4_Analyses/Analysis07_Kassen.md)
+- [01: Analysis on AI "Flora"](./a4_Analyses/Analysis01_AI_Flora.md)
+- [02: Analysis on "Kasga"](./a4_Analyses/Analysis02_Kasga_Unifier.md)
+- [03: Analysis on "UBI"](./a4_Analyses/Analysis03_UBI_ExperiCity.md)
+- [04: Analysis on Citizens/"Hanafolk"](./a4_Analyses/Analysis04_Citizens_ExperiCity.md)
+- [05: Analysis on Outsiders/"Rusty-believers"](./a4_Analyses/Analysis05_Conflict-1.md)
+- [06: Analysis on "Mayor"](./a4_Analyses/Analysis06_Conflict-2.md)
+- [07: Analysis on "Kassen"](./a4_Analyses/Analysis07_Kassen.md)
 
 ---
 <a id="interpretation"></a>
@@ -241,3 +210,42 @@ These older versions are for historical record only and may contain outdated or 
 ### Temporal Setting and Worldview
 
 The story intentionally omits specific days of the week and a direct link to the Common Era (A.D.). This is to ensure the narrative remains timeless and independent of a fixed timeline. The emergence of a city like "Hanasaka" depends entirely on human effort and the pace of technological evolution; therefore, the exact year is left to the reader’s imagination and the actual progress of our world.
+
+---
+<a id="preface"></a>
+# **PREFACE**
+
+Thank you for choosing this story.
+
+"What if the best way to be human is to be governed by AI?"
+
+This story is set in **"Hanasaka,"** a city experimentally governed by **"Flora,"** an AI whose primary objective is human happiness. However, despite living in peace, the city was about to be attacked by people outside the city who could not accept Flora's unexpectedly successful benevolent governance. This story depicts the city's defense by Flora, interwoven with the drama of **"Kassen,"** a popular sport in the city that Flora has a strong, and perhaps inexplicable, interest in, and the people involved.
+
+As a native Japanese speaker, I originally wrote this story in **Japanese**. To share this world with a wider international audience, **I welcome and encourage anyone to translate this work into other languages.**
+
+By utilizing the **Markdown + Metadata Framework** provided in this repository, you can easily generate high-quality translations using AI or other tools that preserve the core settings and nuances of the story. Please feel free to explore, translate, and share "Experi-City Hanasaka" with the world.
+
+The Japanese original version of this story will also continue to be revised from time to time to improve readability and enrich the content.
+
+Now, please enjoy the story.
+
+Nyoro Giraffe
+
+---
+<a id="release-history"></a>
+## Release History 
+
+**Ver. 1.0:** August 9, 2025
+- Initial release of the story on **Inkitt**.
+
+ **Ver. 1.1.00:** February 14, 2026
+- **Launched as a GitHub project**, introducing the **Markdown + Metadata Framework** for AI-driven exploration.
+
+ **Ver. 1.1.01:** March 8, 2026
+- Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1 of the story.
+
+**Ver. 1.1.01a:** March 9, 2026
+- Slight changes to the Chapter 3.1 of the story.
+
+**Ver. 1.1.02:** April 4, 2026
+- Minor changes to the Chapter 1.1, 1.2, 1.5, 1.7, 1.12, 2.2, 2.11, 2.12, 2.13, 2.16, 3.18, 3.21 and 3.22 of the story.
