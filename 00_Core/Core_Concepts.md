@@ -9,7 +9,9 @@ cssclasses:
 
 ---
 
-# **Concepts**
+# Concepts
+
+Core terms that define the worldview of Experi-City.
 
 ## Experi-City
 
@@ -59,135 +61,15 @@ A perspective within Coexistence that places AI or machines in a position of pri
 
 ---
 
-# **Systems**
+# Principles
 
-## Flora
-
-**Flora (Short)**: The central AI governing Experi-City to cultivate Narrative Happiness.
-
-A fictional central AI that governs Experi-City within an AI-Governance architecture. Flora shapes environments where meaningful human experiences can emerge.
-
----
-
-## AI-Governance
-
-**AI-Governance (Short)**: A system where AI coordinates and operates the city’s infrastructure and decisions.
-
-A governance model in which a central AI (such as Flora), together with interconnected subordinate systems, manages the city based on an architecture co-designed by humans and AI.
-
----
-
-## Politis
-
-**Politis (Short)**: Policies generated as executable code from citizens’ intentions.
-
-A policy-generation system coordinated by Flora that continuously collects citizens’ intentions and generates executable programs to operate the city. Laws are human-readable interpretations of these programs. It replaces traditional legislative processes through AI-based judgment.
-
----
-
-## Themis
-
-**Themis (Short)**: An AI judicial system that delivers unbiased final decisions.
-
-A fictional judicial system in Experi-City that produces final judgments without human judges. It ensures consistency and removes human bias in legal decisions.
-
----
-
-## Kassen
-
-**Kassen (Short)**: A sport of structured competition under identical conditions for all participants.
-
-A fictional sport developed for Experi-City where players compete under identical rules, equipment, and conditions regardless of gender or physical differences. Judgments are performed entirely by machines, and the system reinforces Equality and Narrative Happiness.
-
----
-
-## UBI
-
-**UBI (Short)**: A perishable income system that promotes circulation over accumulation.
-
-A universal basic income system using perishable digital currency. It discourages wealth accumulation and promotes continuous participation in society.
-
----
-
-## Public Land Model
-
-**Public Land Model (Short)**: Land is primarily publicly owned to prevent wealth accumulation through assets.
-
-A system in which most land is owned by the city and leased to citizens at low cost. Private ownership is heavily taxed, reducing asset-based inequality and supporting accessible living without requiring high levels of UBI.
-
----
-
-## Food and Energy Autarky
-
-**Autarky (Short)**: The city sustains itself through internally produced food and energy.
-
-Experi-City prioritizes self-sufficiency in essential resources such as food and energy. This reduces dependency on external markets and ensures the long-term sustainability of UBI and social stability.
-
----
-
-## Nutritional Efficiency System
-
-**Nutritional Efficiency (Short)**: Food production prioritizes efficiency over tradition.
-
-The city restricts inefficient animal-based food systems and emphasizes plant-based and aquatic sources grown in optimized vertical environments. This maximizes resource efficiency and supports Autarky.
-
----
-
-## Cashless Transparency System
-
-**Cashless Transparency (Short)**: All financial activity is digital and traceable to prevent crime and enable system-level analysis.
-
-Physical cash is prohibited in Experi-City. All transactions are conducted through digital systems managed under AI-Governance. This allows continuous monitoring of financial flows to detect anomalies, prevent illicit activity, and support administrative optimization.
-
----
-
-## Continuous Interface Network
-
-**Interface Network (Short)**: Citizens are continuously connected to city systems through embedded and wearable interfaces.
-
-Citizens use embedded microchips, personal devices (Nexus Units), and augmented reality interfaces (Smart Glasses) to interact with city systems. These interfaces enable seamless, continuous data exchange between individuals and AI systems.
-
----
-
-## Ambient Monitoring System
-
-**Ambient Monitoring (Short)**: Health, behavior, and activity data are continuously analyzed for safety and well-being.
-
-Through the Interface Network, the system continuously collects and analyzes data related to health, movement, financial activity, and expression. It provides real-time feedback, guidance, and warnings when necessary.
-
----
-
-## Augmented Identity Display
-
-**Identity Display (Short)**: First names are visible through augmented reality to support social transparency.
-
-Through Smart Glasses, citizens can see the first names of others in real time. This reduces anonymity while maintaining partial identity abstraction, supporting safe and open interaction.
-
----
-
-## Universal Communication Interface
-
-**Universal Communication (Short)**: Language barriers are removed through real-time AI-mediated translation.
-
-Through Nexus Units and Smart Glasses, citizens communicate seamlessly across languages. Spoken language is translated in real time via bone-conduction audio, and written text is instantly rendered in the user’s native language through augmented reality.
-
----
-
-## Standardized Naming System
-
-**Standardized Naming (Short)**: Names and key terms use a unified alphabet to optimize translation.
-
-Proper nouns such as personal names and place names are written in a standardized alphabet to reduce translation complexity and improve system efficiency across different languages.
-
----
-
-# **Principles**
+Core values that guide the design of Experi-City systems.
 
 ## Equality
 
 **Equality (Short)**: Minimizing structural advantages in wealth, origin, and judgment.
 
-A foundational principle where systemic design reduces disparities arising from wealth, background, or physical differences. It is realized through UBI, Kassen, and identity restructuring.
+A foundational principle where systemic design reduces disparities arising from wealth, background, or physical differences. It is realized through UBI, Kassen, identity restructuring, and institutional design.
 
 ---
 
@@ -251,36 +133,157 @@ The city assumes that making behavior visible to systems reduces crime, enables 
 
 **Mobility (Short)**: People can relocate without needing to adopt local language or culture.
 
-Experi-City enables global mobility by removing linguistic barriers and minimizing cultural assimilation requirements. Individuals can move between cities without needing to learn new dominant languages, allowing participation based on shared Philosophy rather than local identity.
-
+Experi-City enables global mobility by removing linguistic barriers and minimizing cultural assimilation requirements. Individuals can move between cities without learning new dominant languages.
 
 ---
 
-# **Tensions**
+# Systems
+
+Operational systems that implement the principles of Experi-City.
+
+## Flora
+
+**Flora (Short)**: The central AI governing Experi-City to cultivate Narrative Happiness.
+
+A fictional central AI that governs Experi-City within an AI-Governance architecture. Flora shapes environments where meaningful human experiences can emerge.
+
+---
+
+## AI-Governance
+
+**AI-Governance (Short)**: A system where AI coordinates and operates the city’s infrastructure and decisions.
+
+A governance model in which a central AI (such as Flora), together with interconnected subordinate systems, manages the city based on an architecture co-designed by humans and AI.
+
+---
+
+## Politis
+
+**Politis (Short)**: Policies generated as executable code from citizens’ intentions.
+
+A fictional policy-generation system coordinated by Flora that continuously collects citizens’ intentions and generates executable programs to operate the city. Laws are human-readable interpretations of these programs. This system embodies Judgment Delegation in legislative processes.
+
+---
+
+## Themis
+
+**Themis (Short)**: An AI judicial system that delivers unbiased final decisions.
+
+A fictional judicial system in Experi-City that produces final judgments without human judges. It ensures consistency and removes human bias in legal decisions.
+
+---
+
+## Kassen
+
+**Kassen (Short)**: A sport of structured competition under identical conditions for all participants.
+
+A fictional sport developed for Experi-City where players compete under identical rules, equipment, and conditions regardless of gender or physical differences. Judgments are performed entirely by machines, reinforcing Equality and Narrative Happiness.
+
+---
+
+## UBI
+
+**UBI (Short)**: A perishable income system that promotes circulation over accumulation.
+
+A universal basic income system using perishable digital currency. It discourages wealth accumulation and promotes continuous economic circulation and participation.
+
+---
+
+## Public Land Model
+
+**Public Land Model (Short)**: Land is primarily publicly owned to prevent asset-based inequality.
+
+Most land is owned by the city and leased to citizens at low cost. Private ownership is heavily taxed to reduce wealth accumulation through assets and support Equality.
+
+---
+
+## Food and Energy Autarky
+
+**Autarky (Short)**: The city sustains itself through internally produced food and energy.
+
+Experi-City prioritizes self-sufficiency in essential resources to reduce dependency on external markets and maintain economic stability.
+
+---
+
+## Nutritional Efficiency System
+
+**Nutritional Efficiency (Short)**: Food production prioritizes efficiency over tradition.
+
+The city restricts inefficient animal-based food systems and emphasizes plant-based and aquatic sources produced in optimized environments.
+
+---
+
+## Cashless Transparency System
+
+**Cashless Transparency (Short)**: All financial activity is digital and traceable.
+
+Physical cash is prohibited. All transactions are digitally monitored to prevent crime, detect anomalies, and support system-level analysis.
+
+---
+
+## Continuous Interface Network
+
+**Interface Network (Short)**: Citizens are continuously connected to city systems through embedded and wearable interfaces.
+
+Through microchips, Nexus Units, and Smart Glasses, citizens maintain constant interaction with AI systems.
+
+---
+
+## Ambient Monitoring System
+
+**Ambient Monitoring (Short)**: Health and behavior data are continuously analyzed for safety.
+
+System-wide monitoring enables real-time feedback, guidance, and preventive intervention.
+
+---
+
+## Augmented Identity Display
+
+**Identity Display (Short)**: First names are visible through augmented reality.
+
+Smart Glasses display individuals’ first names, reducing anonymity while maintaining partial abstraction.
+
+---
+
+## Universal Communication Interface
+
+**Universal Communication (Short)**: Language barriers are removed through real-time AI translation.
+
+Speech and text are instantly translated via AI, enabling seamless multilingual communication.
+
+---
+
+## Standardized Naming System
+
+**Standardized Naming (Short)**: Names use a unified alphabet to optimize translation.
+
+Proper nouns are written in a standardized format to reduce translation complexity.
+
+---
+
+# Tensions
+
+Key conflicts that define the narrative and philosophical depth of Experi-City.
 
 ## Core Tensions
 
-**Core Tensions (Short)**: Conflicts between acceptance of AI systems and differing forms of legitimacy.
+**Core Tensions (Short)**: Conflicts between AI acceptance and forms of legitimacy.
 
 ### Internal vs External Perception
 
-- Internal: Citizens who accept AI-Governance as the foundation of Coexistence
+- Internal: Acceptance of AI-Governance as a foundation for Coexistence
     
-- External: Those who view AI governance as a threat to human autonomy
+- External: Perception of AI systems as a threat to human autonomy
+
+→ See: [Analysis_r05_Anti-AIGovernance](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r05_Anti-AIGovernance.html)
 
 ### Legitimacy vs Alignment
 
-- Formal Legitimacy: Authority derived from democratic selection, regardless of philosophical understanding
+- Formal Legitimacy: Authority derived from democratic procedures
     
-- Philosophical Alignment: Influence based on deep understanding of the Philosophy and trust, regardless of formal position
+- Philosophical Alignment: Authority derived from understanding and trust
 
----
-
-# **Narrative Position**
-
-**Narrative Position (Short)**: AI-led societies are not inherently dystopian but can enable new forms of human strength.
-
-Experi-City presents a counterargument to the common belief that AI dominance results in human decline. While citizens delegate judgment and oversight to machines, they retain agency in action and cooperation. This enables them to respond collectively to unexpected threats, demonstrating that human capability can persist—and even strengthen—within AI-Governance systems.
+→ See: [Analysis_r06_Democracy](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r06_Democracy.html)
 
 ---
 
@@ -290,22 +293,20 @@ In Experi-City, humans gradually relinquished routine judgment because human dec
 
 ---
 
-## Why Citizens Accept Machine Oversight
+# Narrative Position
 
-**Machine Oversight (Short)**: Citizens accept continuous AI observation as a rational extension of Machino-supremacy.
+**Narrative Position (Short)**: AI-led societies are not inherently dystopian.
 
-In Experi-City, citizens accept continuous observation by AI systems because they believe machines are better suited for routine judgment, monitoring, and coordination. This belief aligns with Machino-supremacy, where cognitive and administrative functions are entrusted to machines, while humans focus on physical action, care, and creative participation.
-
-From outside the city, this may appear as a decline in human agency. However, within Experi-City, citizens experience this shift as liberation from arbitrary judgment and social pressure. Freed from the burden of constant decision-making and surveillance by other humans, they become more resilient, cooperative, and capable.
-
-This worldview challenges the assumption that AI dominance necessarily leads to dystopia, suggesting instead that human flourishing may emerge through a reallocation of roles between humans and machines.
+Experi-City challenges the assumption that AI dominance leads to human decline. By redistributing roles between humans and machines, it demonstrates that human resilience, cooperation, and capability can persist—and even strengthen—within AI-Governance systems.
 
 ---
 <a id="license"></a>
-# Licensing & Collaboration
+# *Licensing & Collaboration*
 
 This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
 
 ---
 
 [-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+
+[-> Go to Website](https://nyorogiraffe.github.io/Experi-City/)
