@@ -7,6 +7,12 @@ cssclasses:
 ---
 # Core Concepts of **"Experi-City Hanasaka"**
 
+## Quick Reference
+
+For a minimal overview of all concepts:
+→ [Ultra-Compact Core](./Core_Ultra-Compact.md)
+
+
 ---
 
 # Concepts
