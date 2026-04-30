@@ -65,6 +65,20 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
  You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 
 ---
+<a id="story"></a>
+# **Story Overview** (short)
+
+**"Experi-City Hanasaka"** is set in a near-future city governed by AI, where citizens live under a system that prioritizes equality, safety, and Narrative Happiness. In this society, most decision-making processes have been delegated to AI systems, allowing humans to focus on action, relationships, and creative participation.
+
+The story explores tensions between those who accept AI-Governance as a rational and beneficial system, and those who see it as a threat to human autonomy. Within the city, another conflict emerges between formal democratic legitimacy and deeper philosophical alignment with the city's founding principles.
+
+At the center of the narrative is Kasga, a charismatic figure who embodies the Philosophy of Experi-City and inspires trust among its citizens. Her presence creates tension with political authority, revealing the limits of traditional legitimacy in an AI-governed society.
+
+Through these conflicts, the story challenges the assumption that AI-led societies are inherently dystopian, suggesting instead that human resilience and cooperation may take new forms when roles between humans and machines are redefined.
+
+→ [**Read Full Overview**](./01_Story/Story_Overview.md)
+
+---
 <a id="outline"></a>
 # **OUTLINE**
 

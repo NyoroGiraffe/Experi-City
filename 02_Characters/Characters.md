@@ -7,7 +7,7 @@ cssclasses:
 ---
 # **Characters**
 
-- [**Outline of Story**](../README.md#outline)
+- [**Outline and Overview of Story**](../01_Story/Story_Overview.md)
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
 
 ---
