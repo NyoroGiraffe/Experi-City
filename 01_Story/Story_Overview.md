@@ -13,13 +13,13 @@ The city operates on principles that may appear radical from the outside. Wealth
 
 A defining cultural element of Experi-City is Kassen, a sport in which participants compete under strictly equal conditions, regardless of gender or physical differences. Judged entirely by machines, Kassen embodies the city's commitment to Equality and becomes a source of Narrative Happiness, where meaning emerges through shared experience rather than victory alone.
 
-The story unfolds through two central tensions. The first is between those within the city who accept AI-Governance as a rational evolution of society, and those outside who perceive it as a threat to human dignity and autonomy. The second tension arises within the city itself: between formal democratic legitimacy and deeper philosophical alignment with the founding ideals of Experi-City.
+**The story unfolds through two central tensions.** The first is between those within the city who accept AI-Governance as a rational evolution of society, and those outside who perceive it as a threat to human dignity and autonomy. The second tension arises within the city itself: between formal democratic legitimacy and deeper philosophical alignment with the founding ideals of Experi-City.
 
 At the center of this conflict is Kasga, a charismatic figure who deeply understands and embodies the city’s Philosophy. Though she holds no formal political authority, she is widely trusted and admired by the citizens. Her influence brings her into conflict with a democratically elected leader who lacks alignment with the Philosophy, exposing the limitations of traditional governance models in an AI-driven society.
 
 As the narrative progresses, an external threat emerges in the form of a hostile AI that challenges the stability of Experi-City. In response, the citizens—often dismissed by outsiders as passive or dependent—demonstrate unexpected resilience. By working in cooperation with AI systems rather than in opposition to them, they confront and overcome the crisis.
 
-Through these events, Experi-City Hanasaka challenges the common assumption that AI-led societies inevitably result in dystopia. Instead, it presents a vision in which human strength is not diminished but redefined—emerging through trust, collaboration, and a reallocation of roles between humans and machines.
+Through these events, **Experi-City Hanasaka challenges the common assumption that AI-led societies inevitably result in dystopia.** Instead, it presents a vision in which human strength is not diminished but redefined—emerging through trust, collaboration, and a reallocation of roles between humans and machines.
 
 
 ---
@@ -112,6 +112,6 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 
 ---
 
-[<- Back to **README**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses) 
+[<- Back to **README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
 [-> Go to **"Characters"**](../02_Characters/Characters.md)
