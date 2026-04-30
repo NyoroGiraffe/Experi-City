@@ -12,7 +12,6 @@ cssclasses:
 For a minimal overview of all concepts:
 → [Ultra-Compact Core](./Core_Ultra-Compact.md)
 
-
 ---
 
 # Concepts
@@ -304,6 +303,20 @@ In Experi-City, humans gradually relinquished routine judgment because human dec
 **Narrative Position (Short)**: AI-led societies are not inherently dystopian.
 
 Experi-City challenges the assumption that AI dominance leads to human decline. By redistributing roles between humans and machines, it demonstrates that human resilience, cooperation, and capability can persist—and even strengthen—within AI-Governance systems.
+
+---
+<a id="analyses"></a>
+## **Analyses**
+
+[**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](../README.md#Analyses)
+
+- [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
+- [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
+- [**03_Analysis on "UBI"**](./04_R-Analyses/Analysis_r03_UBI.md)
+- [**04_Analysis on "Identities"**](./04_R-Analyses/Analysis_r04_Identities.md)
+- [**05_Analysis on "Anti-AI-Governance"**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
+- [**06_Analysis on "Democracy"**](./04_R-Analyses/Analysis_r06_Democracy.md)
+- [**07_Analysis on "Kassen", a sport**](./04_R-Analyses/Analysis_r07_Kassen.md)
 
 ---
 <a id="license"></a>

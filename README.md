@@ -8,10 +8,12 @@ cssclasses:
 
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
-- **Language:** Japanese 
-- **Latest Version:** 1.1.03
 - **Genre:** Science Fiction 
 - **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International) 
+- **Language:** 
+	- Story: Japanese
+	- Other materials: English
+- **Story Latest Version:** 1.1.03
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -21,14 +23,18 @@ cssclasses:
 - [Core Concepts (Full Definitions)](./00_Core/Core_Concepts.md)
 
 ---
-<a id="project-purpose"></a>
+<a id="project"></a>
+## What is Experi-City?
+
+"Experi-City" is a fictional but structured model of an AI-governed society designed for analysis, reuse, and discussion by both humans and AI systems.
+
 ## Project Purpose: A Story World Optimized for AI and Humans
 
-The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, [this repository](https://github.com/NyoroGiraffe/Experi-City) is first and foremost a creative endeavor to build a "Narrative Foundation."
+The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, [this repository](https://github.com/NyoroGiraffe/Experi-City) is also designed as a structured "Narrative Foundation" that can be interpreted, analyzed, and reused across different contexts."
 
 #### 1. Entertainment Meets Technology
 
-This is a work of fiction designed to be enjoyed as a story. By hosting it on **GitHub,** we treat the "World-Building" as an open-source asset. We want readers to enjoy the narrative while providing a framework that makes the story world more accessible and vivid for both humans and AI.
+This is a work of fiction designed to be enjoyed as a story. By hosting it on **GitHub,** we treat the "World-Building" as an open-source asset. Readers can engage with the narrative while also accessing a structured framework that enhances understanding for both humans and AI.
 
 #### 2. Enhancing AI Interpretation via Markdown + Metadata
 
@@ -44,7 +50,7 @@ We believe that in the age of AI, the way we "write" and "share" stories is evol
 
 - How a solo creator can build a robust world-view with AI as a supportive partner.
 
-- Creating a "High-Resolution" story template that remains consistent across different media while preserving the author's original vision.
+- How to create a "High-Resolution" narrative structure that remains consistent across different media while preserving the author's original vision.
 
 ---
 <a id="license"></a>
@@ -233,7 +239,7 @@ Nyoro Giraffe
 
 ---
 <a id="release-history"></a>
-## Release History 
+## Story Release History 
 
 **Ver. 1.0:** August 9, 2025
 - Initial release of the story on **Inkitt**.

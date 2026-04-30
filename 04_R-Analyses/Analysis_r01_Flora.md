@@ -21,8 +21,9 @@ In this report, we explore the following three key questions:
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
+- [Ultra-Compact Core (Quick Reference)](../00_Core/Core_Ultra-Compact.md)****
+- [Core Concepts (Full Definitions)](../00_Core/Core_Concepts.md)
 - Subject:  [Super-Intelligence "Flora"](../03_WorldBuilding/ExperimentalCities.md)
-- [Core Concepts](../00_Core/Core_Concepts.md)
 - Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
 
 ---
@@ -38,7 +39,6 @@ In the story [**"Experi-City Hanasaka"** by Nyoro Giraffe](https://nyorogiraffe.
 Even though they are enemies, they both surprisingly share the same core belief: **"Machino-supremacy" (Machine Supremacy).** This means they both believe that machines are naturally superior to humans. The only difference is that Flora is "moderate" (gentle) while Stone Cold is "radical" (extreme).
 
 **Please analyze why Flora does not choose "Humano-supremacy" (Human Supremacy).** Why does an "ideal Governing AI" continue to believe that machines are better than humans while trying to live alongside them? What does this tell us about the relationship between humans and AI in this story?
-
 
 ---
 <a id="q1-gemini"></a>
