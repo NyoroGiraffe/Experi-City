@@ -104,7 +104,7 @@ For full definitions:
 
 ---
 <a id="analyses"></a>
-## **Analyses**
+# Analyses
 
 - [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
 - [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)

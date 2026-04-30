@@ -306,7 +306,7 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 
 ---
 <a id="analyses"></a>
-## **Analyses**
+# Analyses
 
 [**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](../README.md#Analyses)
 
