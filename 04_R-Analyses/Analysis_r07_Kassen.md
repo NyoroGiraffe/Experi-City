@@ -20,7 +20,7 @@ In this report, we explore the following three key questions:
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
-- [Ultra-Compact Core (Quick Reference)](../00_Core/Core_Ultra-Compact.md)****
+- [Ultra-Compact Core (Quick Reference)](../00_Core/Core_Ultra-Compact.md)
 - [Core Concepts (Full Definitions)](../00_Core/Core_Concepts.md)
 - Subject: ["Kassen"](../03_WorldBuilding/Kassen.md)
 - Analyzed Concepts: Sports, Narrative Happiness, AI Governance
