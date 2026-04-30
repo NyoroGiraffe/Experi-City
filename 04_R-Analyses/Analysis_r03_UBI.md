@@ -2,6 +2,8 @@
 aliases:
 tags:
   - Analyses
+  - World_Building
+  - ExperiCity
 cssclasses:
 ---
 # Analyses on "UBI" by Gemini, ChatGPT and Claude
@@ -20,6 +22,7 @@ In this report, we explore the following three key questions:
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
 - Subject:  ["UBI" and Economy](../03_WorldBuilding/ExperimentalCities.md)
+- [Core Concepts](../00_Core/Core_Concepts.md)
 - Analyzed Concepts: Universal Basic Income, Perishable Currency, AI Governance
 
 ---

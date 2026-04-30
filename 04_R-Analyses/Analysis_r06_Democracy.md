@@ -3,6 +3,7 @@ aliases:
 tags:
   - Analyses
   - World_Building
+  - ExperiCity
 cssclasses:
 ---
 # Analyses on "Democracy" by Gemini, ChatGPT and Claude
@@ -20,6 +21,7 @@ In this report, we explore the following three key questions:
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
 - Subject: ["Mayor" and Democracy](../03_WorldBuilding/HanasakaCity.md)
+- - [Core Concepts](../00_Core/Core_Concepts.md)
 - Analyzed Concepts: Mayor, Democracy, AI Governance
 
 ---

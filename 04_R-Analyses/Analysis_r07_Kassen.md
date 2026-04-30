@@ -3,6 +3,7 @@ aliases:
 tags:
   - Analyses
   - Kassen
+  - ExperiCity
 cssclasses:
 ---
 # Analyses on "Kassen" by Gemini, ChatGPT and Claude
@@ -20,6 +21,7 @@ In this report, we explore the following three key questions:
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
 - Subject: ["Kassen"](../03_WorldBuilding/Kassen.md)
+- [Core Concepts](../00_Core/Core_Concepts.md)
 - Analyzed Concepts: Sports, Narrative Happiness, AI Governance
 
 ---

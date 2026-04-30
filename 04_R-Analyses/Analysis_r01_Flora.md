@@ -22,6 +22,7 @@ In this report, we explore the following three key questions:
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub / NyoroGiraffe / Experi-City](https://github.com/NyoroGiraffe/Experi-City)
 - Subject:  [Super-Intelligence "Flora"](../03_WorldBuilding/ExperimentalCities.md)
+- [Core Concepts](../00_Core/Core_Concepts.md)
 - Analyzed Concepts: Machino-supremacy, Narrative Happiness, AI Governance
 
 ---
