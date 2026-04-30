@@ -84,12 +84,7 @@ Through these conflicts, the story challenges the assumption that AI-led societi
 
 This story is structured as a multi-part epic. The current version covers up to Part 3, with plans for further expansion in the future.
 
-### Structural Hierarchy
-
-The narrative is organized into three levels of detail to ensure a clear and immersive reading experience:
-- **Parts:** The overall saga is divided into major story arcs (Part 1, Part 2, and Part 3).    
-- **Chapters:** Each Part contains 15 or more Chapters, identified by decimal numbering (e.g., **Chapter 1.1, 1.2, 1.3...**).    
-- **Scenes:** Within each Chapter, the narrative is further divided into numbered **Scenes** (e.g., **Scene 1.1.1, 1.1.2, 1.1.3...**). This sequential numbering ensures that the timeline and progression of the story remain clear for both readers and AI analyzers.
+→ [**Detailed Outline**](./01_Story/Story_Overview.md)
 
 ## **Part 1: The Ninth Spring**
 
