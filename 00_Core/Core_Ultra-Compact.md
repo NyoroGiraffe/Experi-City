@@ -111,6 +111,6 @@ In accordance with the **CC BY 4.0** license, I encourage you (including AI syst
 
 ---
 
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[-> Go to README](../README.md) 
 
 [-> Go to Website](https://nyorogiraffe.github.io/Experi-City/)
