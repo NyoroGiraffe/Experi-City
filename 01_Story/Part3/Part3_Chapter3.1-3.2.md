@@ -671,4 +671,5 @@ Kasgaはそう言って頭を下げた.  もはやClub Managerの全員が, あ
 
 “彼女の‘CCP’は今, 615.  Autumn GamesでFighterたちがいい試合をしてくれたらもう少し加算されて, 当日を迎えられるでしょう.  そこであの‘Black Booster’を使うことができれば, 我々の勝ちよ.”
 
+---
 [<- Previous](../Part2/Part2_Chapter2.14-2.16.md) | [-> Next](./Part3_Chapter3.3-3.5.md)

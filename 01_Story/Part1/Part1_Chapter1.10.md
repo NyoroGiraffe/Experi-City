@@ -374,4 +374,5 @@ Moglaが思案していると, 今度は彼のAR viewに突然, "エージェン
 
 “緊急通知.  Akio DiasおよびNew Moon in the Dark, 要保護対象.”
 
+---
 [<- Previous](./Part1_Chapter1.7-1.9.md) | [-> Next](./Part1_Chapter1.11-1.13.md)
