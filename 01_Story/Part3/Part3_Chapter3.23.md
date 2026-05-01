@@ -280,4 +280,5 @@ Akioがうれし泣きで目を輝かせているKeikoを優しく見つめて�
 
 (Part 3 finished.  Part 4 will be continued, but it is still a work in progress.)
 
-[<- Previous](./Part3_Chapter3.21-3.22.md) | [-> Back to OUTLINE](../../README.md#outline)
+---
+[<- Previous](./Part3_Chapter3.21-3.22.md) | [-> Back to OUTLINE](../../01_Story/Story_Overview.md)

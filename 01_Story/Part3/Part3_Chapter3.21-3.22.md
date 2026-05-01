@@ -700,4 +700,5 @@ Zeronainが言及した, Kasgaが“Hanasaka CityのUnifier”と変化してい
 
 さて, このPart 3を終えて, 次の話に進む前に, 歴史上の講釈から一気に個人的な恋愛話になるが, AkioとKeikoがようやく心の清算をするシーンを最後に見ておく.
 
+---
 [<- Previous](./Part3_Chapter3.18-3.20.md) | [-> Next](./Part3_Chapter3.23.md)
