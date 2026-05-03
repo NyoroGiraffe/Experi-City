@@ -25,22 +25,26 @@ All rules relating to the Kassen are detailed by the "Kassen Regulations" establ
 ---
 # **Overview of Kassen Games**
 
-Kassen is a major sport in Hanasaka City, held twice a year as **Season Games** in **Spring** (starting mid-April) and **Autumn** (starting mid-October). These matches take place at the **Hanasaka Arena**, located east of the Hanasaka Castle Outer Moat. Around the time of these season games, **Inter-Alliance Games** (also known as the "Alliance Tour") are held at various castle locations outside the city, where Hanasaka clubs dispatch their Fighters to compete alongside Alliance clubs.
+Kassen is held in Hanasaka City twice a year as **Season Games** in **Spring** (starting mid-April) and **Autumn** (starting mid-October). These matches take place at the **Hanasaka Arena**, located east of the Hanasaka Castle Outer Moat. Around the time of these season games, **Inter-Alliance Games** (also known as the "Alliance Tour") are held at various castle locations outside the city, where Hanasaka clubs dispatch their Fighters to compete alongside Alliance clubs.
 
-#### **1. Competition Format (Until Spring 9 E.E.)**
+#### **1. Competition Format**
 
-Until the Spring Games of 9 E.E., the tournament progressed as follows:
+The tournament progressed as follows:
 
 • **Opening Ceremony:** 
 The **Opening Ceremony** is held on the field of the Hanasaka Arena on the day of the first match of the Season Games, **prior to the start of the match**. **All Fighters** from the four city clubs (totaling over 200 individuals) are required to assemble on the field to participate. During the ceremony, the **Unifier** formally presides over the event, having issued the official orders for the clubs to assemble, and **declares the start of the Season Games**.
 
-• **Match Rounds:** The four city clubs (Garnet East, Topaz South, Sapphire West, and Emerald North) competed in two round-robin stages: the **first round** and the **second round**.
+• **Match Rounds:** 
+The four city clubs (Garnet East, Topaz South, Sapphire West, and Emerald North) competed in two round-robin stages: the **first round** and the **second round**.
 
-• **Deciding the Champion:** After both rounds, a **final game** was held between the winner of the first round and the winner of the second round to determine the **champion**. However, if the same team won both rounds, they were crowned champion without a final match.
+• **Deciding the Champion (Until Spring 9 E.E.):** 
+After both rounds, a **final game** was held between the winner of the first round and the winner of the second round to determine the **champion**. However, if the same team won both rounds, they were crowned champion without a final match.
 
-• **Closing Ceremony and Championship Award:** 
-The **Closing Ceremony** is held on the day of the final match of the **Season Games**, immediately after the match concludes. The **Unifier** participates in the ceremony to present the **championship pennant** to the winning club and declares the conclusion of the Season Games. 
-While the team champion is honored at this time, the conferral of the **"Apex Fighter"** title takes place separately, typically **two days after** the Season Games have ended, following a detailed performance analysis by the evaluation system.
+• **Closing Ceremony:** 
+The **Closing Ceremony** is held on the day of the final match of the **Season Games**, immediately after the match concludes. The **Unifier** participates in the ceremony to present the **championship pennant** to the winning club and declares the conclusion of the Season Games.
+
+• **Championship Award (Until Spring 9 E.E.):** 
+While the team champion is honored at the closing ceremony, the conferral of the **"Apex Fighter"** title takes place separately, typically **two days after** the Season Games have ended, following a detailed performance analysis by the evaluation system.
 
 #### **2. Major Changes from Autumn 9 E.E.**
 

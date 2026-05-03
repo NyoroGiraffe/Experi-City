@@ -433,7 +433,7 @@ cssclasses:
 	- Kaya: 
 	  **Lui Cefiro** is married to **Kaya**, while **Kagero Sacra** is married to **Sawae Nemophila**. The primary link between the two couples is the friendship between **Kaya and Sawae**, who have been close friends since their university days.
 	- Kagero: 
-	  Because of the connection between their wives, **Lui** acted as a consultant for **Kagero and Sawae**. He provided essential legal and accounting advice to help them manage **"Workshop Nemophila"**, even assisting them with the process of incorporating the business.
+	  Because of the connection between their wives, **Lui** acted as a consultant for **Kagero and Sawae**. He provided essential legal and accounting advice to help them manage **"Workshop Nemophila"**.
 	- Keiko: 
 	  Through his relationship with Kagero's family, **Lui** is an acquaintance of **Keiko** and is also a fan of her performance in Kassen.
 	- Yugo: younger brother
@@ -582,7 +582,7 @@ For any items that are not explicitly stated above, the details have been intent
 ### **Speech Pattern:** 
  Stuttering / Stammering 
 #### **Translation Directive:** 
-Akio speaks with a distinct stutter. In Japanese, this is represented by repeated sounds (e.g., 「あ、あ、あの」) and frequent punctuation. **When translating into English, please replicate this stammering style.** Use repeated letters or syllables and hyphens (e.g., "I-I-I," "W-w-what," "It... it's...") to convey his speech impediment naturally in English.
+Akio speaks with a distinct stutter. In Japanese, this is represented by repeated sounds (e.g., 「あ, あ, あの」) and frequent punctuation. **When translating into English, please replicate this stammering style.** Use repeated letters or syllables and hyphens (e.g., "I-I-I," "W-w-what," "It... it's...") to convey his speech impediment naturally in English.
 
 ## Keiko (Kagero and Lerhi)
 ### **Speech Pattern:** 
