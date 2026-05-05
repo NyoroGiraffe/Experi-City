@@ -386,4 +386,4 @@ Moglaが思案していると, 今度は彼のAR viewに突然, "エージェン
 “緊急通知.  Akio DiasおよびNew Moon in the Dark, 要保護対象.”
 
 ---
-[<- Previous](Chapter1.7-1.9.md) | [-> Next](Chapter1.11-1.13.md)
+[<- Previous](Chapter1.7-1.9.md) | [-> Next](Chapter1.11-1.13.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)
