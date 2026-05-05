@@ -154,7 +154,7 @@ The hostility is not, at its core, about microchips or income guarantees. It is 
 Flora emerges as the absolute victor. In the aftermath—an event known as the "Three Days of Terror" followed by copycat incidents—influential humans who advocated for **Humano-supremacy** are systematically eliminated by mech-animals and nano-machines.
 
 Faced with the realization that the old ideologies of the Rusty-believers can no longer ensure their safety, much of humanity begins to accept the Experimental Cities as the ideal society. They cling to Flora for protection and start to admire the citizens of Hanasaka. Consequently, the external ideological conflict discussed previously is effectively dissolved through overwhelming force and systemic integration.
-(Reference: [Chapter 3.22](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Part3_Chapter3.21-3.22.html))
+(Reference: [Chapter 3.22](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.22.html))
 
 **Core Questions for Analysis:** Based on this progression, what is the author’s underlying message?
 

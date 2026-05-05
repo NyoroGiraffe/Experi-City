@@ -38,7 +38,7 @@ Those who come to the 23 Experimental Cities (including Hanasaka) from all over 
 
 **References:**
 - [Charter and Philosophy of Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-- [Story Background: Part 1](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Part1_Chapter1.1-1.3.html)
+- [Story Background: Part 1](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.1.html)
 
 
 ---
@@ -196,10 +196,10 @@ However, this raises a fundamental contradiction. If knowing a person's backgrou
 If you believe the principle still holds value despite these voluntary disclosures, please explain why. Furthermore, how are the citizens of Hanasaka able to maintain such a strong collective consciousness—viewing themselves as "Hanasaka citizens, nothing more and nothing less"—even after learning about each other’s personal histories?
 
 **References:**
-- Matilda and Polina sharing with Akio: [Part 2, Ch 2.7-2.9](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.7-2.9.html)
-- Resilin and Yoen sharing with Julia: [Part 2, Ch 2.12-2.13](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.12-2.13.html)
-- Yugo sharing with Julia: [Part 2, Ch 2.14-2.16](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.14-2.16.html)
-- Chammei sharing with Keiko: [Part 3, Ch 3.3-3.5](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Part3_Chapter3.3-3.5.html)
+- Matilda and Polina sharing with Akio: [Part 2, Ch 2.7](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html)
+- Resilin and Yoen sharing with Julia: [Part 2, Ch 2.12](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html)
+- Yugo sharing with Julia: [Part 2, Ch 2.14](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.14-2.15.html)
+- Chammei sharing with Keiko: [Part 3, Ch 3.3](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.2-3.3.html)
 
 ---
 <a id="q2-gemini"></a>

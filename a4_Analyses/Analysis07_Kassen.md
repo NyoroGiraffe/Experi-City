@@ -28,7 +28,7 @@ Furthermore, **Kasga**, a pivotal figure in the story, serves as the "Unifier" o
 However, from a conventional literary perspective, if the core theme is "the coexistence of AI and humans," one might argue that dedicating a third of the narrative to detailed play-by-play commentary of multiple Kassen matches is excessive. Such a heavy focus on sports could potentially blur the story's identity—wavering between a near-future sci-fi novel and a sports entertainment novel—which might risk diluting the thematic impact.
 
 **Reference Material:**
-- [Story: Part 2, Chapters 2.1–2.3 (Julia’s Hypothesis)](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.1-2.3.html)
+- [Story: Part 2, Chapters 2.2 (Julia’s Hypothesis)](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html)
 
 **Question: The Functional and Literary Necessity of "Kassen"**
 

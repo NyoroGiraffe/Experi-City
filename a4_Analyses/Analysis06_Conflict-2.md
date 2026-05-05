@@ -269,7 +269,7 @@ Or, is this depicting an **evolved form of democracy**—one that moves beyond t
 - **Flora’s Role:** While Politis handles the "will" of the people, Flora ensures the overall stability and health of the city, acting in tandem with the legislative output of Politis.
 
 **Reference Material:**
-- [Story: Part 2, Chapters 2.10–2.11](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.10-2.11.html)
+- [Story: Part 2, Chapters 2.11](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html)
 - [System: Politis and Flora’s Collaboration](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
 ---
