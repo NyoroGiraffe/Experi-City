@@ -12,6 +12,16 @@ cssclasses:
 <a id="chapter1.11"></a>
 ## Chapter 1.11: Confusion at the Arena
 
+### Overview (Spoiler-Free)
+
+On match day, Castle Office faces a double system crisis: first the ticketing system, then the Equipment management system, are both hacked, delaying the Sapphire West vs. Emerald North match by two hours. The chapter explains in detail how Fighters equip themselves with their gear before a match. When the match finally begins, Keiko receives her weapons back from an unexpectedly familiar face.
+
+<details>
+<summary>Detailed Summary</summary>
+On match day, a computer virus disables the Arena's ticketing system, delaying spectator entry. A second attack then falsifies and locks Equipment data for 88 items across both teams, pushing the start time back two hours. During the wait, EIS staff eat lunch together and briefly speculate about who may be responsible. 
+The chapter also explains in detail how Fighters prepare for a match: passing through a security gate, receiving their Outfits in stages from conveyor belts — hip protector, shin protector, arm-guard, shoulder protector, Torso, skirt, and helmet — before collecting their Weapons directly from EIS staff at a counter. When the system is finally restored and the match is ready to begin, Akio is assigned to hand weapons to Keiko's squad. A squadmate, Cocorico, complains about the long delay, drawing a fierce glare from Keiko that silences him instantly. Keiko then approaches the counter herself and uses a loosely worded question about her new spear as an excuse to exchange a few words with Akio. The long-delayed match finally begins.
+</details>
+
 ### Scene 1.11.1: 
 
 5月5日.  この日, Sapphire WestとEmerald Northとの試合が13時半からおこなわれる予定であったが, Castle Officeは朝からピンチに陥っていた. 
@@ -196,6 +206,16 @@ Akioは, 異常な脈拍の上昇を感じながら, 平静を装って, EISの�
 <a id="chapter1.12"></a>
 ## Chapter 1.12: Sapphire Comet vs. Emerald Angel
 
+### Overview (Spoiler-Free)
+
+The match between Sapphire West and Emerald North gets underway, and Chammei's newly formed Bow Fighter squad — a tactical innovation that has changed how Kassen is played — makes its move against Keiko and her team. The chapter also explains the rules around Flag Triggered Resets, mech-horse equipment, and arrow management in detail. Keiko and Chammei face each other directly in a breathtaking mid-match confrontation that leaves both fighters marked — in more ways than one.
+
+<details>
+<summary>Detailed Summary</summary>
+Emerald North opens with their Bow Fighter squad — five riders led by Chammei — targeting Sapphire's Captain rather than the front line, forcing Sapphire into a stretched, reactive formation. Keiko leads an improvised rider-squad to intercept. She maneuvers behind Chammei and leaps onto her mech-horse, striking her Torso twice with a dagger. Chammei retaliates by rearing her horse, and in the process accidentally strikes Keiko's face with her elbow, cutting her cheek. Chammei is penalized five points. Both fighters apologize to each other before Keiko accepts brief treatment on the sideline. Afterward, Chammei reflects on the encounter and realizes something unsettling: Keiko had deliberately left her just enough HP to remain in play — a calculated move designed to make Chammei fight cautiously for the rest of the match, weakening Emerald's overall attack. The realization leaves Chammei shaken by Keiko's tactical brilliance. 
+The first half ends with Sapphire trailing 1–2, their formation disrupted by Emerald's mobile tactics. Keiko tells Falcon she intends to go after Chammei again — not out of rivalry, but because Chammei is her favorite battle friend and she wants to fight her at full strength.
+</details>
+
 ### Scene 1.12.1: 
 
 この日の試合のfirst-halfは, Emerald Northがnorthern-end, Sapphire Westがsouthern-endに着陣し, 双方ともsecond-lineに沿ってSpear Fighterたちが一列に並び, その後ろにVice-Leader以上のRanked FighterやBow Fighterがmech-horseに乗って控える形をとった. 
@@ -363,6 +383,16 @@ Falconは, 心の中で神様にお祈りした.
 ---
 <a id="chapter1.13"></a>
 ## Chapter 1.13: The Sparkling Flow of Blue Star
+
+### Overview (Spoiler-Free)
+
+In the second half, Keiko and Chammei meet in a one-on-one sword duel that draws the entire Arena's attention. The chapter builds to a dramatic final Team Match in which Sapphire, pushed to the edge, attempts a last-ditch all-or-nothing play — and Keiko gives everything she has to pull it off. Part 1 ends with both teams and both friends leaving everything on the field.
+
+<details>
+<summary>Detailed Summary</summary>
+In Team Match T3, Keiko dismounts and charges Emerald's front line on foot, then challenges Chammei to a personal sword duel. She toys with Chammei psychologically before landing a single devastating blow to Chammei's left Arm-guard that leaves her unable to continue. It is a dominant win, but costly: while Keiko was consumed by the duel, Sapphire's formation collapsed elsewhere, and T3 ends scoreless. 
+The match stands at 2–2 entering T4. With time running out and Sapphire losing ground on both flanks, Captain Soa orders Keiko to attempt a desperate Flag run. Keiko strips her hip protector, discards her spear, and sprints over 85 meters at full speed — the legendary "Sapphire Comet" — absorbing arrow hits along the way. She reaches within centimeters of Emerald's Flag with one HP remaining, but the final whistle sounds just before she can touch it. Sapphire loses. Keiko collapses at the edge of the field, overwhelmed. It is Chammei — her injured opponent — who appears to help her up. Part 1 ends with both friends leaving the field together, arms around each other, in tears.
+</details>
 
 ### Scene 1.13.1: 
 
@@ -579,4 +609,4 @@ Keikoは, smart gogglesを右手で眉の上にずらして, 泣き顔をぬぐ�
  (End of Part 1.  Continued in Part 2.)
  
  ---
-  [<- Previous](./Part1_Chapter1.10.md) | [-> Next](../Part2/Part2_Chapter2.1-2.3.md)
+  [<- Previous](Chapter1.10.md) | [-> Next](Chapter2.1.md)

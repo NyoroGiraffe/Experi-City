@@ -10,6 +10,17 @@ cssclasses:
 <a id="chapter1.10"></a>
 ## Chapter 1.10: Unraveling the Mystery
 
+### Overview (Spoiler-Free)
+
+EIS manager Julia convenes a team meeting to discuss the growing threats against Hanasaka and the Kassen community, including a rival league and rising calls to abolish Kassen. Akio and Yugo are then sent to meet Mogla, a police intelligence officer who moonlights as a well-known Kassen analyst, for an informal dinner. Their conversation gradually unravels the political landscape behind the recent incidents — and ends with a startling development tied to Akio's stone-collecting app.
+
+<details>
+<summary>Detailed Summary</summary>
+Julia calls an EIS team meeting to address growing threats: illegal lethal versions of Kassen are spreading, abolition calls are rising, and the rival Kassen Liberty League — which permits exoskeletons and lighter restrictions — has become a serious competitor. 
+Julia then arranges for Akio and Yugo to meet Mogla, a police cyber-intelligence officer secretly known to the Kassen community as the respected analyst "Albow." Over dinner, Mogla explains that conspiracy theories targeting Kasga and Castle Office are being exploited by two competing factions — those who want Kasga elevated to mayor, and those who want her neutralized — and that Flora using Kasga as a moral compass is likely a false but politically convenient rumor. More critically, he reveals that Mayor Goblino and Castle Office are now in secret open conflict. Akio, pressed by Mogla's probing questions, articulates a firm conviction: Kasga must be protected, and for that reason, both Kassen and the Philosophy must be defended. 
+The chapter ends with Akio's Stone Souls app delivering its cryptic poem as an emergency alert — prompting Mogla to receive a message designating Akio and his black stone as priority protected persons.
+</details>
+
 ### Scene 1.10.1: 
 
 “皆さん, 貴重な‘休戦日’にこの会議に参加してもらってありがとうございます.  今日は, 今, Hanasakaや我々のKassenに対して不穏な動きがあることについて, 皆さんと話し合いたいと思っています.”
@@ -375,4 +386,4 @@ Moglaが思案していると, 今度は彼のAR viewに突然, "エージェン
 “緊急通知.  Akio DiasおよびNew Moon in the Dark, 要保護対象.”
 
 ---
-[<- Previous](./Part1_Chapter1.7-1.9.md) | [-> Next](./Part1_Chapter1.11-1.13.md)
+[<- Previous](Chapter1.7-1.9.md) | [-> Next](Chapter1.11-1.13.md)
