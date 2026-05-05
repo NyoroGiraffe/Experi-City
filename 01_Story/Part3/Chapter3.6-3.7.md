@@ -11,6 +11,17 @@ cssclasses:
 <a id="chapter3.6"></a>
 ## Chapter 3.6: The Loving Guardian of Hanasaka Descends!
 
+### Overview (Spoiler-Free)
+
+Kasga secretly leaves her hiding place to visit her late sister Haruna's grave near Tokyo, accompanied by Haruppi Office president Naoe. The trip serves a deeper purpose than remembrance: Castle Office Director Prisha has asked Kasga to bring her ceremonial sword, the Haru-Sword, to the site for a mysterious upgrade. At the grave, Kasga also confronts her private fears about the coming battle, and reflects on what Hanasaka truly means to her.
+
+<details>
+<summary>Detailed Summary</summary>
+Kasga secretly leaves her shelter beneath Hanasaka Castle to visit Haruna's grave near Tokyo. The trip has a covert purpose: Director Prisha has asked her to bring the Haru-Sword to the grave site, where a location-locked program created by Haruna herself can finally be downloaded. The sword, far more than a ceremonial weapon, is a key component in Hanasaka's castle defense system.
+Kasga speaks privately to the grave, admitting her fear about the coming attack and her occasional regret at having taken on the Unifier role. She draws courage from her bond with Keiko and resolves to see the battle through.
+When Kasga activates the Haru-Sword with a voice command, a glowing orb appears above the tree — an AI construct built from Haruna's own data, speaking in her voice. The audio was so shocking that Kasga’s grip on the Haru-Sword completely slipped, and she dropped it to the ground. The digital Haruna confirms that the enemy will come, but assures Kasga she will survive, hinting that Flora has a winning scenario in place. The encounter leaves everyone present — including Directors Monica and Prisha observing remotely — overwhelmed with emotion.
+</details>
+
 ### Scene 3.6.1: 
 
 Hanasaka ArenaでSapphire WestとTopaz Southの試合がおこなわれていた日, KasgaはひそかにHanasaka Cityを抜け出し, 試合が終わったその時は, Tokyoの郊外にある彼女の生家があったところのすぐ近くに広がる雑木林の丘陵地の中にいた. 
@@ -449,6 +460,16 @@ Naoeが, そっとKasgaのそばに来て, 片ひざを地面につけてKasga�
 <a id="chapter3.7"></a>
 ## Chapter 3.7: Haruki's Backroom Deal
 
+### Overview (Spoiler-Free)
+
+Behind the scenes, Director Haruki has been quietly working to neutralize the enemy's weapons before the November 9th attack. This chapter reveals a covert arrangement he set in motion months earlier, as well as a new development involving EIS Section Manager Julia. The chapter also sheds light on Haruki's mysterious character and his willingness to operate in the shadowy margins between Castle Office and the criminal underworld.
+
+<details>
+<summary>Detailed Summary</summary>
+Workshop Nemophila, run by Kassen Fighter Keiko's brother Kagero and his wife Sawae, has refused to deliver a set of special swords — "Shining Swords" — commissioned by Castle Office for the eight Fighters defending the castle on November 9th. Influenced by arrested Rusty-believer sympathizer Lui, and targeted by the cult organization Awakeners, they have quietly turned against Castle Office. Director Haruki authorizes Julia, the manager of EIS, to conduct a forced inspection, primarily to address the couple's growing radicalization rather than out of operational need, since replacement swords are already in hand.
+This chapter then reveals what Haruki has been doing since May: in a secret pre-dawn meeting in Tokyo, he struck a deal with Mukade, a criminal arms-rental operator and enemy of Awakeners, persuading him to supply the attacking forces with sabotaged weapons — firearms that would lock automatically inside Hanasaka City on November 9th. Haruki leveraged Mukade's personal vendetta against Awakeners, and delivered on his promises: Mukade's rival Nezman was arrested, and the Awakeners' leader died under suspicious circumstances. The enemy's weapons are now rigged to fail. 
+</details>
+
 ### Scene 3.7.1: 
 
 “遅すぎるという話ではなく, 拒否ですよね.”
@@ -662,4 +683,4 @@ JuliaがAR viewに表示された応答ボタンを押すや, 1年ぶりに聞�
 “あら, 久しぶり.  お元気ですか?”
 
 ---
-[<- Previous](./Part3_Chapter3.3-3.5.md) | [-> Next](./Part3_Chapter3.8-3.10.md)
+[<- Previous](Chapter3.4-3.5.md) | [-> Next](Chapter3.8-3.9.md)

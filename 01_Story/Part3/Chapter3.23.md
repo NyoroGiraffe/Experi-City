@@ -10,6 +10,17 @@ cssclasses:
 <a id="chapter3.23"></a>
 ## Chapter 3.23: At Fortuna Station: Until We Meet Again
 
+### Overview (Spoiler-Free)
+
+Nearly a month after the battle, Akio and Keiko finally meet in person at Fortuna Station's Nerine Deck — a vast observation walkway above the platforms. Both have been waiting, and both have things they need to say. With only thirty minutes together and a train from their shared past on its way, the two begin to quietly close the distance that has stood between them since childhood.
+
+<details>
+<summary>Detailed Summary</summary>
+December 8th, one month after the battle. Akio waits at Nerine Deck in Fortuna Station for Keiko — their long-delayed reunion, postponed first by the Three Days of Terror and then by Keiko's deliberate self-restraint. She had refused to see him until her professional duties were fully complete: Inter-Alliance games, then the Apex Fighter ceremony on December 4th, where she received the Diamond Sword from Kasga as expected.
+When Keiko arrives, the two stand side by side watching trains. She raises the incident from their childhood: the alley fight where Akio was beaten protecting her. She tells him clearly that what he did was not shameful but the bravest thing she has ever seen, and that she has never stopped feeling that way. Akio tells her he still has the letter she gave him when she left town, and that he has read it many times over the years.
+Their thirty minutes end with the unexpected arrival of Obsidian-Nine — a vintage-style locomotive both photographed together as children. Watching it pull into the station, they share the unspoken wish to ride it together someday, and part with tearful smiles and a promise to meet again soon.
+</details>
+
 ### Scene 3.23.1: 
 
 Hanasaka Cityの内外をめぐる数多くの鉄道路線のうちの12本が出入りするFortuna Stationは, 市内で最も多くの乗降客が行き交い, 様々な店舗も併設した巨大な複合施設であった. 
@@ -281,4 +292,4 @@ Akioがうれし泣きで目を輝かせているKeikoを優しく見つめて�
 (Part 3 finished.  Part 4 will be continued, but it is still a work in progress.)
 
 ---
-[<- Previous](./Part3_Chapter3.21-3.22.md) | [-> Back to OUTLINE](../../01_Story/Story_Overview.md)
+[<- Previous](Chapter3.21.md) | [-> Back to OUTLINE](../../01_Story/Story_Overview.md)
