@@ -1,5 +1,6 @@
 ---
 aliases:
+  - 3.22 The Aftermath of the Raid
 tags:
   - Story
   - Core
@@ -303,4 +304,4 @@ Zeronainが言及した, Kasgaが“Hanasaka CityのUnifier”と変化してい
 さて, このPart 3を終えて, 次の話に進む前に, 歴史上の講釈から一気に個人的な恋愛話になるが, AkioとKeikoがようやく心の清算をするシーンを最後に見ておく.
 
 ---
-[<- Previous](Chapter3.21.md) | [-> Next](Chapter3.23.md)
+[<- Previous](Chapter3.21.md) | [-> Next](Chapter3.23.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

@@ -365,4 +365,4 @@ Kasgaは, Stone Coldが人間の無意識を使った因果関係の連鎖によ
 “何とでも言え.  今から5分以内だ.  それを過ぎれば, 子供らを爆破する.”
 
 ---
-[<- Previous](Chapter3.18-3.19.md) | [-> Next](Chapter3.21.md)
+[<- Previous](Chapter3.18-3.19.md) | [-> Next](Chapter3.21.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

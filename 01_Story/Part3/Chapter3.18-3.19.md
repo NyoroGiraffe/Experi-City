@@ -419,4 +419,4 @@ Yoenの鋭い質問に, Akioは顔を赤らめながら, “だ, 大丈夫です
 Juliaにとって, それは満点の回答だったため, 彼の肩をポンと叩いて, “さあ, 行きましょう.  彼女のいるRose Bridgeに.”と, いよいよ決戦の場に向かう時が来たことを告げた.
 
 ---
-[<- Previous](Chapter3.16-3.17.md) | [-> Next](Chapter3.20.md)
+[<- Previous](Chapter3.16-3.17.md) | [-> Next](Chapter3.20.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

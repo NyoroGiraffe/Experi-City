@@ -451,4 +451,4 @@ Galpagoの優しい眼差しによる力強い励ましに, 部屋中, 温かい
 *"そして, Keikoさんもありがとう.  よくぞ自分の気持ちをさらけ出してくれた.  自分の弱さを素直に受け入れている人ほど周りはついてくる.  周りがついてくる人ほどその人が持つ光の輝きは強くなる.  そしてそれが戦う相手を圧倒させ, 絶対に負けない存在にさせるのよ.”*
 
 ---
-[<- Previous](Chapter3.2-3.3.md) | [-> Next](Chapter3.6-3.7.md)
+[<- Previous](Chapter3.2-3.3.md) | [-> Next](Chapter3.6-3.7.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

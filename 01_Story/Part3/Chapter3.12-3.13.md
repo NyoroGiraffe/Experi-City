@@ -545,4 +545,4 @@ Keikoは口元を少し緩めて落ち着いて答えた. 
 Keikoはそう言って担架に横になった姿勢のままで右手を上に差し伸べた.  Donは, その手をさっとつかみ取り, がっちり握った.  その時のDonは珍しく静かに優しく笑っていた.
 
 ---
-[<- Previous](Chapter3.11.md) | [-> Next](Chapter3.14-3.15.md)
+[<- Previous](Chapter3.11.md) | [-> Next](Chapter3.14-3.15.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

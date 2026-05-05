@@ -595,4 +595,4 @@ Noraは, 市長代行として, あらかじめ用意しておいた文章をそ
 “もちろん, あなたを信頼しています.  あなたの本当の実力を見せてください.”
 
 ---
-[<- Previous](Chapter3.12-3.13.md) | [-> Next](Chapter3.16-3.17.md)
+[<- Previous](Chapter3.12-3.13.md) | [-> Next](Chapter3.16-3.17.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

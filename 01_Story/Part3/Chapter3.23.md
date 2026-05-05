@@ -293,4 +293,4 @@ Akioがうれし泣きで目を輝かせているKeikoを優しく見つめて�
 
 
 ---
-[<- Previous](Chapter3.22.md) | [-> Back to Story Overview](../../01_Story/Story_Overview.md)
+[<- Previous](Chapter3.22.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

@@ -1,7 +1,6 @@
 ---
 aliases:
   - 3.21 The Battle Guardian of Hanasaka Descends!
-  - 3.22 The Aftermath of the Raid
 tags:
   - Story
   - Core
@@ -424,4 +423,4 @@ Monicaは, 最初からこうなることは分かっていたかのようなコ
 そしてその1分後, Floraは, Kasgaに, Stone Coldは再起不能となり, 戦いに勝ったことを彼女の口から全世界に向けて発表するよう求めた.
 
 ---
-[<- Previous](Chapter3.20.md) | [-> Next](Chapter3.22.md)
+[<- Previous](Chapter3.20.md) | [-> Next](Chapter3.22.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

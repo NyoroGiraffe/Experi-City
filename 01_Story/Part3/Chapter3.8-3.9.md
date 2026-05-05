@@ -571,4 +571,4 @@ Juliaは, Akioの心のこもらない温かい声がけには反応せず, AR v
 Juliaは, Akioの右手首を握って引っ張り, やって来た自動運転の無人タクシーに彼と一緒に乗り込んだ.  行き先は, Juliaがタクシーを呼んだ時に設定したため, タクシーは乗客に行き先を尋ねることなく, Police Headquartersに向かった.
 
 ---
-[<- Previous](Chapter3.6-3.7.md) | [-> Next](Chapter3.10.md)
+[<- Previous](Chapter3.6-3.7.md) | [-> Next](Chapter3.10.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)
