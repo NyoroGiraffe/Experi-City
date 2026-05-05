@@ -12,7 +12,7 @@ cssclasses:
 	- [**Core Concepts (Full Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
 - [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 - **STORY**
-	- [**Start reading the story**](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Part1_Chapter1.1-1.3.html)
+	- [**Start reading the story**](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.1.html)
 	- [**Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
 	- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)
 - **WORLD BUILDING**
