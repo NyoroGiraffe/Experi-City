@@ -46,10 +46,10 @@ In this city, where you came from or who your ancestors were doesn't matter. The
 
 **References:**
 - [Charter and Philosophy of Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-- Matilda and Polina sharing with Akio: [Part 2, Ch 2.7-2.9](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.7-2.9.html)
-- Resilin and Yoen sharing with Julia: [Part 2, Ch 2.12-2.13](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.12-2.13.html)
-- Yugo sharing with Julia: [Part 2, Ch 2.14-2.16](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.14-2.16.html)
-- Chammei sharing with Keiko: [Part 3, Ch 3.3-3.5](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Part3_Chapter3.3-3.5.html)
+- Matilda and Polina sharing with Akio: [Part 2, Ch 2.7](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html)
+- Resilin and Yoen sharing with Julia: [Part 2, Ch 2.12](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.12-2.13.html)
+- Yugo sharing with Julia: [Part 2, Ch 2.14](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.14-2.15.html)
+- Chammei sharing with Keiko: [Part 3, Ch 3.3](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.2-3.3.html)
 
 ---
 <a id="q1-gemini"></a>

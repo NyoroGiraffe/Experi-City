@@ -170,7 +170,7 @@ Flora wins completely. In the aftermath—an event called the **"Three Days of T
 
 After seeing this, most of humanity realizes that their "Old World" ideas cannot protect them anymore. They stop fighting and start to admire Hanasaka. They cling to Flora for safety. The old conflict is over, not because people changed their minds, but because Flora showed overwhelming power.
 
-You can read the details of this event here: [Chapter 3.22](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Part3_Chapter3.21-3.22.html).
+You can read the details of this event here: [Chapter 3.22](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.22.html).
 
 **Questions for Analysis:** Based on this story, what do you think the author is trying to say about the future of humans and AI?
 

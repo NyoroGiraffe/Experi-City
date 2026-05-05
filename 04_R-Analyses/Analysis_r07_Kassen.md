@@ -31,7 +31,7 @@ In this report, we explore the following three key questions:
 
 **Background & Context:** In the world of **Hanasaka**, a popular sport called **"Kassen"** is the center of everyone's attention. A character named Julia even suggests that Kassen isn't just a game—it's a way for the AI **Flora** to improve her "Combined Combat Power" (CCP). The AI and the sport are deeply linked.
 
-Reference Material: [Story: Part 2, Chapters 2.1–2.3 (Julia’s Hypothesis)](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Part2_Chapter2.1-2.3.html)
+Reference Material: [Story: Part 2, Chapters 2.2 (Julia’s Hypothesis)](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html)
 
 **The Literary Mystery:** From a writer's perspective, choosing to create a brand-new sport is a big risk.
 
