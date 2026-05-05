@@ -422,5 +422,6 @@ KasgaはKeikoの頭をぐっと自分の胸元に抱き寄せた.  そしてそ
 
 (End of Part 2.  Continued in Part 3.)
 
+
 ---
-[<- Previous](Chapter2.14-2.15.md) | [-> Next](Chapter3.1.md)
+[<- Previous](Chapter2.14-2.15.md) | [-> Next](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.1.html)

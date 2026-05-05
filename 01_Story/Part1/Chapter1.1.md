@@ -308,4 +308,4 @@ Castle Officeの最寄り駅から3つ離れた駅で足止めされたJuliaは,
 Juliaの考えは正しかった.  多くの場合, 敵はいきなりド派手に登場しない.  様子をうかがいながらじわじわと忍び寄ってくるのである.
 
 ---
-[<- Back to OUTLINE](../../01_Story/Story_Overview.md) | [-> Next](./Chapter1.2-1.3.md)
+[<- Back to Story Overview](../../01_Story/Story_Overview.md) | [-> Next](./Chapter1.2-1.3.md)
