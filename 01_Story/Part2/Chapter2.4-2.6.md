@@ -12,6 +12,17 @@ cssclasses:
 <a id="chapter2.4"></a>
 ## Chapter 2.4: The Looming Shadow of the Mayor
 
+### Overview (Spoiler-Free)
+
+An emergency Kassen Representative Council is convened after two Castle Office Directors are arrested. The four Club Managers — Rudra, Alces, Aila, and Crista — gather with the remaining Directors to discuss how to respond to Mayor Goblino's growing aggression. The meeting raises a critical question about Kasga's role, and a long-hidden truth about the mayor's true intentions toward her is finally brought into the open.
+
+<details>
+<summary>Detailed Summary</summary>
+With Directors Haruki and Lerhi under arrest, Director Monica convenes an emergency Kassen Representative Council — the eight-member decision-making body of Castle Office and the four Club Managers. The first agenda item is admitting Kasga as a new Council member, which all four Club Managers support unanimously. When Kasga enters and takes her seat, the atmosphere shifts: the group intuitively recognizes her as their true leader. 
+Monica then discloses what has been concealed: Mayor Goblino is demanding Castle Office surrender ownership of Castle Park and its buildings and, more alarmingly, that internal intelligence suggests he wants Kasga eliminated, not merely sidelined, because he senses she holds some mysterious influence over Hanasaka that obstructs his ambitions. Kasga absorbs the shock with composure, initially suggesting she could simply step down as Unifier to relieve the pressure, but the Club Managers respond with fierce refusals. She agrees to stay. 
+The two arrested Directors are released within 40 hours, as the charges were unprovable. Monica then arranges for Kasga to quietly relocate from Tokyo to a safer residence in South-Musashi, with police protection secured through a deal with the regional governor.
+</details>
+
 ### Scene 2.4.1: 
 
 “断じて許さん!”
@@ -222,6 +233,17 @@ Monicaは不動産業者になった気分でKasgaに住み替えを勧めた.
 <a id="chapter2.5"></a>
 ## Chapter 2.5: Kasga, the Voiceless Singer
 
+### Overview (Spoiler-Free)
+
+Director Lerhi visits Kasga's new office in South-Musashi and hears deeply troubling news from her manager Naoe. The chapter traces the origins of Kasga's identity — her real name, her stage name, and the carefully designed path that led her to become both a singer and the Kassen community's Unifier. Meanwhile, Kasga herself opens up to Naoe about the weight she carries, and what she is willing to endure.
+
+<details>
+<summary>Detailed Summary</summary>
+Lerhi visits Kasga's new South-Musashi office and learns from her manager Naoe that since attending the Council meeting and learning of the mayor's intent to kill her, Kasga has been unable to produce a full singing voice — a potentially career-ending condition she is treating with psychiatric medication. 
+The chapter reveals Kasga's background: born "Taketori Harumi," she was transformed by Lerhi and Naoe into the stage persona "Uesgi Kasga" and then into the Hanasaka citizen "Kasga Wisteria," designed to become a beloved, cross-cultural figure who could serve as both a successful singer and the Kassen community's Unifier. Naoe's company, Haruppi Office, was never about commercial profit but about building Kasga into a figure who transcended nationality, age, and ideology. In a late-night conversation at the office, Kasga tells Naoe she understands she has no real escape, and that she will keep walking her thorny path — but reserves the right to flee if she truly breaks. 
+The chapter ends with Lerhi hinting to Naoe that something significant is about to happen in Hanasaka in June, and that Kasga is better off staying away.
+</details>
+
 ### Scene 2.5.1: 
 
 “すみません, わざわざ来ていただきまして.”
@@ -415,6 +437,16 @@ Naoeはそれを聞いて, 何か危険なことがHanasakaで起こるのか声
 <a id="chapter2.6"></a>
 ## Chapter 2.6: Those Who Protect Kasga
 
+### Overview (Spoiler-Free)
+
+Castle Office grapples with the fallout of Kasga's illness becoming public, and Fighters across the community respond in an unexpected way. Meanwhile, Keiko — devastated by the news — is struggling badly, and those around her take quiet steps to help. The chapter culminates in a brief but deeply meaningful phone call between Kasga and Keiko, with a quiet reminder that even the most healing moments may not last.
+
+<details>
+<summary>Detailed Summary</summary>
+Castle Office holds an emergency managers' meeting and acknowledges that revealing the mayor's intent to Kasga was a catastrophic misjudgment — one that may have ended her singing career. When Haruppi Office publicly announces that Kasga is unable to sing and is resting abroad for a month, the predictable backlash against Castle Office follows. However, the Fighters themselves respond in a way no one anticipated: rather than attacking Castle Office, they turn inward, post personal messages about Kasga, and ask what they as a community failed to do to protect her. 
+Keiko, meanwhile, is so devastated she can barely function, and Captain Soa alerts Club Manager Aila. Aila contacts Lerhi, who asks Naoe to open a brief communication window. Kasga and Keiko speak by voice call for ten minutes — most of it spent with Keiko crying and Kasga consoling her — but the conversation ends warmly, with Kasga privately agreeing to accept one monthly call from Keiko. The chapter closes with a quiet warning: the healing of this day will be undone entirely twenty-four days later.
+</details>
+
 ### Scene 2.6.1: 
 
 うろちょろするなとPrishaに叱責されていたにもかかわらず, Lerhiが6月1日に市外に出て, Kasgaに物理的に直接会って話をして確認してきた彼女の現状は, 翌2日, Castle OfficeのDirectorたちとSection Managerたちが参加するマネージャー会議で共有された. 
@@ -582,4 +614,4 @@ Naoeは, いつも何かをたくらんでいそうなCastle Officeには不信�
 だが, この日の2人の会話による治癒の効果も, それから24日後に全く無になってしまうのであった.
 
 ---
-[<- Previous](./Part2_Chapter2.1-2.3.md) | [-> Next](./Part2_Chapter2.7-2.9.md)
+[<- Previous](Chapter2.2-2.3.md) | [-> Next](Chapter2.7-2.8.md)
