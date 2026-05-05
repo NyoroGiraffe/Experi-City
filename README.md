@@ -273,4 +273,4 @@ Nyoro Giraffe
 
 **Ver. 1.2.00:** May 5, 2026
 - **Added English summaries to every chapter** (a spoiler-free overview and a detailed summary containing spoilers) to improve readability using AI.
-- Some changes to Chapter 2.16.
+- Some changes to Chapters 2.7 and 2.16.
