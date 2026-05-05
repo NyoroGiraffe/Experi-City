@@ -582,4 +582,4 @@ Akioは, 石集めのアプリのお告げに基づけばKasgaが11月9日に殺
 彼の申し出にJuliaは3秒ほど沈黙したが, “分かりました.  じゃあ, 私からMoglaさんに問い合わせてみるけど, あのかたも忙しいから, 今回はすぐにアポイントメントがとれないと思います.  それでも良ければ, お願いはしてみるわ.  Yugoさんと一緒でもいいわよ.”
 
 ---
-[<- Previous](Chapter2.9-2.10.md) | [-> Next](Chapter2.13.md)
+[<- Previous](Chapter2.9-2.10.md) | [-> Next](Chapter2.13.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

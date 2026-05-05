@@ -411,4 +411,4 @@ Lemolainは, 今日, すなわち8月4日を特別な日として自らの記憶
 >“吾道一以之貫” roughly translates to “My way is all along one thread.” in English, and “夫子之道, 忠恕而已矣” translates to “The Master's way is simply to show consideration to others.” However, there are various translations, so if you are interested, please look into them.
 
 ---
-[<- Previous](Chapter2.11-2.12.md) | [-> Next](Chapter2.14-2.15.md)
+[<- Previous](Chapter2.11-2.12.md) | [-> Next](Chapter2.14-2.15.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)

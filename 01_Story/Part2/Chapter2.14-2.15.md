@@ -485,4 +485,4 @@ Akioは, 今度は半笑いをすることなく, 確かにそうであればい
 "にもかかわらず, もしFighterが敵の襲撃の日に戦いに参加するようなことがあるとしたら, それはその発動条件に関わるからなのかもしれない.  Akioさんとしては, その青い光が何なのか, そしてFighterが戦いに参加するとしたらそれはどういう意味があるのかを探ることが大事な仕事なんじゃないかな.”
 
 ---
-[<- Previous](Chapter2.13.md) | [-> Next](Chapter2.16.md)
+[<- Previous](Chapter2.13.md) | [-> Next](Chapter2.16.md)  |  [-> Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)  |  [-> README](https://nyorogiraffe.github.io/Experi-City/README.html)
