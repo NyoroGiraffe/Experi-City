@@ -163,11 +163,11 @@ Experimental Cities are powered by a wide range of sophisticated information sys
 
 ## 1. SCA (Smart Community Architecture)
 
-This is the **fundamental design philosophy** and basic architecture used to manage Experimental Cities. It serves as the framework through which the cities' core philosophies are implemented via technology.
+This is the **fundamental design philosophy** and basic architecture used to manage Experimental Cities. It serves as the framework through which the cities' core philosophies are implemented via technology. In other words, the SCA embodies the principles of the “Philosophy of the Experimental Cities” and the “Charter of Experimental Cities” as the core design and operational philosophy underpinning each city’s information systems; similarly, the AI "Flora" was developed and is operated based on the SCA.
 
 ## 2. PSP (Public Service Platform)
 
-The **common information system infrastructure** that provides essential daily services to citizens. It integrates the city's administrative, legislative, and judicial functions into a unified complex,.
+The **common information system infrastructure** that provides essential daily services to citizens. It integrates the city's administrative, legislative, and judicial functions into a unified complex. In other words, the PSP embodies the “SCA (Smart Community Architecture)” concept as a common platform for operating the information systems deployed in each city, enabling them to function not only within their own cities but also in coordination with other cities; Politis, Themis, and all other systems are operated on the PSP.
 
 ## 3. Politis
 
