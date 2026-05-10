@@ -13,7 +13,7 @@ cssclasses:
 - **Language:** 
 	- Story: Japanese
 	- Other materials: English
-- **Story Latest Version:** 1.2.00
+- **Story Latest Version:** 1.2.01
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -274,3 +274,6 @@ Nyoro Giraffe
 **Ver. 1.2.00:** May 5, 2026
 - **Added English summaries to every chapter** (a spoiler-free overview and a detailed summary containing spoilers) to improve readability using AI.
 - Some changes to Chapters 2.7 and 2.16.
+
+**Ver. 1.2.01:** May 10, 2026
+- Some changes to Chapters 2.7.
