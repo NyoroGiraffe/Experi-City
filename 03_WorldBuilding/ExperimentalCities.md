@@ -75,12 +75,11 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 • **Taxation and Asset Regulation:** To ensure resource circulation, high taxes are imposed on high-value private real estate and tangible assets. However, essential infrastructure remains protected: 
 * **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures the means of social production remain robust and decentralized.
 
-• **Civic Bonds:** 
-In Experimental Cities, large-scale infrastructure projects and expensive industrial equipment are sometimes funded through special municipal bonds. 
-Unlike Experi-Coins, these bonds do **not expire and may be held for long periods of time.** 
-Both citizens and people outside the city are allowed to purchase them. 
-However, the city does not repay bondholders with money when the bond reaches maturity. Instead, **bondholders receive long-term access rights to the infrastructure or services created by the project.** For example, a person who helped fund a railway may later gain the right to use that railway for free or with special priority, depending on the amount they contributed. 
-This system exists not because Experimental Cities oppose investment itself, but because their people believe that **secure access to important resources and services is more valuable than simply increasing personal wealth.** In this society, practical access and participation are considered a greater form of richness than the accumulation of money or property.
+• **Civic Bonds:** In Experimental Cities, large-scale infrastructure projects and expensive industrial equipment are sometimes funded through special municipal bonds. 
+- Unlike Experi-Coins, these bonds do **not expire and may be held for long periods of time.** 
+- Both citizens and people outside the city are allowed to purchase them. 
+- However, the city does not repay bondholders with money when the bond reaches maturity. Instead, **bondholders receive long-term access rights to the infrastructure or services created by the project.** For example, a person who helped fund a railway may later gain the right to use that railway for free or with special priority, depending on the amount they contributed. 
+- This system exists not because Experimental Cities oppose investment itself, but because their people believe that **secure access to important resources and services is more valuable than simply increasing personal wealth.** In this society, practical access and participation are considered a greater form of richness than the accumulation of money or property.
 
 ## **5. E.E. (Establishment Era)**
 
