@@ -15,7 +15,7 @@ cssclasses:
 # Definition 
 
 **23** cities established around the globe as centers for conducting various social experiments aimed at creating a safe and happy living environment for everyone. These cities were formed by carving out portions of territories from several existing nations at the time. However, they were completely independent cities, both administratively and judicially, beyond the reach of the constitutions and laws of the countries that ceded the land. In everyday conversation, they are often abbreviated as "**Experi-City**" or "**Experi-Cities**."
-Both [**Hanasaka**](./HanasakaCity.md) and **Kochipina** featured in this story are the Experimental Cities.
+[**Hanasaka**](./HanasakaCity.md), **Kochipina,** and **Nadiapolis** featured in this story are the Experimental Cities.
 
 ---
 # **League of Experimental Cities**
@@ -33,6 +33,7 @@ The text of the “Philosophy of the Experimental Cities” established by the L
 "**We understand that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule. To realize this, we, as citizens of the Experimental Cities, solemnly pledge on our honor to practice what we can daily and contribute to our planet and society.**"
 
 ---
+<a id="rules"></a>
 # Experimental Initiatives and Rules
 
 ## **1. Universal Basic Income (UBI) and Experi-Coins (XC)**
@@ -127,6 +128,7 @@ Raising quadrupeds and birds requires not only space for the animals themselves 
 On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
 
 ---
+<a id="Flora"></a>
 # Flora
 
 ### **Definition:** 
@@ -157,7 +159,8 @@ A term used by [**Castle Office**](./HanasakaCastle.md) personnel, meaning the s
 
 
 ---
-# City Management
+<a id="city-is"></a>
+# City Management Systems
 
 Experimental Cities are powered by a wide range of sophisticated information systems.
 
