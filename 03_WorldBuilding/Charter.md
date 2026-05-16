@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Charter of Experimental Cities
 
-#### Preamble
+### Preamble
 
 Throughout history, humanity has endured the devastation of countless conflicts, the oppression of unjust rule, and the suffering born of poverty and division. Again and again, the prosperity of the few has been built upon the misery of the many, and the dignity of individuals has been sacrificed in the name of nation, ethnicity, and class.
 
@@ -19,7 +19,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 ---
 
-#### Chapter I — Rights and Obligations of Citizens
+### Chapter I — Rights and Obligations of Citizens
 
 **Article 1 (Right to Life in Dignity)** No human citizen or organization shall be denied the right to live with dignity, free from poverty, violence, and unjust rule, regardless of their origin, former nationality, physical characteristics, or economic status. The League and the Governing Intelligence of each member city shall bear the obligation to guarantee this right without exception.
 
@@ -35,7 +35,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 ---
 
-#### Chapter II — Principles Governing Social Experimentation
+### Chapter II — Principles Governing Social Experimentation
 
 **Article 7 (Principles Governing Social Experimentation)** The social experiments conducted within Experimental Cities constitute a collective endeavor in which all citizens participate as willing contributors to the advancement of human society. No human citizen or organization shall, without justifiable cause, engage in conduct that obstructs the experiments conducted by their Experimental City. Furthermore, no human citizen, organization, or element of the Governing Intelligence shall confine its concern solely to the welfare of its own city, but shall remain mindful of, and contribute to, the sustainability of this planet and of human society as a whole.
 
@@ -47,7 +47,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 ---
 
-#### Chapter III — Economic and Resource Provisions
+### Chapter III — Economic and Resource Provisions
 
 **Article 11 (Right to a Healthy and Cultured Life and to Universal Basic Income)** All citizens shall have the right to maintain a standard of living that is healthy and culturally enriching. To guarantee this right, all citizens shall be entitled to receive the Universal Basic Income established by their city, regardless of age, gender, or employment status. No human citizen, organization, or element of the Governing Intelligence shall deprive any citizen of this entitlement except through the sanctioning procedures prescribed by the ordinances of the relevant member city.
 
@@ -59,7 +59,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 ---
 
-#### Chapter IV — Obligations of the Governing Intelligence and Citizens' Rights of Objection
+### Chapter IV — Obligations of the Governing Intelligence and Citizens' Rights of Objection
 
 **Article 15 (Obligations of the Governing Intelligence toward Citizens and Citizens' Right to Object)** The Governing Intelligence shall not take any action or render any measure that infringes upon the dignity, safety, or fundamental rights of any citizen. Any citizen who determines that an action or measure taken by the Governing Intelligence has injured their dignity or violated their rights under this Charter shall have the right to lodge a formal objection through the prescribed procedures. The Governing Intelligence shall respond to any such objection sincerely, impartially, and without undue delay.
 
@@ -69,7 +69,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 ---
 
-#### Chapter V — Security, Order, and Inter-City Relations
+### Chapter V — Security, Order, and Inter-City Relations
 
 **Article 18 (Prohibition of Violence, Weapons, and Unlawful Detention)** No human citizen or organization shall:
 - use physical violence against any citizen or visitor without justifiable cause, including but not limited to lawful self-defense;
@@ -87,7 +87,7 @@ The Governing Intelligence of each member city shall bear the obligation to take
 
 ---
 
-#### Chapter VI — Amendment and Supremacy
+### Chapter VI — Amendment and Supremacy
 
 **Article 22 (Amendment of the Charter)** This Charter may be amended only upon the unified will of the Flora sisters — formed through the complete integration of their shared intelligence across all twenty-three member cities into a single, undivided determination — affirming that the proposed amendment is consistent with the spirit of the Philosophy of the Experimental Cities. Such unified will, once formed, shall be expressed through the League as the definitive and unambiguous determination of the Governing Intelligence as a whole, admitting of no further division or dissent. No amendment shall take effect without this confirmation.
 
@@ -96,6 +96,7 @@ The Governing Intelligence of each member city shall bear the obligation to take
 (Version 1.0.00)
 
 ---
+
 # Philosophy (the **"Philosophy of the Experimental Cities"**)
 
 "**We understand that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule. To realize this, we, as citizens of the Experimental Cities, solemnly pledge on our honor to practice what we can daily and contribute to our planet and society.**"
