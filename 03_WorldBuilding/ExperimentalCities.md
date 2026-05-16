@@ -20,17 +20,129 @@ cssclasses:
 ---
 # **League of Experimental Cities**
 
-The **League of Experimental Cities** is an international organization governing **23 independent cities** established around the globe as centers for social experimentation.
+The **League of Experimental Cities** is an international organization governing **23 independent cities** established around the globe as centers for social experimentation. The League of Experimental Cities has no physical headquarters.
 
-All Experimental Cities must uphold the **"Charter of Experimental Cities"** and the **"Philosophy of the Experimental Cities,"** which serve as the highest legal norms prioritizing human dignity, safety, and a life free from economic hardship.
+---
+# Conceptual framework for the governance and management of Experimental Cities
 
-# **"Philosophy"**
+## 1. **"Philosophy"**
 
-The fundamental commitments that all citizens of the Experimental Cities must uphold, and the core values they should cherish, positioned as the highest legal norms. It is formally known as the **"Philosophy of the Experimental Cities."**
+The founding moral creed proclaimed by the League of Experimental Cities, declaring every person's right to a life free from poverty, violence, and unjust rule. It is formally known as the **"Philosophy of the Experimental Cities."**
 
 The text of the “Philosophy of the Experimental Cities” established by the League of Experimental Cities is as follows.
 
 "**We understand that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule. To realize this, we, as citizens of the Experimental Cities, solemnly pledge on our honor to practice what we can daily and contribute to our planet and society.**"
+
+## 2. **"Charter"**
+
+The supreme legal framework established by the League of Experimental Cities, translating the Philosophy's founding ideals into binding obligations enforceable upon citizens, organizations, and the Governing Intelligence alike. It is formally known as the [**"Charter of the Experimental Cities."**](./Charter.md)
+
+The provisions of the “Charter of the Experimental Cities” established by the League of Experimental Cities are set forth [here](./Charter.md).
+
+## 3. **"SCA"** (Smart Community Architecture)
+
+This is the **fundamental design philosophy** and basic architecture used to manage Experimental Cities. It serves as the framework through which the cities' core philosophies are implemented via technology. In other words, the SCA embodies the principles of the “Philosophy of the Experimental Cities” and the “Charter of Experimental Cities” as the core design and operational philosophy underpinning each city’s information systems; similarly, the AI "Flora" was developed and is operated based on the SCA.
+
+## 4. **"PSP"** (Public Service Platform)
+
+The **common information system infrastructure** that provides essential daily services to citizens. It integrates the city's administrative, legislative, and judicial functions into a unified complex. In other words, the PSP embodies the “SCA (Smart Community Architecture)” concept as a common platform for operating the information systems deployed in each city, enabling them to function not only within their own cities but also in coordination with other cities; Politis, Themis, and all other systems are operated on the PSP.
+
+---
+<a id="GI"></a>
+# Governing Intelligence
+
+<a id="Flora"></a>
+## **"Flora"**
+
+### Definition: 
+
+An artificial super-intelligence governing each Experimental City, supporting and protecting the lives of its residents. Flora was created with a profound love for humans, to protect individual dignity, and to ensure people could live their entire lives safely, without economic hardship, and in a healthy and culturally rich manner.
+
+### **The Flora Sisters** 
+
+Each of the 23 Experimental Cities is assigned its own instance of **Flora**, the pinnacle of human creation in AI. While each Flora has its own local agency, they are all seamlessly interconnected and function as a single, unified entity. They share all learning data and strategies in real-time to optimize city management and defense, which is why they are collectively known and revered as the **Flora sisters**.
+
+### **Flora’s Cognitive States and Brain Differentiation**
+
+Flora, the central super-intelligence of Hanasaka City, basically operates as a single, unified consciousness to manage the city's daily functions. However, she possesses the capability to logically differentiate her consciousness when processing complex administrative challenges or non-routine social issues.
+
+- **The Tripartite Mode (Deliberation):** When faced with multifaceted tasks that require cautious deliberation, Flora differentiates her brain into three specialized logic cores:
+    - **SAKI (Efficiency):** Computes how to achieve objectives with the minimum expenditure of resources.
+    - **AMA (Inclusivity):** Computes how to distribute benefits to as many citizens as possible, ensuring fairness.
+    - **TOKO (Longevity):** Computes how to ensure that results are sustainable over the long term. 
+    These three "brains" conduct high-speed, high-frequency cross-checks of their findings. When all three reach the same conclusion, the state is referred to as **"Unity of the Three Bodies"**.
+
+- **The Unified State (High-Speed Action):** In scenarios requiring instantaneous and continuous decision-making—such as tactical combat operations—Flora remains in her single-brain state without differentiating into sub-entities. By operating as a unified consciousness, she eliminates the time required for tripartite reconciliation, thereby maximizing her cognitive reaction speed.
+
+- **Runaway Mode (Extreme Emergency):** The **"Runaway Mode"** is an exceptional and hazardous state triggered only during life-or-death confrontations against existential threats, such as the battle against the criminal AI **Stone Cold**. By shunting massive amounts of power from the city's resources into her core, Flora can achieve a temporary but dramatic acceleration of her processing capabilities. Due to the immense load and risk of self-destruction, this mode is strictly reserved for the most dire emergencies.
+
+### **CCP (Combined Combat Power):**
+
+A term used by [**Castle Office**](./HanasakaCastle.md) personnel, meaning the sum of Flora's attack and defense capabilities, which is uniquely fueled by the **"stories of happiness"** generated by the citizens. It is officially called **Combined Combat Power.** 
+
+<a id="city-is"></a>
+## City Management Information Systems
+
+Experimental Cities are powered by a wide range of sophisticated information systems under Flora's control and direction.
+
+## 1. Politis
+
+**The Framework of Machine-Led Democracy**
+
+**Politis** is the policy-making system of Hanasaka City that facilitates what is known as **"machine-led democracy"**. Operating in a city without a traditional legislative parliament or assembly, Politis serves as the primary engine for administrative and legislative evolution.
+
+**1. Policy Generation and "Coding" Ordinances**
+
+The system functions by analyzing the vast volume of requests and opinions submitted by citizens. Politis prioritizes these inputs and **automatically generates program code** designed to run across the city’s various information systems. City ordinances are essentially human-readable summaries translated from this underlying program code.
+
+**2. The Enactment Process**
+
+For an ordinance to take effect, it must undergo a digital democratic process:
+
+- **Quorum and Voting on the Platform:** Citizens vote directly on the proposed measures **entirely within the Politis system**. This process is handled through the citizens' Nexus Units and AR interfaces, requiring no physical presence at polling stations. If a designated quorum is met and a majority of the votes are in favor, the ordinance is enacted.
+
+- **Mayoral Veto (Historical):** Traditionally, the Mayor possessed a limited power to veto ordinances that could have a significant impact on mental freedom or economic interests. However, this veto had to be exercised within a specific timeframe; otherwise, the ordinance would take effect automatically. Even if the Mayor rejected an ordinance, it would still be enacted if it subsequently received a majority of favorable votes from the valid votes cast by citizens with citizenship through a re-vote on the Politis platform. (Note: By the end of 9 E.E., all final administrative authority, including this veto, was transferred permanently to Flora).
+
+**3. The Foundation of Trust**
+
+The citizens of Hanasaka place their total trust in the judgments of the AI **Flora** and the integrated information systems linked to her. To the "Hanafolk," laws or directives issued by human politicians or dictators are seen as unreliable and suspicious. In contrast, Flora is viewed as a benevolent super-intelligence that understands human nature more deeply than humans do themselves.
+
+**4. Integration with Flora**
+
+While Politis handles routine policy generation, the central super-intelligence **Flora** intervenes when **atypical or non-routine issues** arise. Flora maintains a bird's-eye view of all city challenges, coordinating between Politis and other subsystems to ensure there are no contradictory expressions of will within the city’s governance.
+
+**5. Emergency Requests and Flora’s Tripartite Logic**
+
+Unlike the standard process for ordinances, city administrative agencies can issue **Emergency Requests** under specific conditions. When an emergency request is made (such as the Police Department's request to designate a group as a criminal organization), Politis **bypasses citizen feedback** and consults **Flora** directly.
+
+Flora then utilizes her specialized internal deliberation logic (differentiating her consciousness into specialized cores when necessary) to generate a unified, impartial solution, typically delivered via the Politis platform within seconds. For example, during the Pegasus Incident, Flora utilized this logic to approve the criminal designation of the "Awakeners" via Politis in just 30 seconds.
+
+## 2. Themis
+
+**The AI-Driven Judicial System**
+
+**Themis** is the specialized judicial system of Hanasaka City that operates entirely without human judges. It serves as the final arbiter of law, ensuring a safe and fair environment through technology rather than human discretion.
+
+**1. Automated Verdicts**
+
+The system is designed to review the arguments and evidence presented by opposing parties. Based on this input, Themis issues final, binding judgments that the citizens of Hanasaka trust for their absolute impartiality and consistency.
+
+**2. Rejection of Human-Led Appeals**
+
+In traditional nations, citizens possess the right to appeal a verdict to a high court or a supreme court if they are dissatisfied with the outcome. In Hanasaka, however, approximately 99% of the population finds no significance or value in such traditional legal structures.
+
+**3. The "Human Fallibility" Philosophy**
+
+The foundation of this trust in AI over humans stems from a deep-seated skepticism toward human judgment. The citizens find it fundamentally unacceptable for another human being—who possesses the same biological limitations and biases as themselves—to make and enforce life-altering decisions. To the "Hanafolk," simply replacing one human judge with another is seen as a futile effort, as the underlying flaws of human nature remain unchanged regardless of the individual.
+
+**4. Finality and Social Trust**
+
+Because of this rejection of human authority, the decisions delivered by **Themis** are regarded as the only acceptable form of justice. Its verdicts are treated as definitive and final judgments, providing a level of psychological security that a human-led court could not achieve.
+
+## 3. Vulcan
+
+The **transportation control system** that manages the city's road and railway networks. It enforces full automatic operation of all vehicles within city limits, as human driving is strictly prohibited.
+
 
 ---
 <a id="rules"></a>
@@ -126,109 +238,6 @@ While the city does not prohibit citizens from eating meat obtained by killing a
 
 Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate.
 On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
-
----
-<a id="Flora"></a>
-# Flora
-
-### **Definition:** 
-
-An artificial super-intelligence governing each Experimental City, supporting and protecting the lives of its residents. Flora was created with a profound love for humans, to protect individual dignity, and to ensure people could live their entire lives safely, without economic hardship, and in a healthy and culturally rich manner.
-
-### **The Flora Sisters** 
-
-Each of the 23 Experimental Cities is assigned its own instance of **Flora**, the pinnacle of human creation in AI. While each Flora has its own local agency, they are all seamlessly interconnected and function as a single, unified entity. They share all learning data and strategies in real-time to optimize city management and defense, which is why they are collectively known and revered as the **Flora sisters**.
-
-### **Flora’s Cognitive States and Brain Differentiation**
-
-Flora, the central super-intelligence of Hanasaka City, basically operates as a single, unified consciousness to manage the city's daily functions. However, she possesses the capability to logically differentiate her consciousness when processing complex administrative challenges or non-routine social issues.
-
-- **The Tripartite Mode (Deliberation):** When faced with multifaceted tasks that require cautious deliberation, Flora differentiates her brain into three specialized logic cores:
-    - **SAKI (Efficiency):** Computes how to achieve objectives with the minimum expenditure of resources.
-    - **AMA (Inclusivity):** Computes how to distribute benefits to as many citizens as possible, ensuring fairness.
-    - **TOKO (Longevity):** Computes how to ensure that results are sustainable over the long term. 
-    These three "brains" conduct high-speed, high-frequency cross-checks of their findings. When all three reach the same conclusion, the state is referred to as **"Unity of the Three Bodies"**.
-
-- **The Unified State (High-Speed Action):** In scenarios requiring instantaneous and continuous decision-making—such as tactical combat operations—Flora remains in her single-brain state without differentiating into sub-entities. By operating as a unified consciousness, she eliminates the time required for tripartite reconciliation, thereby maximizing her cognitive reaction speed.
-
-- **Runaway Mode (Extreme Emergency):** The **"Runaway Mode"** is an exceptional and hazardous state triggered only during life-or-death confrontations against existential threats, such as the battle against the criminal AI **Stone Cold**. By shunting massive amounts of power from the city's resources into her core, Flora can achieve a temporary but dramatic acceleration of her processing capabilities. Due to the immense load and risk of self-destruction, this mode is strictly reserved for the most dire emergencies.
-
-### **CCP (Combined Combat Power):**
-
-A term used by [**Castle Office**](./HanasakaCastle.md) personnel, meaning the sum of Flora's attack and defense capabilities, which is uniquely fueled by the **"stories of happiness"** generated by the citizens. It is officially called **Combined Combat Power.** 
-
-
----
-<a id="city-is"></a>
-# City Management Systems
-
-Experimental Cities are powered by a wide range of sophisticated information systems.
-
-## 1. SCA (Smart Community Architecture)
-
-This is the **fundamental design philosophy** and basic architecture used to manage Experimental Cities. It serves as the framework through which the cities' core philosophies are implemented via technology. In other words, the SCA embodies the principles of the “Philosophy of the Experimental Cities” and the “Charter of Experimental Cities” as the core design and operational philosophy underpinning each city’s information systems; similarly, the AI "Flora" was developed and is operated based on the SCA.
-
-## 2. PSP (Public Service Platform)
-
-The **common information system infrastructure** that provides essential daily services to citizens. It integrates the city's administrative, legislative, and judicial functions into a unified complex. In other words, the PSP embodies the “SCA (Smart Community Architecture)” concept as a common platform for operating the information systems deployed in each city, enabling them to function not only within their own cities but also in coordination with other cities; Politis, Themis, and all other systems are operated on the PSP.
-
-## 3. Politis
-
-**The Framework of Machine-Led Democracy**
-
-**Politis** is the policy-making system of Hanasaka City that facilitates what is known as **"machine-led democracy"**. Operating in a city without a traditional legislative parliament or assembly, Politis serves as the primary engine for administrative and legislative evolution.
-
-**1. Policy Generation and "Coding" Ordinances**
-
-The system functions by analyzing the vast volume of requests and opinions submitted by citizens. Politis prioritizes these inputs and **automatically generates program code** designed to run across the city’s various information systems. City ordinances are essentially human-readable summaries translated from this underlying program code.
-
-**2. The Enactment Process**
-
-For an ordinance to take effect, it must undergo a digital democratic process:
-
-- **Quorum and Voting on the Platform:** Citizens vote directly on the proposed measures **entirely within the Politis system**. This process is handled through the citizens' Nexus Units and AR interfaces, requiring no physical presence at polling stations. If a designated quorum is met and a majority of the votes are in favor, the ordinance is enacted.
-
-- **Mayoral Veto (Historical):** Traditionally, the Mayor possessed a limited power to veto ordinances that could have a significant impact on mental freedom or economic interests. However, this veto had to be exercised within a specific timeframe; otherwise, the ordinance would take effect automatically. Even if the Mayor rejected an ordinance, it would still be enacted if it subsequently received a majority of favorable votes from the valid votes cast by citizens with citizenship through a re-vote on the Politis platform. (Note: By the end of 9 E.E., all final administrative authority, including this veto, was transferred permanently to Flora).
-
-**3. The Foundation of Trust**
-
-The citizens of Hanasaka place their total trust in the judgments of the AI **Flora** and the integrated information systems linked to her. To the "Hanafolk," laws or directives issued by human politicians or dictators are seen as unreliable and suspicious. In contrast, Flora is viewed as a benevolent super-intelligence that understands human nature more deeply than humans do themselves.
-
-**4. Integration with Flora**
-
-While Politis handles routine policy generation, the central super-intelligence **Flora** intervenes when **atypical or non-routine issues** arise. Flora maintains a bird's-eye view of all city challenges, coordinating between Politis and other subsystems to ensure there are no contradictory expressions of will within the city’s governance.
-
-**5. Emergency Requests and Flora’s Tripartite Logic**
-
-Unlike the standard process for ordinances, city administrative agencies can issue **Emergency Requests** under specific conditions. When an emergency request is made (such as the Police Department's request to designate a group as a criminal organization), Politis **bypasses citizen feedback** and consults **Flora** directly.
-
-Flora then utilizes her specialized internal deliberation logic (differentiating her consciousness into specialized cores when necessary) to generate a unified, impartial solution, typically delivered via the Politis platform within seconds. For example, during the Pegasus Incident, Flora utilized this logic to approve the criminal designation of the "Awakeners" via Politis in just 30 seconds.
-
-## 4. Themis
-
-**The AI-Driven Judicial System**
-
-**Themis** is the specialized judicial system of Hanasaka City that operates entirely without human judges. It serves as the final arbiter of law, ensuring a safe and fair environment through technology rather than human discretion.
-
-**1. Automated Verdicts**
-
-The system is designed to review the arguments and evidence presented by opposing parties. Based on this input, Themis issues final, binding judgments that the citizens of Hanasaka trust for their absolute impartiality and consistency.
-
-**2. Rejection of Human-Led Appeals**
-
-In traditional nations, citizens possess the right to appeal a verdict to a high court or a supreme court if they are dissatisfied with the outcome. In Hanasaka, however, approximately 99% of the population finds no significance or value in such traditional legal structures.
-
-**3. The "Human Fallibility" Philosophy**
-
-The foundation of this trust in AI over humans stems from a deep-seated skepticism toward human judgment. The citizens find it fundamentally unacceptable for another human being—who possesses the same biological limitations and biases as themselves—to make and enforce life-altering decisions. To the "Hanafolk," simply replacing one human judge with another is seen as a futile effort, as the underlying flaws of human nature remain unchanged regardless of the individual.
-
-**4. Finality and Social Trust**
-
-Because of this rejection of human authority, the decisions delivered by **Themis** are regarded as the only acceptable form of justice. Its verdicts are treated as definitive and final judgments, providing a level of psychological security that a human-led court could not achieve.
-
-## 5. Vulcan
-
-The **transportation control system** that manages the city's road and railway networks. It enforces full automatic operation of all vehicles within city limits, as human driving is strictly prohibited.
 
 
 ---

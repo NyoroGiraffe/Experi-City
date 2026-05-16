@@ -166,8 +166,9 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 # **Essential Guide**
 
 The following notes contain the foundational information required to understand the story outlined above.
-- [**Characters**](./02_Characters/Characters.md)
+- [**Characters**](./02_Characters/Characters.md) in the story
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
+- [**Charter of the Experimental Cities**](./Charter.md)
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle, "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)" and governed by the super-intelligence **"Flora"**.
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
