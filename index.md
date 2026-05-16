@@ -17,7 +17,7 @@ cssclasses:
 	- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)
 - **WORLD BUILDING**
 	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-	- [**Charter of the Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+	- [**Charter of the Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
 	- [**Hanasaka City**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html)
 	- [**Hanasaka Castle**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCastle.html)
 	- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)

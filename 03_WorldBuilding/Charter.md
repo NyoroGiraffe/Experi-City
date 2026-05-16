@@ -97,7 +97,7 @@ The Governing Intelligence of each member city shall bear the obligation to take
 
 ---
 
-# Philosophy (the **"Philosophy of the Experimental Cities"**)
+## Philosophy (the **"Philosophy of the Experimental Cities"**)
 
 "**We understand that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule. To realize this, we, as citizens of the Experimental Cities, solemnly pledge on our honor to practice what we can daily and contribute to our planet and society.**"
 
