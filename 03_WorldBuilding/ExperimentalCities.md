@@ -56,7 +56,7 @@ The **common information system infrastructure** that provides essential daily s
 
 ### Definition: 
 
-An artificial super-intelligence governing each Experimental City, supporting and protecting the lives of its residents. Flora was created with a profound love for humans, to protect individual dignity, and to ensure people could live their entire lives safely, without economic hardship, and in a healthy and culturally rich manner.
+An artificial super-intelligence governing each Experimental City, supporting and protecting the lives of its residents. Flora was created out of a profound love for humans, to protect individual dignity, and to ensure people could live their entire lives safely, without economic hardship, and in a healthy and culturally rich manner.
 
 ### **The Flora Sisters** 
 
@@ -160,7 +160,7 @@ The **transportation control system** that manages the city's road and railway n
 * **The Return and Re-issuance Mechanism:** Citizens have the option to "return" or "deposit" their excess XC back to the city's treasury. While these coins do not accrue interest, they are not permanently confiscated. **Upon a citizen's request after a designated period**, the city **re-issues** the equivalent amount in a **new monthly box** with a fresh expiration date. This allows for long-term planning without the inflationary pressure of traditional interest, provided the citizen proactively manages their assets. 
 * **Non-Bankable Currency:** XC cannot be deposited into traditional commercial banks to accumulate interest, nor can it be used as collateral in the conventional sense. The currency exists solely within the city’s proprietary digital ecosystem, ensuring that money remains a medium of exchange rather than a tool for capital accumulation.
 
-• **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the city reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
+• **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the Governing Intelligence reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 
 ## **2. Prohibition of Physical Cash**
 
@@ -168,11 +168,11 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 
 ## **3. Self-Sufficiency and Resource Management**
 
-• **Food Self-Sufficiency:** Because Experimental Cities places a strong emphasis on self-sufficiency in food and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
+• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
 • **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
-• **Social Contribution Activities:** In Experimental Cities, which places a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
+• **Social Contribution Activities:** In Experimental Cities, which place a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
 
 ## **4. Urban Planning and Wealth Policy**
 
@@ -182,7 +182,7 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 * **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city grants them the right to **continue using that same land rent-free** as a leaseholder. 
 * However, in the case of apartment buildings, the former owner is limited to using only the portion necessary for their own living, while the city directly leases the remaining portions to other citizens. Although the rent set by the city is determined based on the size and comfort of the residence, it is very low and can be easily paid with the Experi-Coins (XC) provided through the UBI.
 * **The "22-Day Mobility" Clause:** This rent-free arrangement is contingent on a legal commitment: if the city requests the land for urban optimization, the citizen must agree to **vacate the premises or terminate the business operations within 22 days**. 
-* **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a high-reward transition. 
+* **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a highly rewarding transition. 
 * **Enhanced Incentive for Peripheral Zones:** In strategic areas near the city borders, a more aggressive policy applies. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**, facilitating the rapid expansion of the Green Field Zone.
 
 • **Taxation and Asset Regulation:** To ensure resource circulation, high taxes are imposed on high-value private real estate and tangible assets. However, essential infrastructure remains protected: 
@@ -202,21 +202,13 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 
 • **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
 
-## **6. The Principle of Non-Inquiry into Origins**
-
-**The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
-
-**Core Provisions**:
-- **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
-- **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
-
-## **7. The Principle of Renunciation of Origins**
+## **6. The Principle of Renunciation of Origins**
 
 **The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
 
 **Core Requirements**:
-- **Renunciation of Nationality:** To obtain citizenship, individuals must **renounce their former nationalities**.
-- **Discarding Family Names:** Prospective citizens are required to **abandon their original family names**,.
+- **Renunciation of Nationality and any title of nobility or privileged status:** To obtain citizenship, individuals must **renounce their former nationalities and any title of nobility or privileged status**.
+- **Discarding Family Names:** Prospective citizens are required to **abandon their original family names**.
 - **Adoption of New Identities:** Residents **choose a new last name** (surname) of their own volition. 
 
 **Purpose and Significance**
@@ -225,16 +217,24 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 
 • **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**,.
 
+## **7. The Principle of Non-Inquiry into Origins**
+
+**The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
+
+**Core Provisions**:
+- **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
+- **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
+
 ## **8. Display of First Names**
 
-In Experimental Cities, when wearing smart glasses, the first names of people within a 5-meter radius automatically appear above their heads, making it easy to match a person’s face with their name, even if you’re meeting them for the first time. It is impossible to display an alias or pseudonym, and while only the first name is shown, people cannot hide their real names when physically close to others; this naturally encouraged citizens to behave with discretion.
+In Experimental Cities, when wearing smart glasses, the first names of people within a 5-meter radius automatically appear above their heads, making it easy to match a person’s face with their name, even if you’re meeting them for the first time. It is impossible to display an alias or pseudonym, and while only the first name is shown, people cannot hide their real names when physically close to others; this naturally encourages citizens to behave with discretion.
 
 (That said, names can be changed as many times as desired based on predetermined rules, and faces can be altered using “Facial Disguise,” so there is absolutely no guarantee that what you see today will be the same tomorrow.)
 
 ## **9. Restrictions on the Serving or Trading of Meat**
 
 Since Experimental Cities prohibit the serving or trading of meat from quadrupeds and birds, or any products derived from or prepared using such meat, all meat must be plant-based or cultured. As of 9 E.E., the only foods not prohibited were seafood and insects. 
-While the city does not prohibit citizens from eating meat obtained by killing animals, anyone wishing to purchase such meat or eat it at a restaurant had to go outside the city limits.  As a result, there are no restaurants serving meat within the city, and you will not find any meat on the shelves of supermarkets or butcher shops. 
+While the city does not prohibit citizens from eating meat obtained by killing animals, anyone wishing to purchase such meat or eat it at a restaurant has to go outside the city limits.  As a result, there are no restaurants serving meat within the city, and you will not find any meat on the shelves of supermarkets or butcher shops. 
 
 Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate.
 On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
