@@ -64,7 +64,7 @@ Each of the 23 Experimental Cities is assigned its own instance of **Flora**, th
 
 ### **Flora’s Cognitive States and Brain Differentiation**
 
-Flora, the central super-intelligence of Hanasaka City, basically operates as a single, unified consciousness to manage the city's daily functions. However, she possesses the capability to logically differentiate her consciousness when processing complex administrative challenges or non-routine social issues.
+Flora, the central super-intelligence of each Experimental City, basically operates as a single, unified consciousness to manage the city's daily functions. However, she possesses the capability to logically differentiate her consciousness when processing complex administrative challenges or non-routine social issues.
 
 - **The Tripartite Mode (Deliberation):** When faced with multifaceted tasks that require cautious deliberation, Flora differentiates her brain into three specialized logic cores:
     - **SAKI (Efficiency):** Computes how to achieve objectives with the minimum expenditure of resources.
@@ -83,13 +83,13 @@ A term used by [**Castle Office**](./HanasakaCastle.md) personnel, meaning the s
 <a id="city-is"></a>
 ## City Management Information Systems
 
-Experimental Cities are powered by a wide range of sophisticated information systems under Flora's control and direction.
+Each Experimental City is powered by a wide range of sophisticated information systems under Flora's control and direction.
 
 ## 1. Politis
 
 **The Framework of Machine-Led Democracy**
 
-**Politis** is the policy-making system of Hanasaka City that facilitates what is known as **"machine-led democracy"**. Operating in a city without a traditional legislative parliament or assembly, Politis serves as the primary engine for administrative and legislative evolution.
+**Politis** is the policy-making system of each Experimental City that facilitates what is known as **"machine-led democracy"**. Operating in a city without a traditional legislative parliament or assembly, Politis serves as the primary engine for administrative and legislative evolution.
 
 **1. Policy Generation and "Coding" Ordinances**
 
@@ -105,7 +105,7 @@ For an ordinance to take effect, it must undergo a digital democratic process:
 
 **3. The Foundation of Trust**
 
-The citizens of Hanasaka place their total trust in the judgments of the AI **Flora** and the integrated information systems linked to her. To the "Hanafolk," laws or directives issued by human politicians or dictators are seen as unreliable and suspicious. In contrast, Flora is viewed as a benevolent super-intelligence that understands human nature more deeply than humans do themselves.
+The citizens of Experimental Cities place their total trust in the judgments of the AI **Flora** and the integrated information systems linked to her. To the "Hanafolk," laws or directives issued by human politicians or dictators are seen as unreliable and suspicious. In contrast, Flora is viewed as a benevolent super-intelligence that understands human nature more deeply than humans do themselves.
 
 **4. Integration with Flora**
 
@@ -121,11 +121,11 @@ Flora then utilizes her specialized internal deliberation logic (differentiating
 
 **The AI-Driven Judicial System**
 
-**Themis** is the specialized judicial system of Hanasaka City that operates entirely without human judges. It serves as the final arbiter of law, ensuring a safe and fair environment through technology rather than human discretion.
+**Themis** is the specialized judicial system of each Experimental City that operates entirely without human judges. It serves as the final arbiter of law, ensuring a safe and fair environment through technology rather than human discretion.
 
 **1. Automated Verdicts**
 
-The system is designed to review the arguments and evidence presented by opposing parties. Based on this input, Themis issues final, binding judgments that the citizens of Hanasaka trust for their absolute impartiality and consistency.
+The system is designed to review the arguments and evidence presented by opposing parties. Based on this input, Themis issues final, binding judgments that the citizens of Experimental Cities trust for their absolute impartiality and consistency.
 
 **2. Rejection of Human-Led Appeals**
 
