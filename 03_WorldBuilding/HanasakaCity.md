@@ -217,14 +217,14 @@ Mayor’s Secretary: Zansi
 - Director: Toppo
 - Deputy Director: Ron 
 
-	### **Cyber Patrol Section (Cypas)**
-	##### Members:
+	**Cyber Patrol Section (Cypas)**
+	Members:
 	- Mogla
 	- Lemolain
 	- Orango
 	
-	### **VIP Protection Section**
-	##### Members:
+	**VIP Protection Section**
+	Members:
 	- Anju
 	- Melona
 	- Banan
