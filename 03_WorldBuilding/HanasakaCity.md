@@ -11,7 +11,7 @@ cssclasses:
 ---
 # **Hanasaka** or **Hanasaka City**
 
-# Definition: 
+### Definition: 
 
 An [**Experimental City**](./ExperimentalCities.md) established by an island nation off the eastern coast of the Eurasian continent, which carved out a part of its territory based on international commitments.
 
@@ -104,7 +104,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
 *Note: Events related to the Kassen community are written in italics.*
 
-## **Hanasaka City History: Timeline through 10 E.E.**
+## Hanasaka City History: Timeline through 10 E.E.
 
 ### **Pre-Establishment Era**
 
@@ -196,6 +196,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
   The common name for **citizens of Hanasaka**, who have renounced their previous nationalities and family names to join the city’s experiment. While their formal designation is "Hanasakans," the citizens themselves more commonly refer to themselves as "Hanafolk."
 
+
 ---
 # **City Office**
 
@@ -218,12 +219,14 @@ Mayor’s Secretary: Zansi
 - Deputy Director: Ron 
 
 	**Cyber Patrol Section (Cypas)**
+	
 	Members:
 	- Mogla
 	- Lemolain
 	- Orango
 	
 	**VIP Protection Section**
+	
 	Members:
 	- Anju
 	- Melona
