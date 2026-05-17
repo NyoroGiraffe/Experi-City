@@ -51,7 +51,7 @@ For the purposes of this Charter, **"the Governing Intelligence"** refers collec
 
 **Article 11 (Right to a Healthy and Cultured Life and to Universal Basic Income)** All citizens shall have the right to maintain a standard of living that is healthy and culturally enriching. To guarantee this right, all citizens shall be entitled to receive the Universal Basic Income established by their city, regardless of age, gender, or employment status. No human citizen, organization, or element of the Governing Intelligence shall deprive any citizen of this entitlement except through the sanctioning procedures prescribed by the ordinances of the relevant member city.
 
-**Article 12 (Official Currency of the Experimental Cities)** The sole official currency of the Experimental Cities shall be the electronic currency designated by the League. No human citizen or organization shall possess physical cash of any kind within the territory of an Experimental City, nor shall any human citizen or organization use physical cash as a means of payment within such territory.
+**Article 12 (Official Currency of the Experimental Cities)** The sole official currency of the Experimental Cities shall be the electronic currency designated by the League. No person or organization shall possess or use physical cash of any kind within the territory of an Experimental City.
 
 **Article 13 (Prohibition of Concentration of Resources and Assets)** The private monopolization of land and socially significant resources is contrary to the spirit of this Charter. Each member city shall establish the institutions necessary to prevent excessive concentration of assets, and the Governing Intelligence shall supervise their operation.
 
@@ -93,7 +93,7 @@ The Governing Intelligence of each member city shall bear the obligation to take
 
 **Article 23 (Supremacy of the Charter)** This Charter shall constitute the supreme law of all Experimental Cities. No ordinance of any member city and no rule of the League shall contravene this Charter. Any provision found to be in conflict with this Charter shall be null and void and of no legal effect.
 
-(Version 1.0.00)
+(Version 1.0.01)
 
 ---
 
@@ -109,7 +109,11 @@ The Governing Intelligence of each member city shall bear the obligation to take
 **Ver. 1.0.00:** May 16, 2026
 - Initial release of the Charter with the support of Claude Sonnet 4.6.
 
+**Ver. 1.0.01:** May 17, 2026
+- Some changes to Article 12.
+
 
 ---
 [<- Back to **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 

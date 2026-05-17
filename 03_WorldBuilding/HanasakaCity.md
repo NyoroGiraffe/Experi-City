@@ -31,7 +31,7 @@ An [**Experimental City**](./ExperimentalCities.md) established by an island nat
 
 • **Governance:** The primary administrative body is the **City Office**, headed by the **Mayor**. Under the Mayor, various departments exist, such as the Finance Department, Police Department (PD), and Emergency Services Department (ESD).
 
-- **De Facto Authority:** While the City Office serves as the administrative body, the city’s legislative, administrative, and judicial branches are operated de facto by the artificial super-intelligence **Flora** and its integrated information systems.
+- **De Facto Authority:** While the City Office serves as the administrative body, the city’s legislative, administrative, and judicial branches are operated de facto by the the **Governing Intelligence** — artificial super-intelligence Flora and all information systems under her direction.
 
 - **Limited Mayoral Power:** Historically, the Mayor’s administrative authority was significantly restricted compared to traditional human-governed eras. By the year 9 E.E., the Mayor’s remaining influence was largely limited to the power to veto specific ordinances that significantly impacted citizens' rights or interests.
 
@@ -199,9 +199,9 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 ---
 # **City Office**
 
-## Definition: 
+### Definition: 
 
-The administrative body of **Hanasaka City**, comprised of multiple departments such as the Finance Department, Police Department, Emergency Services Department, Health Department, and Education Department, all under the authority of the Mayor.
+The administrative body of Hanasaka City, encompassing the Governing Intelligence — the invisible AI core that handles most of its decision-making — together with the human staff and Mayor who form its visible face. It comprises departments such as the Finance Department, Police Department, and Emergency Services Department. While the Governing Intelligence carries out the bulk of governance work, citizens experience the City Office through its buildings, officers, and staff. The human authority within the City Office has progressively narrowed over time; as of December 1, 9 E.E., all final administrative power has been formally transferred to Flora.
 
 ## **Mayors:**
 
@@ -217,17 +217,17 @@ Mayor’s Secretary: Zansi
 - Director: Toppo
 - Deputy Director: Ron 
 
-#### **Cyber Patrol Section (Cypas)**
-##### Members:
-- Mogla
-- Lemolain
-- Orango
-
-#### **VIP Protection Section**
-##### Members:
-- Anju
-- Melona
-- Banan
+	### **Cyber Patrol Section (Cypas)**
+	##### Members:
+	- Mogla
+	- Lemolain
+	- Orango
+	
+	### **VIP Protection Section**
+	##### Members:
+	- Anju
+	- Melona
+	- Banan
 
 ### **Finance Department**
 - Director: Nora

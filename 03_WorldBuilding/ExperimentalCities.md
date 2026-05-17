@@ -152,34 +152,34 @@ The **transportation control system** that manages the city's road and railway n
 
 • **The UBI System and the Experiment of Sustainability:** Experimental Cities serve as a grand social experiment to determine if a society can remain economically sustainable through a **Universal Basic Income (UBI)**. This income is distributed equally to every citizen, from newborns to the elderly, regardless of their employment status. By guaranteeing food, clothing, and shelter, the system aims to eliminate the fear of poverty and observe how citizens choose to contribute to society when their basic survival is no longer a concern.
 
-• **Experi-Coins (XC): The Digital Lifeblood:** The unified electronic currency used across all 23 Experi-Cities is known as **Experi-Coins**, commonly abbreviated and pronounced as **"XC"** (eksi). Unlike traditional national currencies, XC is a closed-loop digital credit system managed entirely by the city's AI governance. It serves as the fundamental unit of value for all transactions within the city's borders.
+• **Experi-Coins (XC): The Digital Lifeblood:** The unified electronic currency used across all 23 Experi-Cities is known as **Experi-Coins**, commonly abbreviated and pronounced as **"XC"** (eksi). Unlike traditional national currencies, XC is a closed-loop digital credit system managed entirely by the city's Governing Intelligence. It serves as the fundamental unit of value for all transactions within the city's borders.
 
 • **The "Perishable" Design & Circulation Logic:** To prevent the stagnant accumulation of wealth and encourage a healthy economic flow, XC is distributed in virtual **"monthly boxes."** This system is built upon several unique technical and economic rules: 
 * **The One-Year Expiry:** Each XC unit has a **one-year expiration date**. Any coins remaining in a box after twelve months simply vanish from the digital wallet unless returned to the city. 
 * **The "First-In, First-Out" (FIFO) Spending Principle:** The city’s dedicated wallet app is programmed to automatically prioritize spending from the **oldest available box**. This ensures that citizens use their soon-to-expire credits first, maximizing the utility of their income. 
-* **The Return and Re-issuance Mechanism:** Citizens have the option to "return" or "deposit" their excess XC back to the city's treasury. While these coins do not accrue interest, they are not permanently confiscated. **Upon a citizen's request after a designated period**, the city **re-issues** the equivalent amount in a **new monthly box** with a fresh expiration date. This allows for long-term planning without the inflationary pressure of traditional interest, provided the citizen proactively manages their assets. 
+* **The Return and Re-issuance Mechanism:** Citizens have the option to "return" or "deposit" their excess XC back to the city's treasury. While these coins do not accrue interest, they are not permanently confiscated. **Upon a citizen's request after a designated period**, the city (i. e. the Governing Intelligence) **re-issues** the equivalent amount in a **new monthly box** with a fresh expiration date. This allows for long-term planning without the inflationary pressure of traditional interest, provided the citizen proactively manages their assets. 
 * **Non-Bankable Currency:** XC cannot be deposited into traditional commercial banks to accumulate interest, nor can it be used as collateral in the conventional sense. The currency exists solely within the city’s proprietary digital ecosystem, ensuring that money remains a medium of exchange rather than a tool for capital accumulation.
 
 • **Safeguarding the Community Philosophy:** While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the Governing Intelligence reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 
 ## **2. Prohibition of Physical Cash**
 
-In Experimental Cities, the use and possession of physical cash, such as paper money and coins, is **prohibited.**
+In Experimental Cities, the possession or use of physical cash — including paper money and coins — is **prohibited** for all persons within city limits, including visitors. The use of currencies other than Experi-Coins is not prohibited, provided such transactions are conducted electronically.
 
 ## **3. Self-Sufficiency and Resource Management**
 
-• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
+• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
-• **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the city can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
+• **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the Governing Intelligence can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
-• **Social Contribution Activities:** In Experimental Cities, which place a strong emphasis on self-sufficiency in food and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
+• **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
 
 ## **4. Urban Planning and Wealth Policy**
 
 • **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
 
-• **The Strategic Transfer & Continuous Use Agreement:** To incentivize the transition to public land without disrupting current lives or businesses, Hanasaka offers a unique conversion program: 
-* **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city grants them the right to **continue using that same land rent-free** as a leaseholder. 
+• **The Strategic Transfer & Continuous Use Agreement:** To incentivize the transition to public land without disrupting current lives or businesses, the Experimental City Hanasaka offers a unique conversion program: 
+* **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city (i. e. the Governing Intelligence) grants them the right to **continue using that same land rent-free** as a leaseholder. 
 * However, in the case of apartment buildings, the former owner is limited to using only the portion necessary for their own living, while the city directly leases the remaining portions to other citizens. Although the rent set by the city is determined based on the size and comfort of the residence, it is very low and can be easily paid with the Experi-Coins (XC) provided through the UBI.
 * **The "22-Day Mobility" Clause:** This rent-free arrangement is contingent on a legal commitment: if the city requests the land for urban optimization, the citizen must agree to **vacate the premises or terminate the business operations within 22 days**. 
 * **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a highly rewarding transition. 
@@ -207,15 +207,15 @@ In Experimental Cities, the use and possession of physical cash, such as paper m
 **The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
 
 **Core Requirements**:
-- **Renunciation of Nationality and any title of nobility or privileged status:** To obtain citizenship, individuals must **renounce their former nationalities and any title of nobility or privileged status**.
-- **Discarding Family Names:** Prospective citizens are required to **abandon their original family names**.
+- **Renunciation of Nationality and any title of nobility or privileged status:** To obtain citizenship, individuals **must renounce** their former nationalities and any title of nobility or privileged status.
+- **Discarding Family Names:** Prospective citizens are **required to abandon** their original family names.
 - **Adoption of New Identities:** Residents **choose a new last name** (surname) of their own volition. 
 
 **Purpose and Significance**
 
 • **Secure a Diverse Population:** This principle is based on the pragmatic realization that few people would volunteer to be "subjects" for social experiments if their backgrounds remained a barrier; thus, the city makes past status irrelevant to attract enough participants.
 
-• **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**,.
+• **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**.
 
 ## **7. The Principle of Non-Inquiry into Origins**
 
