@@ -23,7 +23,7 @@ cssclasses:
 The **League of Experimental Cities** is an international organization governing **23 independent cities** established around the globe as centers for social experimentation. The League of Experimental Cities has no physical headquarters.
 
 ---
-# Conceptual framework for the governance and management of Experimental Cities
+## Conceptual framework for the governance and management of Experimental Cities
 
 ## 1. **"Philosophy"**
 
