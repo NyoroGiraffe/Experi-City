@@ -12,7 +12,7 @@ cssclasses:
 ---
 # **Experimental City (Cities)**
 
-# Definition 
+### Definition 
 
 **23** cities established around the globe as centers for conducting various social experiments aimed at creating a safe and happy living environment for everyone. These cities were formed by carving out portions of territories from several existing nations at the time. However, they were completely independent cities, both administratively and judicially, beyond the reach of the constitutions and laws of the countries that ceded the land. In everyday conversation, they are often abbreviated as "**Experi-City**" or "**Experi-Cities**."
 [**Hanasaka**](./HanasakaCity.md), **Kochipina,** and **Nadiapolis** featured in this story are the Experimental Cities.
