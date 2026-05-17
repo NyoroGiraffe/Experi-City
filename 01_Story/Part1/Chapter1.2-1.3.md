@@ -261,7 +261,7 @@ Hanasakaに敵対的なAIによって自分たちも標的の1つになってい
 彼女は, すべてのExperimental Citiesの市民が従うべき基本道理であり, また大事にすべき価値観を示した“Philosophy”や, それに基づきKassenに込められた思いや施策をよく理解し, Fighterのみならず, ファンやcommunityの人たちに, その意義を明るく優しく示していた.  彼女は, Kassen communityの多くの人から敬愛され, それゆえcommunity内で多少の不和が生じても, 彼女の前では恰好の悪いことができず自制が働き, 決定的な対立や紛争には発展せず, 組織の集合体を健全に束ねる機能を果たしていたのであった. 
 
 >補足: “Philosophy”について
->正式には“Philosophy of the Experimental Cities”といい, Experimental Citiesにおいて, 最上位の法規範に位置づけられる.
+>正式には“Philosophy of the Experimental Cities”といい, Experimental Citiesにおいて, 最上位の規範に位置づけられる.
 
 ところが, Experimental Citiesの取り組みに強く反対する者たち, すなわちRusty-believersからは, その模範的存在であるKasgaは, とても分かりやすい憎悪や批判の対象になり始め, 悪魔のボスに見えていた. 
 
