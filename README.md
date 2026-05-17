@@ -13,7 +13,7 @@ cssclasses:
 - **Language:** 
 	- Story: Japanese
 	- Other materials: English
-- **Story Latest Version:** 1.2.01
+- **Story Latest Version:** 1.2.02
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -58,11 +58,6 @@ We believe that in the age of AI, the way we "write" and "share" stories is evol
 
 This project is an **"Open Novel"** designed for the era of human-AI collaboration. In accordance with the **CC BY 4.0** license, I encourage you to use your creativity to adapt, translate, and evolve this world in your own language and imagination.
 
----
-<a id="notebook-lm"></a>
-## Explore via NotebookLM
-
- You can explore the deep settings and ask questions about this world using our curated NotebookLM environment: [Link to NotebookLM](https://notebooklm.google.com/notebook/de8a5f97-e5b2-431b-8fa2-9d5228a90af5)
 
 ---
 <a id="story"></a>
@@ -168,7 +163,7 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 The following notes contain the foundational information required to understand the story outlined above.
 - [**Characters**](./02_Characters/Characters.md) in the story
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
-- [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md)
+- [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle, "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)" and governed by the super-intelligence **"Flora"**.
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
@@ -277,4 +272,7 @@ Nyoro Giraffe
 - Some changes to Chapters 2.7 and 2.16.
 
 **Ver. 1.2.01:** May 10, 2026
-- Some changes to Chapters 2.7.
+- Some changes to Chapter 2.7.
+
+**Ver. 1.2.02:** May 17, 2026
+- Some changes to Chapters 2.13 and 3.1.
