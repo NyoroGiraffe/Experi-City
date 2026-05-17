@@ -194,7 +194,7 @@ A fictional central AI that governs Experi-City within an AI-Governance architec
 
 **Governing Intelligence (Short)**: Flora and all information systems operating under her direction, collectively constituting the governing layer of Experi-City.
 
-The collective term for Flora and all information systems operating under her direction, including Politis, Themis and other citizen-facing systems built upon the PSP. As defined in the Charter of Experimental Cities, the Governing Intelligence bears binding legal obligations toward citizens and is equally subject to the Charter's provisions alongside human citizens and organizations. It constitutes the governing layer of the city, distinct from the human citizens and organizations it governs.
+The collective term for Flora and all information systems operating under her direction, including Politis, Themis, and other citizen-facing systems. It forms the invisible core of the City Office, handling the vast majority of its analytical and decision-making functions, and is equally bound by the Charter alongside human citizens and organizations.
 
 ---
 
