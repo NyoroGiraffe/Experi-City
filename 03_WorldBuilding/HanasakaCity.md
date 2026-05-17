@@ -55,7 +55,7 @@ An [**Experimental City**](./ExperimentalCities.md) established by an island nat
    
    - **Clematis (in East District):** A district famous for offering diverse cuisines from all over the world.
    
-   - **Hydrangea (in East Distinct):** A residential area where Akio lives, known for its canal zone.
+   - **Hydrangea (in East District):** A residential area where Akio lives, known for its canal zone.
 
 # **3. Castle Park** (Hanasaka Castle Park)
 
@@ -96,7 +96,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
 # **4. League of Experimental Cities**
 
-• **International Context:** Hanasaka is one of the 23 cities governed by the **League of Experimental Cities**, an international organization established to test social systems managed by artificial super-intelligence (Flora).
+• **International Context:** Hanasaka is one of the 23 cities governed by the **League of Experimental Cities**, an international organization established to conduct social experiments in cities governed by artificial super-intelligence (Flora).
 
 • **Nearest City:** The closest Experimental City to Hanasaka is **Kochipina**. During the final conflict with "Stone Cold," Kochipina provided critical computational resource support to Hanasaka's Flora.
 
@@ -122,7 +122,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 	- ***Kassen** **begins** as a social experiment alongside the city's founding.*
 	- ***Haruna Laliguras** **is appointed as the first** **Unifier**.*
 
-- **2 E.E.**: *Kassen rules are updated** to include "Block pushing" for scoring points.*
+- **2 E.E.**: *Kassen rules are updated to include "Block pushing" for scoring points.*
 
 - **4 E.E. (January 1):** **Leo** is inaugurated as the **second Mayor**.
 
@@ -188,7 +188,7 @@ The memorial park serves as the final resting place for **Haruna Laliguras**, th
 
 - **January:** The **new Mayoral system begins**; the role becomes purely ceremonial, with mayors chosen by **lottery**.
 
-- **January:** A goodwill mission, including, visits virtually via avatars.
+- **January:** A goodwill mission visits virtually via avatars to Kochipina.
 
 - **Early Year:** **"Hanasakia"** (the city's virtual second layer) begins trial operations.
 
@@ -246,7 +246,7 @@ Factions or AIs hostile to Hanasaka City or Castle Office are as follows:
 
 Key elements associated with Stone Cold include:
 
-- **Stone Dance:** This was the predecessor AI to Stone Cold. It threw a specific country on the Eurasian continent (the home country of Chammei) into chaos by manipulating a failed coup attempt roughly a decade before the events in Hanasaka in 9 E.E., specializing in tricking humans into committing crimes without realizing it.
+- **Stone Dance:** This was the predecessor AI to Stone Cold. It plunged a specific country on the Eurasian continent (the home country of Chammei) into chaos by orchestrating a failed coup attempt roughly a decade before the events in Hanasaka in 9 E.E., specializing in tricking humans into committing crimes without realizing it.
 
 - **Meteo Dance:** A separate AI also derived from "Stone Dance", Meteo Dance was originally designed to support the **"Humano-supremacy"** ideology of the **Rusty-believers**. However, Stone Cold eventually corrupted its programming and turned Meteo Dance into a subordinate entity.
 
@@ -258,7 +258,8 @@ Stone Cold was ultimately neutralized by the city’s AI, **Flora**, on November
 
 ## **2. Rusty-believers**
 
-A term used from the perspective of citizens in the Experimental Cities to describe troublesome individuals stuck in outdated ideologies who perpetually fail to accept the reality that machines effectively run human society and attempt to obstruct their experiments.
+A term used from the perspective of citizens in the Experimental Cities to describe 
+individuals clinging to outdated ideologies who refuse to accept the reality that machines effectively govern human society and attempt to obstruct their experiments.
 
 ## **3. Pro-Mayor Faction**
 
@@ -296,7 +297,7 @@ The people of Hanasaka City used to refer to the country that ceded a portion of
 
 - **"Moto natives"** are individuals originally from the neighboring country **Moto**, comprising approximately **67%** of Hanasaka's population.
 - While they share a common linguistic heritage, Moto natives in Hanasaka often use a **simplified version of their original language**. For example, while their language originally had many counters depending on the noun, they came to use only the main ones, and sometimes even omitted them. 
-  Therefore, this story describes things using the simplified counters, without employing the diverse counters they originally used.
+  Accordingly, this story reflects their simplified usage rather than the full range of counters found in the original language.
 
 ### Related Terms: 
 - **Alliance clubs** 
@@ -304,7 +305,7 @@ The people of Hanasaka City used to refer to the country that ceded a portion of
 ## **2. Kassen Liberty League**
 
 The **Kassen Liberty League** is the primary rival to the Kassen organized by the **Castle Office**, differing significantly in its philosophy, regulations, and use of technology.
-The Kassen Liberty League is based in the neighboring country of **"Moto,"** it was founded in 6 E.E. as a **non-political** entertainment organization. While the Castle Office uses Kassen to foster a balanced, idealistic society, the Liberty League offers a more **unrestricted, high-tech, and commercially driven** version of the sport.
+Based in the neighboring country of **"Moto,"** it was founded in 6 E.E. as a **non-political** entertainment organization. While the Castle Office uses Kassen to foster a balanced, idealistic society, the Liberty League offers a more **unrestricted, high-tech, and commercially driven** version of the sport.
 
 ## **3. Mukade**
 
