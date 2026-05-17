@@ -400,13 +400,13 @@ Lemolainは, 今日, すなわち8月4日を特別な日として自らの記憶
 “そうですか.  Keikoさんと一緒に仕事をする時はきっと来ますよ.  そうしたらその時さらに彼女のすばらしさが分かると思います.  彼女はいろんな意味で天才ですから.”
 
 
->補足: ChammeiがKeikoに渡した色紙に書かれていた言葉について
+>Note: Regarding the message written on the autograph card Chammei gave to Keiko
 >
->The six kanji written on the autograph board that Chammei gave to Keiko were “吾道一以之貫.”
+>The six Kanji written on the autograph card that Chammei gave to Keiko were “吾道一以之貫.”
 >
->The sentence “吾道一以之貫”, which is a passage from “Chapter 4: Living in a Good Neighborhood/里仁第四” in the Analects, is read as “吾が道は一以って之を貫く” in Japanese.
+>The sentence “吾道一以之貫”, which is a passage from “Chapter 4: Living in a Good Neighborhood/里仁第四” in the Analects, is read as “吾が道は一以って之を貫く” (Wagamichi wa Itsu Motte Kore wo Tsuranuku.) in Japanese.
 >
->The following sentence “夫子之道, 忠恕而已矣” is read as “夫子 (ふうし) の道は忠恕 (ちゅうじょ) のみ” in Japanese.
+>The following sentence “夫子之道, 忠恕而已矣” is read as “夫子 (ふうし) の道は忠恕 (ちゅうじょ) のみ” (Huushi no Michi wa Chuujo Nomi.) in Japanese.
 >
 >“吾道一以之貫” roughly translates to “My way is all along one thread.” in English, and “夫子之道, 忠恕而已矣” translates to “The Master's way is simply to show consideration to others.” However, there are various translations, so if you are interested, please look into them.
 
