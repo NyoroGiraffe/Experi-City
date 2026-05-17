@@ -19,7 +19,7 @@ cssclasses:
 
 ## Start Here
 
-- [Ultra-Compact Core (Quick Overview)](./00_Core/Core_Ultra-compact.md)
+- [Ultra-Compact Core (Quick Overview)](./00_Core/Core_Ultra-Compact.md)
 - [Core Concepts (Full Definitions)](./00_Core/Core_Concepts.md)
 
 ---
