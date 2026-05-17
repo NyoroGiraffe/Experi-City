@@ -275,4 +275,4 @@ Nyoro Giraffe
 - Some changes to Chapter 2.7.
 
 **Ver. 1.2.02:** May 17, 2026
-- Some changes to Chapters 2.13 and 3.1.
+- Some changes to Chapters 1.3, 2.13 and 3.1.
