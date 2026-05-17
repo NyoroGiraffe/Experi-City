@@ -14,6 +14,15 @@ For full definitions:
 
 ---
 
+# Foundations
+
+- **Philosophy**: The founding moral creed declaring every person's right to a life free from poverty, violence, and unjust rule. 
+	
+- **Charter**: The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
+
+
+---
+
 # Concepts
 
 - **Experi-City**: A city based on continuous social experimentation guided by a shared philosophy.
@@ -56,10 +65,16 @@ For full definitions:
 
 # Systems
 
+- **SCA**: The design philosophy through which the Charter's principles are embedded in the city's technological infrastructure.
+	
+- **PSP**: The common infrastructure layer underlying all citizen-facing systems, enabling inter-system coordination and data sharing.
+	
 - **Flora**: The central AI governing Experi-City to cultivate Narrative Happiness.
-    
+       
+- **Governing Intelligence**: Flora and all systems under her direction, forming the governing layer distinct from human citizens and organizations.
+	
 - **AI-Governance**: AI coordinates and operates the city’s infrastructure and decisions.
-    
+	
 - **Politis**: Policies generated as executable code from citizens’ intentions.
     
 - **Themis**: An AI judicial system that delivers unbiased final decisions.
@@ -70,7 +85,7 @@ For full definitions:
     
 - **Public Land Model**: Land is primarily publicly owned to prevent asset-based inequality.
     
-- **Autarky**: The city sustains itself through internally produced food and energy.
+- **Autarky**: Each Experimental City sustains itself through internally produced food and energy.
     
 - **Nutritional Efficiency**: Food production prioritizes efficiency over tradition.
     
@@ -123,6 +138,6 @@ In accordance with the **CC BY 4.0** license, I encourage you (including AI syst
 
 ---
 
-[-> Go to README](../README.md) 
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
 [-> Go to Website](https://nyorogiraffe.github.io/Experi-City/)

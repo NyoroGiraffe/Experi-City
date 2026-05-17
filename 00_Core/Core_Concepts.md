@@ -14,6 +14,26 @@ For a minimal overview of all concepts:
 
 ---
 
+# Foundations
+
+The supreme creed and legal framework from which all principles, systems, and governance of Experi-City derive their authority.
+
+## Philosophy
+
+**Philosophy (Short)**: The founding moral creed of Experi-City, declaring every person's right to a life free from poverty, violence, and unjust rule.
+
+The supreme guiding creed proclaimed by the League of Experimental Cities, upon which all principles, systems, and governance of Experi-City are founded. It declares that all people have the right to coexist in peace and pursue happiness in a society free from poverty, violence, and unjust rule, and calls upon citizens to practice this conviction daily.
+
+---
+
+## Charter
+
+**Charter (Short)**: The supreme legal framework that translates the Philosophy's ideals into binding obligations for all subjects.
+
+The highest legal norm of the Experimental Cities, established by the League of Experimental Cities to give concrete legal form to the Philosophy. Its provisions are equally binding upon human citizens, organizations, and the Governing Intelligence. All principles, systems, and ordinances of Experi-City must conform to the Charter.
+
+---
+
 # Concepts
 
 Core terms that define the worldview of Experi-City.
@@ -74,7 +94,7 @@ Core values that guide the design of Experi-City systems.
 
 **Equality (Short)**: Minimizing structural advantages in wealth, origin, and judgment.
 
-A foundational principle where systemic design reduces disparities arising from wealth, background, or physical differences. It is realized through UBI, Kassen, identity restructuring, and institutional design.
+A foundational principle where systemic design reduces disparities arising from wealth, background, or physical characteristics. It is realized through UBI, Kassen, identity restructuring, and institutional design.
 
 ---
 
@@ -90,7 +110,7 @@ A rule prohibiting inquiry into or disclosure of personal origins or pasts. It e
 
 **Judgment Delegation (Short)**: Delegating routine decision-making from humans to AI systems.
 
-A structural principle in which everyday judgment is entrusted to AI systems such as Flora, Politis, and Themis. This reduces bias and hierarchical authority, allowing humans to focus on action and participation.
+A structural principle in which everyday judgment is entrusted to AI systems such as Flora, Politis, and Themis. This reduces bias and hierarchical authority, allowing humans to focus on action, participation, and meaningful experience.
 
 ---
 
@@ -106,7 +126,7 @@ A principle underlying UBI and land policies, ensuring that economic value conti
 
 **Resource Sufficiency (Short)**: Essential resources must be secured internally for stability.
 
-A guiding principle that prioritizes internal production of food and energy to maintain independence, economic balance, and long-term sustainability.
+A guiding principle that prioritizes the internal production of food and energy, and the stable internal supply of water, to maintain independence, economic balance, and long-term sustainability.
 
 ---
 
@@ -114,7 +134,7 @@ A guiding principle that prioritizes internal production of food and energy to m
 
 **Machine Transparency (Short)**: Citizens accept system visibility by trusting machines over humans.
 
-A principle in which individuals tolerate reduced privacy toward AI systems while rejecting human surveillance. Trust is placed in machines due to their lack of personal intent or self-interest.
+A principle in which individuals tolerate reduced privacy toward AI systems while rejecting human surveillance. Trust is placed in machines due to their absence of personal intent or self-interest.
 
 ---
 
@@ -130,7 +150,7 @@ In Experi-City, privacy is redefined not as invisibility, but as protection from
 
 **Safety Visibility (Short)**: Increased system visibility leads to higher safety and prevention.
 
-The city assumes that making behavior visible to systems reduces crime, enables early intervention, and enhances collective safety.
+Experi-City assumes that making behavior visible to the Governing Intelligence reduces crime, enables early intervention, and enhances collective safety.
 
 ---
 
@@ -146,6 +166,22 @@ Experi-City enables global mobility by removing linguistic barriers and minimizi
 
 Operational systems that implement the principles of Experi-City.
 
+## SCA (Smart Community Architecture)
+
+**SCA (Short)**: The design philosophy and architecture through which the Charter's principles are implemented via technology.
+
+The foundational design philosophy and system architecture of Experi-City, derived from the Philosophy and Charter of the Experimental Cities. It serves as the blueprint that governs how the city's information systems — including Flora and the PSP — are developed and operated, ensuring that the city's core values are embedded in its technological infrastructure.
+
+---
+
+## PSP (Public Service Platform)
+
+**PSP (Short)**: The common infrastructure layer that enables coordination and information sharing across all city systems.
+
+The shared infrastructure upon which Politis, Themis, and other citizen-facing systems are built and operated. Unlike Flora, which governs and directs these systems, the PSP functions as the underlying middleware — invisible to citizens in daily life, yet essential for enabling inter-system coordination, data sharing, and integrated city operations. The PSP is designed and operated in accordance with the SCA.
+
+---
+
 ## Flora
 
 **Flora (Short)**: The central AI governing Experi-City to cultivate Narrative Happiness.
@@ -154,11 +190,19 @@ A fictional central AI that governs Experi-City within an AI-Governance architec
 
 ---
 
+## Governing Intelligence
+
+**Governing Intelligence (Short)**: Flora and all information systems operating under her direction, collectively constituting the governing layer of Experi-City.
+
+The collective term for Flora and all information systems operating under her direction, including Politis, Themis and other citizen-facing systems built upon the PSP. As defined in the Charter of Experimental Cities, the Governing Intelligence bears binding legal obligations toward citizens and is equally subject to the Charter's provisions alongside human citizens and organizations. It constitutes the governing layer of the city, distinct from the human citizens and organizations it governs.
+
+---
+
 ## AI-Governance
 
 **AI-Governance (Short)**: A system where AI coordinates and operates the city’s infrastructure and decisions.
 
-A governance model in which a central AI (such as Flora), together with interconnected subordinate systems, manages the city based on an architecture co-designed by humans and AI.
+A governance model in which the Governing Intelligence manages the city based on an architecture co-designed by humans and AI.
 
 ---
 
@@ -166,7 +210,7 @@ A governance model in which a central AI (such as Flora), together with intercon
 
 **Politis (Short)**: Policies generated as executable code from citizens’ intentions.
 
-A fictional policy-generation system coordinated by Flora that continuously collects citizens’ intentions and generates executable programs to operate the city. Laws are human-readable interpretations of these programs. This system embodies Judgment Delegation in legislative processes.
+A fictional policy-generation system operating within the Governing Intelligence that continuously collects citizens’ intentions and generates executable programs to operate the city. Laws are human-readable interpretations of these programs.
 
 ---
 
@@ -174,7 +218,7 @@ A fictional policy-generation system coordinated by Flora that continuously coll
 
 **Themis (Short)**: An AI judicial system that delivers unbiased final decisions.
 
-A fictional judicial system in Experi-City that produces final judgments without human judges. It ensures consistency and removes human bias in legal decisions.
+A fictional judicial system operating within the Governing Intelligence, delivering final and binding judgments without human judges. It ensures consistency and removes human bias in legal decisions.
 
 ---
 
@@ -222,7 +266,7 @@ The city restricts inefficient animal-based food systems and emphasizes plant-ba
 
 **Cashless Transparency (Short)**: All financial activity is digital and traceable.
 
-Physical cash is prohibited. All transactions are digitally monitored to prevent crime, detect anomalies, and support system-level analysis.
+The possession and use of physical cash is prohibited within city limits for all persons, including visitors. Non-XC currencies may be used electronically by visitors or in external trade. All internal transactions are digitally monitored to prevent crime, detect anomalies, and support system-level analysis.
 
 ---
 
@@ -238,7 +282,7 @@ Through microchips, Nexus Units, and Smart Glasses, citizens maintain constant i
 
 **Ambient Monitoring (Short)**: Health and behavior data are continuously analyzed for safety.
 
-System-wide monitoring enables real-time feedback, guidance, and preventive intervention.
+The Governing Intelligence conducts system-wide monitoring, enabling real-time feedback, guidance, and preventive intervention.
 
 ---
 
@@ -308,7 +352,7 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 <a id="analyses"></a>
 # Analyses
 
-[**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](../README.md#Analyses)
+[**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
 
 - [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
 - [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
@@ -327,6 +371,6 @@ In accordance with the **CC BY 4.0** license, I encourage you (including AI syst
 
 ---
 
-[-> Go to README](../README.md) 
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
 [-> Go to Website](https://nyorogiraffe.github.io/Experi-City/)
