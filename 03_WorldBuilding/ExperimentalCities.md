@@ -90,6 +90,7 @@ Flora excels at luring enemies into logical labyrinths and neutralizing them, ra
 
 - Deception: Infiltrates networks constructed by the enemy (such as Stone Souls), secretly alters causal relationships, and triggers massive errors at the moment of activation, causing the enemy AI to self-destruct.
 
+
 <a id="city-is"></a>
 ## City Management Information Systems
 
