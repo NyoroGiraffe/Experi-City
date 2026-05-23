@@ -62,7 +62,7 @@ An artificial super-intelligence governing each Experimental City, supporting an
 
 Each of the 23 Experimental Cities is assigned its own instance of **Flora**, the pinnacle of human creation in AI. While each Flora has its own local agency, they are all seamlessly interconnected and function as a single, unified entity. They share all learning data and strategies in real-time to optimize city management and defense, which is why they are collectively known and revered as the **Flora sisters**.
 
-### **Flora’s Cognitive States and Brain Differentiation**
+### Flora’s Cognitive States and Brain Differentiation
 
 Flora, the central super-intelligence of each Experimental City, basically operates as a single, unified consciousness to manage the city's daily functions. However, she possesses the capability to logically differentiate her consciousness when processing complex administrative challenges or non-routine social issues.
 
@@ -70,6 +70,7 @@ Flora, the central super-intelligence of each Experimental City, basically opera
     - **SAKI (Efficiency):** Computes how to achieve objectives with the minimum expenditure of resources.
     - **AMA (Inclusivity):** Computes how to distribute benefits to as many citizens as possible, ensuring fairness.
     - **TOKO (Longevity):** Computes how to ensure that results are sustainable over the long term. 
+    
     These three "brains" conduct high-speed, high-frequency cross-checks of their findings. When all three reach the same conclusion, the state is referred to as **"Unity of the Three Bodies"**.
 
 - **The Unified State (High-Speed Action):** In scenarios requiring instantaneous and continuous decision-making—such as tactical combat operations—Flora remains in her single-brain state without differentiating into sub-entities. By operating as a unified consciousness, she eliminates the time required for tripartite reconciliation, thereby maximizing her cognitive reaction speed.
