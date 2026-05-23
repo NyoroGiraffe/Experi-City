@@ -13,7 +13,7 @@ cssclasses:
 - **Language:** 
 	- Story: Japanese
 	- Other materials: English
-- **Story Latest Version:** 1.2.02
+- **Story Latest Version:** 1.2.03
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -116,7 +116,7 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 - **[2.7 Stronghold of the Weak](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html)**
 - **[2.8 Collapse](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html#chapter2.8)**
 - **[2.9 Hanasaka in a Tight Spot](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html)**
-- **[2.10 Keiko's Persuasion](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.10-2.11.html#chapter2.10)**
+- **[2.10 Keiko's Persuasion](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html#chapter2.10)**
 - **[2.11 The Start of the Revenge](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html)**
 - **[2.12 Kassen: Transformed](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html#chapter2.12)**
 - **[2.13 A Gift for Keiko](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.13.html)**
@@ -276,3 +276,6 @@ Nyoro Giraffe
 
 **Ver. 1.2.02:** May 17, 2026
 - Some changes to Chapters 1.3, 2.13 and 3.1.
+
+**Ver. 1.2.03:** May 23, 2026
+- Some changes to Chapters 1.1, 1.4, 2.1, 2.7, 2.12, 2.15, 3.1, 3.2, 3.6, 3.8, 3.12 and 3.22.

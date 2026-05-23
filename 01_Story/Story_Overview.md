@@ -70,7 +70,7 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 - **[2.7 Stronghold of the Weak](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html)**
 - **[2.8 Collapse](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html#chapter2.8)**
 - **[2.9 Hanasaka in a Tight Spot](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html)**
-- **[2.10 Keiko's Persuasion](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.10-2.11.html#chapter2.10)**
+- **[2.10 Keiko's Persuasion](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html#chapter2.10)**
 - **[2.11 The Start of the Revenge](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html)**
 - **[2.12 Kassen: Transformed](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html#chapter2.12)**
 - **[2.13 A Gift for Keiko](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.13.html)**
