@@ -53,38 +53,38 @@ Start here: **Six key questions about AI and society.**
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html" class="card">
     <h3>Freedom</h3>
-    <p><strong>Freedom shifts from constant decisions to meaningful living.</strong></p>
     <p>Will AI take away human freedom?</p>
-  </a>
+    <p><strong>Freedom shifts from constant decisions to meaningful living.</strong></p>
+ </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD02_Democracy.html" class="card">
     <h3>Democracy</h3>
-    <p><strong>Democracy becomes continuous and system-driven, not periodic.</strong></p>
     <p>Is AI governance undemocratic?</p>
+    <p><strong>Democracy becomes continuous and system-driven, not periodic.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html" class="card">
     <h3>Privacy</h3>
-    <p><strong>Privacy shifts from secrecy to protection from misuse.</strong></p>
     <p>Will surveillance destroy privacy?</p>
-  </a>
+    <p><strong>Privacy shifts from secrecy to protection from misuse.</strong></p>
+</a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html" class="card">
     <h3>Inequality</h3>
-    <p><strong>Inequality is reduced by design, not fixed afterward.</strong></p>
     <p>Will AI increase inequality?</p>
+    <p><strong>Inequality is reduced by design, not fixed afterward.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html" class="card">
     <h3>Human Value</h3>
-    <p><strong>Human value comes from action, not from giving orders.</strong></p>
     <p>Will humans become useless?</p>
+    <p><strong>Human value comes from action, not from giving orders.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html" class="card">
     <h3>Existential Risk</h3>
-    <p><strong>Safety comes from human-AI alignment, not isolation.</strong></p>
     <p>Will AI destroy society?</p>
+    <p><strong>Safety comes from human-AI alignment, not isolation.</strong></p>
   </a>
 
 </div>

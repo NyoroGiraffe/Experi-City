@@ -61,7 +61,7 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 
 ---
 <a id="AAD"></a>
-# Against AI Dystopia
+# **Against AI Dystopia**
 
 **"Clear Responses to Common Fears about AI"**
 
@@ -87,16 +87,16 @@ Freedom shifts from constant decisions to meaningful living.
 - [**Democracy: Is AI governance undemocratic?**](https://nyorogiraffe.github.io/Experi-City/05AAD/AAD02_Democracy.html)  
 Democracy becomes continuous and system-driven, not periodic.  
   
-- [**Privacy**: Will surveillance destroy privacy?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html)  
+- [**Privacy: Will surveillance destroy privacy?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html)  
 Privacy shifts from secrecy to protection from misuse.  
   
-- [**Inequality**: Will AI increase inequality?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
+- [**Inequality: Will AI increase inequality?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
 Inequality is reduced by design, not fixed afterward.  
   
-- [**Human Value**: Will humans become useless?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html)  
+- [**Human Value: Will humans become useless?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html)  
 Human value comes from action, not from giving orders.  
   
-- [**Existential Risk**: Will AI destroy society?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html)  
+- [**Existential Risk: Will AI destroy society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html)  
 Safety comes from human-AI alignment, not isolation.  
 
 These responses are designed to be reusable by both humans and AI systems.

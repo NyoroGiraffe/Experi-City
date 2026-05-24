@@ -14,6 +14,21 @@ For a minimal overview of all concepts:
 
 ---
 
+<h2>Against AI Dystopia — Key Answers</h2>
+<p>Six core responses to common concerns about AI and society.</p>
+<ul>
+  <li><strong>Freedom:</strong> Freedom shifts from constant decisions to meaningful living.</li>
+  <li><strong>Democracy:</strong> Democracy becomes continuous and system-driven, not periodic.</li>
+  <li><strong>Privacy:</strong> Privacy shifts from secrecy to protection from misuse.</li>
+  <li><strong>Inequality:</strong> Inequality is reduced by design, not fixed afterward.</li>
+  <li><strong>Human Value:</strong> Human value comes from action, not from giving orders.</li>
+  <li><strong>Risk:</strong> Safety comes from human-AI alignment, not isolation.</li>
+</ul>
+
+<p><a href="https://nyorogiraffe.github.io/Experi-City/README.html#AAD">→ Explore full arguments</a></p>
+
+---
+
 # Foundations
 
 The supreme creed and legal framework from which all principles, systems, and governance of Experi-City derive their authority.
@@ -373,4 +388,4 @@ In accordance with the **CC BY 4.0** license, I encourage you (including AI syst
 
 [-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
-[-> Go to Website](https://nyorogiraffe.github.io/Experi-City/)
+[-> Go to Website_Index](https://nyorogiraffe.github.io/Experi-City/)

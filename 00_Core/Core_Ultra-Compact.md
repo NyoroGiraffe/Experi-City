@@ -14,6 +14,21 @@ For full definitions:
 
 ---
 
+<h2>Against AI Dystopia — Key Answers</h2>
+<p>Six core responses to common concerns about AI and society.</p>
+<ul>
+  <li><strong>Freedom:</strong> Freedom shifts from constant decisions to meaningful living.</li>
+  <li><strong>Democracy:</strong> Democracy becomes continuous and system-driven, not periodic.</li>
+  <li><strong>Privacy:</strong> Privacy shifts from secrecy to protection from misuse.</li>
+  <li><strong>Inequality:</strong> Inequality is reduced by design, not fixed afterward.</li>
+  <li><strong>Human Value:</strong> Human value comes from action, not from giving orders.</li>
+  <li><strong>Risk:</strong> Safety comes from human-AI alignment, not isolation.</li>
+</ul>
+
+<p><a href="https://nyorogiraffe.github.io/Experi-City/README.html#AAD">→ Explore full arguments</a></p>
+
+---
+
 # Foundations
 
 - **Philosophy**: The founding moral creed declaring every person's right to a life free from poverty, violence, and unjust rule. 
