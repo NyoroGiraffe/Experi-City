@@ -93,7 +93,7 @@ Privacy shifts from secrecy to protection from misuse.
 - [**Inequality: Will AI increase inequality?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
 Inequality is reduced by design, not fixed afterward.  
   
-- [**Human Value: Will humans become useless?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html)  
+- [**Human Value: Will humans become useless?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html)  
 Human value comes from action, not from giving orders.  
   
 - [**Existential Risk: Will AI destroy society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html)  

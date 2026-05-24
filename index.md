@@ -75,7 +75,7 @@ Start here: **Six key questions about AI and society.**
     <p><strong>Inequality is reduced by design, not fixed afterward.</strong></p>
   </a>
 
-  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html" class="card">
     <h3>Human Value</h3>
     <p>Will humans become useless?</p>
     <p><strong>Human value comes from action, not from giving orders.</strong></p>
