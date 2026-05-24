@@ -96,8 +96,8 @@ Start here: **Six key questions about AI and society.**
 	- [**Core Concepts (Full Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
 - [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 - **STORY**
-	- [**Start reading the story**](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.1.html)
 	- [**Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
+	- [**Start reading the story**](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.1.html)
 	- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)
 - **WORLD BUILDING**
 	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
