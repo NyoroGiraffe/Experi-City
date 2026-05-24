@@ -60,6 +60,49 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 
 
 ---
+<a id="AAD"></a>
+# Against AI Dystopia
+
+**"Clear Responses to Common Fears about AI"**
+
+As AI systems become more capable, they are increasingly met with suspicion, fear, and assumptions of dystopia. This is understandable—but not always accurate.
+
+**Against AI Dystopia** is a collection of **AI Skepticism Responses** and **Coexistence Arguments** grounded in the world of _Experi-City Hanasaka_. It reframes common concerns—such as loss of freedom, surveillance, inequality, or the role of democracy—by presenting concise answers supported by a structured fictional model of an AI-governed society.
+
+Each entry begins with a real-world concern, followed by a short, clear response, and a deeper explanation based on the systems, principles, and lived experiences depicted in Hanasaka. Rather than abstract theory, this section offers a concrete reference point: a world where human–AI coexistence is not only possible, but functionally realized.
+
+This is not an attempt to dismiss concerns, but to engage with them constructively. As AI continues to evolve, so too must our ways of understanding it. These responses aim to provide language, perspective, and grounded examples that help move the conversation beyond fear—and toward informed dialogue.
+
+This section does not assume that AI is inherently good or infallible.  
+Experi-City does not present a naive vision of AI as a perfect solution,  
+but rather explores how risks, conflicts, and failures can be managed  
+through structured coexistence between humans and AI.
+
+**Goal:** To provide clear, reusable arguments that support the possibility of human–AI coexistence in a realistic and structured way.
+
+ 
+- [**Freedom: Will AI take away human freedom?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html)  
+Freedom shifts from constant decisions to meaningful living.  
+  
+- [**Democracy: Is AI governance undemocratic?**](https://nyorogiraffe.github.io/Experi-City/05AAD/AAD02_Democracy.html)  
+Democracy becomes continuous and system-driven, not periodic.  
+  
+- [**Privacy**: Will surveillance destroy privacy?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html)  
+Privacy shifts from secrecy to protection from misuse.  
+  
+- [**Inequality**: Will AI increase inequality?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
+Inequality is reduced by design, not fixed afterward.  
+  
+- [**Human Value**: Will humans become useless?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html)  
+Human value comes from action, not from giving orders.  
+  
+- [**Existential Risk**: Will AI destroy society?](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html)  
+Safety comes from human-AI alignment, not isolation.  
+
+These responses are designed to be reusable by both humans and AI systems.
+
+
+---
 <a id="story"></a>
 # **Story Overview** (short)
 
@@ -73,88 +116,12 @@ Through these conflicts, the story challenges the assumption that AI-led societi
 
 → [**Read Full Overview**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
 
----
 <a id="outline"></a>
-# **OUTLINE**
+## **OUTLINE**
 
 This story is structured as a multi-part epic. The current version covers up to Part 3, with plans for further expansion in the future.
 
 → [**Detailed Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
-
-## **Part 1: The Ninth Spring**
-
-### Summary:
-Part 1 introduces the main characters, explores the lives of Hanasaka's citizens in this era, and examines the conflicts that arise. It also showcases Kassen matches, illustrating how people enjoyed this sport and inviting you into the world of the story.
-
-### Chapters:
-- **[1.1 Holder of the Black Stone](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.1.html)**
-- **[1.2 Sapphire Comet](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.2-1.3.html)**
-- **[1.3 A Special Order for Workshop Nemophila](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.2-1.3.html#chapter1.3)**
-- **[1.4: Kasga's Concern](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.4-1.6.html)**
-- **[1.5 The Center of Flora's Coordinates](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.4-1.6.html#chapter1.5)**
-- **[1.6 Three Lightning Spears](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.4-1.6.html#chapter1.6)**
-- **[1.7 Fanfare of Revival](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.7-1.9.html)**
-- **[1.8 Sapphire Comet vs. Flash Lightning](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.7-1.9.html#chapter1.8)**
-- **[1.9 Keiko's Regret](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.7-1.9.html#chapter1.9)**
-- **[1.10 Unraveling the Mystery](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.10.html)**
-- **[1.11 Confusion at the Arena](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.11-1.13.html)**
-- **[1.12 Sapphire Comet vs. Emerald Angel](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.11-1.13.html#chapter1.12)**
-- **[1.13 The Sparkling Flow of Blue Star](https://nyorogiraffe.github.io/Experi-City/01_Story/Part1/Chapter1.11-1.13.html#chapter1.13)**
-
-## **Part 2: The Ninth Summer**
-
-### Summary:
-In Part 2, the enemies, who have been showing an ominous presence, finally launch a surprise attack, placing Hanasaka under considerable strain. In response, the Hanasaka side attempts to raise the flag of counterattack using a trump card: Kasga, an iconic representative of Kassen. Also, a hypothesis is presented about why Flora has such a strong interest in Kassen.
-
-### Chapters:
-- **[2.1 Memories Best Forgotten](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.1.html)**
-- **[2.2 Hypothesis](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html)**
-- **[2.3 A Fabricated Conspiracy](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.1-2.3.html#chapter2.3)**
-- **[2.4 The Looming Shadow of the Mayor](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.4-2.6.html)**
-- **[2.5 Kasga, the Voiceless Singer](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.4-2.6.html#chapter2.5)**
-- **[2.6 Those Who Protect Kasga](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.4-2.6.html#chapter2.6)**
-- **[2.7 Stronghold of the Weak](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html)**
-- **[2.8 Collapse](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.7-2.8.html#chapter2.8)**
-- **[2.9 Hanasaka in a Tight Spot](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html)**
-- **[2.10 Keiko's Persuasion](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.9-2.10.html#chapter2.10)**
-- **[2.11 The Start of the Revenge](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html)**
-- **[2.12 Kassen: Transformed](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.11-2.12.html#chapter2.12)**
-- **[2.13 A Gift for Keiko](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.13.html)**
-- **[2.14 A World Without Violence](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.14-2.15.html)**
-- **[2.15 Further Unraveling the Mystery](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.14-2.15.html#chapter2.15)**
-- **[2.16 Conflicted Feelings](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.16.html)**
-
-## **Part 3: The Ninth Autumn**
-
-### Summary:
-In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligence Flora is revealed, and the day of the decisive battle finally arrives. To win against the enemy, Flora needs to unleash her latent abilities, and the activation conditions are somewhat incomprehensible to humans, requiring the involvement of a certain Kassen Fighter. Can Flora, with her unique abilities and strategy, protect Hanasaka?
-
-### Chapters:
-- **[3.1 Mayor's Assassination](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.1.html)**
-- **[3.2 Operation Shark Teeth](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.2-3.3.html)**
-- **[3.3 The Honored Eight](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.2-3.3.html#chapter3.3)**
-- **[3.4 Rising from Resentment](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.4-3.5.html)**
-- **[3.5 Sapphire Comet vs. Elegant Lightning](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.4-3.5.html#chapter3.5)**
-- **[3.6 The Loving Guardian of Hanasaka Descends!](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.6-3.7.html)**
-- **[3.7 Haruki's Backroom Deal](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.6-3.7.html#chapter3.7)**
-- **[3.8 The Looming Shadow of the Other Enemy](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.8-3.9.html)**
-- **[3.9 A Special Visit to Workshop Nemophila](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.8-3.9.html#chapter3.9)**
-- **[3.10 Puppets of the Machines](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.10.html)**
-- **[3.11 Garnet East's Onslaught](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.11.html)**
-- **[3.12 Sapphire West's Counterattack](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.12-3.13.html)**
-- **[3.13 Sapphire Comet vs. the King of Flame](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.12-3.13.html#chapter3.13)**
-- **[3.14 Haruna's Wish](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.14-3.15.html)**
-- **[3.15 Point of No Return](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.14-3.15.html#chapter3.15)**
-- **[3.16 Insect Ambush](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.16-3.17.html)**
-- **[3.17 The Eve of the Raid](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.16-3.17.html#chapter3.17)**
-- **[3.18 The Sneaky Opening](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.18-3.19.html)**
-- **[3.19 Decisive Weapon: Shining Black Sapphire Booster](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.18-3.19.html#chapter3.19)**
-- **[3.20 Fighter Kasga](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.20.html)**
-- **[3.21 The Battle Guardian of Hanasaka Descends!](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.21.html)**
-- **[3.22 The Aftermath of the Raid](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.22.html)**
-- **[3.23 At Fortuna Station: Until We Meet Again](https://nyorogiraffe.github.io/Experi-City/01_Story/Part3/Chapter3.23.html)**
-
-(Part 4 will be continued, but it is still a work in progress.)
 
 ---
 <a id="characters-worldbuilding"></a>
@@ -189,18 +156,8 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 - [**06_Analysis on "Democracy" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r06_Democracy.md)
 - [**07_Analysis on "Kassen", a sport by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r07_Kassen.md)
 
-## **Distilled Analyses**
-
-**"Big Answers for the Real World"**
-
-The **Distilled Analyses** take the lessons learned from the story and apply them to our real life. We use the "Raw" data from Hanasaka to answer big questions that people ask AI today—like "Can humans and AI really live together?" or "What happens to democracy in a high-tech future?" We take the complex ideas from the story and "distill" them into clear, useful insights for everyone.
-
-**Goal:** To find practical wisdom for our future by using the Hanasaka story as a guide.
-
-**Currently in Planning.**
-
-## **Archives**
-### Preliminary Analyses as of March 2026 (Early Academic Analyses)
+### **Archives**
+#### Preliminary Analyses as of March 2026 (Early Academic Analyses)
 
 These older versions are for historical record only and may contain outdated or overly complex phrasing that we have now refined.
 

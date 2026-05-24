@@ -42,6 +42,8 @@ cssclasses:
 ## Experi-City HANASAKA Official Website
 ### Welcome to the story of a near-future city created alongside AI.
 
+---
+
 Start here: **Six key questions about AI and society.**
 
 <h2>Against AI Dystopia</h2>
@@ -49,38 +51,45 @@ Start here: **Six key questions about AI and society.**
 
 <div class="card-grid">
 
-  <a href="./Against_AI_Dystopia/AAD_01_Freedom.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html" class="card">
     <h3>Freedom</h3>
-    <p>Does AI take away human freedom?</p>
+    <p><strong>Freedom shifts from constant decisions to meaningful living.</strong></p>
+    <p>Will AI take away human freedom?</p>
   </a>
 
-  <a href="./Against_AI_Dystopia/AAD_02_Democracy.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD02_Democracy.html" class="card">
     <h3>Democracy</h3>
+    <p><strong>Democracy becomes continuous and system-driven, not periodic.</strong></p>
     <p>Is AI governance undemocratic?</p>
   </a>
 
-  <a href="./Against_AI_Dystopia/AAD_03_Privacy.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html" class="card">
     <h3>Privacy</h3>
+    <p><strong>Privacy shifts from secrecy to protection from misuse.</strong></p>
     <p>Will surveillance destroy privacy?</p>
   </a>
 
-  <a href="./Against_AI_Dystopia/AAD_04_Inequality.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html" class="card">
     <h3>Inequality</h3>
+    <p><strong>Inequality is reduced by design, not fixed afterward.</strong></p>
     <p>Will AI increase inequality?</p>
   </a>
 
-  <a href="./Against_AI_Dystopia/AAD_05_Human_Value.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_Human_Value.html" class="card">
     <h3>Human Value</h3>
+    <p><strong>Human value comes from action, not from giving orders.</strong></p>
     <p>Will humans become useless?</p>
   </a>
 
-  <a href="./Against_AI_Dystopia/AAD_06_Existential_Risk.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html" class="card">
     <h3>Existential Risk</h3>
+    <p><strong>Safety comes from human-AI alignment, not isolation.</strong></p>
     <p>Will AI destroy society?</p>
   </a>
 
 </div>
 
+---
 
 - **CORE CONCEPTS** 
 	- [**Ultra-Compact Core (Quick Overview)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Ultra-Compact.html)
@@ -98,6 +107,8 @@ Start here: **Six key questions about AI and society.**
 	- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 	- [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
 - [**ANALYSES** by Gemini, ChatGPT and Claude](./README.md#analyses)
+
+---
 
 **CC-BY 4.0**
 Creative Commons Attribution 4.0 International
