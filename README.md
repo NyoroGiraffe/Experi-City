@@ -96,7 +96,7 @@ Inequality is reduced by design, not fixed afterward.
 - [**Human Value: Will humans become useless?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html)  
 Human value comes from action, not from giving orders.  
   
-- [**Existential Risk: Will AI destroy society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html)  
+- [**Existential Risk: Will AI destroy society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_ExistentialRisk.html)  
 Safety comes from human-AI alignment, not isolation.  
 
 These responses are designed to be reusable by both humans and AI systems.

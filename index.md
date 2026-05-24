@@ -81,7 +81,7 @@ Start here: **Six key questions about AI and society.**
     <p><strong>Human value comes from action, not from giving orders.</strong></p>
   </a>
 
-  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_Existential_Risk.html" class="card">
+  <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_ExistentialRisk.html" class="card">
     <h3>Existential Risk</h3>
     <p>Will AI destroy society?</p>
     <p><strong>Safety comes from human-AI alignment, not isolation.</strong></p>
