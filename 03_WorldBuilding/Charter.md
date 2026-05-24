@@ -114,8 +114,13 @@ The Governing Intelligence of each member city shall bear the obligation to take
 
 
 ---
-[-> Go to Core Concepts (Full Definitions)](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
 
 [-> Go to **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
+[-> Go to **Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+
+[-> Go to Core Concepts (Full Definitions)](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
+
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+
+[<- Back to Website_Index](https://nyorogiraffe.github.io/Experi-City/)
