@@ -26,7 +26,7 @@ In Experi-City, traditional systems like elections and parliaments are replaced 
 
 [<- Back to Website_Index](https://nyorogiraffe.github.io/Experi-City/)
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html#analyses) 
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
 ---
 <script type="application/ld+json">

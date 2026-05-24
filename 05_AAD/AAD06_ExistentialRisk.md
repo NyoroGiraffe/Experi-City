@@ -26,7 +26,7 @@ Experi-City does not assume that all AI will always be safe. In fact, the story 
 
 [<- Back to Website_Index](https://nyorogiraffe.github.io/Experi-City/)
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html#analyses) 
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
 ---
 <script type="application/ld+json">
