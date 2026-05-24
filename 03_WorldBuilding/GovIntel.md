@@ -41,6 +41,7 @@ This system reduces the need for human judgment in complex or large-scale decisi
 
 The following section provides a deeper structural view of how the governing intelligence is organized and operates.
 
+---
 <a id="Flora"></a>
 ## **"Flora"**
 
@@ -81,12 +82,13 @@ Flora excels at luring enemies into logical labyrinths and neutralizing them, ra
 
 - Deception: Infiltrates networks constructed by the enemy (such as Stone Souls), secretly alters causal relationships, and triggers massive errors at the moment of activation, causing the enemy AI to self-destruct.
 
+---
 <a id="city-is"></a>
 ## City Management Information Systems
 
 Each Experimental City is powered by a wide range of sophisticated information systems under Flora's control and direction.
 
-## 1. Politis
+## 1. **Politis**
 
 **The Framework of Machine-Led Democracy**
 
@@ -118,7 +120,7 @@ Unlike the standard process for ordinances, city administrative agencies can iss
 
 Flora then utilizes her specialized internal deliberation logic (differentiating her consciousness into specialized cores when necessary) to generate a unified, impartial solution, typically delivered via the Politis platform within seconds. For example, during the Pegasus Incident, Flora utilized this logic to approve the criminal designation of the "Awakeners" via Politis in just 30 seconds.
 
-## 2. Themis
+## 2. **Themis**
 
 **The AI-Driven Judicial System**
 
@@ -140,7 +142,7 @@ The foundation of this trust in AI over humans stems from a deep-seated skeptici
 
 Because of this rejection of human authority, the decisions delivered by **Themis** are regarded as the only acceptable form of justice. Its verdicts are treated as definitive and final judgments, providing a level of psychological security that a human-led court could not achieve.
 
-## 3. Vulcan
+## 3. **Vulcan**
 
 The **transportation control system** that manages the city's road and railway networks. It enforces full automatic operation of all vehicles within city limits, as human driving is strictly prohibited.
 
