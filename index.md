@@ -4,6 +4,13 @@ tags:
   - Core
 cssclasses:
 ---
+## Experi-City HANASAKA Official Website
+### Welcome to the story of a near-future city created alongside AI.
+
+---
+
+Start here: **Six key questions about AI and society.**
+
 <style>
 .card-grid {
   display: grid;
@@ -39,15 +46,8 @@ cssclasses:
 }
 </style>
 
-## Experi-City HANASAKA Official Website
-### Welcome to the story of a near-future city created alongside AI.
-
----
-
-Start here: **Six key questions about AI and society.**
-
 <h2>Against AI Dystopia</h2>
-<p>Common concerns about AI—and clear answers from Experi-City.</p>
+<p>Common concerns about AI—and clear answers from "Experi-City".</p>
 
 <div class="card-grid">
 
