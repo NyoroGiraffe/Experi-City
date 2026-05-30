@@ -77,7 +77,13 @@ The **common information system infrastructure** that provides essential daily s
 
 In Experimental Cities, the possession or use of physical cash — including paper money and coins — is **prohibited** for all persons within city limits, including visitors. The use of currencies other than Experi-Coins is not prohibited, provided such transactions are conducted electronically.
 
-## **3. Self-Sufficiency and Resource Management**
+## **3. Property Policy and Urban Planning**
+
+• **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
+
+→ [**Detailed Information: Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
+
+## **4. Self-Sufficiency and Resource Management**
 
 • **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
@@ -85,27 +91,15 @@ In Experimental Cities, the possession or use of physical cash — including pap
 
 • **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
 
-## **4. Urban Planning and Wealth Policy**
+## **5. Restrictions on the Serving or Trading of Meat**
 
-• **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
+Since Experimental Cities prohibit the serving or trading of meat from quadrupeds and birds, or any products derived from or prepared using such meat, all meat must be plant-based or cultured. As of 9 E.E., the only foods not prohibited were seafood and insects. 
+While the city does not prohibit citizens from eating meat obtained by killing animals, anyone wishing to purchase such meat or eat it at a restaurant has to go outside the city limits.  As a result, there are no restaurants serving meat within the city, and you will not find any meat on the shelves of supermarkets or butcher shops. 
 
-• **The Strategic Transfer & Continuous Use Agreement:** To incentivize the transition to public land without disrupting current lives or businesses, the Experimental City Hanasaka offers a unique conversion program: 
-* **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city (i. e. the Governing Intelligence) grants them the right to **continue using that same land rent-free** as a leaseholder. 
-* However, in the case of apartment buildings, the former owner is limited to using only the portion necessary for their own living, while the city directly leases the remaining portions to other citizens. Although the rent set by the city is determined based on the size and comfort of the residence, it is very low and can be easily paid with the Experi-Coins (XC) provided through the UBI.
-* **The "22-Day Mobility" Clause:** This rent-free arrangement is contingent on a legal commitment: if the city requests the land for urban optimization, the citizen must agree to **vacate the premises or terminate the business operations within 22 days**. 
-* **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a highly rewarding transition. 
-* **Enhanced Incentive for Peripheral Zones:** In strategic areas near the city borders, a more aggressive policy applies. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**, facilitating the rapid expansion of the Green Field Zone.
+Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is **a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate**.
+On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
 
-• **Taxation and Asset Regulation:** To ensure resource circulation, high taxes are imposed on high-value private real estate and tangible assets. However, essential infrastructure remains protected: 
-* **Tax-Exempt Assets:** Facilities and equipment necessary for **public services, production, distribution, healthcare, and safety** are exempt from taxation, provided they meet specific regulatory criteria. This ensures the means of social production remain robust and decentralized.
-
-• **Civic Bonds:** In Experimental Cities, large-scale infrastructure projects and expensive industrial equipment are sometimes funded through special municipal bonds. 
-- Unlike Experi-Coins, these bonds do **not expire and may be held for long periods of time.** 
-- Both citizens and people outside the city are allowed to purchase them. 
-- However, the city does not repay bondholders with money when the bond reaches maturity. Instead, **bondholders receive long-term access rights to the infrastructure or services created by the project.** For example, a person who helped fund a railway may later gain the right to use that railway for free or with special priority, depending on the amount they contributed. 
-- This system exists not because Experimental Cities oppose investment itself, but because their people believe that **secure access to important resources and services is more valuable than simply increasing personal wealth.** In this society, practical access and participation are considered a greater form of richness than the accumulation of money or property.
-
-## **5. E.E. (Establishment Era)**
+## **6. E.E. (Establishment Era)**
 
 "**E.E.**" is an abbreviation for “Establishment Era,” the standard used for counting years in the Experiment Cities, including Hanasaka City. The first year that Hanasaka City and several other Experiment Cities were initially established is designated as the 1st year, written as "1 E.E."
 
@@ -113,7 +107,7 @@ In Experimental Cities, the possession or use of physical cash — including pap
 
 • **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
 
-## **6. The Principle of Renunciation of Origins**
+## **7. The Principle of Renunciation of Origins**
 
 **The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
 
@@ -128,7 +122,7 @@ In Experimental Cities, the possession or use of physical cash — including pap
 
 • **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**.
 
-## **7. The Principle of Non-Inquiry into Origins**
+## **8. The Principle of Non-Inquiry into Origins**
 
 **The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
 
@@ -136,19 +130,11 @@ In Experimental Cities, the possession or use of physical cash — including pap
 - **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
 - **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
 
-## **8. Display of First Names**
+## **9. Display of First Names**
 
 In Experimental Cities, when wearing smart glasses, the first names of people within a 5-meter radius automatically appear above their heads, making it easy to match a person’s face with their name, even if you’re meeting them for the first time. It is impossible to display an alias or pseudonym, and while only the first name is shown, people cannot hide their real names when physically close to others; this naturally encourages citizens to behave with discretion.
 
 (That said, names can be changed as many times as desired based on predetermined rules, and faces can be altered using “Facial Disguise,” so there is absolutely no guarantee that what you see today will be the same tomorrow.)
-
-## **9. Restrictions on the Serving or Trading of Meat**
-
-Since Experimental Cities prohibit the serving or trading of meat from quadrupeds and birds, or any products derived from or prepared using such meat, all meat must be plant-based or cultured. As of 9 E.E., the only foods not prohibited were seafood and insects. 
-While the city does not prohibit citizens from eating meat obtained by killing animals, anyone wishing to purchase such meat or eat it at a restaurant has to go outside the city limits.  As a result, there are no restaurants serving meat within the city, and you will not find any meat on the shelves of supermarkets or butcher shops. 
-
-Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate.
-On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
 
 
 ---

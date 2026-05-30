@@ -132,6 +132,7 @@ The following notes contain the foundational information required to understand 
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
 - [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
 - [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to Flora and all information systems operating under her direction in Experimental Cities.
+- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle, "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)" and governed by the super-intelligence **"Flora"**.
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
