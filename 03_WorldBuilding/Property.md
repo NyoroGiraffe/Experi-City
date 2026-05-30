@@ -15,7 +15,7 @@ In Experimental Cities, wealth is measured less by ownership and more by reliabl
 
 Land is considered a public good. Citizens and organizations may use land for homes, farms, shops, or factories, but they rarely own it permanently.
 
-For example, a family may live in the same house for many years, and a bakery may operate on the same site for decades. However, if the city needs the land for a new railway or urban improvement project, the users may be asked to relocate under the city's mobility policies. In return, they receive support such as moving assistance and additional UBI benefits.
+For example, a family may live in the same house for many years, and a bakery may operate on the same site for decades. However, if the city needs the land for a new railway or urban improvement project, the users may be asked to relocate under the city's mobility policies. In return, they receive support such as moving assistance and additional [UBI](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html) benefits.
 
 This system allows people to enjoy stability while preventing land speculation and large-scale land monopolies.
 
@@ -51,7 +51,7 @@ Together, these principles create a society where access, participation, and con
 
 To incentivize the transition to public land without disrupting current lives or businesses, the Experimental City Hanasaka offers a unique conversion program: 
 * **Right of Continuous Use:** If a citizen currently uses privately owned land for their **residence or business**, they may surrender the ownership title to the city for free. In exchange, the city (i. e. the Governing Intelligence) grants them the right to **continue using that same land rent-free** as a leaseholder. 
-* However, in the case of apartment buildings, the former owner is limited to using only the portion necessary for their own living, while the city directly leases the remaining portions to other citizens. Although the rent set by the city is determined based on the size and comfort of the residence, it is very low and can be easily paid with the Experi-Coins (XC) provided through the UBI.
+* However, in the case of apartment buildings, the former owner is limited to using only the portion necessary for their own living, while the city directly leases the remaining portions to other citizens. Although the rent set by the city is determined based on the size and comfort of the residence, it is very low and can be easily paid with [the Experi-Coins (XC) provided through the UBI.](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
 * **The "22-Day Mobility" Clause:** This rent-free arrangement is contingent on a legal commitment: if the city requests the land for urban optimization, the citizen must agree to **vacate the premises or terminate the business operations within 22 days**. 
 * **Premium Rewards for Flexibility:** Those who sign this agreement receive **double the standard UBI (Experi-Coins)** for one year following the city's relocation request. Additionally, the city compensates **80% of all moving expenses**, transforming a potential displacement into a highly rewarding transition. 
 * **Enhanced Incentive for Peripheral Zones:** In strategic areas near the city borders, a more aggressive policy applies. Citizens who agree to relocate within **15 days** can have their **double UBI period extended to five years**, facilitating the rapid expansion of the Green Field Zone.

@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Citizens' Social Participation Activities
 
-In the Experimental Cities where Universal Basic Income has been implemented, citizens have a unique perspective on work and creative activities.
+In the Experimental Cities where [Universal Basic Income](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html) has been implemented, citizens have a unique perspective on work and creative activities.
 
 ---
 <a id="work"></a>
