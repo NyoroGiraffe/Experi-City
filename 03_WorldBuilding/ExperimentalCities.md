@@ -79,8 +79,8 @@ In Experimental Cities, the possession or use of physical cash — including pap
 
 ## **3. Property Policy and Urban Planning**
 
-- In Experimental Cities, economic and social policies prioritize the mobility of wealth over its accumulation.
-- Also, in Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
+- In Experimental Cities, economic and social policies **prioritize the mobility of wealth over its accumulation.**
+- Also, in Experimental Cities, **wealth is measured less by ownership and more by reliable access to resources.**
 - **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
 
 → [**Detailed Information: Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
