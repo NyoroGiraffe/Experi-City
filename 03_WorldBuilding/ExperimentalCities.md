@@ -63,7 +63,7 @@ The **common information system infrastructure** that provides essential daily s
 
 Experimental Cities provide every citizen with a **Universal Basic Income (UBI)** through a digital currency called **Experi-Coins (XC).** This income is sufficient to cover basic living needs such as food, housing, healthcare, and transportation. Unlike ordinary money, Experi-Coins are **perishable** and gradually expire if they are not used. This design encourages circulation rather than accumulation, helping resources flow throughout the community. As a result, citizens are freed from the constant fear of poverty and can focus more on learning, creativity, social contribution, and the pursuit of Narrative Happiness.
 
-Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
+**Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)**
 
 ## **2. Prohibition of Physical Cash**
 
