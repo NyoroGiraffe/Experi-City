@@ -21,7 +21,7 @@ Experimental Cities serve as a grand social experiment to determine if a society
 
 ### Key Mechanism: "Perishable" Design & Circulation Logic
 
-- To prevent the stagnant accumulation of wealth and encourage a healthy economic flow, XC is designed to be **“perishable”** and distributed in virtual **"monthly boxes."** This system is built upon several unique technical and economic rules: 
+To prevent the stagnant accumulation of wealth and encourage a healthy economic flow, XC is designed to be **“perishable”** and distributed in virtual **"monthly boxes."** This system is built upon several unique technical and economic rules: 
 	* **The One-Year Expiry:** Each XC unit has a **one-year expiration date**. Any coins remaining in a box after twelve months simply vanish from the digital wallet unless returned to the city. 
 	* **The "First-In, First-Out" (FIFO) Spending Principle:** The city’s dedicated wallet app is programmed to automatically prioritize spending from the **oldest available box**. This ensures that citizens use their soon-to-expire credits first, maximizing the utility of their income. 
 	* **The Return and Re-issuance Mechanism:** Citizens have the option to "return" or "deposit" their excess XC back to the city's treasury. While these coins do not accrue interest, they are not permanently confiscated. **Upon a citizen's request after a designated period**, the city (i. e. the Governing Intelligence) **re-issues** the equivalent amount in a **new monthly box** with a fresh expiration date. This allows for long-term planning without the inflationary pressure of traditional interest, provided the citizen proactively manages their assets. 
@@ -37,7 +37,7 @@ The Universal Basic Income (UBI) system in Experimental Cities is closely connec
 
 Experimental Cities place great importance on producing essential resources such as food, water, and energy locally whenever possible. By reducing dependence on outside suppliers, the city limits the amount of money that flows out of the local economy. This also protects citizens from sudden price increases caused by political or economic instability elsewhere. Maintaining a stable supply of these necessities helps control living costs and supports the long-term sustainability of the Universal Basic Income (UBI) system.
 
-### **Safeguarding the Community Philosophy
+### Safeguarding the Community Philosophy
 
 While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the Governing Intelligence reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 
