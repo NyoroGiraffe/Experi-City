@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-AI will increase inequality.
+What kinds of institutions can reduce inequality in an AI age?
 
 ### Response (Short):
 

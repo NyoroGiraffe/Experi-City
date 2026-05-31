@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-AI governance is undemocratic.
+How can democracy evolve in an age of AI?
 
 ### Response (Short):
 

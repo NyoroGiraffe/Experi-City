@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-Surveillance will destroy privacy.
+How can privacy and safety coexist in a highly connected society?
 
 ### Response (Short):
 

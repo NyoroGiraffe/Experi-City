@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-AI will take away human freedom.
+How can human freedom be preserved in an AI-governed society?
 
 ### Response (Short):
 

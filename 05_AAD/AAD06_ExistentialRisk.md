@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-If AI becomes powerful enough, won’t it eventually destroy society?
+How can powerful AI systems be aligned with human flourishing?
 
 ### Response (Short):
 

@@ -8,7 +8,7 @@ cssclasses:
 
 ### Concern:
 
-Humans will become useless.
+What gives human life meaning in an age of advanced AI?
 
 ### Response (Short):
 
