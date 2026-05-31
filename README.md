@@ -116,27 +116,28 @@ Through these conflicts, the story challenges the assumption that AI-led societi
 
 → [**Read Full Overview**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
 
-<a id="outline"></a>
-## **OUTLINE**
-
-This story is structured as a multi-part epic. The current version covers up to Part 3, with plans for further expansion in the future.
-
-→ [**Detailed Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
+→ [**Characters**](./02_Characters/Characters.md) in the story
 
 ---
-<a id="characters-worldbuilding"></a>
-# **Essential Guide**
+<a id="worldbuilding"></a>
+# **Essential Guide** - World Building
 
-The following notes contain the foundational information required to understand the story outlined above.
-- [**Characters**](./02_Characters/Characters.md) in the story
-- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
-- [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
-- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html): It is the practice of assigning certain decisions to AI systems rather than human authorities. 
-- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to the super-intelligence **"Flora"** and all information systems operating under her direction in Experimental Cities.
-- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
-- [**Citizens' Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where [**Universal Basic Income**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html) has been implemented, citizens have a unique perspective on work and creative activities.
+The following notes contain the foundational information required to understand this story.
+
+- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) ([**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)) and AI governance to ensure human happiness and safety.
+	- [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
+
+- **Human Happiness, Value and Safety**
+	- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html): It is the practice of assigning certain decisions to AI systems rather than human authorities. 
+	- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to the super-intelligence **"Flora"** and all information systems operating under her direction in Experimental Cities.
+	- [**Citizens' Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where Universal Basic Income has been implemented, citizens have a unique perspective on work and creative activities.
+
+- **Circulation, Equality and Sustainability**
+	- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
+	- [**Universal Basic Income and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html): Experimental Cities provide every citizen with a Universal Basic Income (UBI) through a digital perishable currency called Experi-Coins (XC).  
+
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)."
-- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
+	- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
 ---
 <a id="analyses"></a>

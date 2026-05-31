@@ -13,7 +13,7 @@ AI systems continuously manage and adjust city operations based on real-time dat
 
 ### Overview:
 
-In Experi-City, governance is not carried out by human officials, but by a structured system of AI led by a central intelligence. This system collects data from across the city—such as health, movement, economic activity, and citizen preferences—and uses it to guide decisions and operations in real time. Rather than relying on periodic decisions or fixed rules, the city is continuously adjusted to reflect actual conditions.
+In Experimental Cities, governance is not carried out by human officials, but by a structured system of AI led by a central intelligence. This system collects data from across the city—such as health, movement, economic activity, and citizen preferences—and uses it to guide decisions and operations in real time. Rather than relying on periodic decisions or fixed rules, the city is continuously adjusted to reflect actual conditions.
 
 ### Key Mechanisms:
 

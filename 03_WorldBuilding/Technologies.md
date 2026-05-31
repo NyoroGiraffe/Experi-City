@@ -18,14 +18,19 @@ cssclasses:
 This story features a variety of objects and items created with advanced technology.
 
 ---
+<a id="GSI"></a>
 # Gadgets and Small Items:
 
 ## **1. Nexus Unit**:
 
 An information terminal carried by almost everyone, used to communicate with various city systems and exchange information. It is often referred to simply as "**Nexus**." 
+
 The terminal has no screen; instead, it links with smart glasses and is operated through an augmented reality view displayed in front of the user’s eyes.
 Citizens of the [Experimental Cities](./ExperimentalCities.md) use Nexus Units provided by the city, and the use of any units not authorized by the city is prohibited.
-During [Kassen](./Kassen.md), specialized Nexus Units are used to track and record a Fighter's **Hit Points (HP)**.
+
+During [Kassen](./Kassen.md) matches, specialized Nexus Units are used to track and record a Fighter's **Hit Points (HP)**.
+
+→ [Related Information: Human-System Interface](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
 
 ## **2. Enhancers**:
 
@@ -35,8 +40,9 @@ During [Kassen](./Kassen.md), specialized Nexus Units are used to track and reco
 
 **1. Smart Glasses**
 
-A near-universal device worn by everyone except young children, regardless of their visual acuity. They overlay a wide range of information onto the real world via an **AR view**. The devices often include bone conduction audio components for communication.
-They are often simply referred to as "Glasses." 
+A near-universal device worn by everyone except young children, regardless of their visual acuity. They overlay a wide range of information onto the real world via an **AR view**. The devices often include bone conduction audio components for communication. They are often simply referred to as "Glasses." 
+
+→ [Related Information: Human-System Interface](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
 
 **2. Smart Goggles**
 
@@ -54,11 +60,11 @@ Specialized footwear used by Kassen Fighters, designed like split-toe socks to s
 
 **2. Leg Enhancer** 
 
-Mobility devices used to assist walking or compensate for limb loss. Users like **Resilin** may also use them in conjunction with motorized unicycles that are adjusted to their specific limb structure.
+Mobility devices used to assist walking or compensate for limb loss. Users may also use them in conjunction with motorized unicycles that are adjusted to their specific limb structure.
 
 **3. Arm Enhancer** 
 
-Mechanical reinforcements for the arms. **Captain Soa** utilizes an Arm Enhancer due to a previous combat injury. While it provides superior strength and grip, its use for direct combat during Kassen matches is strictly prohibited by regulations.
+Mechanical reinforcements for the arms. While it provides superior strength and grip, its use for direct combat during Kassen matches is strictly prohibited by regulations.
 
 **4. Smart Gloves** 
 
@@ -74,7 +80,9 @@ A thin film applied over the face to alter a person’s appearance for the purpo
 
 ## **4. Micro-chips**:
 
-Identification and management chips embedded in the base of the thumb and index finger of all citizens over the age of 18. They are essential for accessing municipal services, health management, and safety systems managed by **Flora** in the Experimental Cities.
+Identification and management chips embedded in the base of the thumb and index finger of all citizens over the age of 18. They are essential for accessing municipal services, health management, and safety systems managed by the central AI **Flora** in the Experimental Cities.
+
+→ [Related Information: Human-System Interface](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
 
 ## **5. Nano-machines**:
 
@@ -97,6 +105,7 @@ Identification and management chips embedded in the base of the thumb and index 
 • **Stealth and Self-Destruction:** Advanced malicious versions can **disguise themselves as normal cells** to avoid detection by medical systems or trigger self-destructive behavior in the host.
 
 ---
+<a id="robots"></a>
 # Robots (Mech-animals):
 
 **Mech-animals** are robots designed after animals, insects, and birds, serving various roles in sports, daily life, and warfare.
@@ -125,5 +134,7 @@ Identification and management chips embedded in the base of the thumb and index 
 - **Mech-fly:** A multi-purpose hybrid weighing roughly 0.1g that combines the scouting and attacking functions of the roach and bee.
 
 ---
+
+[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
