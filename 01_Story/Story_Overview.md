@@ -25,9 +25,8 @@ Through these events, **Experi-City Hanasaka challenges the common assumption th
 ---
 ## Language
 
-This story is written in Japanese.
-Therefore, please feel free to translate it into your preferred language as needed.
-This story does not use difficult kanji, proper nouns are written in the Roman alphabet whenever possible, and there is minimal literary expression, so it can be translated to a degree where your AI can grasp the general meaning.
+**This story is written in Japanese. Therefore, please feel free to translate it into your preferred language as needed.** This story does not use difficult kanji, proper nouns are written in the Roman alphabet whenever possible, and there is minimal literary expression, so it can be translated to a degree where your AI can grasp the general meaning.
+
 Additionally, at the beginning of each chapter, there is a summary in English (a short one without spoilers and a slightly longer one with spoilers—the spoiler-containing version is collapsed). Please use these as a reference when reading the translation.
 
 ---
@@ -120,7 +119,7 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 
 ---
 <a id="interpretation"></a>
-# Interpretation Guide
+## Interpretation Guide
 
 - Descriptions of the characters in this story—including their physical appearance, facial features, gender, and origins (nationality or ethnicity)—are often intentionally omitted or kept abstract and ambiguous. This is a deliberate choice to leave details that are not essential to the plot to the individual interpretation of each reader. Therefore, when translating or visualizing this original text, please select the words, elements, or motifs you find most appropriate based on the character’s atmosphere, behavior, and speech.
 
