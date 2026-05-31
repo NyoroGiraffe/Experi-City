@@ -41,7 +41,7 @@ Experimental Cities place great importance on producing essential resources such
 
 While XC is essential for daily life, it also functions as a tool for maintaining social order. The Experi-Cities are founded as communities for those who share a specific **founding philosophy**. If a resident's actions or public rhetoric significantly undermine or disparage this philosophy, the Governing Intelligence reserves the right to **freeze their XC accounts** as a sanction. This mechanism is intended to protect the integrity and peace of the community, though critics often argue it functions as a potent method of ideological control.
 
-### Reference:
+### Related Information:
 - [Analyses on “UBI” by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r03_UBI.html)
 - [UBI and Citizens' Social Participation Activities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 

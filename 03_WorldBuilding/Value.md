@@ -28,7 +28,9 @@ Essential workers are indispensable to maintaining social infrastructure and pub
 
 In Experimental Cities, creative activity is valued not mainly as a way to earn money, because the Universal Basic Income (UBI) system already guarantees every citizen access to the necessities of life, but as a way to create meaning, connection, and **Narrative Happiness**. People write stories, compose music, design inventions, make art, and build community projects because these activities help them express themselves and share experiences with others. Even if AI can create works that are technically better, human creativity remains important because it reflects personal choices, emotions, and unique life experiences. As a result, creative works are not judged only by their quality or popularity. They are also evaluated by **how much curiosity, inspiration, participation, learning, and Narrative Happiness they bring to individuals and the community as a whole.**
 
-→Reference: [Property and Wealth - Knowledge and Intellectual Property](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
+
+**Related Information:**
+- [Property and Wealth - Knowledge and Intellectual Property](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 
 ---
 

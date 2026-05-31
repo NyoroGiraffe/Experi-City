@@ -102,6 +102,7 @@ Start here: **Six key questions about AI and society.**
 - **WORLD BUILDING**
 	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 		- [**Charter of the Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 		- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 		- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 		- [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)

@@ -55,6 +55,8 @@ The **common information system infrastructure** that provides essential daily s
 
 → [**Detailed Information**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
+→ [**Related Information: Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+
 ---
 <a id="rules"></a>
 # Experimental Initiatives and Rules

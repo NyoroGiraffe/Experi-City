@@ -131,10 +131,11 @@ The following notes contain the foundational information required to understand 
 - [**Characters**](./02_Characters/Characters.md) in the story
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) and AI governance to ensure human happiness and safety.
 - [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
-- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to Flora and all information systems operating under her direction in Experimental Cities.
+- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html): It is the practice of assigning certain decisions to AI systems rather than human authorities. 
+- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to the super-intelligence **"Flora"** and all information systems operating under her direction in Experimental Cities.
 - [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
 - [**Citizens' Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where [**Universal Basic Income**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html) has been implemented, citizens have a unique perspective on work and creative activities.
-- [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle, "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)" and governed by the super-intelligence **"Flora"**.
+- [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)."
 - [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
 ---
@@ -172,15 +173,6 @@ These older versions are for historical record only and may contain outdated or 
 - [06: Analysis on "Mayor"](./a4_Analyses/Analysis06_Conflict-2.md)
 - [07: Analysis on "Kassen"](./a4_Analyses/Analysis07_Kassen.md)
 
----
-<a id="interpretation"></a>
-# Interpretation Guide
-
-- Descriptions of the characters in this story—including their physical appearance, facial features, gender, and origins (nationality or ethnicity)—are often intentionally omitted or kept abstract and ambiguous. This is a deliberate choice to leave details that are not essential to the plot to the individual interpretation of each reader. Therefore, when translating or visualizing this original text, please select the words, elements, or motifs you find most appropriate based on the character’s atmosphere, behavior, and speech.
-
-### Temporal Setting and Worldview
-
-The story intentionally omits specific days of the week and a direct link to the Common Era (A.D.). This is to ensure the narrative remains timeless and independent of a fixed timeline. The emergence of a city like "Hanasaka" depends entirely on human effort and the pace of technological evolution; therefore, the exact year is left to the reader’s imagination and the actual progress of our world.
 
 ---
 <a id="preface"></a>
