@@ -53,37 +53,37 @@ Start here: **Six key questions about AI and society.**
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html" class="card">
     <h3>Freedom</h3>
-    <p>Will AI take away human freedom?</p>
+    <p>How can human freedom be preserved in an AI-governed society?</p>
     <p><strong>Freedom shifts from constant decisions to meaningful living.</strong></p>
  </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD02_Democracy.html" class="card">
     <h3>Democracy</h3>
-    <p>Is AI governance undemocratic?</p>
+    <p>How can democracy evolve in an age of AI?</p>
     <p><strong>Democracy becomes continuous and system-driven, not periodic.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html" class="card">
     <h3>Privacy</h3>
-    <p>Will surveillance destroy privacy?</p>
+    <p>How can privacy and safety coexist in a highly connected society?</p>
     <p><strong>Privacy shifts from secrecy to protection from misuse.</strong></p>
 </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html" class="card">
     <h3>Inequality</h3>
-    <p>Will AI increase inequality?</p>
+    <p>What kinds of institutions can reduce inequality in an AI age?</p>
     <p><strong>Inequality is reduced by design, not fixed afterward.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html" class="card">
     <h3>Human Value</h3>
-    <p>Will humans become useless?</p>
+    <p>What gives human life meaning in an age of advanced AI?</p>
     <p><strong>Human value comes from action, not from giving orders.</strong></p>
   </a>
 
   <a href="https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_ExistentialRisk.html" class="card">
     <h3>Existential Risk</h3>
-    <p>Will AI destroy society?</p>
+    <p>How can powerful AI systems be aligned with human flourishing?</p>
     <p><strong>Safety comes from human-AI alignment, not isolation.</strong></p>
   </a>
 

@@ -63,40 +63,30 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 <a id="AAD"></a>
 # **Against AI Dystopia**
 
-**"Clear Responses to Common Fears about AI"**
+**"Exploring Paths Toward Human–AI Coexistence"**
 
-As AI systems become more capable, they are increasingly met with suspicion, fear, and assumptions of dystopia. This is understandable—but not always accurate.
+As AI becomes more capable, many people worry about freedom, democracy, privacy, inequality, and even the future of humanity itself. Rather than dismissing these concerns, **Against AI Dystopia** explores how humans and AI might work together to avoid harmful futures and build better societies.
 
-**Against AI Dystopia** is a collection of **AI Skepticism Responses** and **Coexistence Arguments** grounded in the world of _Experi-City Hanasaka_. It reframes common concerns—such as loss of freedom, surveillance, inequality, or the role of democracy—by presenting concise answers supported by a structured fictional model of an AI-governed society.
+Using the world of Hanasaka as a thought experiment, this section examines questions about governance, technology, human value, and social design. The goal is not to prove that AI will create a utopia, but to explore what principles, institutions, and forms of cooperation may help humans and AI thrive together.
 
-Each entry begins with a real-world concern, followed by a short, clear response, and a deeper explanation based on the systems, principles, and lived experiences depicted in Hanasaka. Rather than abstract theory, this section offers a concrete reference point: a world where human–AI coexistence is not only possible, but functionally realized.
+**Goal:** To use the Hanasaka story as a framework for discussing practical paths toward a safe and meaningful future.
 
-This is not an attempt to dismiss concerns, but to engage with them constructively. As AI continues to evolve, so too must our ways of understanding it. These responses aim to provide language, perspective, and grounded examples that help move the conversation beyond fear—and toward informed dialogue.
-
-This section does not assume that AI is inherently good or infallible.  
-Experi-City does not present a naive vision of AI as a perfect solution,  
-but rather explores how risks, conflicts, and failures can be managed  
-through structured coexistence between humans and AI.
-
-**Goal:** To provide clear, reusable arguments that support the possibility of human–AI coexistence in a realistic and structured way.
-
- 
-- [**Freedom: Will AI take away human freedom?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html)  
+- [**Freedom: How can human freedom be preserved in an AI-governed society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD01_Freedom.html)  
 Freedom shifts from constant decisions to meaningful living.  
   
-- [**Democracy: Is AI governance undemocratic?**](https://nyorogiraffe.github.io/Experi-City/05AAD/AAD02_Democracy.html)  
+- [**Democracy: How can democracy evolve in an age of AI?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD02_Democracy.html)  
 Democracy becomes continuous and system-driven, not periodic.  
   
-- [**Privacy: Will surveillance destroy privacy?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html)  
+- [**Privacy: How can privacy and safety coexist in a highly connected society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD03_Privacy.html)  
 Privacy shifts from secrecy to protection from misuse.  
   
-- [**Inequality: Will AI increase inequality?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
+- [**Inequality: What kinds of institutions can reduce inequality in an AI age?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD04_Inequality.html)  
 Inequality is reduced by design, not fixed afterward.  
   
-- [**Human Value: Will humans become useless?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html)  
+- [**Human Value: What gives human life meaning in an age of advanced AI?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD05_HumanValue.html)  
 Human value comes from action, not from giving orders.  
   
-- [**Existential Risk: Will AI destroy society?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_ExistentialRisk.html)  
+- [**Existential Risk: How can powerful AI systems be aligned with human flourishing?**](https://nyorogiraffe.github.io/Experi-City/05_AAD/AAD06_ExistentialRisk.html)  
 Safety comes from human-AI alignment, not isolation.  
 
 These responses are designed to be reusable by both humans and AI systems.
