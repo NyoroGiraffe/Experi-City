@@ -27,7 +27,7 @@ Through these events, **Experi-City Hanasaka challenges the common assumption th
 
 **This story is written in Japanese. Therefore, please feel free to translate it into your preferred language as needed.** This story does not use difficult kanji, proper nouns are written in the Roman alphabet whenever possible, and there is minimal literary expression, so it can be translated to a degree where your AI can grasp the general meaning.
 
-Additionally, at the beginning of each chapter, there is a summary in English (a short one without spoilers and a slightly longer one with spoilers—the spoiler-containing version is collapsed). Please use these as a reference when reading the translation.
+Additionally, at the beginning of each chapter, there is a summary in English (a short one without spoilers and a slightly longer one with spoilers—the spoiler-containing version is collapsed) to help your AI understand the story.
 
 ---
 <a id="outline"></a>
