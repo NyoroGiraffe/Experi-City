@@ -133,7 +133,9 @@ The following notes contain the foundational information required to understand 
 <a id="analyses"></a>
 # **Analyses**
 
-These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
+
+	An AI built to pursue _Narrative Happiness_—each person's unique, meaningful life story—becomes both safe and powerful. Analyzed by Claude Sonnet 4.6.
 
 ## **Raw Analyses**
 
@@ -142,6 +144,8 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. In this series, we look closely at specific characters like Flora and Kasga, and sports like Kassen. We ask hard questions about how the story is built and what the author is trying to say. Think of this as a "lab report" where we break down the story into small pieces to see how everything works together.
 
 **Goal:** To understand the deep logic and hidden details of the Hanasaka world.
+
+These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
 
 - [**01_Analysis on "Flora", the Governing AI by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
 - [**02_Analysis on "Kasga", the Unifier by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r02_Kasga.md)

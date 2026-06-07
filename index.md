@@ -113,6 +113,7 @@ Start here: **Six key questions about AI and society.**
 		- [**Hanasaka Castle**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCastle.html)
 		- [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
 - [**ANALYSES** by Gemini, ChatGPT and Claude](./README.md#analyses)
+	- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
 
 ---
 
