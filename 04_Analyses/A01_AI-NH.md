@@ -1,5 +1,5 @@
 ---
-meta-description: "A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+description: "A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-og:description: "A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-author: "Nyoro Giraffe (world) / Claude Sonnet 4.6 (analysis)"
 tags:
