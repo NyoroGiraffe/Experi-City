@@ -267,6 +267,11 @@ _The most important lesson Experi-City Hanasaka offers real AI development is th
 
 
 ---
+## Key Concepts 
+
+AI safety, AI alignment, Narrative Happiness, objective function design, qualitative security, context-based anomaly detection, meaning-based QoS, positive-sum AI competition, human-AI symbiosis, AI governance, Experi-City, Flora, Nyoro Giraffe
+
+---
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
 
