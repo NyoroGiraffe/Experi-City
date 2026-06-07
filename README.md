@@ -147,13 +147,13 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
 
-- [**01_Analysis on "Flora", the Governing AI by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r01_Flora.md)
-- [**02_Analysis on "Kasga", the Unifier by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r02_Kasga.md)
-- [**03_Analysis on "UBI" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r03_UBI.md)
-- [**04_Analysis on "Identities" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r04_Identities.md)
-- [**05_Analysis on "Anti-AI-Governance" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
-- [**06_Analysis on "Democracy" by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r06_Democracy.md)
-- [**07_Analysis on "Kassen", a sport by Gemini, ChatGPT, and Claude**](./04_R-Analyses/Analysis_r07_Kassen.md)
+- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
+- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
+- [**03_Analysis on "UBI"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
+- [**04_Analysis on "Identities"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA04_Identities.html)
+- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
+- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
+- [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
 
 ### **Archives**
 #### Preliminary Analyses as of March 2026 (Early Academic Analyses)

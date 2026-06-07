@@ -16,7 +16,7 @@ In the Experimental Cities where [Universal Basic Income](https://nyorogiraffe.g
 In Experimental Cities, work is valued not mainly as a way to earn a living, because the Universal Basic Income (UBI) system already guarantees every citizen access to the necessities of life. Instead, work is seen as a way to contribute to society, develop personal skills, and participate in the ongoing story of the community. People work because they want to solve problems, help others, create new ideas, and build meaningful relationships. As a result, work is not judged only by productivity or profit. It is also evaluated by how much learning, cooperation, innovation, public benefit, and **Narrative Happiness** it brings to individuals and society. 
 From Flora's perspective, one could say, “Work should create stories, not just products.”
 
-→Reference: [Analysis on "UBI"- Why Work if Survival is Guaranteed?](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r03_UBI.html)
+→Reference: [Analysis on "UBI"- Why Work if Survival is Guaranteed?](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
 
 ## Special Status of Essential Workers
 

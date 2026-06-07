@@ -46,7 +46,7 @@ While XC is essential for daily life, it also functions as a tool for maintainin
 AI-Governance, Circulation Economy, Property, Sustainability
 
 ### Related Information:
-- [Analyses on “UBI” by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r03_UBI.html)
+- [Analyses on “UBI” by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
 - [UBI and Citizens' Social Participation Activities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ---

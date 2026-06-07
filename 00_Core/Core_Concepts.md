@@ -343,7 +343,7 @@ Key conflicts that define the narrative and philosophical depth of Experi-City.
     
 - External: Perception of AI systems as a threat to human autonomy
 
-→ See: [Analysis_r05_Anti-AIGovernance](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r05_Anti-AIGovernance.html)
+→ See: [Raw Analysis05_Anti-AIGovernance](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 
 ### Legitimacy vs Alignment
 
@@ -351,7 +351,7 @@ Key conflicts that define the narrative and philosophical depth of Experi-City.
     
 - Philosophical Alignment: Authority derived from understanding and trust
 
-→ See: [Analysis_r06_Democracy](https://nyorogiraffe.github.io/Experi-City/04_R-Analyses/Analysis_r06_Democracy.html)
+→ See: [Raw Analysis_Democracy](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 
 ---
 
@@ -371,15 +371,15 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 <a id="analyses"></a>
 # Analyses
 
-[**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
-
-- [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
-- [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
-- [**03_Analysis on "UBI"**](./04_R-Analyses/Analysis_r03_UBI.md)
-- [**04_Analysis on "Identities"**](./04_R-Analyses/Analysis_r04_Identities.md)
-- [**05_Analysis on "Anti-AI-Governance"**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
-- [**06_Analysis on "Democracy"**](./04_R-Analyses/Analysis_r06_Democracy.md)
-- [**07_Analysis on "Kassen", a sport**](./04_R-Analyses/Analysis_r07_Kassen.md)
+- [**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
+- Raw Analyses:
+	- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
+	- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
+	- [**03_Analysis on "UBI"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
+	- [**04_Analysis on "Identities"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA04_Identities.html)
+	- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
+	- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
+	- [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
 
 ---
 <a id="license"></a>
