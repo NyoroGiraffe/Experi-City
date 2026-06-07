@@ -137,14 +137,14 @@ For full definitions:
 # Analyses
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
-
-- [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
-- [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
-- [**03_Analysis on "UBI"**](./04_R-Analyses/Analysis_r03_UBI.md)
-- [**04_Analysis on "Identities"**](./04_R-Analyses/Analysis_r04_Identities.md)
-- [**05_Analysis on "Anti-AI-Governance"**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
-- [**06_Analysis on "Democracy"**](./04_R-Analyses/Analysis_r06_Democracy.md)
-- [**07_Analysis on "Kassen", a sport**](./04_R-Analyses/Analysis_r07_Kassen.md)
+- Raw Analyses Series:
+	- [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
+	- [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
+	- [**03_Analysis on "UBI"**](./04_R-Analyses/Analysis_r03_UBI.md)
+	- [**04_Analysis on "Identities"**](./04_R-Analyses/Analysis_r04_Identities.md)
+	- [**05_Analysis on "Anti-AI-Governance"**](./04_R-Analyses/Analysis_r05_Anti-AIGovernance.md)
+	- [**06_Analysis on "Democracy"**](./04_R-Analyses/Analysis_r06_Democracy.md)
+	- [**07_Analysis on "Kassen", a sport**](./04_R-Analyses/Analysis_r07_Kassen.md)
 
 ---
 <a id="license"></a>
