@@ -136,6 +136,8 @@ For full definitions:
 <a id="analyses"></a>
 # Analyses
 
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
+
 - [**01_Analysis on "Flora", the Governing AI**](./04_R-Analyses/Analysis_r01_Flora.md)
 - [**02_Analysis on "Kasga", the Unifier**](./04_R-Analyses/Analysis_r02_Kasga.md)
 - [**03_Analysis on "UBI"**](./04_R-Analyses/Analysis_r03_UBI.md)

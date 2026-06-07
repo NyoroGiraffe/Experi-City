@@ -47,6 +47,8 @@ The supreme guiding creed proclaimed by the League of Experimental Cities, upon 
 
 The highest legal norm of the Experimental Cities, established by the League of Experimental Cities to give concrete legal form to the Philosophy. Its provisions are equally binding upon human citizens, organizations, and the Governing Intelligence. All principles, systems, and ordinances of Experi-City must conform to the Charter.
 
+→ See: [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+
 ---
 
 # Concepts
@@ -202,6 +204,8 @@ The shared infrastructure upon which Politis, Themis, and other citizen-facing s
 **Flora (Short)**: The central AI governing Experi-City to cultivate Narrative Happiness.
 
 A fictional central AI that governs Experi-City within an AI-Governance architecture. Flora shapes environments where meaningful human experiences can emerge.
+
+→ See: [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
 
 ---
 
