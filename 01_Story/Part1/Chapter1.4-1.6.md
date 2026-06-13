@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "1.4: Kasga's Concern"
+  - 1.4 Kasga's Concern
   - 1.5 The Center of Flora's Coordinates
   - 1.6 Three Lightning Spears
 tags:

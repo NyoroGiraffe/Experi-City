@@ -1,6 +1,6 @@
 ---
 aliases:
-  - 2.2 Hypothesis
+  - 2.2 Narrative Happiness
   - 2.3 A Fabricated Conspiracy
 tags:
   - Story
@@ -9,7 +9,7 @@ cssclasses:
 ---
 # Part 2: The Ninth Summer
 <a id="chapter2.2"></a>
-## Chapter 2.2: Hypothesis
+## Chapter 2.2: Narrative Happiness
 
 ### Overview (Spoiler-Free)
 

@@ -1,7 +1,7 @@
 ---
 aliases:
   - 3.18 The Sneaky Opening
-  - "3.19 Decisive Weapon: Shining Black Sapphire Booster"
+  - 3.19 Decisive Weapon: Shining Black Sapphire Booster
 tags:
   - Story
   - Core

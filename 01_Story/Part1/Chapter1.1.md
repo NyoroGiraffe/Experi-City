@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Holder of the Black Stone
+  - 1.1 Holder of the Black Stone
 tags:
   - Story
   - Core

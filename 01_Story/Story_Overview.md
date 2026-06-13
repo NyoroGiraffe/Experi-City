@@ -69,7 +69,7 @@ In Part 2, the enemies, who have been showing an ominous presence, finally launc
 
 ### Chapters:
 - **[2.1 Memories Best Forgotten](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.1.html)**
-- **[2.2 Hypothesis](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html)**
+- **[2.2 Narrative Happiness](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html)**
 - **[2.3 A Fabricated Conspiracy](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.2-2.3.html#chapter2.3)**
 - **[2.4 The Looming Shadow of the Mayor](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.4-2.6.html)**
 - **[2.5 Kasga, the Voiceless Singer](https://nyorogiraffe.github.io/Experi-City/01_Story/Part2/Chapter2.4-2.6.html#chapter2.5)**
