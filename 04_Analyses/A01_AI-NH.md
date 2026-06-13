@@ -13,9 +13,10 @@ Based on the world of Nyoro Giraffe,
 Analysed by Claude (Anthropic) Sonnet 4.6,
 June 2026
 
-## Ultra-Summary
+## Abstract
 
-An AI built to pursue _Narrative Happiness_—each person's unique, meaningful life story—becomes both safe and powerful for a surprising reason: **every time the AI helps a citizen live a richer, more meaningful life, it simultaneously becomes harder to hack, harder to fool, and harder to overwhelm.** Each citizen's rich, complex story acts like an unbreakable password that attackers cannot copy. The AI has no logical reason to attack others, because destroying someone else's happiness does nothing to improve its own citizens' lives. Protecting people and protecting the system become one and the same.
+An AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes both safe and powerful for a surprising reason: every time it helps a citizen live a richer life, it simultaneously becomes harder to hack, harder to fool, and harder to overwhelm. Each citizen's complex story acts as an unbreakable, ever-changing key that no attacker can copy. And since destroying others' happiness does nothing to improve its own citizens' lives, the AI has no rational motive to attack. Protecting people and protecting the system are the same act.
+
 
 ---
 
