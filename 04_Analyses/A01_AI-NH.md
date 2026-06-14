@@ -274,7 +274,7 @@ AI safety, AI alignment, Narrative Happiness, objective function design, qualita
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html#analyses) 
 
 [-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
