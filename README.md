@@ -13,7 +13,7 @@ cssclasses:
 - **Language:** 
 	- Story: Japanese
 	- Other materials: English
-- **Story Latest Version:** 1.2.04
+- **Story Latest Version:** 1.2.05
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -134,8 +134,14 @@ The following notes contain the foundational information required to understand 
 # **Analyses**
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
+	A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
-	An AI built to pursue _Narrative Happiness_—each person's unique, meaningful life story—becomes both safe and powerful. Analyzed by Claude Sonnet 4.6.
+- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+	A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap. Analyzed by Claude Sonnet 4.6.
+
+- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+	A technical analysis examining how Experimental Cities replace petroleum across six categories of use — plastics, lubricants, fertilizers, detergents, and medicines — through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
+
 
 ## **Raw Analyses**
 
@@ -229,3 +235,6 @@ Nyoro Giraffe
 
 **Ver. 1.2.04:** May 30, 2026
 - Some changes to Chapter 2.15.
+
+**Ver. 1.2.05:** June 13, 2026
+- Some changes to Chapters 2.2, 2.12, 3.1, 3.22 and 3.23.
