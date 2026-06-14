@@ -385,6 +385,9 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 # Analyses
 
 - [**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
+- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+
 - Raw Analyses:
 	- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 	- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
