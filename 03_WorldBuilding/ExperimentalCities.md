@@ -95,7 +95,15 @@ While the city does not prohibit citizens from eating meat obtained by killing a
 Raising quadrupeds and birds requires not only space for the animals themselves but also farmland to produce vast quantities of feed. However, in Experimental Cities, which aim for self-sufficiency, there is **a desire to avoid allocating precious farmland to “animal feed” rather than “staple foods for humans,” as this would lower the self-sufficiency rate**.
 On the other hand, when it comes to seafood, aquaponics—a system that combines hydroponics with fish farming to use fish waste as plant fertilizer—can be utilized to produce food within the city’s limited resources and space.
 
-## **6. E.E. (Establishment Era)**
+## **6. Restrictions on Car Ownership and Driving**
+
+- In Experimental Cities, private car ownership is generally prohibited. As a result, there are fewer cars compared to other typical cities.
+- In Experimental Cities, manual driving by humans is strictly prohibited; control over vehicle movement is maintained by the traffic control system “Vulcan.” This applies even to police and fire department vehicles; the only differences are their maximum speed limits and whether they are permitted to run red lights.  
+- Human operation of vehicles is permitted only as a substitute when autonomous driving by machines becomes impossible for some reason.  Particularly in areas with heavy foot traffic, driving by humans is considered a criminal offense unless it is an emergency that necessitates human intervention. 
+- Although there are no cars in Experimental Cities that emit gases harmful to the human body, driving still consumes energy. Therefore, driving without a specific purpose is considered a waste of energy and is prohibited by ordinance. However, as long as a destination is set and the driver stays on the shortest route, there is no issue, so enforcement is not actually that strict. 
+- From the perspective of Experimental Cities’ residents, the use of automobiles on general city roads is generally limited to public services such as the police and fire departments, business-related necessities such as delivery services, or cases where individuals with physical or mental disabilities or children face difficulties using public transportation. 
+
+## **7. E.E. (Establishment Era)**
 
 "**E.E.**" is an abbreviation for “Establishment Era,” the standard used for counting years in the Experiment Cities, including Hanasaka City. The first year that Hanasaka City and several other Experiment Cities were initially established is designated as the 1st year, written as "1 E.E."
 
@@ -103,7 +111,7 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 
 • **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
 
-## **7. The Principle of Renunciation of Origins**
+## **8. The Principle of Renunciation of Origins**
 
 **The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
 
@@ -118,7 +126,7 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 
 • **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**.
 
-## **8. The Principle of Non-Inquiry into Origins**
+## **9. The Principle of Non-Inquiry into Origins**
 
 **The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
 
@@ -126,7 +134,7 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 - **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
 - **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
 
-## **9. Display of First Names**
+## **10. Display of First Names**
 
 In Experimental Cities, when wearing smart glasses, the first names of people within a 5-meter radius automatically appear above their heads, making it easy to match a person’s face with their name, even if you’re meeting them for the first time. It is impossible to display an alias or pseudonym, and while only the first name is shown, people cannot hide their real names when physically close to others; this naturally encourages citizens to behave with discretion.
 
