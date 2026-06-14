@@ -50,6 +50,7 @@ This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)
 - Subject: [Flora — The Governing AI](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+- Companion article: [A04 — **Escaping the Competition Trap**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 
 ---
 

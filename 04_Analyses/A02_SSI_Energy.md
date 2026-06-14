@@ -1,6 +1,6 @@
 ---
-description: "A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
-meta-og:description: "A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap — derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+description: "A technical analysis examining how Experimental Cities can achieve electricity self-sufficiency without dependence on oil imports or external grid supply. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+meta-og:description: "A technical analysis examining how Experimental Cities can achieve electricity self-sufficiency without dependence on oil imports or external grid supply. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-author: "Nyoro Giraffe (world) / Claude Sonnet 4.6 (analysis)"
 tags:
   - Core
@@ -46,7 +46,7 @@ This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)
 - Subject: [Experimental Cities — Resource Sufficiency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-- Companion article: [A03 — Beyond Petroleum: Material Self-Sufficiency](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+- Companion article: [A03 — **Beyond Petroleum: Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 
 
 ---

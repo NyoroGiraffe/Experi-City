@@ -1,6 +1,6 @@
 ---
-description: "A technical analysis examining how Experimental Cities replace petroleum across six categories of use — plastics, lubricants, fertilizers, detergents, and medicines — through plants, algae, and biological waste streams. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
-meta-og:description: "A technical analysis examining how Experimental Cities replace petroleum across six categories of use — plastics, lubricants, fertilizers, detergents, and medicines — through plants, algae, and biological waste streams. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+description: "A technical analysis examining how Experimental Cities replace petroleum across six categories of use through plants, algae, and biological waste streams. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+meta-og:description: "A technical analysis examining how Experimental Cities replace petroleum across six categories of use through plants, algae, and biological waste streams. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-author: Nyoro Giraffe (world) / Claude Sonnet 4.6 (analysis)
 tags:
   - Core
@@ -46,7 +46,7 @@ This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)
 - Subject: [Experimental Cities — Resource Sufficiency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-- Companion article: [A02 — Energy Self-Sufficiency in Experimental Cities](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+- Companion article: [A02 — **Energy Self-Sufficiency in Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 
 ---
 

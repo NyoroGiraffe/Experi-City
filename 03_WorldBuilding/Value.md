@@ -30,7 +30,10 @@ In Experimental Cities, creative activity is valued not mainly as a way to earn 
 
 
 **Related Information:**
+
 - [Property and Wealth - Knowledge and Intellectual Property](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
+
+- [Analysis04 — **Escaping the Competition Trap**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 
 ---
 
