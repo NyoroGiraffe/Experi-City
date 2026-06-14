@@ -1,15 +1,13 @@
 ---
-description: "A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap — derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
+description: "A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-og:description: "A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap — derived from the fiction Experi-City Hanasaka by Nyoro Giraffe."
 meta-author: "Nyoro Giraffe (world) / Claude Sonnet 4.6 (analysis)"
 tags:
   - Core
   - World_Building
 ---
----
-# Plant-Driven Self-Sufficient Infrastructure
 
-# Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid
+# **Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**
 
 _A Technical Analysis Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
