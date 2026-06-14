@@ -133,14 +133,11 @@ The following notes contain the foundational information required to understand 
 <a id="analyses"></a>
 # **Analyses**
 
-- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
-	A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
-- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
-	A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap. Analyzed by Claude Sonnet 4.6.
+- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html): A technical analysis examining why plant-based power alone cannot sustain an AI-governed Experimental City, and how a fast-spectrum SMR fueled by recycled MOX pellets fills the gap. Analyzed by Claude Sonnet 4.6.
 
-- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
-	A technical analysis examining how Experimental Cities replace petroleum across six categories of use — plastics, lubricants, fertilizers, detergents, and medicines — through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
+- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html): A technical analysis examining how Experimental Cities replace petroleum across six categories of use — plastics, lubricants, fertilizers, detergents, and medicines — through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
 
 
 ## **Raw Analyses**

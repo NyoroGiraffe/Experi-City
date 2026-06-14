@@ -2,7 +2,6 @@
 aliases:
   - Experi-City
   - Experi-Cities
-  - E.E.
   - Philosophy
   - Experimental City
 tags:
@@ -53,9 +52,9 @@ The **common information system infrastructure** that provides essential daily s
 
 "**Governing Intelligence**" includes the super-intelligence Flora and all systems under her command. Together, they manage laws, administration, and judiciary in Experimental Cities. This network protects citizens and ensures their happiness by handling policy and justice.
 
-→ [**Detailed Information**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+→ Detailed Information: [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
-→ [**Related Information: Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+→ Related Information: [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
 ---
 <a id="rules"></a>
@@ -65,7 +64,7 @@ The **common information system infrastructure** that provides essential daily s
 
 Experimental Cities provide every citizen with a **Universal Basic Income (UBI)** through a digital currency called **Experi-Coins (XC).** This income is sufficient to cover basic living needs such as food, housing, healthcare, and transportation. Unlike ordinary money, Experi-Coins are **perishable** and gradually expire if they are not used. This design encourages circulation rather than accumulation, helping resources flow throughout the community. As a result, citizens are freed from the constant fear of poverty and can focus more on learning, creativity, social contribution, and the pursuit of Narrative Happiness.
 
-**Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)**
+→ **Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)**
 
 ## **2. Prohibition of Physical Cash**
 
@@ -77,13 +76,17 @@ In Experimental Cities, the possession or use of physical cash — including pap
 - Also, in Experimental Cities, **wealth is measured less by ownership and more by reliable access to resources.**
 - **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
 
-→ [**Detailed Information: Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
+→ Detailed Information: [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 
 ## **4. Self-Sufficiency and Resource Management**
 
-• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy, approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city; through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
+• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy (ex. Approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city); through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
+
+→ See: [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 
 • **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the Governing Intelligence can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
+
+→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 
 • **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
 
@@ -143,7 +146,7 @@ In Experimental Cities, when wearing smart glasses, the first names of people wi
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Website Index](https://nyorogiraffe.github.io/Experi-City/) 
 
 [-> Go to the Charter](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
 

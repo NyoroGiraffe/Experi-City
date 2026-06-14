@@ -150,6 +150,10 @@ A principle underlying UBI and land policies, ensuring that economic value conti
 
 A guiding principle that prioritizes the internal production of food and energy, and the stable internal supply of water, to maintain independence, economic balance, and long-term sustainability.
 
+→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+
+→ See: [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+
 ---
 
 ## Machine-Trusted Transparency
