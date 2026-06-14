@@ -66,6 +66,8 @@ Experimental Cities provide every citizen with a **Universal Basic Income (UBI)*
 
 → **Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)**
 
+→ See: [**Work and Creative Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+
 ## **2. Prohibition of Physical Cash**
 
 In Experimental Cities, the possession or use of physical cash — including paper money and coins — is **prohibited** for all persons within city limits, including visitors. The use of currencies other than Experi-Coins is not prohibited, provided such transactions are conducted electronically.
