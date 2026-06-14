@@ -24,7 +24,6 @@ For a minimal overview of all concepts:
   <li><strong>Human Value:</strong> Human value comes from action, not from giving orders.</li>
   <li><strong>Risk:</strong> Safety comes from human-AI alignment, not isolation.</li>
 </ul>
-
 <p><a href="https://nyorogiraffe.github.io/Experi-City/README.html#AAD">→ Explore full arguments</a></p>
 
 ---
@@ -61,6 +60,8 @@ Core terms that define the worldview of Experi-City.
 
 A shorthand for "Experimental City," referring to a city designed and operated based on the Philosophy of continuous social experimentation. Its systems evolve through practice, reflection, and adaptation.
 
+→ See: [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+
 ---
 
 ## Hanasaka
@@ -84,6 +85,8 @@ An active process in which humans and AI collaboratively build shared meaning, t
 **Narrative Happiness (Short)**: Happiness derived from meaningful life stories, not accumulation.
 
 A concept of happiness defined by meaningful personal and shared narratives, rather than momentary pleasure or material accumulation. It is a central objective of Experi-City.
+
+→ See: [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
 
 ---
 
@@ -128,6 +131,8 @@ A rule prohibiting inquiry into or disclosure of personal origins or pasts. It e
 **Judgment Delegation (Short)**: Delegating routine decision-making from humans to AI systems.
 
 A structural principle in which everyday judgment is entrusted to AI systems such as Flora, Politis, and Themis. This reduces bias and hierarchical authority, allowing humans to focus on action, participation, and meaningful experience.
+
+→ See: [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
 ---
 
@@ -215,6 +220,8 @@ A fictional central AI that governs Experi-City within an AI-Governance architec
 
 The collective term for Flora and all information systems operating under her direction, including Politis, Themis, and other citizen-facing systems. It forms the invisible core of the City Office, handling the vast majority of its analytical and decision-making functions, and is equally bound by the Charter alongside human citizens and organizations.
 
+→ See: [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+
 ---
 
 ## AI-Governance
@@ -254,6 +261,8 @@ A fictional sport developed for Experi-City where players compete under identica
 **UBI (Short)**: A perishable income system that promotes circulation over accumulation.
 
 A universal basic income system using perishable digital currency. It discourages wealth accumulation and promotes continuous economic circulation and participation.
+
+→ See: [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
 
 ---
 
