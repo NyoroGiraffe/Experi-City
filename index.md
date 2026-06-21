@@ -117,6 +117,7 @@ Start here: **Six key questions about AI and society.**
 	-  [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 	- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 	- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
+	- [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 
 
 ---

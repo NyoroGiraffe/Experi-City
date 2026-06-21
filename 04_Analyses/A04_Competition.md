@@ -42,9 +42,7 @@ Experimental Cities therefore do not eliminate challenge. They eliminate the fea
 
 #### Document Introduction
 
-#### Document Introduction
-
-This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities maintain prosperity, innovation, and social cohesion without relying on continuous competition among citizens. Through the combined use of UBI, automation, AI-guided personal development, and community-oriented social norms, the model shifts human motivation away from survival-based competition and toward voluntary growth, contribution, and collective flourishing. The analysis also explores how this social structure aligns with Flora's Narrative Happiness framework described in previous articles.
+This article is part of the Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities maintain prosperity, innovation, and social cohesion without relying on continuous competition among citizens. Through the combined use of UBI, automation, AI-guided personal development, and community-oriented social norms, the model shifts human motivation away from survival-based competition and toward voluntary growth, contribution, and collective flourishing. The analysis also explores how this social structure aligns with Flora's Narrative Happiness framework described in previous articles.
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)

@@ -41,7 +41,7 @@ Plants remain essential — for food, materials, biogas, and micro-scale power. 
 # Full Technical Analysis
 #### Document Introduction
 
-This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities — all twenty-three of them — can achieve electricity self-sufficiency without dependence on oil imports, rare-earth materials, or external grid supply. Where numbers are needed, Hanasaka (population approximately 600,000) is used as a worked example; smaller cities scale proportionally.
+This article is part of the Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities — all twenty-three of them — can achieve electricity self-sufficiency without dependence on oil imports, rare-earth materials, or external grid supply. Where numbers are needed, Hanasaka (population approximately 600,000) is used as a worked example; smaller cities scale proportionally.
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)

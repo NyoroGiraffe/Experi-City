@@ -41,7 +41,7 @@ Experimental Cities remove all four barriers at once. Citizens who participate i
 
 #### Document Introduction
 
-This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities minimize dependence on petroleum across six categories of industrial and daily use, through systematic use of plant biomass, algae, biological waste streams, and synthetic biology. Where quantitative figures appear, Hanasaka (population approximately 600,000) serves as the worked example.
+This article is part of the Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines how Experimental Cities minimize dependence on petroleum across six categories of industrial and daily use, through systematic use of plant biomass, algae, biological waste streams, and synthetic biology. Where quantitative figures appear, Hanasaka (population approximately 600,000) serves as the worked example.
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)

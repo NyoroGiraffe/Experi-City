@@ -145,6 +145,17 @@ In Experimental Cities, when wearing smart glasses, the first names of people wi
 
 (That said, names can be changed as many times as desired based on predetermined rules, and faces can be altered using “Facial Disguise,” so there is absolutely no guarantee that what you see today will be the same tomorrow.)
 
+## **11. Marriage**
+
+In Experimental Cities, while it is common for multiple citizens to share a household, there is no institution of marriage, and getting married does not entitle one to any special treatment.
+
+→ See: [**Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
+
+## **12. Protection of Minors** 
+
+In Experimental Cities, minors from outside the city who are in financial distress are provided with protection without any conditions.
+
+→ See: [**Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 
 ---
 

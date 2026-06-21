@@ -45,7 +45,7 @@ The deeper lesson is this: **an AI's safety is not just about restrictions place
 
 #### Document Introduction
 
-This article is part of the Technical Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines why an AI designed to pursue Narrative Happiness — each person's unique, meaningful life story — becomes structurally safe and powerful: why it resists intrusion, tampering, and overload attacks more effectively than conventional quantitative defenses, why it has no rational motive to attack other AIs, and why the same logic that produces capability differences between cities simultaneously generates the incentive to correct them.
+This article is part of the Analysis Series on _Experi-City Hanasaka_ by Nyoro Giraffe, developed collaboratively with Gemini, ChatGPT, and Claude. It examines why an AI designed to pursue Narrative Happiness — each person's unique, meaningful life story — becomes structurally safe and powerful: why it resists intrusion, tampering, and overload attacks more effectively than conventional quantitative defenses, why it has no rational motive to attack other AIs, and why the same logic that produces capability differences between cities simultaneously generates the incentive to correct them.
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)

@@ -139,7 +139,10 @@ The following notes contain the foundational information required to understand 
 
 - [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html): A technical analysis examining how Experimental Cities replace petroleum across six categories of use through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
 
--  [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html): An analysis exploring how Experimental Cities achieve prosperity without dependence on survival-based competition. Analyzed by ChatGPT 5.5.
+- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html): An analysis exploring how Experimental Cities achieve prosperity without dependence on survival-based competition. Analyzed by ChatGPT 5.5.
+
+- [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
+
 
 
 ## **Raw Analyses**
