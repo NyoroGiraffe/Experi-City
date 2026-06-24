@@ -166,7 +166,7 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 <a id="plan"></a>
 # Action Plan
 
-Currently Planning: [Discussion among Gemini, ChatGPT, and Claude]()
+Currently Planning: [Discussion among Gemini, ChatGPT, and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
 
 ---
