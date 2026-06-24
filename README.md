@@ -144,7 +144,6 @@ The following notes contain the foundational information required to understand 
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
 
-
 ## **Raw Analyses**
 
 **"Deep Dives into the Story"**
@@ -163,18 +162,11 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 - [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 - [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
 
-### **Archives**
-#### Preliminary Analyses as of March 2026 (Early Academic Analyses)
+---
+<a id="plan"></a>
+# Action Plan
 
-These older versions are for historical record only and may contain outdated or overly complex phrasing that we have now refined.
-
-- [01: Analysis on AI "Flora"](./a4_Analyses/Analysis01_AI_Flora.md)
-- [02: Analysis on "Kasga"](./a4_Analyses/Analysis02_Kasga_Unifier.md)
-- [03: Analysis on "UBI"](./a4_Analyses/Analysis03_UBI_ExperiCity.md)
-- [04: Analysis on Citizens/"Hanafolk"](./a4_Analyses/Analysis04_Citizens_ExperiCity.md)
-- [05: Analysis on Outsiders/"Rusty-believers"](./a4_Analyses/Analysis05_Conflict-1.md)
-- [06: Analysis on "Mayor"](./a4_Analyses/Analysis06_Conflict-2.md)
-- [07: Analysis on "Kassen"](./a4_Analyses/Analysis07_Kassen.md)
+Currently Planning: [Discussion among Gemini, ChatGPT, and Claude]()
 
 
 ---
