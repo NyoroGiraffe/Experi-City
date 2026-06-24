@@ -158,6 +158,28 @@ In Experimental Cities, minors from outside the city who are in financial distre
 → See: [**Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 
 ---
+<a id="citizenship"></a>
+# Citizenship in Experimental Cities
+## 1. Conditions for Acquisition
+
+(1) Citizenship is granted upon pledging to uphold and practice the “Philosophy of the Experimental Cities.”
+
+(2) Individuals who are unable to express their intent to make the pledge described in (1) due to a mental or physical disability, or minors (those under 18 years of age), are granted citizenship upon registration as residents.
+
+(3) Minors other than those covered by (2) above who, for whatever reason, are taken into the city’s care as persons in financial distress shall be granted citizenship 48 hours after being taken into care.
+
+(4) Minors granted citizenship under (2) or (3) above must make the pledge specified in (1) no later than the time they reach the age of majority; otherwise, their citizenship shall become invalid upon reaching the age of majority.
+
+## 2. Conditions for Invalidation
+
+(1) Citizenship may be invalidated at any time at the individual’s own discretion. However, this does not apply if such decision is based on error, fraud, or coercion.
+
+(2) Citizenship becomes invalid upon the death of the individual or after three years have elapsed since their survival could no longer be confirmed.
+
+(3) Governing Intelligence may issue a warning demanding corrective action to any individual who engages in conduct contrary to the Philosophy or the “Charter of Experimental Cities,” or who commits a malicious violation of city ordinances; if the individual fails to correct such conduct, Governing Intelligence may revoke their citizenship.
+
+
+---
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Website Index](https://nyorogiraffe.github.io/Experi-City/) 
 
