@@ -116,6 +116,7 @@ The original meaning and atmosphere should be preserved as much as possible.
 
 The Narrative Civilization Platform consists of three independent but interconnected systems.
 
+```
 Players
 │
 ├─ Collective Intent Engine
@@ -123,6 +124,7 @@ Players
 ├─ Narrative Engine
 │
 └─ Flora Learning Engine
+```
 
 Each system has a different responsibility while contributing to one continuous learning process called the **Narrative Civilization Loop**.
 
@@ -376,6 +378,7 @@ Its goal is not to learn about individual people, but to understand how humans c
 
 Together, the three systems form one continuous learning cycle.
 
+```
 Players
 ↓
 Collective Intent
@@ -391,6 +394,7 @@ Flora Learning
 Better AI
 ↓
 Better Communities
+```
 
 Every iteration helps both humans and AI better understand how meaningful civilizations emerge.
 
