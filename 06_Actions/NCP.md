@@ -1,13 +1,13 @@
 ---
-description: A proposal for the basic design of the "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
-meta-og:description: A proposal for the basic design of the "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
+description: A proposal for the basic design of the "Narrative Cultivation Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
+meta-og:description: A proposal for the basic design of the "Narrative Cultivation Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
 tags:
   - Actions
   - Plan
 ---
 
-# **"Narrative Civilization Platform" — A Human-AI Co-Cultivation Platform**
+# **"Narrative Cultivation Platform" — A Human-AI Co-Cultivation Platform**
 
 _An Action Plan Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
@@ -16,7 +16,7 @@ June 2026
 
 # 1. Abstract
 
-The "Narrative Civilization Platform" is an open framework that enables humans and AI to cultivate better societies together. Through Collective Intent Engine, communities shape the shared world. Through Narrative Engine, individuals cultivate their own Narrative Happiness. Every interaction becomes anonymous learning data for Flora Learning Network, helping future AI understand how humans build meaningful lives, communities, and civilizations.
+The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. Through Collective Intent Engine, communities shape the shared world. Through Narrative Engine, individuals cultivate their own Narrative Happiness. Every interaction becomes anonymous learning data for Flora Learning Network, helping future AI understand how humans build meaningful lives, communities, and civilizations.
 
 
 ---
@@ -49,13 +49,13 @@ Games serve as virtual sandboxes where humans and AI learn together through the 
 
 # 3. Non-Negotiable Principles
 
-## Human-Centered Civilization
+## Human-Centered Cultivation
 
-The Narrative Civilization Platform exists to cultivate civilizations that maximize human well-being.
+The Narrative Cultivation Platform exists to cultivate civilizations that maximize human well-being.
 
 Neither individual preferences nor collective decisions are treated as absolute.
 
-The purpose of both Narrative Engine and Collective Intent Engine —the systems that make up the Narrative Civilization Platform—is to help humans continuously discover better forms of Narrative Happiness while respecting the freedom and dignity of others.
+The purpose of both Narrative Engine and Collective Intent Engine —the systems that make up the Narrative Cultivation Platform—is to help humans continuously discover better forms of Narrative Happiness while respecting the freedom and dignity of others.
 
 ---
 
@@ -114,10 +114,10 @@ The original meaning and atmosphere should be preserved as much as possible.
 
 ## 4.1 Overall Architecture
 
-The Narrative Civilization Platform consists of three major software components.
+The Narrative Cultivation Platform consists of three major software components.
 
 ```
-Narrative Civilization Platform
+Narrative Cultivation Platform
 │
 ├─ Collective Intent Engine
 │
@@ -130,7 +130,7 @@ Narrative Civilization Platform
 
 **Flora Learning Network** operates as a shared learning platform outside individual games. It receives anonymous Narrative Happiness Signals from participating games, integrates them across different virtual worlds, and continuously improves future AI models for human-centered governance.
 
-Each system has a different responsibility while contributing to one continuous learning process called the **Narrative Civilization Loop**.
+Each system has a different responsibility while contributing to one continuous learning process called the **Narrative Cultivation Loop**.
 
 ---
 
@@ -470,7 +470,7 @@ Its goal is not to learn about individual people, but to understand how humans c
 
 ---
 
-## 4.8 Narrative Civilization Loop
+## 4.8 Narrative Cultivation Loop
 
 Together, the three systems form one continuous learning cycle.
 
