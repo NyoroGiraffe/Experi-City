@@ -1,6 +1,6 @@
 ---
-description: A basic design concept on "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
-meta-og:description: A basic design concept on "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
+description: A proposal for the basic design of the "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
+meta-og:description: A proposal for the basic design of the "Narrative Civilization Platform". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
 tags:
   - Actions
@@ -117,7 +117,7 @@ The original meaning and atmosphere should be preserved as much as possible.
 The Narrative Civilization Platform consists of three independent but interconnected systems.
 
 ```
-Players
+Narrative Civilization Platform
 │
 ├─ Collective Intent Engine
 │
