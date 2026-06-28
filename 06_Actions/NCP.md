@@ -217,6 +217,16 @@ Its purpose is not to replace human decision-making but to improve it.
 
 ---
 
+### Collective Narrative Intent
+
+Collective Intent Engine does not attempt to maximize popularity.
+
+Nor does it simply follow majority opinion.
+
+Its objective is to cultivate a Collective Narrative Intent that promotes the long-term Narrative Happiness of the community while respecting diverse perspectives and preserving the creator's vision.
+
+---
+
 ### Responsibility
 
 Collective Intent Engine is responsible for:
@@ -245,6 +255,88 @@ where players collectively shape one evolving civilization.
 
 ---
 
+### Collective Narrative Cultivation Mode
+
+Unlike Narrative Engine, which cultivates individual or small-group narratives, Collective Intent Engine cultivates the future of a shared world.
+
+The game creator determines when **Collective Narrative Cultivation Mode** becomes available.
+
+Typical approaches include:
+
+#### Creator Protection Period
+
+After a new release or a major update, the creator may reserve a period during which the Canonical World remains entirely under the creator's control.
+
+During this period, players experience the official story and world exactly as designed.
+
+Collective Narrative Cultivation Mode becomes available only after the creator-defined period has ended.
+
+This allows players to fully experience the creator's vision before the community begins shaping the future of the world.
+
+#### Immediate Cultivation
+
+Alternatively, the creator may enable Collective Narrative Cultivation Mode immediately after release.
+
+In this model, the community begins cultivating the shared world from the very beginning.
+
+---
+
+### Creator Authority
+
+The creator also determines how community proposals are incorporated into the Canonical World.
+
+Typical models include:
+
+- Creator Approval Model
+- Creator-Delegated Model
+
+In the Creator Approval Model, Collective Intent Engine proposes changes, but the creator decides whether they become part of the Canonical World.
+
+In the Creator-Delegated Model, approved changes are applied automatically within boundaries defined by the creator.
+
+---
+
+### Collective Narrative Cultivation Cycle
+
+The shared world evolves through repeated collaboration between the community, AI, and the game creator.
+
+#### Step 1 (1) — Community Intent
+
+Players submit proposals, express preferences, discuss ideas, or identify problems within the shared world.
+
+#### Step 1 (2) — Collective Intent Formation
+
+Collective Intent Engine analyzes community discussions and generates one or more Collective Narrative Intent proposals.
+
+Rather than relying only on voting, the Engine identifies common goals, resolves conflicts where possible, and synthesizes balanced proposals.
+
+#### Step 2 — World Proposal
+
+The Engine generates changes to the shared world, including:
+
+- new stories,
+- world events,
+- laws,
+- infrastructure,
+- social systems,
+- environmental changes,
+- or other community-driven developments.
+
+#### Step 3 — Creator Validation
+
+Depending on the creator's settings:
+
+- proposals may require creator approval,
+- or may be automatically accepted within predefined boundaries.
+
+#### Step 4 — Shared Experience and Collective Narrative Signals
+
+Players experience the updated Canonical World.
+
+Their reactions generate new Narrative Happiness Signals (NHS), beginning the next cultivation cycle.
+
+---
+
 ## 4.6 Narrative Engine
 
 ### Purpose
@@ -252,6 +344,19 @@ where players collectively shape one evolving civilization.
 Narrative Engine cultivates each player's Narrative Happiness.
 
 It allows players—or small groups sharing the same experience—to explore stories beyond the shared world whenever they wish.
+
+---
+
+### Scope of Narrative Cultivation
+
+Narrative Cultivation is primarily intended for:
+
+- single-player experiences,
+- or small groups that intentionally share the same evolving narrative.
+
+Because players may cultivate different histories, relationships, world structures, or long-term consequences, Narrative Cultivation does not assume that every player continuously shares one identical world state.
+
+Games requiring complete synchronization of world history and geography among all players are generally outside the current design goals of Narrative Engine.
 
 ---
 
@@ -327,24 +432,11 @@ The AI continues refining the narrative until the player accepts it.
 
 #### Step 4 — Narrative Happiness Signals
 
-Each accepted story, rejected proposal, requested revision, or unexpected player decision generates a **Narrative Happiness Signal (NHS).**
+Each accepted story, rejected proposal, requested revision, or unexpected player decision generates a Narrative Happiness Signal (NHS).
 
 These signals represent small observations about how humans cultivate satisfying narratives.
 
 Narrative Engine studies these anonymous signals rather than the identities of individual players.
-
----
-
-### Scope of Narrative Cultivation
-
-Narrative Cultivation is primarily intended for:
-
-- single-player experiences,
-- or small groups that intentionally share the same evolving narrative.
-
-Because players may cultivate different histories, relationships, world structures, or long-term consequences, Narrative Cultivation does not assume that every player continuously shares one identical world state.
-
-Games requiring complete synchronization of world history and geography among all players are generally outside the current design goals of Narrative Engine.
 
 ---
 
