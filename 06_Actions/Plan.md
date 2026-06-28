@@ -47,6 +47,8 @@ The traditional model of human-led historical progression—where individual cit
 
 In this phase, developers and creators will build a specialized AI middleware engine—a plug-in architecture designed to integrate into existing or newly developed open-world RPGs. This gaming layer serves as the practical incubator to train the core AI that will eventually become Flora.
 
+→ See: [**"Narrative Civilization Platform"**]()
+
 ### 1. Engineer the Choice Engine and Integrate Collective Will (DAO Logic)
 
 Modern game design is shifting away from pre-determined endings toward player-driven emergent narratives. 
