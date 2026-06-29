@@ -84,12 +84,6 @@ Suitable examples include:
 
 Games whose main purpose is to defeat other players are generally not suitable because they often define one player's success as another player's loss.
 
-Narrative Engine is primarily designed for single-player experiences or small groups that share a common evolving narrative.
-
-Games that require every player to experience the same world state and history simultaneously are generally not suitable, because Narrative Engine allows each story to evolve according to players' choices.
-
-Future technologies may enable broader synchronization, but such support is outside the current design goals.
-
 ---
 
 ## 3.3 Requirements for Game Creators
@@ -351,19 +345,6 @@ It allows players—or small groups sharing the same experience—to explore sto
 
 ---
 
-### Scope of Narrative Cultivation
-
-Narrative Cultivation is primarily intended for:
-
-- single-player experiences,
-- or small groups that intentionally share the same evolving narrative.
-
-Because players may cultivate different histories, relationships, world structures, or long-term consequences, Narrative Cultivation does not assume that every player continuously shares one identical world state.
-
-Games requiring complete synchronization of world history and geography among all players are generally outside the current design goals of Narrative Engine.
-
----
-
 ### Responsibility
 
 Narrative Engine is responsible for:
@@ -375,6 +356,21 @@ Narrative Engine is responsible for:
 - cultivating meaningful personal experiences.
 
 Players may always request revisions until the story reflects the narrative they genuinely wish to experience.
+
+---
+
+### Not Suitable Games
+
+Narrative Cultivation is primarily intended for:
+
+- single-player experiences,
+- or small groups that intentionally share the same evolving narrative.
+
+Because players may cultivate different histories, relationships, world structures, or long-term consequences, Narrative Cultivation does not assume that every player continuously shares one identical world state.
+
+Games requiring complete synchronization of world history and geography among all players are generally outside the current design goals of Narrative Engine.
+
+Future technologies may enable broader synchronization, but such support is outside the current design goals.
 
 ---
 
