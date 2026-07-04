@@ -56,6 +56,8 @@ Modern game design is shifting away from pre-determined endings toward player-dr
 - **Code the Consensus Algorithm:** Developers will build an AI engine that replaces simple binary voting. When players face critical plot crossroads (e.g., allocating scarce virtual energy resources), the AI will actively analyze the underlying emotional and logical text/voice inputs from thousands of players.
     
 - **Synthesize a "Collective Will":** Program the AI to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, rather than letting one faction win.
+  
+  →See: [**"Collective Intent Formation"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
     
 - **Automate Real-Time Story Generation:** Deploy generative AI systems to instantly update the game environment, generating subsequent storylines, character reactions, and societal challenges based on the AI’s synthesized consensus.
 

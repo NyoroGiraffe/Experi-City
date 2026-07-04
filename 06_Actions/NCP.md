@@ -308,6 +308,8 @@ Collective Intent Engine analyzes community discussions and generates one or mor
 
 Rather than relying only on voting, the Engine identifies common goals, resolves conflicts where possible, and synthesizes balanced proposals.
 
+→ See: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+
 #### Step 2 — World Proposal
 
 The Engine generates changes to the shared world, including:
@@ -463,6 +465,8 @@ Flora Learning Network is responsible for:
 - improving future AI models for human-centered governance.
 
 Its goal is not to learn about individual people, but to understand how humans cultivate meaningful lives and societies.
+
+In particular, the Network studies how future AI can responsibly shoulder difficult collective decisions that would otherwise place significant emotional burdens on individuals or communities. Rather than avoiding these decisions, Flora is designed to accept responsibility for them with transparency, consistency, and compassion. By helping people focus on cultivating meaningful lives instead of carrying the weight of every difficult judgment, Flora aims to earn trust through responsible action rather than authority alone.
 
 ---
 
