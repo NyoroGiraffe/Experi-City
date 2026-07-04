@@ -16,19 +16,20 @@ July 2026
 
 # Overall Structure
 
-[**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+### [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 - **Collective Intent Engine**
 - Narrative Engine
 - Flora Learning Network
 
-Collective Intent Engine
-	Collective Narrative Cultivation Cycle:
-	- Step 1 (1) — Community Intent
-	- **Step 1 (2) — Collective Intent Formation**
-	- Step 2 — World Proposal
-	- Step 3 — Creator Validation
-	- Step 4 — Shared Experience and Collective Narrative Signals
+### Collective Intent Engine
+#### Collective Narrative Cultivation Cycle:
+- Step 1 (1) — Community Intent 
+- **Step 1 (2) — Collective Intent Formation**
+- Step 2 — World Proposal
+- Step 3 — Creator Validation
+- Step 4 — Shared Experience and Collective Narrative Signals
 
+---
 ## What is Collective Intent?
 
 Collective Intent is not the opinion supported by the largest number of people.
