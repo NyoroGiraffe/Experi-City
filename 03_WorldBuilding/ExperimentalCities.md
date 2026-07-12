@@ -167,6 +167,19 @@ In Experimental Cities, there is no concept of having separate police forces res
 
 Under [the Charter of the Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html), if an Experimental City comes under armed attack, other cities are obligated to share information and resources to provide support. However, none of the Experimental Cities have formed such military alliances with other nations and maintain military and political neutrality.
 
+## Cyber Space
+
+For Experimental Cities, Flora is arguably their most powerful weapon. Using a unique method, she generates offensive and defensive programs based on the citizens’ “Narrative Happiness,” and through a diverse array of tactics, she has become the strongest warrior in cyberspace.
+
+→ See: [**Flora's Defense and Offense Tactics**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html#Flora)
+
+## Physical Space
+
+In Experimental Cities, the main players in urban defense within the physical space are robots modeled after animals—the **“Mech-animals.”** Among them, insect-type robots in particular can be mass-produced inexpensively, and in Experimental Cities, they are made from lightweight plant fibers.
+
+→ See: [**Technologies / Mech-animals**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
+
+
 ---
 <a id="citizenship"></a>
 # Citizenship in Experimental Cities

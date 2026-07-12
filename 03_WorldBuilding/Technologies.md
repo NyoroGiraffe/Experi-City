@@ -112,26 +112,38 @@ Identification and management chips embedded in the base of the thumb and index 
 
 ### **Land-Based Mech-Animals**
 
-- **Mech-horse:** Modeled after a donkey, it is used for general transportation by police and citizens. In Kassen matches, it is the primary mount for Ranked Fighters and Bow Fighters, with speed capped at 4 m/s for safety, though it can reach 40 km/h in other situations.
-	- **Dragon Horse:** A specialized, high-spec mech-horse with gold and silver scales used exclusively by the Unifier.
+- **Mech-horse:** Modeled after a donkey, it is used for general transportation by police and citizens. While they can carry humans or cargo on its back, it is also possible to open a hatch attached to its back and load cargo inside. Since this back container can hold large numbers of insect-like Mech-Animals (such as Mech-roaches, Mech-bees, and Mech-flies), as well as weapons and ammunition for human use, and can be equipped with devices for communicating with these robots and humans, they also serve as a vital logistical support robots for police law enforcement operations. They can run at a maximum speed of 40 kilometers per hour.
 
-- **Mech-dog:** A highly adaptable security and combat robot used for city-wide surveillance. They are often equipped with side-mounted firearms and possess speech functions to communicate with humans, allowing them to issue warnings or provide assistance. Additionally, they serve as specialized combat targets in the Kassen Grand Prix.
+	- In Kassen matches, it is the primary mount for Ranked Fighters and Bow Fighters, with speed capped at 4 m/s for safety.
+	- Dragon Horse: A specialized, high-spec mech-horse with gold and silver scales used exclusively by the Unifier.
+
+- **Mech-dog:** A highly adaptable security and combat robot used for city-wide surveillance. In Experimental Cities, where keeping animals—as living beings—as pets is generally prohibited, they are sometimes kept as pets. For police law enforcement operations, they are often equipped with side-mounted firearms and possess speech functions to communicate with humans, allowing them to issue warnings or provide assistance. Since they can carry loads of up to about 5 kilograms on their backs, they can also be useful for providing first aid to injured or sick people.
 
 - **Mech-giraffe:** A specialized robot standing approximately 3 meters tall that serves as a **Kassen umpire**. Positioned outside the sidelines, they monitor fouls and communicate with fighters using speech functions.
 
 ### **Aerial Mech-Animals**
 
-- **Mech-dragonfly:** A small flying robot (approx. 0.1g) used as an aerial umpire in Kassen to provide 360-degree coverage. They also function as city-wide surveillance units and wireless relays.
+- **Mech-dragonfly:** A small flying robot (approx. 0.1grams) used for city-wide surveillance and wireless relays.
 
-- **Mech-hawk:** A large bird-like robot with a 2-meter wingspan used for long-range surveillance and tracking. Hostile forces used them as self-destructing arson tools to destroy the Castle Keep, while the city uses them to body-slam intruders with flammable or incapacitating liquids.
+	- In Kassen matches, it is used as an aerial umpire to provide 360-degree coverage.
+
+- **Mech-hawk:** A large bird-like robot with a 2-meter wingspan used for long-range surveillance and tracking. The police may load these robots with flammable liquids, toxic substances, or explosives, and use them to ram into attacking humans or robots—or the buildings and vehicles they are using—in order to subdue them.
+
+	- They were used as self-destructing arson tools to destroy the Hanasaka Castle Keep.
 
 ### **Micro and Insect-Type Mech-Animals**
 
-- **Mech-roach:** A thin, cockroach-like robot used for **eavesdropping and scouting** in narrow spaces.
+- These insect-type robots are as small and light as the real insects they are modeled after, and are being mass-produced at low cost not only in Experimental Cities but also in other countries. 
 
-- **Mech-bee:** An **attack robot** that injects toxins, anesthetics, or malicious nano-machines via a needle. They can also attach flammable liquids to targets.
+- The exoskeletons, six legs, and wings of the insects manufactured by Experimental Cities are made of lightweight plant fibers. Inside their heads is a miniature microchip—one-hundredth the size and weight of those implanted in Experimental Cities’ citizens—with an eye-shaped camera and antennae shaped like antennae attached to its surface.  In addition, their thoraxes contain small batteries, and their abdomens carry liquids and other supplies necessary for their respective missions. 
 
-- **Mech-fly:** A multi-purpose hybrid weighing roughly 0.1g that combines the scouting and attacking functions of the roach and bee.
+- They do not attack people indiscriminately; instead, they remember the faces and figures of their targets, track them down, and attack them. Even if they lose wireless communication with their commanding robots or humans, they can operate autonomously and carry out operations in coordination with other mech-animals.
+
+- **Mech-roach:** A thin, cockroach-like robot used for **eavesdropping and scouting** in narrow spaces. They can also be used as weapons of attack; for example, they may carry flammable liquids or venom in their abdomens, sneak up on human or robotic targets, latch onto them, rip open their abdomens to release the contents, and immobilize the targets.
+
+- **Mech-bee:** A **flying attack robot** that injects toxins, anesthetics, or malicious nano-machines via a needle. They can also attach flammable liquids to targets.
+
+- **Mech-fly:** A multi-purpose hybrid weighing roughly 0.1gram that combines the scouting and attacking functions of the Mech-roach and Mech-bee. The cost per unit for a mech-fly had fallen to about 1 XC. 
 
 ---
 
