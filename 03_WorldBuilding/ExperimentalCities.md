@@ -105,7 +105,7 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 - In Experimental Cities, private car ownership is generally prohibited. As a result, there are fewer cars compared to other typical cities.
 - In Experimental Cities, manual driving by humans is strictly prohibited; control over vehicle movement is maintained by the traffic control system “Vulcan.” This applies even to police and fire department vehicles; the only differences are their maximum speed limits and whether they are permitted to run red lights.  
 - Human operation of vehicles is permitted only as a substitute when autonomous driving by machines becomes impossible for some reason.  Particularly in areas with heavy foot traffic, driving by humans is considered a criminal offense unless it is an emergency that necessitates human intervention. 
-- Although there are no cars in Experimental Cities that emit gases harmful to the human body, driving still consumes energy. Therefore, driving without a specific purpose is considered a waste of energy and is prohibited by ordinance. However, as long as a destination is set and the driver stays on the shortest route, there is no issue, so enforcement is not actually that strict. 
+- Although there are no cars in Experimental Cities that emit gases harmful to the human body, driving still consumes energy. Therefore, driving without a specific purpose is prohibited by ordinance. However, as long as a destination is set and the car stays on the route that doesn't deviate significantly from it, there won't be any strict enforcement. 
 - From the perspective of Experimental Cities’ residents, the use of automobiles on general city roads is generally limited to public services such as the police and fire departments, business-related necessities such as delivery services, or cases where individuals with physical or mental disabilities or children face difficulties using public transportation. 
 
 ## **7. E.E. (Establishment Era)**
@@ -156,6 +156,16 @@ In Experimental Cities, while it is common for multiple citizens to share a hous
 In Experimental Cities, minors from outside the city who are in financial distress are provided with protection without any conditions.
 
 → See: [**Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
+
+---
+<a id="defense"></a>
+# Urban Defense
+
+For Flora, who governs the city to ensure that citizens can continue to generate “Narrative Happiness,” the situation where citizens are at high risk of being caught up in war, crime, and the like is what must be avoided at all costs. For this reason, in Experimental Cities, while humans do work within the police force responsible for urban security, tasks involving attacks on or defense against external enemies or criminals—particularly those that involve killing or injuring people, or life-threatening actions—are handled by robots and information systems, ensuring that humans are involved as little as possible.
+
+In Experimental Cities, there is no concept of having separate police forces responsible for urban public safety and military forces responsible for defending against or attacking external threats. Both operate under Flora’s oversight, with the City Office’s Police Department defending the city through the collaborative efforts of robots, information systems, and humans.
+
+Under [the Charter of the Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html), if an Experimental City comes under armed attack, other cities are obligated to share information and resources to provide support. However, none of the Experimental Cities have formed such military alliances with other nations and maintain military and political neutrality.
 
 ---
 <a id="citizenship"></a>
