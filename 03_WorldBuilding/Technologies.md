@@ -114,8 +114,8 @@ Identification and management chips embedded in the base of the thumb and index 
 
 - **Mech-horse:** Modeled after a donkey, it is used for general transportation by police and citizens. While they can carry humans or cargo on its back, it is also possible to open a hatch attached to its back and load cargo inside. Since this back container can hold large numbers of insect-like Mech-Animals (such as Mech-roaches, Mech-bees, and Mech-flies), as well as weapons and ammunition for human use, and can be equipped with devices for communicating with these robots and humans, they also serve as a vital logistical support robots for police law enforcement operations. They can run at a maximum speed of 40 kilometers per hour.
 
-	- In Kassen matches, it is the primary mount for Ranked Fighters and Bow Fighters, with speed capped at 4 m/s for safety.
-	- Dragon Horse: A specialized, high-spec mech-horse with gold and silver scales used exclusively by the Unifier.
+> - In Kassen matches, it is the primary mount for Ranked Fighters and Bow Fighters, with speed capped at 4 m/s for safety.
+> - Dragon Horse: A specialized, high-spec mech-horse with gold and silver scales used exclusively by the Unifier.
 
 - **Mech-dog:** A highly adaptable security and combat robot used for city-wide surveillance. In Experimental Cities, where keeping animals—as living beings—as pets is generally prohibited, they are sometimes kept as pets. For police law enforcement operations, they are often equipped with side-mounted firearms and possess speech functions to communicate with humans, allowing them to issue warnings or provide assistance. Since they can carry loads of up to about 5 kilograms on their backs, they can also be useful for providing first aid to injured or sick people.
 
@@ -125,11 +125,11 @@ Identification and management chips embedded in the base of the thumb and index 
 
 - **Mech-dragonfly:** A small flying robot (approx. 0.1grams) used for city-wide surveillance and wireless relays.
 
-	- In Kassen matches, it is used as an aerial umpire to provide 360-degree coverage.
+> - In Kassen matches, it is used as an aerial umpire to provide 360-degree coverage.
 
 - **Mech-hawk:** A large bird-like robot with a 2-meter wingspan used for long-range surveillance and tracking. The police may load these robots with flammable liquids, toxic substances, or explosives, and use them to ram into attacking humans or robots—or the buildings and vehicles they are using—in order to subdue them.
 
-	- They were used as self-destructing arson tools to destroy the Hanasaka Castle Keep.
+> - They were used as self-destructing arson tools to destroy the Hanasaka Castle Keep.
 
 ### **Micro and Insect-Type Mech-Animals**
 
