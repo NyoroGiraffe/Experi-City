@@ -205,6 +205,15 @@ In Experimental Cities, the main players in urban defense within the physical sp
 
 
 ---
+<a id="CEC"></a>
+# Cyber Experimental Cities
+
+Cyber Experimental Cities are essentially “Experimental Cities” in virtual space; after more than 10 years of development, they were set to begin a trial operation starting in 10 E.E.  All citizens of Experimental Cities in the real world—referred to as the “physical layer” or “Layer 1”—would be able to live as citizens of Cyber Experimental Cities in the virtual space (the virtual space accessible directly from the physical layer is called “Layer 2”), and, just as in the physical layer, Flora was set to manage its operations.
+
+“**Hanasakia**” is the virtual version of **Hanasaka City**.
+
+
+---
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Website Index](https://nyorogiraffe.github.io/Experi-City/) 
 
