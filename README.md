@@ -143,6 +143,8 @@ The following notes contain the foundational information required to understand 
 
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
+- [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
+
 
 ## **Raw Analyses**
 
