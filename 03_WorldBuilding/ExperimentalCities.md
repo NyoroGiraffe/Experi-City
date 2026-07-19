@@ -213,6 +213,25 @@ Cyber Experimental Cities are essentially “Experimental Cities” in virtual s
 “**Hanasakia**” is the virtual version of **Hanasaka City**.
 
 
+### Entry into the Virtual Space:
+
+1. General Rule: Anyone who holds citizenship in Experimental City in the physical world (Layer 1) also holds citizenship in Experimental City in the virtual space (Layer 2). Therefore, anyone whose citizenship is revoked in the physical world will also have their citizenship revoked in the virtual space.
+
+2. Even those without citizenship may enter Experimental Cities in the virtual space, as well as those in the physical world.
+
+3. Individuals who have committed heinous crimes and have been sentenced by Themis to a ban on entering the Experimental Cities in the virtual space may not enter the Experimental Cities in the virtual space—either as citizens or as temporary visitors—during the period of that ban. Note that, depending on the severity of the crime, entry may be permanently prohibited.
+
+### Life in the Virtual Space:
+
+4. Citizens may have an avatar—closely resembling their physical self—generated in the virtual space based on data accumulated by the city’s information system during their daily lives, allowing them to live in the virtual Experimental Cities. Non-citizens may also have an avatar resembling themselves generated based on data recorded by the city’s information system during their physical or virtual visits, and may live within the Experimental Cities to the extent permitted for visitors.
+
+5. Notwithstanding the provisions of 4 above, while living in the physical world, citizens may customize their virtual avatar’s appearance and voice as they wish.
+
+6. Citizens who die in the physical world may, unless they expressly object, continue to live in the virtual world as NPCs recreated with their pre-death appearance and voice (or, if they had customized these during their lifetime, the version they played with the longest), with AI guiding their behavior in accordance with their pre-death mindset and behavioral patterns. Those without citizenship cannot enter the Experimental Cities in the virtual space after death.
+
+7. Notwithstanding 6 above, once they become an NPC, their appearance, voice, way of thinking, and behavioral patterns may be influenced by their interactions with surrounding PCs and other NPCs, and may gradually change.
+
+
 ---
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Website Index](https://nyorogiraffe.github.io/Experi-City/) 
