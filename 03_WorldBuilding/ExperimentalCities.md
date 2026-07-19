@@ -223,7 +223,7 @@ Cyber Experimental Cities are essentially “Experimental Cities” in virtual s
 
 ### Life in the Virtual Space:
 
-1. Citizens may have an avatar—closely resembling their physical self—generated in the virtual space based on data accumulated by the city’s information system during their daily lives, allowing them to live in the virtual Experimental Cities. Non-citizens may also have an avatar resembling themselves generated based on data recorded by the city’s information system during their physical or virtual visits, and may live within the Experimental Cities to the extent permitted for visitors.
+1. Citizens may have an avatar—closely resembling their physical self—generated in the virtual space based on [data accumulated by the city’s information system during their daily lives](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html), allowing them to live in the virtual Experimental Cities. Non-citizens may also have an avatar resembling themselves generated based on data recorded by the city’s information system during their physical or virtual visits, and may live within the Experimental Cities to the extent permitted for visitors.
 
 2. Notwithstanding the provisions of 1 above, while living in the physical world, citizens may customize their virtual avatar’s appearance and voice as they wish.
 
