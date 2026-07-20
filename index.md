@@ -4,8 +4,9 @@ tags:
   - Core
   - Index
 ---
-## Experi-City HANASAKA Official Website
-### Welcome to the story of a near-future city created alongside AI.
+## "Experi-City HANASAKA" Official Website
+
+**Welcome to the story of a near-future city created alongside AI.**
 
 ---
 
@@ -46,8 +47,8 @@ Start here: **Six key questions about AI and society.**
 }
 </style>
 
-<h2>Against AI Dystopia</h2>
-<p>Common concerns about AI—and clear answers from "Experi-City".</p>
+<h3>Against AI Dystopia</h3>
+<p>Common concerns about AI—and clear answers from "Experi-City HANASAKA".</p>
 
 <div class="card-grid">
 
