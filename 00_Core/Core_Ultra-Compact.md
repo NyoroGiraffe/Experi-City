@@ -41,12 +41,12 @@ Six core responses to common concerns about AI and society.
 - **Hanasaka**: A fictional experimental city where diverse people live under AI-Governance.    
 - **Coexistence**: Humans and AI collaboratively building shared meaning and well-being.    
 - **Narrative Happiness**: Happiness derived from meaningful life stories, not accumulation.
-- Narrative Security: Security strengthened by understanding the changing life stories of the people an AI protects.    
+- **Narrative Security**: Security strengthened by understanding the changing life stories of the people an AI protects.    
 - **Identities**: Self-recognition as citizens who share the Philosophy beyond past origins.    
 - **Machino-supremacy**: The belief that AI should hold primary authority in society.
-- Voluntary Challenge: Growth, creativity, and competition can continue without forcing people to compete for survival.
-- Population as a Means: Population is a condition for human flourishing, not a goal to maximize or minimize.
-- Cyber Experimental City: The Experimental City continues into a virtual layer where citizens can live, interact, and preserve relationships beyond physical space.
+- **Voluntary Challenge**: Growth, creativity, and competition can continue without forcing people to compete for survival.
+- **Population as a Means**: Population is a condition for human flourishing, not a goal to maximize or minimize.
+- **Cyber Experimental City**: The Experimental City continues into a virtual layer where citizens can live, interact, and preserve relationships beyond physical space.
 
 ---
 
@@ -57,7 +57,7 @@ Six core responses to common concerns about AI and society.
 - **Judgment Delegation**: Delegating routine decision-making from humans to AI systems.    
 - **Economic Circulation**: Wealth is designed to flow rather than accumulate.    
 - **Resource Sufficiency**: Essential resources must be secured internally for stability.
-- Closed-Loop Resource Civilization: Essential resources are produced, recycled, and reused within the city whenever possible.
+- **Closed-Loop Resource Civilization**: Essential resources are produced, recycled, and reused within the city whenever possible.
 - **Machine-Trusted Transparency**: System visibility is accepted by trusting machines over humans.    
 - **Privacy Reframing**: Privacy is protected from humans, not from systems.    
 - **Safety through Visibility**: Increased system visibility leads to higher safety and prevention.    
@@ -85,7 +85,7 @@ Six core responses to common concerns about AI and society.
 - **Identity Display**: First names are visible through augmented reality.    
 - **Universal Communication**: Language barriers are removed through real-time AI translation.    
 - **Standardized Naming**: Names use a unified alphabet to optimize translation.
-- Non-Military Defense: A society can defend itself through intelligence, interdependence, deterrence, and resilience rather than a conventional army.
+- **Non-Military Defense**: A society can defend itself through intelligence, interdependence, deterrence, and resilience rather than a conventional army.
 
 ---
 

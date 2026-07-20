@@ -347,7 +347,7 @@ Experi-City prioritizes self-sufficiency in essential resources to reduce depend
 
 The city restricts inefficient animal-based food systems and emphasizes plant-based and aquatic sources produced in optimized environments.
 
-→ See: [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+→ See: [**How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 
 ---
 
@@ -419,19 +419,17 @@ Key conflicts that define the narrative and philosophical depth of Experi-City.
 
 ### Internal vs External Perception
 
-- Internal: Acceptance of AI-Governance as a foundation for Coexistence
-    
+- Internal: Acceptance of AI-Governance as a foundation for Coexistence  
 - External: Perception of AI systems as a threat to human autonomy
 
-→ See: [Raw Analysis05_Anti-AIGovernance](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
+→ See: [Raw Analysis: Anti AI Governance](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 
 ### Legitimacy vs Alignment
 
-- Formal Legitimacy: Authority derived from democratic procedures
-    
+- Formal Legitimacy: Authority derived from democratic procedures    
 - Philosophical Alignment: Authority derived from understanding and trust
 
-→ See: [Raw Analysis_Democracy](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
+→ See: [Raw Analysis: Democracy](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 
 ---
 
