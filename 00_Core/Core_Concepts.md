@@ -91,6 +91,16 @@ A concept of happiness defined by meaningful personal and shared narratives, rat
 
 ---
 
+## Narrative Security
+
+**Narrative Security (Short):** Security strengthened by understanding the changing life stories of the people an AI protects.
+
+In Experi-City, Narrative Happiness is not only an objective of governance but also a source of information for protection. By understanding the changing narratives of citizens, Flora can use patterns of identity, behavior, and life experience to support anomaly detection, system defense, and the protection of the society it governs.
+
+Narrative Security connects the protection of human lives with the protection of the AI system itself.
+
+---
+
 ## Identities
 
 **Identities (Short)**: Self-recognition as citizens who share the Philosophy beyond past origins.
@@ -104,6 +114,36 @@ The self-recognition of individuals as citizens of Experi-City who have renounce
 **Machino-supremacy (Short)**: The belief that AI should hold primary authority in society.
 
 A perspective within Coexistence that places AI or machines in a position of primary authority. It contrasts with Humano-supremacy and frames debates about balance in AI-Governance.
+
+---
+
+## Voluntary Challenge
+
+**Voluntary Challenge (Short):** A society can preserve growth, creativity, and competition without forcing people to compete for survival.
+
+Experimental Cities reduce survival-based competition through UBI, automation, housing, and public services while preserving voluntary challenges in sports, art, research, and personal growth. The goal is to remove the fear of losing the means to live, not the value of challenge itself.
+
+→ See: [**Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
+
+---
+
+## Population as a Means
+
+**Population as a Means (Short):** Population is a condition for human flourishing, not a goal to maximize or minimize.
+
+Experimental Cities do not pursue population growth or decline as independent goals. Population is considered in relation to Narrative Happiness, sustainability, social vitality, and the ability of a city to preserve its Philosophy.
+
+→ See: [**Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
+
+---
+
+## Cyber Experimental City
+
+**Cyber Experimental City (Short):** The Experimental City continues into a virtual layer where citizens can live, interact, and preserve relationships beyond physical space.
+
+Each Experimental City may extend into a connected virtual layer where citizens can continue relationships, experiences, and civic identity beyond the physical city. This cyber layer is not simply a replacement for physical life, but an additional space for human connection and narrative continuity.
+
+→ See: [**Second Life**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 
 ---
 
@@ -154,6 +194,14 @@ A guiding principle that prioritizes the internal production of food and energy,
 → See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 
 → See: [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+
+---
+
+## Closed-Loop Resource Civilization
+
+**Closed-Loop Resource Civilization (Short):** Essential resources are produced, recycled, and reused within the city whenever possible.
+
+Experimental Cities seek to reduce dependence on external energy and material imports by combining internal food production, nuclear and renewable energy, plant- and algae-based materials, biological recycling, and other closed resource cycles.
 
 ---
 
@@ -351,6 +399,16 @@ Proper nouns are written in a standardized format to reduce translation complexi
 
 ---
 
+## Non-Military Defense
+
+**Non-Military Defense (Short):** A society can defend itself through intelligence, interdependence, deterrence, and resilience rather than a conventional army.
+
+Experimental Cities rely on shared intelligence, technological resilience, international interdependence, deterrence, and survival infrastructure rather than conventional armies or military alliances.
+
+→ See: [**Urban Defense**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
+
+---
+
 # Tensions
 
 Key conflicts that define the narrative and philosophical depth of Experi-City.
@@ -393,7 +451,7 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 <a id="analyses"></a>
 # Analyses
 
-- [**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
 - [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 - [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 - [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
