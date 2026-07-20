@@ -107,6 +107,7 @@ Start here: **Six key questions about AI and society.**
 		- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 		- [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
 			- [**Citizen's Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+			- [**Restrictions on Citizen's Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)
 		- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 			- [**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
 	- [**Hanasaka City**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html)
