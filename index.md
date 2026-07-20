@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Core
-cssclasses:
+  - Index
 ---
 ## Experi-City HANASAKA Official Website
 ### Welcome to the story of a near-future city created alongside AI.
@@ -119,6 +119,7 @@ Start here: **Six key questions about AI and society.**
 	- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 	- [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 	- [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
+	-  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 - [**ACTION PLAN** by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
 

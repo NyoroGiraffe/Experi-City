@@ -3,7 +3,6 @@ aliases:
 tags:
   - Core
   - World_Building
-cssclasses:
 ---
 # Core Concepts of **"Experi-City Hanasaka"**
 
@@ -69,6 +68,8 @@ A shorthand for "Experimental City," referring to a city designed and operated b
 **Hanasaka (Short)**: A fictional experimental city where diverse people live under AI-Governance.
 
 A fictional city and one instance of an Experi-City, created to embody a vision of safe and peaceful Coexistence under AI-Governance. People from around the world live together as equal participants in a shared social experiment.
+
+→ See: [**Hanasaka City**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html)
 
 ---
 
@@ -258,6 +259,8 @@ A fictional judicial system operating within the Governing Intelligence, deliver
 
 A fictional sport developed for Experi-City where players compete under identical rules, equipment, and conditions regardless of gender or physical differences. Judgments are performed entirely by machines, reinforcing Equality and Narrative Happiness.
 
+→ See: [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
+
 ---
 
 ## UBI
@@ -276,6 +279,8 @@ A universal basic income system using perishable digital currency. It discourage
 
 Most land is owned by the city and leased to citizens at low cost. Private ownership is heavily taxed to reduce wealth accumulation through assets and support Equality.
 
+→ See: [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
+
 ---
 
 ## Food and Energy Autarky
@@ -284,6 +289,8 @@ Most land is owned by the city and leased to citizens at low cost. Private owner
 
 Experi-City prioritizes self-sufficiency in essential resources to reduce dependency on external markets and maintain economic stability.
 
+→ See: [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+
 ---
 
 ## Nutritional Efficiency System
@@ -291,6 +298,8 @@ Experi-City prioritizes self-sufficiency in essential resources to reduce depend
 **Nutritional Efficiency (Short)**: Food production prioritizes efficiency over tradition.
 
 The city restricts inefficient animal-based food systems and emphasizes plant-based and aquatic sources produced in optimized environments.
+
+→ See: [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 
 ---
 
@@ -387,6 +396,10 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 - [**Raw-Analyses by Gemini, ChatGPT, and Claude - "Deep Dives into the Story"**](https://nyorogiraffe.github.io/Experi-City/README.html#analyses)
 - [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 - [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
+- [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
+- [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
+-  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 
 - Raw Analyses:
 	- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)

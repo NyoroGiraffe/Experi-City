@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Core
-cssclasses:
+  - Index
 ---
 # **Fundamental Information**
 
@@ -14,6 +14,7 @@ cssclasses:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
+- **Last Update to the Repository**: July 20, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -124,7 +125,8 @@ The following notes contain the foundational information required to understand 
 
 - **Circulation, Equality and Sustainability**
 	- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
-	- [**Universal Basic Income and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html): Experimental Cities provide every citizen with a Universal Basic Income (UBI) through a digital perishable currency called Experi-Coins (XC).  
+	- [**Universal Basic Income and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html): Experimental Cities provide every citizen with a Universal Basic Income (UBI) through a digital perishable currency called Experi-Coins (XC). 
+	- [**Restrictions on Citizen's Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html): In Experimental Cities, in order to realize a sustainable society, citizens must accept certain restrictions on their daily lives.
 
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)."
 	- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
@@ -145,6 +147,7 @@ The following notes contain the foundational information required to understand 
 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
 
+-  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html): An analysis how a virtual layer of the Experimental Cities lets every citizen's story continue after death — and what it asks of the living in return. Analyzed by Claude Sonnet 5.
 
 ## **Raw Analyses**
 
@@ -190,47 +193,3 @@ The Japanese original version of this story will also continue to be revised fro
 Now, please enjoy the story.
 
 Nyoro Giraffe
-
----
-<a id="release-history"></a>
-## Story Release History 
-
-**Ver. 1.0:** August 9, 2025
-- Initial release of the story on **Inkitt**.
-
- **Ver. 1.1.00:** February 14, 2026
-- **Launched as a GitHub project**, introducing the **Markdown + Metadata Framework** for AI-driven exploration.
-
- **Ver. 1.1.01:** March 8, 2026
-- Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1.
-
-**Ver. 1.1.01a:** March 9, 2026
-- Slight changes to the Chapter 3.1.
-
-**Ver. 1.1.02:** April 4, 2026
-- Minor changes to the Chapters 1.1, 1.2, 1.5, 1.7, 1.12, 2.2, 2.11, 2.12, 2.13, 2.16, 3.18, 3.21 and 3.22.
-
-**Ver. 1.1.03:** April 30, 2026
-- Some changes to the Chapters 1.4, 1.5, 1.7, 1.9, 2.5, 2.7, 2.12, 3.9 and 3.23.
-
-**Ver. 1.1.04:** May 1, 2026
-- Some changes to the Chapter 2.1.
-
-**Ver. 1.2.00:** May 5, 2026
-- **Added English summaries to every chapter** (a spoiler-free overview and a detailed summary containing spoilers) to improve readability using AI.
-- Some changes to Chapters 2.7 and 2.16.
-
-**Ver. 1.2.01:** May 10, 2026
-- Some changes to Chapter 2.7.
-
-**Ver. 1.2.02:** May 17, 2026
-- Some changes to Chapters 1.3, 2.13 and 3.1.
-
-**Ver. 1.2.03:** May 23, 2026
-- Some changes to Chapters 1.1, 1.4, 2.1, 2.7, 2.12, 2.15, 3.1, 3.2, 3.6, 3.8, 3.12 and 3.22.
-
-**Ver. 1.2.04:** May 30, 2026
-- Some changes to Chapter 2.15.
-
-**Ver. 1.2.05:** June 13, 2026
-- Some changes to Chapters 2.2, 2.12, 3.1, 3.22 and 3.23.

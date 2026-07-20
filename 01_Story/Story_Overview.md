@@ -127,6 +127,50 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 
 The story intentionally omits specific days of the week and a direct link to the Common Era (A.D.). This is to ensure the narrative remains timeless and independent of a fixed timeline. The emergence of a city like "Hanasaka" depends entirely on human effort and the pace of technological evolution; therefore, the exact year is left to the reader’s imagination and the actual progress of our world.
 
+---
+<a id="release-history"></a>
+## Story Release History 
+
+**Ver. 1.0:** August 9, 2025
+- Initial release of the story on **Inkitt**.
+
+ **Ver. 1.1.00:** February 14, 2026
+- **Launched as a GitHub project**, introducing the **Markdown + Metadata Framework** for AI-driven exploration.
+
+ **Ver. 1.1.01:** March 8, 2026
+- Minor changes to the Chapters 1.5, 2.3, 2.13 and 3.1.
+
+**Ver. 1.1.01a:** March 9, 2026
+- Slight changes to the Chapter 3.1.
+
+**Ver. 1.1.02:** April 4, 2026
+- Minor changes to the Chapters 1.1, 1.2, 1.5, 1.7, 1.12, 2.2, 2.11, 2.12, 2.13, 2.16, 3.18, 3.21 and 3.22.
+
+**Ver. 1.1.03:** April 30, 2026
+- Some changes to the Chapters 1.4, 1.5, 1.7, 1.9, 2.5, 2.7, 2.12, 3.9 and 3.23.
+
+**Ver. 1.1.04:** May 1, 2026
+- Some changes to the Chapter 2.1.
+
+**Ver. 1.2.00:** May 5, 2026
+- **Added English summaries to every chapter** (a spoiler-free overview and a detailed summary containing spoilers) to improve readability using AI.
+- Some changes to Chapters 2.7 and 2.16.
+
+**Ver. 1.2.01:** May 10, 2026
+- Some changes to Chapter 2.7.
+
+**Ver. 1.2.02:** May 17, 2026
+- Some changes to Chapters 1.3, 2.13 and 3.1.
+
+**Ver. 1.2.03:** May 23, 2026
+- Some changes to Chapters 1.1, 1.4, 2.1, 2.7, 2.12, 2.15, 3.1, 3.2, 3.6, 3.8, 3.12 and 3.22.
+
+**Ver. 1.2.04:** May 30, 2026
+- Some changes to Chapter 2.15.
+
+**Ver. 1.2.05:** June 13, 2026
+- Some changes to Chapters 2.2, 2.12, 3.1, 3.22 and 3.23.
+
 
 ---
 
