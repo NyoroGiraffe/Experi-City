@@ -123,6 +123,8 @@ Start here: **Six key questions about AI and society.**
 	- [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
 	-  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 - [**ACTION PLAN** by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+	- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 
 
 ---
