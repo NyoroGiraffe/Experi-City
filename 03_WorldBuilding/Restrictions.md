@@ -24,7 +24,14 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 
 ---
 
-## **2. Restrictions on Car Ownership and Driving**
+## **2. Restrictions on Keeping Pets**
+
+- In Experimental Cities, keeping pets is, as a general rule, prohibited.
+- With the exception of city animal welfare officers, it is forbidden to feed any animals—including dogs, cats, birds, and fish—within the city limits.
+
+---
+
+## **3. Restrictions on Car Ownership and Driving**
 
 - In Experimental Cities, private car ownership is generally prohibited. As a result, there are fewer cars compared to other typical cities.
 - In Experimental Cities, manual driving by humans is strictly prohibited; control over vehicle movement is maintained by the traffic control system “Vulcan.” This applies even to police and fire department vehicles; the only differences are their maximum speed limits and whether they are permitted to run red lights.  
@@ -34,6 +41,11 @@ On the other hand, when it comes to seafood, aquaponics—a system that combines
 
 → See: [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
+---
+
+## **4. Restrictions on Smoking**
+
+Smoking is prohibited in Experimental Cities, including by temporary visitors.
 
 ---
 
