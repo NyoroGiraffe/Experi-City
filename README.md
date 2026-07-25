@@ -197,3 +197,7 @@ The Japanese original version of this story will also continue to be revised fro
 Now, please enjoy the story.
 
 Nyoro Giraffe
+
+---
+
+Experi-City Hanasaka is an independent fictional work by Nyoro Giraffe and is unrelated to other real-world brands or organizations using the name “Hanasaka.”
