@@ -180,6 +180,12 @@ Players are never limited to the options suggested by the AI.
 
 They may always create new ideas or request different directions.
 
+Players may cultivate narratives not only through direct interaction with the game world, but also through relationships with AI characters and companions.
+
+Narrative Cultivation Platform does not require human players to become commanders, managers, judges, or mediators in order to participate in a shared world. These roles may instead be performed by NPCs and AI systems, allowing human players to focus on the relationships, experiences, and narratives they wish to cultivate.
+
+→ See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+
 ---
 
 ## 4.4 Understanding the Canonical World
@@ -212,6 +218,8 @@ Collective Intent Engine cultivates the shared future of a community.
 Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
 
 Its purpose is not to replace human decision-making but to improve it.
+
+In large shared worlds, NPCs may also serve as commanders, coordinators, and mediators between human players. Human players are not required to assume organizational responsibilities merely because they participate in a collective world.
 
 ---
 
@@ -344,6 +352,10 @@ Their reactions generate new Narrative Happiness Signals (NHS), beginning the ne
 Narrative Engine cultivates each player's Narrative Happiness.
 
 It allows players—or small groups sharing the same experience—to explore stories beyond the shared world whenever they wish.
+
+Each player may be accompanied by one or more AI-controlled NPC companions, referred to here as Buddies. Buddies may provide private conversation, contextual advice, and assistance in navigating relationships with other characters and players.
+
+→ See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 
 ---
 

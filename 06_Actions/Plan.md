@@ -57,7 +57,7 @@ Modern game design is shifting away from pre-determined endings toward player-dr
     
 - **Synthesize a "Collective Will":** Program the AI to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, rather than letting one faction win.
   
-  →See: [**"Collective Intent Formation"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+  →See: [**"Collective Intent Formation Framework"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
     
 - **Automate Real-Time Story Generation:** Deploy generative AI systems to instantly update the game environment, generating subsequent storylines, character reactions, and societal challenges based on the AI’s synthesized consensus.
 
@@ -70,6 +70,8 @@ Recognizing that modern players often seek community without the exhaustion of d
 - **Implement Multi-Layered UCI:** Rather than overwriting the original voice tracks, engineers will implement a real-time subtitle and secondary audio (overlay) system. The original character voice appropriate to the game's world-building remains audible to preserve narrative texture, while the UCI instantly projects synchronized subtitles or synthesized dual-audio in the player's native language to ensure seamless comprehension.
 
 Through this immersive and meaningful player experience, the core AI monitors what truly constitutes "Narrative Happiness" for diverse individuals, collecting the foundational data required for real-world governance.
+
+→See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 
 ## Phase 2: Code the "Flora Sisters" Core and Formulate the Smart Community Architecture (SCA)
 

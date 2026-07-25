@@ -174,7 +174,8 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 Currently Planning: [Discussion among Gemini, ChatGPT, and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
 - [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html): The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. 
-- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html): Collective Intent is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
+	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html): Collective Intent is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
+	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html): This gives rise to NPCs—collective entities that shoulder responsibilities—and AI buddies—personal companions who support individual well-being. 
 
 
 ---

@@ -125,7 +125,7 @@ Unlike the standard process for ordinances, city administrative agencies can iss
 
 Flora then utilizes her specialized internal deliberation logic (differentiating her consciousness into specialized cores when necessary) to generate a unified, impartial solution, typically delivered via the Politis platform within seconds. For example, during the Pegasus Incident, Flora utilized this logic to approve the criminal designation of the "Awakeners" via Politis in just 30 seconds.
 
-→ Related Information: [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+→ Related Information: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 
 ## 2. **Themis**
 
