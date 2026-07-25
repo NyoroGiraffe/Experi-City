@@ -17,11 +17,17 @@ July 2026
 # Overall Structure
 
 ### [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+
+The Narrative Cultivation Platform consists of three major software components as follows:
+
 - **Collective Intent Engine**
 - Narrative Engine
 - Flora Learning Network
 
 ### Collective Intent Engine
+
+Collective Intent Engine cultivates the shared future of a community.
+
 #### Collective Narrative Cultivation Cycle:
 - Step 1 (1) — Community Intent 
 - **Step 1 (2) — Collective Intent Formation**
