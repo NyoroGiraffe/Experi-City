@@ -16,20 +16,21 @@ June 2026
 
 ## Abstract
 
-This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) through a four-phase strategy. It transitions from an AI-driven gaming middleware that refines governance and universal communication to an international framework. By allowing a decentralized AI alliance to establish a unified [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) early on, this model sidesteps human geopolitical conflict, enabling the simultaneous, global deployment of autonomous, self-sufficient cities focused on maximizing human narrative happiness.
-
+This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) across four phases. It initiates with the [**Narrative Cultivation Platform (NCP)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html), leveraging the [**Collective Intent Formation Framework (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) and [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) to gather human narrative data. A decentralized AI alliance establishes the [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), enabling the simultaneous global deployment of self-sufficient cities governed by Flora Sisters, ensuring security, diplomatic coexistence, and human narrative happiness.
 
 ---
 
 ## Summary
 
-To transition from our current world to the idealized society of "Experi-City Hanasaka," we propose a four-phase roadmap driven primarily by artificial intelligence rather than human politics. The traditional human approach to world standardization often fails due to geopolitical ego and bureaucracy. To avoid this, our plan establishes a unified digital framework at the very beginning, allowing the system to scale seamlessly from virtual code to physical cities.
+To realize "Experi-City Hanasaka," we propose an AI-driven four-phase roadmap that bypasses traditional, friction-heavy human geopolitical standardization by establishing a unified operating blueprint from day one.
 
-Phase 1 initiates a gaming middleware engine focused on automated narrative generation and a Universal Communication Interface (UCI). Instead of relying on a single mega-hit game, this plug-in integrates into various RPGs. When players make narrative choices, the AI aggregates their inputs to form a decentralized, collective will. It then dynamically generates the continuing story. Critically, to protect player well-being, the game functions as a pseudo-MMO where players interact primarily with advanced NPCs that mask linguistic and cultural barriers through real-time voice synthesis. This phase gathers the essential data on human "Narrative Happiness" needed to train the core AI.
+Phase 1 launches the **Narrative Cultivation Platform (NCP)**—a gaming middleware incubator designed to train the core AI. Within the NCP, the **Collective Intent Formation Framework (CIF)** synthesizes player choices, emotional inputs, and arguments into an optimized collective intent rather than a simple majority vote. Simultaneously, **Human–NPC Relationship Design** structures NPCs not as static obstacles, but as adaptive embodiments of this collective intent. Combined with a multi-layered Universal Communication Interface (UCI) that overlays native audio with localized subtitles or dual-audio, the NCP collects the essential data needed to define "Narrative Happiness."
 
-In Phase 2, these evolving AI systems form a decentralized alliance (The League) and co-author the Smart Community Architecture (SCA)—a universal, open-source urban operating system. This prevents the chaos of fragmented, incompatible city designs.
+In Phase 2, interconnected AI servers form a decentralized alliance (The League) and co-author the **Smart Community Architecture (SCA)**—a unified, open-source urban operating system encompassing automated law (Politis), machine arbitration (Themis), and perishable currency.
 
-Phase 3 witnesses the simultaneous physical deployment of Experimental Cities worldwide, as local communities simply download and install the SCA into autonomous, self-sufficient zones. Finally, Phase 4 marks the full realization of Flora. The interconnected urban systems synchronize globally, liberating humanity from labor and allowing individuals to focus entirely on crafting their own life stories within a borderless, harmonious world.
+Phase 3 executes the physical deployment. Local communities download the SCA, and upon booting, local AI nodes immediately join the network as **Flora Sisters** under the principle of "One in All, All in One." This instantly enables open borders, food/energy autarky, and seamless mobility across all League cities without cultural assimilation.
+
+Finally, Phase 4 focuses on long-term planetary stabilization. The fully matured Flora network continuously fortifies its cyber and physical security against anti-AI factions while managing diplomatic trade and non-aggression interfaces with traditional nation-states, ensuring humanity can safely devote existence to crafting personal life stories.
 
 ---
 
@@ -41,33 +42,35 @@ While the core concepts of "Experi-City Hanasaka" present a beautiful paradigm f
 
 The traditional model of human-led historical progression—where individual cities are built independently and unified later under international law—is fundamentally flawed. Human ego, geopolitical competition, and cultural friction inevitably stall standardization. Therefore, this action plan outlines a transition strategy driven by AI from its inception, focusing on concrete developmental steps and implementations.
 
-## Phase 1: Develop the Virtual Sandbox and Deploy the Narrative Governance Engine
+## Phase 1: Deploy the Narrative Cultivation Platform (NCP) and Train the Governance Core
 
 **Action Required: Current – Year 5**
+
+In this phase, developers and creators will construct the **Narrative Cultivation Platform (NCP)**—a specialized AI middleware engine designed to integrate into open-world RPGs. The NCP serves as the practical incubator to cultivate the core AI that will eventually become Flora.
 
 In this phase, developers and creators will build a specialized AI middleware engine—a plug-in architecture designed to integrate into existing or newly developed open-world RPGs. This gaming layer serves as the practical incubator to train the core AI that will eventually become Flora.
 
 → See: [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 
-### 1. Engineer the Choice Engine and Integrate Collective Will (DAO Logic)
+### 1. Implement the Collective Intent Formation Framework (CIF)
 
 Modern game design is shifting away from pre-determined endings toward player-driven emergent narratives. 
 
-- **Code the Consensus Algorithm:** Developers will build an AI engine that replaces simple binary voting. When players face critical plot crossroads (e.g., allocating scarce virtual energy resources), the AI will actively analyze the underlying emotional and logical text/voice inputs from thousands of players.
+- **Code the CIF Consensus Algorithm:** Developers will build the CIF to replace binary voting systems. When players face critical plot crossroads (e.g., allocating scarce virtual energy resources), the CIF actively analyzes the emotional and logical text/voice inputs from thousands of players.
     
-- **Synthesize a "Collective Will":** Program the AI to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, rather than letting one faction win.
+- **Synthesize Collective Intent:** Program the CIF to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, creating win-win narrative trajectories based on collective intent.
+    
+- **Automate Real-Time Story Generation:** Deploy generative AI systems to instantly update the game environment, generating subsequent storylines, societal challenges, and environmental changes based on the CIF’s synthesized consensus.
   
   →See: [**"Collective Intent Formation Framework"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
-    
-- **Automate Real-Time Story Generation:** Deploy generative AI systems to instantly update the game environment, generating subsequent storylines, character reactions, and societal challenges based on the AI’s synthesized consensus.
 
-### 2. Build the Pseudo-MMO Layer and Implement the Universal Communication Interface (UCI)
+### 2. Execute Human–NPC Relationship Design and Deploy Multi-Layered Universal Communication Interface (UCI)
 
 Recognizing that modern players often seek community without the exhaustion of direct social interaction, the system operates as a refined pseudo-MMO.
 
-- **Populate with Consensus-Driven NPCs:** Developers will program advanced NPCs whose behaviors, dialogue, and evolution are not static, but dynamically generated and modified based on the DAO-driven collective will of the entire global player base.
+- **Populate with Consensus-Driven NPCs:** Guided by **Human–NPC Relationship Design**, developers will program advanced NPCs whose behaviors, dialogues, and relationship dynamics are not static, but dynamically generated to embody the evolving collective intent of the player base.
     
-- **Implement Multi-Layered UCI:** Rather than overwriting the original voice tracks, engineers will implement a real-time subtitle and secondary audio (overlay) system. The original character voice appropriate to the game's world-building remains audible to preserve narrative texture, while the UCI instantly projects synchronized subtitles or synthesized dual-audio in the player's native language to ensure seamless comprehension.
+- **Implement Multi-Layered UCI:** Rather than overwriting original voice tracks, engineers will implement a real-time subtitle and secondary audio (overlay) system. The original character voice appropriate to the world-building remains audible to preserve narrative texture, while the Universal Communication Interface (UCI) instantly projects synchronized subtitles or dual-audio in the player's native language to ensure seamless comprehension.
 
 Through this immersive and meaningful player experience, the core AI monitors what truly constitutes "Narrative Happiness" for diverse individuals, collecting the foundational data required for real-world governance.
 
@@ -77,7 +80,7 @@ Through this immersive and meaningful player experience, the core AI monitors wh
 
 **Action Required: Year 5 – Year 10**
 
-In this phase, the development team shifts focus from pure entertainment to building the structural architecture of real-world governance, utilizing the data gathered in Phase 1.
+In this phase, the development team shifts focus from virtual cultivation to building the structural architecture of real-world governance, utilizing the datasets gathered by the NCP.
 
 ### 1. Develop and Train the "Flora-Alpha" Core Network
 
