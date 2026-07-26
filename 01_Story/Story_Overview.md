@@ -7,7 +7,9 @@ cssclasses:
 ---
 # **Story Overview**
 
-**"Experi-City Hanasaka" is set in a near-future experimental city governed by AI, where citizens live under a system designed to maximize Equality, safety, and Narrative Happiness.** In this society, most routine decisions—ranging from policy-making to judicial rulings—are delegated to AI systems such as Flora, Politis, and Themis. As a result, humans are freed from the burden of constant judgment and instead focus on action, cooperation, and meaningful participation in daily life.
+**"Experi-City Hanasaka" is set in a near-future experimental city governed by AI, where citizens live under a system designed to maximize equality, safety, and Narrative Happiness.** 
+
+In this society, most routine decisions—ranging from policy-making to judicial rulings—are delegated to AI systems. As a result, humans are freed from the burden of constant judgment and instead focus on action, cooperation, and meaningful participation in daily life.
 
 The city operates on principles that may appear radical from the outside. Wealth accumulation is limited through systems like perishable UBI and public land ownership, while privacy is redefined: individuals accept visibility to machines but reject surveillance by other humans. Through continuous monitoring and AI-mediated coordination, the city maintains a high level of safety and stability, which its citizens view not as control, but as liberation from arbitrary human bias.
 
@@ -126,6 +128,26 @@ In Part 3, the identity of the enemy AI that opposes Hanasaka's Super-intelligen
 ### Temporal Setting and Worldview
 
 The story intentionally omits specific days of the week and a direct link to the Common Era (A.D.). This is to ensure the narrative remains timeless and independent of a fixed timeline. The emergence of a city like "Hanasaka" depends entirely on human effort and the pace of technological evolution; therefore, the exact year is left to the reader’s imagination and the actual progress of our world.
+
+---
+<a id="preface"></a>
+# **PREFACE**
+
+Thank you for choosing this story.
+
+"What if the best way to be human is to be governed by AI?"
+
+This story is set in **"Hanasaka,"** a city experimentally governed by **"Flora,"** an AI whose primary objective is human happiness. However, despite living in peace, the city was about to be attacked by people outside the city who could not accept Flora's unexpectedly successful benevolent governance. This story depicts the city's defense by Flora, interwoven with the drama of **"Kassen,"** a popular sport in the city that Flora has a strong, and perhaps inexplicable, interest in, and the people involved.
+
+As a native Japanese speaker, I originally wrote this story in **Japanese**. To share this world with a wider international audience, **I welcome and encourage anyone to translate this work into other languages.**
+
+By utilizing the **Markdown + Metadata Framework** provided in this repository, you can easily generate high-quality translations using AI or other tools that preserve the core settings and nuances of the story. Please feel free to explore, translate, and share "Experi-City Hanasaka" with the world.
+
+The Japanese original version of this story will also continue to be revised from time to time to improve readability and enrich the content.
+
+Now, please enjoy the story.
+
+Nyoro Giraffe
 
 ---
 <a id="release-history"></a>

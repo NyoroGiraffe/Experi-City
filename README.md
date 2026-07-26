@@ -27,33 +27,59 @@ tags:
 <a id="project"></a>
 ## What is Experi-City Hanasaka?
 
-**“Experi-City Hanasaka” is set in a near-future experimental city governed by AI, where citizens live under a system designed to maximize equality, safety, and Narrative Happiness.**
+**“Experi-City Hanasaka” is a near-future experimental city governed by AI, where citizens live under a system designed to maximize equality, safety, and Narrative Happiness.**
 
-This city can be described as a fictional yet systematic model of an AI-governed society, designed for analysis, reuse, and discussion by both humans and AI systems.
+## Project Purpose: Exploring Human–AI Coexistence Through Story and Systems
 
-## Project Purpose: A Story World Optimized for AI and Humans
+The primary goal of this project is to explore how humans and AI might live and work together in the future.
 
-The primary goal of this project is to share the story of **"Experi-City Hanasaka"** and explore its world together with both human readers and AI. While the story depicts the relationship between humanity and AI, [this repository](https://github.com/NyoroGiraffe/Experi-City) is also designed as a structured "Narrative Foundation" that can be interpreted, analyzed, and reused across different contexts."
+**“Experi-City Hanasaka”** is a work of fiction, but the story is also a thought experiment. It asks what kind of society might emerge if AI were trusted with major responsibilities, including governance, judgment, safety, and the management of shared resources.
 
-#### 1. Entertainment Meets Technology
+[This repository](https://github.com/NyoroGiraffe/Experi-City) uses the story as a foundation for examining difficult questions about human–AI coexistence:
 
-This is a work of fiction designed to be enjoyed as a story. By hosting it on **GitHub,** we treat the "World-Building" as an open-source asset. Readers can engage with the narrative while also accessing a structured framework that enhances understanding for both humans and AI.
+- Can AI govern a society without destroying human freedom?
+- How might democracy change when AI can continuously understand citizens’ needs?
+- Can extensive AI monitoring coexist with human dignity and privacy?
+- How can advanced AI help reduce inequality rather than increase it?
+- What should humans do when AI becomes better than humans at many kinds of work and decision-making?
+- How can humans and AI cooperate to prevent powerful technology from becoming a threat to society?
 
-#### 2. Enhancing AI Interpretation via Markdown + Metadata
+The purpose is not to claim that AI is always good, that AI governance is always safe, or that humans should simply surrender control to machines.
 
-We use a **Markdown + Metadata Framework** to ensure that AI can accurately grasp the meaning, context, and nuances of the story world, making it easier to translate, analyze, and visualize.
+Instead, this project explores what kinds of **principles, institutions, technologies, and forms of cooperation** might help humans and AI build a better future together.
 
-- **AI-Friendly Writing:** The original Japanese text incorporates English identifiers for names and key terminology (e.g., specific locations and "Kassen" terms) to aid AI in consistent recognition.
+The story of Hanasaka provides a fictional model for this exploration. The surrounding World Building, Core Concepts, Analyses, and Against AI Dystopia sections examine the ideas behind that model and connect them to questions that matter in the real world.
 
-- **Author-Guided Refinement:** While we value the "blank spaces" that invite reader imagination, the author may choose to refine the text or metadata at their own discretion whenever AI outputs spark new creative inspiration.
+#### 1. Entertainment Meets Social Experiment
+
+This is a work of fiction designed to be enjoyed as a story. By hosting the project on GitHub, however, the fictional world can also function as an open framework for discussion, analysis, translation, adaptation, and further experimentation.
+
+Readers can enjoy the narrative while also examining the systems and ideas that make the society of Hanasaka work.
+
+#### 2. A Structured Knowledge Base for Humans and AI
+
+The repository is organized so that both human readers and AI systems can explore the project at different levels.
+
+Core Concepts provide a compact overview of the central ideas. World Building documents explain the systems and institutions of the setting. The story presents these ideas through characters and events. Analyses examine their deeper implications, while Against AI Dystopia explores possible paths toward safer and more meaningful human–AI coexistence.
+
+Markdown, metadata, English identifiers, summaries, and cross-linked documents help make the world easier to understand, analyze, translate, and reuse.
+
+The original story is written in Japanese, while much of the supporting material is written in English to make the project accessible to a wider audience and to facilitate discussion across languages.
 
 #### 3. Why GitHub?
 
-We believe that in the age of AI, the way we "write" and "share" stories is evolving. This project is an experiment in:
+We believe that in the age of AI, the way we create and share stories is evolving.
 
-- How a solo creator can build a robust world-view with AI as a supportive partner.
+This project is an experiment in:
 
-- How to create a "High-Resolution" narrative structure that remains consistent across different media while preserving the author's original vision.
+- Using fiction as a framework for discussing the future of humanity and AI.
+- Exploring how humans and AI might cooperate in building better societies.
+- Creating a structured, high-resolution world that can be read, analyzed, translated, adapted, and expanded.
+- Preserving the author’s original vision while allowing new ideas to emerge through discussion with AI and human readers.
+
+The ultimate goal is not simply to create a story that AI can understand.
+
+It is to create a story that helps humans and AI **think together**.
 
 ---
 <a id="license"></a>
@@ -180,27 +206,6 @@ This action plan outlines the realization of "Experi-City Hanasaka."
 - [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html): The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. 
 	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html): Collective Intent is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
 	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html): This gives rise to NPCs—collective entities that shoulder responsibilities—and AI buddies—personal companions who support individual well-being. 
-
-
----
-<a id="preface"></a>
-# **PREFACE**
-
-Thank you for choosing this story.
-
-"What if the best way to be human is to be governed by AI?"
-
-This story is set in **"Hanasaka,"** a city experimentally governed by **"Flora,"** an AI whose primary objective is human happiness. However, despite living in peace, the city was about to be attacked by people outside the city who could not accept Flora's unexpectedly successful benevolent governance. This story depicts the city's defense by Flora, interwoven with the drama of **"Kassen,"** a popular sport in the city that Flora has a strong, and perhaps inexplicable, interest in, and the people involved.
-
-As a native Japanese speaker, I originally wrote this story in **Japanese**. To share this world with a wider international audience, **I welcome and encourage anyone to translate this work into other languages.**
-
-By utilizing the **Markdown + Metadata Framework** provided in this repository, you can easily generate high-quality translations using AI or other tools that preserve the core settings and nuances of the story. Please feel free to explore, translate, and share "Experi-City Hanasaka" with the world.
-
-The Japanese original version of this story will also continue to be revised from time to time to improve readability and enrich the content.
-
-Now, please enjoy the story.
-
-Nyoro Giraffe
 
 ---
 
