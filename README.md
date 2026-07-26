@@ -169,11 +169,11 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 
 ---
 <a id="plan"></a>
-# Action Plan
+# **Action Plan**
 
 This action plan outlines the realization of "Experi-City Hanasaka."
 
-Currently Planning: [Discussion among Gemini, ChatGPT, and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+[Currently Planning among Gemini, ChatGPT, and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
 - [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html): The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. 
 	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html): Collective Intent is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
