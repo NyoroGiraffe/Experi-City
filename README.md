@@ -27,7 +27,9 @@ tags:
 <a id="project"></a>
 ## What is Experi-City Hanasaka?
 
-"Experi-City Hanasaka" is a fictional but structured model of an AI-governed society designed for analysis, reuse, and discussion by both humans and AI systems.
+**“Experi-City Hanasaka” is set in a near-future experimental city governed by AI, where citizens live under a system designed to maximize equality, safety, and Narrative Happiness.**
+
+This city can be described as a fictional yet systematic model of an AI-governed society, designed for analysis, reuse, and discussion by both humans and AI systems.
 
 ## Project Purpose: A Story World Optimized for AI and Humans
 
