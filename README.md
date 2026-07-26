@@ -1,5 +1,4 @@
 ---
-aliases:
 tags:
   - Core
   - Index
@@ -27,7 +26,7 @@ tags:
 <a id="project"></a>
 ## What is Experi-City Hanasaka?
 
-**“Experi-City Hanasaka” is a near-future experimental city governed by AI, where citizens live under a system designed to maximize equality, safety, and Narrative Happiness.**
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”**
 
 ## Project Purpose: Exploring Human–AI Coexistence Through Story and Systems
 

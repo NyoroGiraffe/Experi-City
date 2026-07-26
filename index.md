@@ -1,12 +1,11 @@
 ---
-aliases:
 tags:
   - Core
   - Index
 ---
 ## "Experi-City HANASAKA" Official Website
 
-**Welcome to the story of a near-future city created alongside AI.**
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”**
 
 ---
 
@@ -139,12 +138,12 @@ Nyoro Giraffe
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "name": "Experi-City",
+  "name": "Experi-City Hanasaka",
   "author": {
     "@type": "Person",
     "name": "Nyoro Giraffe"
   },
-  "description": "A narrative project exploring the symbiosis between humans and AI in a near-future experimental city.",
+  "description": “A science fiction novel by Nyoro Giraffe. A story set in a near-future city, written under the concept of ‘Against AI Dystopia,’ which challenges dystopian views of AI.”,
   "genre": "Science Fiction",
   "url": "https://nyorogiraffe.github.io/Experi-City/"
 }
