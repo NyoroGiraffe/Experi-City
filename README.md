@@ -14,7 +14,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: July 25, 2026
+- **Last Update to the Repository**: July 26, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -25,9 +25,9 @@ tags:
 
 ---
 <a id="project"></a>
-## What is Experi-City?
+## What is Experi-City Hanasaka?
 
-"Experi-City" is a fictional but structured model of an AI-governed society designed for analysis, reuse, and discussion by both humans and AI systems.
+"Experi-City Hanasaka" is a fictional but structured model of an AI-governed society designed for analysis, reuse, and discussion by both humans and AI systems.
 
 ## Project Purpose: A Story World Optimized for AI and Humans
 
@@ -171,6 +171,8 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 <a id="plan"></a>
 # Action Plan
 
+This action plan outlines the realization of "Experi-City Hanasaka."
+
 Currently Planning: [Discussion among Gemini, ChatGPT, and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
 - [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html): The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. 
@@ -200,4 +202,4 @@ Nyoro Giraffe
 
 ---
 
-Experi-City Hanasaka is an independent fictional work by Nyoro Giraffe and is unrelated to other real-world brands or organizations using the name “Hanasaka.”
+"Experi-City Hanasaka" is an independent fictional work by Nyoro Giraffe and is unrelated to other real-world brands or organizations using the name “Hanasaka.”
