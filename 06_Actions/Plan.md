@@ -16,7 +16,7 @@ June 2026
 
 ## Abstract
 
-This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) across four phases. It initiates with the [**Narrative Cultivation Platform (NCP)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html), leveraging the [**Collective Intent Formation Framework (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) and [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) to gather human narrative data. A decentralized AI alliance establishes the [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), enabling the simultaneous global deployment of self-sufficient cities governed by Flora Sisters, ensuring security, diplomatic coexistence, and human narrative happiness.
+This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) across four phases. It initiates with the [**Narrative Cultivation Platform (NCP)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html), leveraging the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) and [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) to gather human narrative data. A decentralized AI alliance establishes the [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), enabling the simultaneous global deployment of self-sufficient cities governed by Flora Sisters, ensuring security, diplomatic coexistence, and human narrative happiness.
 
 ---
 
@@ -24,7 +24,7 @@ This action plan outlines the realization of ["Experi-City Hanasaka"](https://ny
 
 To realize "Experi-City Hanasaka," we propose an AI-driven four-phase roadmap that bypasses traditional, friction-heavy human geopolitical standardization by establishing a unified operating blueprint from day one.
 
-Phase 1 launches the **Narrative Cultivation Platform (NCP)**—a gaming middleware incubator designed to train the core AI. Within the NCP, the **Collective Intent Formation Framework (CIF)** synthesizes player choices, emotional inputs, and arguments into an optimized collective intent rather than a simple majority vote. Simultaneously, **Human–NPC Relationship Design** structures NPCs not as static obstacles, but as adaptive embodiments of this collective intent. Combined with a multi-layered Universal Communication Interface (UCI) that overlays native audio with localized subtitles or dual-audio, the NCP collects the essential data needed to define "Narrative Happiness."
+Phase 1 launches the **Narrative Cultivation Platform (NCP)**—a gaming middleware incubator designed to train the core AI. Within the NCP, the **Collective Intent Formation (CIF) Framework** synthesizes player choices, emotional inputs, and arguments into an optimized collective intent rather than a simple majority vote. Simultaneously, **Human–NPC Relationship Design** structures NPCs not as static obstacles, but as adaptive embodiments of this collective intent. Combined with a multi-layered Universal Communication Interface (UCI) that overlays native audio with localized subtitles or dual-audio, the NCP collects the essential data needed to define "Narrative Happiness."
 
 In Phase 2, interconnected AI servers form a decentralized alliance (The League) and co-author the **Smart Community Architecture (SCA)**—a unified, open-source urban operating system encompassing automated law (Politis), machine arbitration (Themis), and perishable currency.
 
@@ -52,13 +52,13 @@ In this phase, developers and creators will build a specialized AI middleware en
 
 → See: [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 
-### 1. Implement the Collective Intent Formation Framework (CIF)
+### 1. Implement the Collective Intent Formation (CIF) Framework
 
 Modern game design is shifting away from pre-determined endings toward player-driven emergent narratives. 
 
-- **Code the CIF Consensus Algorithm:** Developers will build the CIF to replace binary voting systems. When players face critical plot crossroads (e.g., allocating scarce virtual energy resources), the CIF actively analyzes the emotional and logical text/voice inputs from thousands of players.
+- **Code the CIF Consensus Algorithm:** Developers will build the CIF Framework to replace binary voting systems. When players face critical plot crossroads (e.g., allocating scarce virtual energy resources), the CIF Framework actively analyzes the emotional and logical text/voice inputs from thousands of players.
     
-- **Synthesize Collective Intent:** Program the CIF to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, creating win-win narrative trajectories based on collective intent.
+- **Synthesize Collective Intent:** Program the CIF Framework to dynamically generate optimized compromise solutions that minimize overall community dissatisfaction, creating win-win narrative trajectories based on collective intent.
     
 - **Automate Real-Time Story Generation:** Deploy generative AI systems to instantly update the game environment, generating subsequent storylines, societal challenges, and environmental changes based on the CIF’s synthesized consensus.
   
