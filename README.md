@@ -13,7 +13,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: July 26, 2026
+- **Last Update to the Repository**: August 1, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -24,9 +24,9 @@ tags:
 
 ---
 <a id="project"></a>
-## What is Experi-City Hanasaka?
+## **What is Experi-City Hanasaka?**
 
-**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”**
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
 
 ## Project Purpose: Exploring Human–AI Coexistence Through Story and Systems
 
