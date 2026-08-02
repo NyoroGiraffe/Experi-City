@@ -549,55 +549,55 @@ If the scenario introduces no additional rules, this section MAY be omitted.
 
 An NCRPG session SHOULD proceed as follows.
 
-1. Load Core Protocol
+(1) Load Core Protocol
 
 ↓
 
-2. Load AI Runtime Specification
+(2) Load AI Runtime Specification
 
 ↓
 
-3. Detect Player Language
+(3) Detect Player Language
 
 ↓
 
-4. Load Player Configuration
+(4) Load Player Configuration
 
 ↓
 
-5. Load Scenario Package
+(5) Load Scenario Package
 
 ↓
 
-6. Initialize Character States
+(6) Initialize Character States
 
 ↓
 
-7. Introduce the World
+(7) Introduce the World
 
 ↓
 
-8. Introduce Player Characters
+(8) Introduce Player Characters
 
 ↓
 
-9. Introduce Buddies
+(9) Introduce Buddies
 
 ↓
 
-10. Narrative Begins
+(10) Narrative Begins
 
 ↓
 
-11. Collective Intent Formation
+(11) Collective Intent Formation
 
 ↓
 
-12. Narrative Consequences
+(12) Narrative Consequences
 
 ↓
 
-13. Reflection
+(13) Reflection
 
 ---
 
