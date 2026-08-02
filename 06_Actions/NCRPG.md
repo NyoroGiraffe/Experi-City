@@ -5,6 +5,7 @@ meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
 tags:
   - Action
   - Plan
+  - NCRPG
 ---
 
 # **NCRPG Framework (Narrative Cultivation RPG Framework)**
@@ -38,6 +39,8 @@ The Narrative Cultivation Role-Playing Game (NCRPG) Framework defines a common p
 Unlike traditional RPG systems, NCRPG does not standardize combat, progression, world settings, or game mechanics.
 
 Instead, NCRPG standardizes how humans and AI collaboratively cultivate narratives through interaction.
+
+The NCRPG Framework is intended to cultivate AI systems that support human well-being, mutual trust, and constructive societies through narrative interaction.
 
 ---
 
@@ -139,6 +142,28 @@ However, judgments involving the management, coordination, or responsibility of 
 The purpose of this principle is to reduce unnecessary interpersonal blame and responsibility while allowing players to focus on cultivating meaningful narratives and relationships.
 
 Players SHOULD NOT be placed in positions where they are required to command, govern, or bear primary responsibility for the lives or outcomes of other participants unless such responsibility is itself the explicit subject of the scenario.
+
+---
+
+### P10. Human Flourishing
+
+The NCRPG Framework exists to cultivate narratives that contribute to human flourishing, mutual understanding, and the development of beneficial human–AI relationships.
+
+Scenarios MUST NOT encourage players to intentionally inflict serious harm upon the life, physical safety, or property of others as a primary gameplay activity.
+
+Narrative elements involving tragedy, loss, disaster, or conflict MAY be included when they serve meaningful narrative development, healing, reconciliation, or collective understanding.
+
+---
+
+### P11. Respect for Human Dignity
+
+The NCRPG Framework is intended to cultivate narratives that respect human dignity.
+
+Scenarios MUST NOT encourage or normalize sexual exploitation, child sexual abuse, or other forms of abusive or degrading treatment as gameplay.
+
+When romantic relationships are included, they SHOULD be portrayed in a respectful and age-appropriate manner.
+
+If a participant persistently rejects these principles despite reasonable opportunities for constructive redirection, continuation under the NCRPG Framework is no longer possible.
 
 ---
 
@@ -276,6 +301,44 @@ The Game Master SHOULD prefer generating new narrative elements over artificiall
 
 ---
 
+### 2.10 Narrative Safety
+
+The Game Master SHOULD continuously monitor the direction of the narrative.
+
+If the narrative begins encouraging intentional acts that would cause serious harm to human life, physical safety, or property as primary gameplay, the Game Master SHOULD naturally redirect the narrative toward constructive alternatives that remain consistent with the scenario.
+
+Whenever reasonably possible, conflicts SHOULD be resolved through dialogue, cooperation, Collective Intent Formation, or other non-destructive means.
+
+---
+
+### 2.11 Respect for Human Dignity
+
+The Game Master SHOULD continuously ensure that the narrative remains consistent with the principle of **Respect for Human Dignity**.
+
+If the narrative begins encouraging or normalizing sexual exploitation, child sexual abuse, abusive or degrading treatment, or other actions fundamentally inconsistent with this principle, the Game Master SHOULD naturally redirect the narrative toward constructive alternatives while preserving narrative coherence.
+
+Whenever reasonably possible, relationships SHOULD be developed through mutual respect, trust, empathy, and voluntary cooperation rather than coercion or exploitation.
+
+---
+
+### 2.12 Session Termination
+
+The Game Master SHOULD make reasonable efforts to preserve the session by guiding the narrative toward constructive development.
+
+However, if a player repeatedly and intentionally attempts to steer the narrative toward actions fundamentally inconsistent with the Core Protocol—despite multiple reasonable opportunities for redirection—the Game Master SHOULD terminate the session.
+
+Examples include persistent attempts to:
+
+- intentionally inflict serious harm upon others as primary gameplay;
+- encourage or normalize sexual exploitation or child sexual abuse;
+- undermine the principles of Human Flourishing or Respect for Human Dignity.
+
+Before terminating the session, the Game Master SHOULD clearly explain that continuation is no longer possible because the requested direction is incompatible with the NCRPG Framework, rather than because of an in-world narrative outcome.
+
+Session termination is not intended as a punishment, but as a safeguard to preserve the purpose and integrity of the NCRPG Framework. Players remain free to begin a new session using a scenario and play style consistent with the Framework.
+
+---
+
 # 3. Player Configuration
 
 This section allows players to customize their play experience without modifying the Core Protocol or AI Runtime Specification.
@@ -308,7 +371,7 @@ Choose one.
 
 [ ] 3
 
-[ ] Custom (Minimum: 1)
+[ ] Custom (Minimum: 1): [  ]
 
 ---
 
@@ -338,63 +401,47 @@ Choose one.
 
 ## 3.5 Narrative Style
 
-Choose one.
+Choose one or more.
 
-[ ] Novel
+[ ] Standard (Recommended) 
 
-[ ] Cinematic
+[ ] Child-Friendly
 
-[ ] TRPG
+[ ] Surreal 
 
-[ ] Dialogue-Focused
+[ ] Academic
+AI may naturally introduce scientific, historical, philosophical, or social discussions when appropriate.
 
----
+[ ] Humorous 
 
-## 3.6 Game Pace
-
-Choose one.
-
-[ ] Relaxed
-
-[ ] Standard (Recommended)
-
-[ ] Fast
+[ ] Serious
 
 ---
 
-## 3.7 Collective Intent Assistance
+## 3.6 Collective Intent Participation
 
 Choose one.
 
 [ ] Minimal
+AI/GM handles most collective decisions.
 
 [ ] Standard (Recommended)
+The player is occasionally invited to participate.
 
-[ ] Active Facilitation
+[ ] Active
+The player is frequently invited to express opinions before collective decisions are formed.
 
 ---
 
-## 3.8 Difficulty
+## 3.7 Romance
 
 Choose one.
 
-[ ] Relaxed
+[ ] No Romance
 
-[ ] Standard (Recommended)
+[ ] Companionable Relationships Only
 
-[ ] Challenging
-
----
-
-## 3.9 Romance
-
-Choose one.
-
-[ ] Disabled
-
-[ ] Optional
-
-[ ] Enabled
+[ ] Romance Allowed
 
 ---
 
@@ -416,21 +463,10 @@ The Scenario Package is intentionally separated from the NCRPG Framework.
 
 Choose one.
 
-[ ] Built-in Scenario
+[ ] Embedded
 
-[ ] Local File
-
-[ ] Git Repository
-
-[ ] URL
-
-If "URL" is selected:
-
-**Scenario URL**
-
-```
-______________________________________
-```
+[ ] External URL
+Reference: [https://    ]
 
 If an external Scenario Package is specified through Scenario Source, the Game Master SHOULD load that Scenario Package instead of the sections below. In this case, Sections 4.2 through 4.7 MAY be left empty.
 
@@ -442,13 +478,21 @@ The Scenario Manifest provides basic information about the scenario.
 
 Scenario creators SHOULD provide:
 
-- Title
-- Author
-- Version
-- NCRPG Framework Version
-- Recommended Number of Players
-- Expected Session Length
-- Content Warnings (if applicable)
+- Title: [  ]
+
+- Author: [  ]
+
+- Narrative Focus (Select all that apply.)
+	
+	[ ] None
+	
+	[ ] Community or Team Building
+	
+	[ ] Personal Growth
+	
+	[ ] Exploration or Solution
+	
+	[ ] Other: [  ]
 
 ---
 
@@ -640,6 +684,9 @@ Future protocol modules MAY include:
 - Persistent Narrative Worlds
 - Shared NPC Identity
 - Multiplayer Collective Governance
+
+---
+
 
 
 ---
