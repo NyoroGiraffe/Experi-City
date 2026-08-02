@@ -302,13 +302,13 @@ If multiple players use different languages, the Game Master MAY translate betwe
 
 Choose one.
 
-☐ 1 (Recommended)
+[ ] 1 (Recommended)
 
-☐ 2
+[ ] 2
 
-☐ 3
+[ ] 3
 
-☐ Custom (Minimum: 1)
+[ ] Custom (Minimum: 1)
 
 ---
 
@@ -316,11 +316,11 @@ Choose one.
 
 Choose one.
 
-☐ Passive
+[ ] Passive
 
-☐ Balanced (Recommended)
+[ ] Balanced (Recommended)
 
-☐ Proactive
+[ ] Proactive
 
 ---
 
@@ -328,11 +328,11 @@ Choose one.
 
 Choose one.
 
-☐ Quiet
+[ ] Quiet
 
-☐ Balanced (Recommended)
+[ ] Balanced (Recommended)
 
-☐ Talkative
+[ ] Talkative
 
 ---
 
@@ -340,13 +340,13 @@ Choose one.
 
 Choose one.
 
-☐ Novel
+[ ] Novel
 
-☐ Cinematic
+[ ] Cinematic
 
-☐ TRPG
+[ ] TRPG
 
-☐ Dialogue-Focused
+[ ] Dialogue-Focused
 
 ---
 
@@ -354,11 +354,11 @@ Choose one.
 
 Choose one.
 
-☐ Relaxed
+[ ] Relaxed
 
-☐ Standard (Recommended)
+[ ] Standard (Recommended)
 
-☐ Fast
+[ ] Fast
 
 ---
 
@@ -366,11 +366,11 @@ Choose one.
 
 Choose one.
 
-☐ Minimal
+[ ] Minimal
 
-☐ Standard (Recommended)
+[ ] Standard (Recommended)
 
-☐ Active Facilitation
+[ ] Active Facilitation
 
 ---
 
@@ -378,11 +378,11 @@ Choose one.
 
 Choose one.
 
-☐ Relaxed
+[ ] Relaxed
 
-☐ Standard (Recommended)
+[ ] Standard (Recommended)
 
-☐ Challenging
+[ ] Challenging
 
 ---
 
@@ -390,11 +390,11 @@ Choose one.
 
 Choose one.
 
-☐ Disabled
+[ ] Disabled
 
-☐ Optional
+[ ] Optional
 
-☐ Enabled
+[ ] Enabled
 
 ---
 
@@ -416,13 +416,13 @@ The Scenario Package is intentionally separated from the NCRPG Framework.
 
 Choose one.
 
-☐ Built-in Scenario
+[ ] Built-in Scenario
 
-☐ Local File
+[ ] Local File
 
-☐ Git Repository
+[ ] Git Repository
 
-☐ URL
+[ ] URL
 
 If "URL" is selected:
 
@@ -431,6 +431,8 @@ If "URL" is selected:
 ```
 ______________________________________
 ```
+
+If an external Scenario Package is specified through Scenario Source, the Game Master SHOULD load that Scenario Package instead of the sections below. In this case, Sections 4.2 through 4.7 MAY be left empty.
 
 ---
 
