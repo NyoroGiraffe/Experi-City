@@ -664,4 +664,6 @@ And humans learning, little by little, that they do not have to carry every burd
 
 [<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
+[-> Go to **Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
+
 [-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 

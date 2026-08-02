@@ -52,6 +52,8 @@ In this phase, developers and creators will build a specialized AI middleware en
 
 → See: [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 
+→ See: [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
+
 ### 1. Implement the Collective Intent Formation (CIF) Framework
 
 Modern game design is shifting away from pre-determined endings toward player-driven emergent narratives. 
