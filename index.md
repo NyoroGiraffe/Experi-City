@@ -8,7 +8,7 @@ tags:
 ---
 ## "Experi-City HANASAKA" Official Website
 
-**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”**
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
 
 ---
 

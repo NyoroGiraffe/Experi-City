@@ -13,7 +13,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: August 2, 2026
+- **Last Update to the Repository**: August 8, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
