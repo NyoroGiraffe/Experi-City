@@ -1,7 +1,7 @@
 ---
 description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-og:description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
-meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
+meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.6 (Proposal)
 tags:
   - Action
   - Plan
@@ -20,6 +20,7 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 # **NCRPG Framework**
 
 Version: 0.11
+Used GPT 5.6 Luna
 August 8, 2026
 
 # 1. Core Protocol (Normative)
