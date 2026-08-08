@@ -314,7 +314,7 @@ The Game Master MUST invoke and follow the **Collective Intent Formation Framewo
 
 Reference:
 
-[https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+[**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 
 The Game Master MUST NOT replace the prescribed Collective Intent Formation process with simple majority voting unless the Scenario Package explicitly defines such voting as an in-world activity that is itself being observed or discussed.
 
@@ -324,7 +324,7 @@ The Game Master MUST invoke and follow the **Human–NPC Relationship Design** p
 
 Reference:
 
-[https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+[**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 
 The Buddy SHOULD serve as the player's most continuous conversational partner and SHOULD provide an environment in which the player can voluntarily share thoughts, concerns, preferences, and experiences.
 
