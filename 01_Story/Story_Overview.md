@@ -197,8 +197,6 @@ Nyoro Giraffe
 
 ---
 
-[<- Back to Website_Index](https://nyorogiraffe.github.io/Experi-City/)
-
-[<- Back to **README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
-
 [-> Go to **"Characters"**](../02_Characters/Characters.md)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)

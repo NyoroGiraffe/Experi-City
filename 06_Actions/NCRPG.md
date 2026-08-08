@@ -1000,7 +1000,6 @@ Future versions of the NCRPG Framework MAY introduce:
 
 [<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
-
 [-> Go to **Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)

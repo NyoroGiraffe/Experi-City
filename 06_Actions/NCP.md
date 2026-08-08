@@ -604,4 +604,4 @@ Demographic information is optional and may be used only to improve each player'
 
 [-> Go to **Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
 
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)

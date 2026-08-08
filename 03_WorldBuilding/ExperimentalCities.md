@@ -232,7 +232,7 @@ Cyber Experimental Cities are essentially “Experimental Cities” in virtual s
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Website Index](https://nyorogiraffe.github.io/Experi-City/) 
-
 [-> Go to the Charter](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
 

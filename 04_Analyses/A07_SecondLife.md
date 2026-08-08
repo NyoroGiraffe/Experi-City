@@ -125,8 +125,8 @@ Cyber Experimental City, Layer 2, Human-System Interface, Narrative Happiness, d
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
-
 [-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
 [-> Go to the **Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)

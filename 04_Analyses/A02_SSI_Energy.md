@@ -160,6 +160,6 @@ Flora would call this the TOKO answer. Not the most obvious path. The one that i
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
-
 [-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
