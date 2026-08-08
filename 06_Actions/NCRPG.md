@@ -464,40 +464,85 @@ Scenario creators SHOULD provide:
 
 ## 3.3 World (Required)
 
+The creator defines the initial world primarily by describing the **Challenges currently facing the world**.
 
-The purpose of this section is to provide the Game Master with sufficient context to naturally generate conversations, events, and collective decision-making.
+The creator MAY provide up to five major challenges.
 
-Describe the world in which the story takes place.
+|#|Challenge|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
 
-The description SHOULD include, where relevant:
+A Challenge may describe a problem, conflict, threat, deterioration, uncertainty, or other situation that requires collective attention.
 
-### Initial Situation
+Examples:
 
-What is happening when the player enters the story?
+- A neighboring Kingdom called the Kaminari Kingdom may invade.
+    
+- Parts of the country have recently begun to suffer from increasing drought.
+    
+- An unidentified illness is spreading among the population.
 
-[  ]
+The creator does not need to separately describe:
 
-### Important Locations
+- the historical period;
+    
+- geography;
+    
+- society;
+    
+- culture;
+    
+- political institutions;
+    
+- economic conditions;
+    
+- or other background information,
 
-What locations are important at the beginning of the scenario?
+unless such information is necessary for the intended scenario.
 
-[  ]
+The Game Master SHOULD infer or generate appropriate background information from the Challenges, the Scenario Package, and the developing narrative.
 
-### Society and Culture
+The Challenges provide the initial direction of the scenario but do not determine a predetermined ending.
 
-What social structures, customs, values, institutions, technologies, or other features are important?
+The Game Master SHOULD continuously consider the state of the Challenges when making narrative and world-development decisions.
 
-[  ]
+The Game Master SHOULD seek opportunities for the Player, Buddy, and NPCs to understand, discuss, and collectively address these Challenges through conversation, cooperation, and Collective Intent Formation.
 
-### Other World Information
+The Game Master SHOULD favor opportunities for constructive responses, but MUST NOT predetermine successful outcomes.
 
-Add any other information necessary for understanding the initial world.
+The Game Master SHOULD favor narrative developments that allow Characters to discover solutions, mitigate risks, adapt to changing circumstances, or improve the condition of the world.
 
-[  ]
+The Challenges MAY change during the narrative.
 
-The creator does not need to define the complete geography, history, or future development of the world.
+New information MAY reveal that an apparent Challenge was misunderstood, while new Events MAY create additional Challenges.
 
-The Game Master MAY create additional world elements during play when necessary for narrative development.
+The Game Master SHOULD therefore treat the listed Challenges as the **initial state of the world's problems**, rather than as immutable facts or predetermined plot points.
+
+### Worst-Case Development
+
+The creator does not need to define a "bad ending."
+
+However, the Game Master SHOULD recognize when multiple Challenges are simultaneously deteriorating toward a severe outcome.
+
+For example:
+
+1. A neighboring Kingdom threatens invasion.
+    
+2. Increasing drought reduces agricultural production.
+    
+3. An unidentified illness continues to spread.
+
+A possible worst-case development would be the simultaneous worsening of all three conditions, eventually leaving the country vulnerable to invasion.
+
+The Game Master SHOULD recognize such developments as significant deterioration of the world state and SHOULD create opportunities for Characters to respond before the situation becomes irreversible.
+
+The purpose is not to guarantee a happy ending.
+
+The purpose is to allow the narrative to emerge from the decisions, relationships, discoveries, and Collective Intent Formation of the Characters.
 
 ---
 

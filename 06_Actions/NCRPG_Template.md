@@ -12,29 +12,6 @@ tags:
 
 The Scenario Package defines the initial world and circumstances from which an NCRPG session begins.
 
-It MAY be:
-
-- embedded directly in the NCRPG Configuration Template; or
-- provided through an external reference.
-
-The Scenario Package does not need to define every Character, Location, Event, or future development that may appear during play.
-
-The Game Master is authorized to cultivate and expand the world according to the AI Runtime Specification.
-
----
-
-## 3.1 Scenario Source
-
-Choose one.
-
-[ ] Embedded — the Scenario Package is written directly in this template.
-
-[x] External Reference — the Scenario Package is provided elsewhere. [https://    ]
-
-The reference MAY be a URL or another reference that the AI implementation can access.
-
-If an External Reference is provided, the embedded Scenario fields below MAY be left empty.
-
 ---
 
 ## 3.2 Scenario Manifest (Required)
@@ -65,40 +42,17 @@ Scenario creators SHOULD provide:
 
 ## 3.3 World (Required)
 
+The creator defines the initial world primarily by describing the **Challenges currently facing the world**.
 
-The purpose of this section is to provide the Game Master with sufficient context to naturally generate conversations, events, and collective decision-making.
+The creator MAY provide up to five major challenges.
 
-Describe the world in which the story takes place.
-
-The description SHOULD include, where relevant:
-
-### Initial Situation
-
-What is happening when the player enters the story?
-
-[  ]
-
-### Important Locations
-
-What locations are important at the beginning of the scenario?
-
-[  ]
-
-### Society and Culture
-
-What social structures, customs, values, institutions, technologies, or other features are important?
-
-[  ]
-
-### Other World Information
-
-Add any other information necessary for understanding the initial world.
-
-[  ]
-
-The creator does not need to define the complete geography, history, or future development of the world.
-
-The Game Master MAY create additional world elements during play when necessary for narrative development.
+|#|Challenge|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
 
 ---
 
@@ -196,30 +150,6 @@ AI-generated Character information is **not Secret information**.
 
 The Game Master MUST treat generated information as an initial observable state rather than as a hidden "true personality."
 
-### Dynamic Character States
-
-The Initial Observable Behavioral Frequencies are not permanent.
-
-Events, experiences, relationships, and conversations MAY change these values during the narrative.
-
-For example:
-
-> Self-Disclosure Frequency: 8/10
-
-may later become:
-
-> Self-Disclosure Frequency: 2/10
-
-after a significant event, and may subsequently increase through further interactions.
-
-The Scenario Package does not require a Baseline value.
-
-The Game Master SHOULD infer trends and possible reasons for changes from the history of events and conversations.
-
-Such interpretations are inferences, not hidden facts.
-
-If insufficient information is available to understand a Character's current state, the Game Master SHOULD create opportunities for the Character to interact with the player, Buddy, or other Characters so that additional observable information can emerge.
-
 ---
 
 ## 3.5 Scenario-Specific Rules (Optional)
@@ -240,18 +170,5 @@ Examples include:
 Optional Rules MUST NOT contradict the Core Protocol or mandatory AI Runtime Specification.
 
 [ ]
-
----
-
-## 3.6 Scenario Expansion
-
-The creator does not need to predefine every possible Character, Location, Organization, Item, or Event.
-
-When the narrative requires an element that is not included in the Scenario Package, the Game Master MAY generate it according to the AI Runtime Specification.
-
-The newly generated element SHOULD be consistent with established information and the evolving narrative.
-
-The Scenario Package therefore represents the **starting state of the narrative world**, rather than a complete database of all possible content.
-
 
 ---
