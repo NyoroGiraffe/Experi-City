@@ -27,7 +27,7 @@ With that done, the following items are as described below.
 	- Other: 
 
 3.3 World
-- Challenges (up to five)
+- Challenges (up to five);
 	- (1) xxx
 	- (2) xxx
 	- (3) xxx
@@ -35,19 +35,19 @@ With that done, the following items are as described below.
 	- (5) xxx
 
 3.4 NPCs (Optional)
-- Character Definition
-	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
-	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
+- Character Definition;
+	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
+	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
+	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
+	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
+	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
 
-- Initial Observable Behavioral Frequencies
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+- Initial Observable Behavioral Frequencies;
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
 
 3.5 Scenario-Specific Rules (Optional)
 - None
