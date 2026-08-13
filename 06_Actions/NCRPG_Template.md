@@ -20,36 +20,36 @@ With that done, the following items are as described below.
 - Title: 
 - Author: 
 - Narrative Focus (Select all that apply.): 
-  	[x] None
-	[ ] Community or Team Building
-	[ ] Personal Growth
-	[ ] Exploration or Solution
-	[ ] Other: 
+	-  [x] None
+	-  [ ] Community or Team Building
+	-  [ ] Personal Growth
+	-  [ ] Exploration or Solution
+	-  [ ] Other: 
 
 3.3 World
 - Challenges (up to five)
-1.
-2.
-3.
-4.
-5.
+	- 1. 
+	- 2. 
+	- 3. 
+	- 4. 
+	- 5. 
 
 3.4 NPCs (Optional)
 - Character Definition
-(Name, Gender, Age, Social Role / Effect on Others) = (,,)
-(Name, Gender, Age, Social Role / Effect on Others) = (,,)
-(Name, Gender, Age, Social Role / Effect on Others) = (,,)
-(Name, Gender, Age, Social Role / Effect on Others) = (,,)
-(Name, Gender, Age, Social Role / Effect on Others) = (,,)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
+	- (Name, Gender, Age, Social Role / Effect on Others) = (,,)
 
 - Initial Observable Behavioral Frequencies
-(Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-(Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-(Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-(Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
-(Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
 
 3.5 Scenario-Specific Rules (Optional)
-[x] None
-[ ] As described below:
+-  [x] None
+-  [ ] As described below:
 
