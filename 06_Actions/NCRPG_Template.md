@@ -20,19 +20,19 @@ With that done, the following items are as described below.
 - Title: 
 - Author: 
 - Narrative Focus (Select all that apply.): 
-	-  [x] None
-	-  [ ] Community or Team Building
-	-  [ ] Personal Growth
-	-  [ ] Exploration or Solution
-	-  [ ] Other: 
+	- None
+	- Community or Team Building
+	- Personal Growth
+	- Exploration or Solution
+	- Other: 
 
 3.3 World
 - Challenges (up to five)
-	- 1. 
-	- 2. 
-	- 3. 
-	- 4. 
-	- 5. 
+	- 1. xxx
+	- 2. xxx
+	- 3. xxx
+	- 4. xxx
+	- 5. xxx
 
 3.4 NPCs (Optional)
 - Character Definition
@@ -50,6 +50,6 @@ With that done, the following items are as described below.
 	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (,,,)
 
 3.5 Scenario-Specific Rules (Optional)
--  [x] None
--  [ ] As described below:
+- None
+- As described below:
 
