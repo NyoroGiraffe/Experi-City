@@ -28,11 +28,11 @@ With that done, the following items are as described below.
 
 3.3 World
 - Challenges (up to five)
-	- 1. xxx
-	- 2. xxx
-	- 3. xxx
-	- 4. xxx
-	- 5. xxx
+	- (1) xxx
+	- (2) xxx
+	- (3) xxx
+	- (4) xxx
+	- (5) xxx
 
 3.4 NPCs (Optional)
 - Character Definition
