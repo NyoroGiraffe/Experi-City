@@ -1,9 +1,12 @@
 ---
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 tags:
   - Core
   - Index
 ---
-# **Fundamental Information**
+# **"Experi-City HANASAKA" Fundamental Information**
 
 - **Title:** Experi-City Hanasaka 
 - **Author:** Nyoro Giraffe 
@@ -13,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: August 13, 2026
+- **Last Update to the Repository**: August 14, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
