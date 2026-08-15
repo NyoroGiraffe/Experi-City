@@ -49,12 +49,12 @@ Smoking is prohibited in Experimental Cities, including by temporary visitors.
 
 ---
 
-## 5. Restrictions on Owning Graves
+## **5. Restrictions on Owning Graves**
 
 In Experimental Cities, individuals were prohibited from owning graves for themselves or their families. This was not because death was considered taboo, but because it was believed that the dead should be commemorated collectively as fellow citizens, transcending differences in religion and culture. 
 
 ---
 
-[-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+[--> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
+[--> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [--> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
