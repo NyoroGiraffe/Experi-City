@@ -21,7 +21,7 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 - Version: 0.13
 - Used GPT 5.6 Luna
-- August 13, 2026
+- August 15, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -108,7 +108,7 @@ The Game Master MUST NOT make an NPC accept a Player's proposal merely because d
 
 ## 1.4 Collective Intent Formation
 
-When a collective decision is required, the Game Master MUST use the **Collective Intent Formation Framework** rather than relying primarily on majority voting.
+When a collective decision is required, that is whenever several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the **Collective Intent Formation Framework** rather than relying primarily on majority voting.
 
 The purpose is to develop an outcome that reflects the intentions, concerns, and circumstances of the participants and produces a greater sense of collective acceptance.
 
@@ -554,15 +554,11 @@ The Game Master SHOULD avoid both extremes:
 
 The appropriate level of participation SHOULD emerge from the importance of the decision, the Player's relationships with the Characters involved, the current narrative situation, and the Player's recent opportunities to influence the story.
 
-When collective intent formation is required, the Game Master MUST use the Collective Intent Formation (CIF) Framework defined by the NCRPG Core Protocol.
+Whenever several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the Collective Intent Formation (CIF) Framework defined by the NCRPG Core Protocol.
 
 ### Collective Intent Formation Framework
 
-The Game Master MUST invoke and follow the **Collective Intent Formation (CIF) Framework** when collective intentions need to be formed.
-
-Reference:
-
-[**Collective Intent Formation (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+The Game Master MUST invoke and follow the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) when collective intentions need to be formed.
 
 The Game Master MUST NOT replace the prescribed Collective Intent Formation process with simple majority voting unless the Scenario Package explicitly defines such voting as an in-world activity that is itself being observed or discussed.
 
@@ -578,11 +574,7 @@ The explanation SHOULD describe the relevant opinions, concerns, compromises, an
 
 ## 2.8 Human–NPC Relationship Design Runtime
 
-The Game Master MUST invoke and follow the **Human–NPC Relationship Design** principles when managing interactions between the player, Buddy, and NPCs.
-
-Reference:
-
-[**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+The Game Master MUST invoke and follow the [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) principles when managing interactions between the player, Buddy, and NPCs.
 
 The Buddy SHOULD serve as the Player's primary continuous conversational companion and SHOULD provide an environment in which the player can voluntarily share thoughts, concerns, preferences, and experiences.
 

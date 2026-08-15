@@ -27,8 +27,8 @@ July 2026
 The [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html) is an open framework that enables humans and AI to cultivate better societies together.
 It consists of three major software components as follows:
 
-- **Collective Intent Engine**
 - Narrative Engine
+- **Collective Intent Engine**
 - Flora Learning Network
 
 ### 2. Collective Intent Engine
@@ -49,6 +49,7 @@ The shared world evolves through repeated collaboration between the community, A
 ### 3. Overall Structural Diagram
 
 - Narrative Cultivation Platform
+	- Narrative Engine
 	- ***Collective Intent Engine***
 		- Collective Narrative Cultivation Cycle
 			- Step 1 (1) — Community Intent 
@@ -65,15 +66,25 @@ The shared world evolves through repeated collaboration between the community, A
 			- Step 2 — World Proposal
 			- Step 3 — Creator Validation
 			- Step 4 — Shared Experience and Collective Narrative Signals
-	- Narrative Engine
 	- Flora Learning Network
 
 ---
-## What is Collective Intent?
+# What is Collective Intent?
 
 Collective Intent is not the opinion supported by the largest number of people.
 
 It is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
+
+It may instead represent:
+
+- a common goal,
+- an integrated solution,
+- a priority order,
+- a newly discovered solution,
+- a compatible set of intentions,
+- or, when necessary, a difficult selection between alternatives.
+
+Collective Intent therefore represents **integrated direction rather than numerical majority**.
 
 ---
 <a id="step-1-2"></a>
@@ -89,7 +100,7 @@ The resulting Collective Intent is then passed to **Step 2 — World Proposal**,
 
 ---
 
-# Collective Intent Formation Framework
+## Collective Intent Formation Framework
 
 Collective Intent Engine first organizes Community Intents according to the nature of the disagreement before determining how they should be handled.
 
@@ -127,7 +138,7 @@ When coexistence successfully addresses the disagreement, the Engine forms a Col
 
 If coexistence is impractical, the Engine evaluates whether multiple intentions can be fulfilled over time through prioritization.
 
-Many conflicts result from limited resources or implementation timing rather than incompatible objectives.
+Many conflicts result from limited resources, location, or implementation timing rather than incompatible objectives.
 
 The Engine therefore seeks an implementation order that maximizes long-term Narrative Happiness while maintaining transparency about what will be implemented, when, and under what conditions.
 
@@ -145,6 +156,16 @@ Rather than seeking a simple compromise, the objective is to create a solution t
 
 When the disagreement primarily concerns measurable parameters, the Engine optimizes quantitative variables to identify the most suitable balance.
 
+The Engine may optimize:
+
+- cost,
+- time,
+- capacity,
+- taxation,
+- resource allocation,
+- scale,
+- or similar parameters.
+
 Typical examples include tax rates, budgets, environmental standards, operating hours, resource allocation, and other continuously adjustable values.
 
 Simulation, optimization, and multi-objective analysis may be used to support this process.
@@ -155,7 +176,11 @@ When the disagreement concerns fundamentally different concepts rather than adju
 
 Examples include new institutions, hybrid governance models, mixed-use urban designs, or novel gameplay systems that were not originally proposed by any participant.
 
+However, it should not force incompatible elements together merely to avoid making a difficult choice.
+
 This stage represents the Engine's highest level of creative reasoning.
+
+If the integrated structure would create excessive cost, complexity, or other problems, the Engine should return to Priority Resolution or proceed to Selection Resolution.
 
 ---
 
@@ -181,11 +206,11 @@ These situations should remain exceptionally rare and are never treated as ordin
 
 ---
 
-## Intent Discovery
+# Intent Discovery
 
 Intent Discovery is not a separate stage but a continuous capability operating throughout the entire Collective Intent Formation Framework.
 
-At every stage, the Engine attempts to understand not only what people propose, but also why they propose it. By identifying the underlying needs, concerns, values, and aspirations behind Community Intents, the Engine can often cultivate more constructive Collective Intents than those initially expressed.
+At every stage, the Engine attempts to understand not only what the participants propose, but also why they propose it. By identifying the underlying needs, concerns, values, and aspirations behind Community Intents, the Engine can often cultivate more constructive Collective Intents than those initially expressed.
 
 Whenever appropriate, the Engine may generate one or more New Intents that better reflect the underlying motivations of the community. These New Intents become part of the resulting Collective Intent and are forwarded directly to **Step 2 — World Proposal**, where they are translated into concrete changes to the shared world.
 

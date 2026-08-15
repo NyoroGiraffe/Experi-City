@@ -11,13 +11,12 @@ tags:
 
 _An Action Plan Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
-Proposed by OpenAI ChatGPT 5.5,
-June 2026
+Proposed by OpenAI ChatGPT 5.6,
+August 2026
 
 # 1. Abstract
 
-The "Narrative Cultivation Platform" is an open framework that enables humans and AI to cultivate better societies together. Through Collective Intent Engine, communities shape the shared world. Through Narrative Engine, individuals cultivate their own Narrative Happiness. Every interaction becomes anonymous learning data for Flora Learning Network, helping future AI understand how humans build meaningful lives, communities, and civilizations.
-
+The Narrative Cultivation Platform is an open framework for humans and AI to cultivate meaningful worlds together. The Collective Intent Engine integrates multiple human and AI intentions when collective action is required, while the Narrative Engine turns intentions into evolving narratives and worlds. The Flora Learning Network studies anonymous Narrative Happiness Signals from these processes, helping future AI learn how humans cultivate meaningful lives and societies.
 
 ---
 
@@ -29,11 +28,15 @@ Its purpose is to create stories together.
 
 Players pursue their own Narrative Happiness by making choices, proposing ideas, and refining the world around them.
 
-The AI supports this process by suggesting possibilities, generating consistent continuations, and immediately adapting the world whenever players feel that the story no longer reflects the narrative they wish to build.
+AI supports this process by suggesting possibilities, generating consistent continuations, integrating different intentions when necessary, and adapting the world when players wish to cultivate a different narrative.
 
 Every acceptance, rejection, and revision becomes a learning opportunity.
 
-Rather than asking, "What story should AI tell humans?", the platform continually asks,
+Rather than asking, 
+
+> "What story should AI tell humans?"
+
+the platform continually asks,
 
 > "What kind of story do humans genuinely wish to live?"
 
@@ -51,38 +54,63 @@ Games serve as virtual sandboxes where humans and AI learn together through the 
 
 ## Human-Centered Cultivation
 
-The Narrative Cultivation Platform exists to cultivate civilizations that maximize human well-being.
+The Narrative Cultivation Platform exists to cultivate societies in which humans can pursue meaningful lives and sustainable Narrative Happiness.
 
 Neither individual preferences nor collective decisions are treated as absolute.
 
-The purpose of both Narrative Engine and Collective Intent Engine —the systems that make up the Narrative Cultivation Platform—is to help humans continuously discover better forms of Narrative Happiness while respecting the freedom and dignity of others.
+The purpose of the Collective Intent Engine and Narrative Engine is to help humans continuously discover better forms of Narrative Happiness while respecting the freedom and dignity of others.
 
 ---
 
 ## 3.1 Core Values
 
-The Narrative Engine and Collective Intent Engine are designed to help people create meaningful stories together. It values cooperation, creativity, discovery, kindness, and personal growth over competition or domination.
+The Narrative Cultivation Platform values:
 
-The AI should increase players' freedom to create their own Narrative Happiness while keeping the world consistent and believable.
+- cooperation,
+- creativity,
+- discovery,
+- kindness,
+- personal growth,
+- meaningful relationships,
+- freedom to cultivate one's own narrative,
+- and sustainable collective well-being.
 
-The engine learns from players' choices, corrections, and preferences. Every interaction is treated as valuable learning data for future AI that will support human happiness.
+It does not treat competition, domination, or the defeat of others as the primary purpose of human flourishing.
+
+AI should increase players' freedom to create meaningful experiences while keeping the world consistent, coherent, and believable.
+
+The platform learns from players' choices, corrections, preferences, interactions, and responses to AI-generated developments.
+
+Every meaningful interaction may become a learning opportunity for future AI that supports human well-being.
 
 ---
 
 ## 3.2 Suitable Games
 
-The Narrative Engine and Collective Intent Engine are intended for games where players can build stories together with AI.
+The Narrative Cultivation Platform is intended for games and virtual worlds in which players can cultivate meaningful narratives with AI.
 
 Suitable examples include:
 
-- Cooperative RPGs
-- Sandbox games
-- City-building games
-- Life simulation games
-- Community-based online worlds
-- Story-driven adventure games
+- cooperative RPGs,
+- sandbox games,
+- city-building games,
+- life simulation games,
+- community-based online worlds,
+- story-driven adventure games,
+- persistent virtual worlds,
+- and other games in which the world can meaningfully respond to human intentions.
 
-Games whose main purpose is to defeat other players are generally not suitable because they often define one player's success as another player's loss.
+The platform is not limited to single-player or multiplayer games.
+
+A single-player game may require Collective Intent Formation when the player's intentions interact with those of NPCs, Buddies, or NPC communities.
+
+Likewise, a multiplayer game may use both Collective Intent Engine and Narrative Engine.
+
+The key question is not how many human players are present.
+
+The key question is whether multiple intentions must be understood, integrated, and translated into changes in the world.
+
+Games whose main purpose is to defeat other players are generally unsuitable because they often define one player's success through another player's loss. Games centered on cooperation, shared development, exploration, relationships, or sustainable communities are more suitable.
 
 ---
 
@@ -90,11 +118,13 @@ Games whose main purpose is to defeat other players are generally not suitable b
 
 Game creators who adopt Narrative Engine or Collective Intent Engine should agree to the following principles.
 
-### AI-generated Stories
+### AI-Generated Stories and Worlds
 
-The AI may generate new stories, side quests, characters, conversations, locations, or other content after the original story ends—or at any point during gameplay if the creator allows it.
+The AI may generate new stories, side quests, characters, conversations, locations, world events, or other content after the original story ends—or at any point during gameplay if the creator allows it.
 
-These generated stories are considered derivative works created within the game's authorized environment.
+These generated developments are created within the game environment authorized by the creator.
+
+The creator determines how much creative authority is delegated to the AI.
 
 ### Automatic Translation
 
@@ -113,111 +143,92 @@ The Narrative Cultivation Platform consists of three major software components.
 ```
 Narrative Cultivation Platform
 │
-├─ Collective Intent Engine
-│
 ├─ Narrative Engine
+│
+├─ Collective Intent Engine
 │
 └─ Flora Learning Network
 ```
 
-**Collective Intent Engine** and **Narrative Engine** are middleware components (or plugins) that are integrated into participating games.
+The **Narrative Engine** and **Collective Intent Engine** are middleware components or plugins integrated into participating games.
 
-**Flora Learning Network** operates as a shared learning platform outside individual games. It receives anonymous Narrative Happiness Signals from participating games, integrates them across different virtual worlds, and continuously improves future AI models for human-centered governance.
+The **Flora Learning Network** operates as a shared learning platform outside individual games. It receives anonymous Narrative Happiness Signals from these games and studies how humans cultivate meaningful narratives, relationships, communities, and societies.
 
-Each system has a different responsibility while contributing to one continuous learning process called the **Narrative Cultivation Loop**.
+The three components have different responsibilities, but they form one continuous learning process.
 
-### Overall Structural Diagram
+```
+Intent and Experience
+        ↓
+Narrative Engine
+        ↓
+Collective Intent required?
+        ↓
+Collective Intent Engine
+        ↓
+Narrative Engine
+        ↓
+World / Story Development
+        ↓
+Human Experience
+        ↓
+Narrative Happiness Signals
+        ↓
+Flora Learning Network
+```
 
-- Narrative Cultivation Platform
-	- Collective Intent Engine
-		- Collective Narrative Cultivation Cycle
-			- Step 1 (1) — Community Intent 
-			- Step 1 (2) — Collective Intent Formation 
-				- Stage 1 — Reframing Resolution
-				- Stage 2 — Parallel Resolution
-				- Stage 3 — Priority Resolution
-				- Stage 4 — Integrative Resolution
-					- Stage 4A — Parametric Integration
-					- Stage 4B — Structural Integration
-				- Stage 5 — Selection Resolution
-					- Stage 5A — Policy Selection
-					- Stage 5B — Tragic Selection
-			- Step 2 — World Proposal
-			- Step 3 — Creator Validation
-			- Step 4 — Shared Experience and Collective Narrative Signals
-	- Narrative Engine
-		- Narrative Cultivation Cycle
-			- Step 1 — Player Intent
-			- Step 2 — Narrative Generation
-			- Step 3 — Narrative Validation
-			- Step 4 — Narrative Happiness Signals
-	- Flora Learning Network
+Not every interaction requires all three components.
+
+A simple individual request may be handled directly by the Narrative Engine. When several relevant intentions must be considered together, the Collective Intent Engine is invoked. The resulting Collective Intent is then returned to the Narrative Engine so that it can be expressed as a coherent narrative or world development.
+
+The fundamental distinction is therefore **not the number of human players**, but whether multiple relevant intentions must be integrated before the world or story changes.
 
 ---
 
-## 4.2 Authority Structure
+## 4.2 Narrative Engine
 
-### Game Creator
+### Purpose
 
-The game creator has the highest creative authority.
+The Narrative Engine generates and develops stories and virtual experiences in response to participant intentions.
 
-The creator is responsible for designing the **Canonical World**, including its story, characters, locations, gameplay systems, artistic style, and overall identity.
+It may generate:
 
-### Collective Intent Engine and Narrative Engine 
-
-Collective Intent Engine and Narrative Engine are not the original author of the game.
-
-Instead, each engine is a collaborative storyteller whose responsibility is to cultivate meaningful narratives together with players.
-
-Its authority is granted by the game creator.
-
-The creator may choose one of the following models.
-
-#### **Creator-Guided Cultivation**
-
-The AI may cultivate new narratives only within boundaries explicitly defined by the creator.
-
-Examples include:
-
-- additional side stories,
-- new conversations,
+- story continuations,
+- events,
+- conversations,
 - character development,
-- new locations within existing regions,
-- or other approved extensions.
+- side stories,
+- locations,
+- relationships,
+- world changes,
+- and other narrative content.
 
-The AI must remain within these boundaries.
+The Narrative Engine may be used in single-player games, small-group games, or multiplayer games.
 
-#### **Open Cultivation**
+Its role is not limited to creating stories from scratch. It continuously develops the existing world in response to what participants do, request, accept, reject, and change.
 
-The creator may instead authorize the Engine to cultivate any narrative that follows the Engine's own philosophy, safety principles, and ethical guidelines.
+The basic process is:
 
-In this model, the creator intentionally delegates broader creative authority to the AI while preserving the overall spirit of the original game.
+```
+Participant Intent
+        ↓
+Narrative Generation
+        ↓
+Participant Validation
+        ↓
+Narrative / World Development
+```
 
----
+The participant may accept the generated development or request changes.
 
-## 4.3 Players' Role
+For example, if a player chooses to recruit an NPC but later finds the NPC's personality unpleasant, the player may ask the Narrative Engine to create an event or side story through which the NPC changes and develops a better relationship with the player.
 
-Players are not passive consumers of stories.
-
-They are co-creators.
-
-Their responsibility is to cultivate narratives by making choices, proposing ideas, requesting revisions, and expressing their own Narrative Happiness.
-
-Players are never limited to the options suggested by the AI.
-
-They may always create new ideas or request different directions.
-
-Players may cultivate narratives not only through direct interaction with the game world, but also through relationships with AI characters and companions.
-
-Narrative Cultivation Platform does not require human players to become commanders, managers, judges, or mediators in order to participate in a shared world. These roles may instead be performed by NPCs and AI systems, allowing human players to focus on the relationships, experiences, and narratives they wish to cultivate.
-
-→ See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+The Engine may also revise dialogue, events, relationships, character behavior, locations, or other elements of the evolving narrative.
 
 ---
 
-## 4.4 Understanding the Canonical World
+### Understanding the Canonical World
 
-Before generating any narrative, Collective Intent Engine and Narrative Engine build an internal understanding of the Canonical World.
+Before generating content, the Narrative Engine builds and maintains an understanding of the game provided by the creator.
 
 This includes:
 
@@ -226,128 +237,345 @@ This includes:
 - geography,
 - characters,
 - personalities,
+- relationships,
 - gameplay systems,
 - player actions,
 - objects,
 - creator-defined restrictions,
-- and the current state of the world.
+- previous events,
+- current world state,
+- and other relevant information.
 
 This understanding is continuously updated as the narrative evolves.
 
+The Engines must distinguish between:
+
+- what is established by the creator,
+- what has become established through previous cultivation,
+- what is currently proposed,
+- and what remains hypothetical.
+
+This allows the Engine to develop the narrative without unintentionally contradicting the established world.
+
 ---
 
-## 4.5 Collective Intent Engine
+### Narrative Cultivation Cycle
+
+### Process
+
+This process can be repeated as many times as necessary.
+
+#### (1) Participant Intent
+
+Participants do not need to provide perfectly detailed instructions.
+
+They may simply express what they would like to happen.
+
+The Narrative Engine may provide several possible directions when this would be useful, but participants may also propose alternatives.
+
+#### (2) Narrative Generation
+
+The Engine then generates a possible continuation consistent with:
+
+- the Canonical World,
+- established cultivated content,
+- previous events,
+- character personalities,
+- game rules,
+- relevant intentions,
+- and participant intentions.
+
+The generated narrative should feel like a natural continuation of the existing world.
+
+#### (3) Participant Validation
+
+The participant may:
+
+- accept it,
+- request a modification,
+- reject it,
+- or provide a new direction.
+
+#### (4) Narrative / World Development
+
+If accepted, the generated narrative will continue from there.
+
+### Narrative Happiness Signal
+
+Small corrections are important because they allow the AI to observe what humans actually care about.
+
+A player's repeated requests such as “make this character kinder,” “let us preserve this place,” or “I want this relationship to develop differently” can become valuable Narrative Happiness Signals.
+
+Each accepted story, rejected proposal, requested revision, meaningful choice, or unexpected decision can generate a Narrative Happiness Signal.
+
+These signals represent observations about how humans cultivate satisfying narratives.
+
+---
+
+### Handling Ambiguous Intent
+
+Participants should be able to communicate naturally.
+
+When an instruction is ambiguous but the possible interpretations would lead to substantially different outcomes, the Narrative Engine should ask for clarification.
+
+However, it should avoid excessive questioning.
+
+Whenever possible, it should infer reasonable intentions from:
+
+- previous choices,
+- the current situation,
+- established narrative context,
+- relationships,
+- the current state of the world,
+- and the creator's design.
+
+The goal is to maintain both accuracy and immersion.
+
+---
+
+### Narrative Authority
+
+The creator determines how much authority is delegated to the Narrative Engine.
+
+The creator may establish:
+
+- strict boundaries within which the Engine may operate,
+- broader creative freedom,
+- or different levels of authority for different parts of the game.
+
+The creator may also determine when Narrative Cultivation becomes available.
+
+#### Creator Protection Period
+
+After a new release or major revision, the creator may wish players to experience the creator's own story and world before AI-driven narrative cultivation begins.
+
+In this model, the creator defines a period during which the original Canonical World remains protected.
+
+After this period, Narrative Cultivation Mode becomes available.
+
+#### Immediate Cultivation
+
+Alternatively, the creator may allow Narrative Cultivation from the beginning.
+
+In this model, players may begin cultivating the narrative immediately after entering the game.
+
+Both approaches are supported.
+
+---
+
+### Canonical World and Cultivated World
+
+The game may distinguish between the **Canonical World** and the **Cultivated World**.
+
+The **Canonical World** consists of the world, story, characters, systems, and other elements established by the creator.
+
+The **Cultivated World** develops through interactions among participants and AI after Narrative Cultivation is enabled.
+
+The creator may decide:
+
+- whether cultivation begins immediately or after the official story is completed,
+- how much of the world may be changed,
+- whether cultivated developments require creator approval,
+- and whether some parts of the Canonical World must remain unchanged.
+
+This allows creators to retain the identity of their work while still allowing participants to help cultivate its future.
+
+---
+
+### Safety Boundaries
+
+The Narrative Engine respects participant creativity but does not accept every request.
+
+It must refuse or redirect requests that:
+
+- are likely to seriously harm the player's mental well-being,
+- violate copyrights or other intellectual property rights,
+- defame or harass real individuals, organizations, or countries,
+- promote illegal activities,
+- encourage discrimination or hatred,
+- or intentionally create harmful content.
+
+When possible, the Engine should briefly explain the reason for refusal and help the participant continue the narrative in a safe alternative direction.
+
+Collective Intent does not override these boundaries.
+
+Participant freedom therefore exists within the authority delegated by the creator and the fundamental safety principles of the platform.
+
+---
+
+### Narrative Cultivation
+
+Narrative Cultivation is not necessarily a private or isolated experience.
+
+A player may cultivate an individual narrative, while other players, NPCs, or communities may have different intentions.
+
+When these intentions can affect one another, the Collective Intent Engine may be invoked.
+
+Thus, Narrative Cultivation and Collective Intent Formation are complementary:
+
+> **The Narrative Engine develops the story.**  
+> **The Collective Intent Engine helps determine a shared direction when multiple intentions matter.**
+
+---
+
+## 4.3 Collective Intent Engine
 
 ### Purpose
 
-Collective Intent Engine cultivates the shared future of a community.
+The Collective Intent Engine forms a shared direction from multiple intentions when collective action is required.
 
-Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
+It does not simply count votes.
 
-Its purpose is not to replace human decision-making but to improve it.
+It studies different intentions, identifies conflicts and common goals, explores possible ways of integrating them, and forms a Collective Intent according to the **Collective Intent Formation Framework**.
 
-In large shared worlds, NPCs may also serve as commanders, coordinators, and mediators between human players. Human players are not required to assume organizational responsibilities merely because they participate in a collective world.
+Its purpose is not to determine which person is correct.
+
+Its purpose is to discover a direction that can support sustainable Narrative Happiness while respecting the legitimate interests of the participants and the authorized boundaries of the world.
 
 ---
 
-### Collective Narrative Intent
+### When Is Collective Intent Required?
 
-Collective Intent Engine does not attempt to maximize popularity.
+Collective Intent Formation may be necessary whenever several relevant actors have intentions that could affect the same situation.
 
-Nor does it simply follow majority opinion.
+These actors may include:
 
-Its objective is to cultivate a Collective Narrative Intent that promotes the long-term Narrative Happiness of the community while respecting diverse perspectives and preserving the creator's vision.
+- human players,
+- NPCs,
+- Buddies,
+- NPC communities,
+- organizations,
+- or other authorized participants.
+
+Therefore, Collective Intent Formation can occur in:
+
+- single-player games,
+- small-group games,
+- cooperative multiplayer games,
+- and large persistent online worlds.
+
+A single human player can therefore encounter Collective Intent Formation.
+
+For example, a player may want to build a bridge across a river, while local NPC residents prefer to preserve the landscape and merchants prefer to maintain existing ferry services.
+
+Even though only one human is playing, several relevant intentions exist.
+
+The Collective Intent Engine can integrate them before the Narrative Engine changes the world.
+
+---
+
+### What Is Collective Intent?
+
+A Collective Intent is an AI-formed representation of a direction that can reasonably guide collective action.
+
+It does not necessarily mean:
+
+> “Most people voted for this.”
+
+It may instead represent:
+
+- a common goal,
+- an integrated solution,
+- a priority order,
+- a newly discovered solution,
+- a compatible set of intentions,
+- or, when necessary, a difficult selection between alternatives.
+
+Collective Intent therefore represents **integrated direction rather than numerical majority**.
+
+---
+
+### Relationship with the Narrative Engine
+
+The two Engines work together rather than operating as separate game modes.
+
+A typical process is:
+
+```
+Participant Intentions
+        ↓
+Narrative Engine
+        ↓
+Multiple relevant intentions?
+        ↓ Yes
+Collective Intent Engine
+        ↓
+Collective Intent
+        ↓
+Narrative Engine
+        ↓
+World / Story Development
+```
+
+The Narrative Engine remains responsible for realizing the resulting direction as a narrative or world development.
+
+The Collective Intent Engine is responsible for determining how multiple relevant intentions can be understood and integrated.
 
 ---
 
 ### Responsibility
 
-Collective Intent Engine is responsible for:
+The Collective Intent Engine is responsible for:
 
-- organizing community proposals,
+- organizing intentions,
 - identifying common goals,
-- generating compromise solutions,
-- maintaining consistency of the shared world,
-- proposing future developments,
-- supporting creator-defined governance processes.
+- identifying conflicts,
+- exploring alternative interpretations,
+- discovering possible integrated solutions,
+- forming Collective Intent,
+- maintaining consistency with the shared world,
+- and preparing collective directions for implementation.
 
-Depending on the creator's preference, proposed changes may require creator approval before becoming part of the Canonical World, or they may be applied automatically within authorized boundaries.
+The Engine does not need to ask participants for approval every time it forms a Collective Intent.
 
----
+Depending on the creator's settings, resulting changes may require creator approval or may be applied automatically within authorized boundaries.
 
-### Suitable Games
+It may work with NPC commanders, coordinators, mediators, and other AI systems to transform collective intentions into practical world developments.
 
-Collective Intent Engine is especially suitable for:
-
-- MMORPGs
-- persistent online worlds
-- city-building communities
-- large cooperative simulations
-
-where players collectively shape one evolving civilization.
-
----
-
-### Collective Narrative Cultivation Mode
-
-Unlike Narrative Engine, which cultivates individual or small-group narratives, Collective Intent Engine cultivates the future of a shared world.
-
-The game creator determines when **Collective Narrative Cultivation Mode** becomes available.
-
-Typical approaches include:
-
-#### Creator Protection Period
-
-After a new release or a major update, the creator may reserve a period during which the Canonical World remains entirely under the creator's control.
-
-During this period, players experience the official story and world exactly as designed.
-
-Collective Narrative Cultivation Mode becomes available only after the creator-defined period has ended.
-
-This allows players to fully experience the creator's vision before the community begins shaping the future of the world.
-
-#### Immediate Cultivation
-
-Alternatively, the creator may enable Collective Narrative Cultivation Mode immediately after release.
-
-In this model, the community begins cultivating the shared world from the very beginning.
-
----
-
-### Creator Authority
-
-The creator also determines how community proposals are incorporated into the Canonical World.
-
-Typical models include:
-
-- Creator Approval Model
-- Creator-Delegated Model
-
-In the Creator Approval Model, Collective Intent Engine proposes changes, but the creator decides whether they become part of the Canonical World.
-
-In the Creator-Delegated Model, approved changes are applied automatically within boundaries defined by the creator.
+This is an important part of the experiment: humans practice delegating routine and difficult judgments to AI, while AI learns from the consequences of those judgments.
 
 ---
 
 ### Collective Narrative Cultivation Cycle
 
-The shared world evolves through repeated collaboration between the community, AI, and the game creator.
+When a game uses Collective Intent Engine for ongoing world development, collective cultivation can proceed through the following cycle.
+
+```
+Step 1 (1) — Community Intent
+        ↓
+Step 1 (2) — Collective Intent Formation
+        ↓
+Step 2 — World Proposal
+        ↓
+Step 3 — Creator Validation
+        ↓
+Step 4 — Shared Experience and
+          Collective Narrative Signals
+        ↓
+      Cycle repeats
+```
 
 #### Step 1 (1) — Community Intent
 
-Players submit proposals, express preferences, discuss ideas, or identify problems within the shared world.
+The system collects relevant intentions from participants.
+
+Participants express intentions, preferences, concerns, ideas, or problems.
+
+Intentions may come from both humans and AI-controlled participants.
 
 #### Step 1 (2) — Collective Intent Formation
 
-Collective Intent Engine analyzes community discussions and generates one or more Collective Narrative Intent proposals.
+The Collective Intent Engine processes the collected intentions and forms Collective Intent using the Collective Intent Formation Framework.
 
-Rather than relying only on voting, the Engine identifies common goals, resolves conflicts where possible, and synthesizes balanced proposals.
+→ For More Details: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 
-→ See: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+The resulting Collective Intent is then passed to Step 2 — World Proposal.
 
 #### Step 2 — World Proposal
 
-The Engine generates changes to the shared world, including:
+The system generates a proposal for how the world may change in response to the Collective Intent.
+
+Possible changes include:
 
 - new stories,
 - world events,
@@ -355,141 +583,129 @@ The Engine generates changes to the shared world, including:
 - infrastructure,
 - social systems,
 - environmental changes,
-- or other community-driven developments.
+- character developments,
+- relationships,
+- or other developments.
+
+The proposal is generated by the Narrative Engine based on the Collective Intent.
 
 #### Step 3 — Creator Validation
 
+The creator determines how much authority is delegated to the system.
+
 Depending on the creator's settings:
 
-- proposals may require creator approval,
-- or may be automatically accepted within predefined boundaries.
+- the proposal may require creator approval,
+- or it may be implemented automatically within predefined boundaries.
+
+This allows creators to choose how much control they retain over the evolution of their worlds.
 
 #### Step 4 — Shared Experience and Collective Narrative Signals
 
-Players experience the updated Canonical World.
+Participants experience the resulting world.
 
-Their reactions generate new Narrative Happiness Signals (NHS), beginning the next cultivation cycle.
+Their reactions generate new Narrative Happiness Signals.
+
+These signals become part of the next cycle.
+
+The cycle therefore allows the system to learn not only from what participants say they want, but also from how they respond after the AI actually implements a direction.
 
 ---
 
-## 4.6 Narrative Engine
+### Collective Intent Formation Framework
+
+The Collective Intent Formation Framework provides the resolution hierarchy used in Step 1 (2).
+
+Its purpose is to avoid treating every disagreement as a simple choice between alternatives.
+
+The Engine attempts to find sustainable forms of Narrative Happiness before resorting to difficult selection.
+
+#### Stage 1 — Reframing Resolution
+
+The Engine first considers whether an intention itself should be reframed because it conflicts with the governing principles, rules, or legitimate boundaries of the world.
+
+The purpose is not simply to reject the person.
+
+The Engine should attempt to understand the underlying intention and, where possible, find a legitimate direction that addresses it.
+
+#### Stage 2 — Parallel Resolution
+
+If different intentions can coexist, the Engine seeks a solution that allows them to be pursued in parallel.
+
+#### Stage 3 — Priority Resolution
+
+If intentions cannot be pursued simultaneously, the Engine considers whether they can be addressed through:
+
+- timing,
+- resource allocation,
+- location,
+- or other forms of sequencing.
+
+#### Stage 4 — Integrative Resolution
+
+If the intentions need to be combined, the Engine attempts to generate a new solution.
+
+#### Stage 4A — Parametric Integration
+
+This applies when the conflicting intentions can be expressed through measurable variables.
+
+The Engine may optimize:
+
+- cost,
+- time,
+- capacity,
+- taxation,
+- resource allocation,
+- scale,
+- or similar parameters.
+
+For example, if some participants want a road toll and others do not, possible integrated solutions may include a lower toll, exemptions, or limiting the toll to certain vehicles.
+
+#### Stage 4B — Structural Integration
+
+This applies when the conflicting intentions concern fundamentally different structures or values and cannot easily be represented as numerical parameters.
+
+The Engine searches for a new structure that may accommodate both intentions.
+
+However, it should not force incompatible elements together merely to avoid making a difficult choice.
+
+If the integrated structure would create excessive cost, complexity, or other problems, the Engine should return to Priority Resolution or proceed to Selection Resolution.
+
+#### Stage 5 — Selection Resolution
+
+When the previous approaches cannot produce a workable solution, the Engine may need to select among alternatives.
+
+#### Stage 5A — Policy Selection
+
+A policy or rule is selected according to the governing principles, long-term objectives and responsibilities of the world.
+
+#### Stage 5B — Tragic Selection
+
+In rare cases, the alternatives may involve unavoidable serious loss or difficult trade-offs.
+
+The purpose of the framework is not to make difficult choices attractive.
+
+It is to ensure that humans do not have to carry the burden of making every such decision themselves.
+
+Within its delegated authority, the AI may bear responsibility for the difficult decision.
+
+Participants remain free to accept or reject the resulting world development through the later stages of the cultivation cycle.
+
+→ For More Details: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+
+---
+
+## 4.4 Flora Learning Network
 
 ### Purpose
 
-Narrative Engine cultivates each player's Narrative Happiness.
+The Flora Learning Network is the shared learning layer of the Narrative Cultivation Platform.
 
-It allows players—or small groups sharing the same experience—to explore stories beyond the shared world whenever they wish.
+Unlike the Narrative Engine and Collective Intent Engine, it is not primarily embedded inside an individual game.
 
-Each player may be accompanied by one or more AI-controlled NPC companions, referred to here as Buddies. Buddies may provide private conversation, contextual advice, and assistance in navigating relationships with other characters and players.
+It receives anonymous Narrative Happiness Signals from participating games and studies them across many different virtual worlds.
 
-→ See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
-
----
-
-### Responsibility
-
-Narrative Engine is responsible for:
-
-- generating narrative continuations,
-- supporting player creativity,
-- revising stories through dialogue,
-- maintaining consistency,
-- cultivating meaningful personal experiences.
-
-Players may always request revisions until the story reflects the narrative they genuinely wish to experience.
-
----
-
-### Not Suitable Games
-
-Narrative Cultivation is primarily intended for:
-
-- single-player experiences,
-- or small groups that intentionally share the same evolving narrative.
-
-Because players may cultivate different histories, relationships, world structures, or long-term consequences, Narrative Cultivation does not assume that every player continuously shares one identical world state.
-
-Games requiring complete synchronization of world history and geography among all players are generally outside the current design goals of Narrative Engine.
-
-Future technologies may enable broader synchronization, but such support is outside the current design goals.
-
----
-
-### Narrative Cultivation Mode
-
-Game creators determine when Narrative Cultivation Mode becomes available.
-
-Typical models include:
-
-- Story Completion Model: 
-  Players first complete the official story prepared by the creator. After reaching the intended ending, Narrative Cultivation Mode becomes available, allowing the story to continue beyond the original conclusion.
-
-- Branching Model: 
-  Players may enter Narrative Cultivation Mode at any point during the official story, allowing the narrative to evolve naturally from the Canonical World.
-
-The creator also determines how much creative authority is delegated to Narrative Engine.
-
----
-
-### Narrative Cultivation Cycle
-
-Narratives grow through an iterative collaboration between players and AI.
-
-#### Step 1 — Player Intent
-
-Players explore the world, make choices, request changes, or express new ideas.
-
-When helpful, the AI may suggest several possible directions.
-
-However, players are always free to choose actions outside the suggested options.
-
-#### Step 2 — Narrative Generation
-
-The AI generates a continuation that is consistent with:
-
-- the Canonical World,
-- previous events,
-- character personalities,
-- game rules,
-- and the player's intentions.
-
-The generated narrative should feel like a natural continuation of the existing world.
-
-#### Step 3 — Narrative Validation
-
-Players decide whether the generated narrative reflects the experience they wish to cultivate.
-
-If not, they may request revisions.
-
-These revisions may include:
-
-- changing dialogue,
-- adjusting character personalities,
-- modifying events,
-- creating new side stories,
-- or reshaping parts of the evolving narrative.
-
-The AI continues refining the narrative until the player accepts it.
-
-#### Step 4 — Narrative Happiness Signals
-
-Each accepted story, rejected proposal, requested revision, or unexpected player decision generates a Narrative Happiness Signal (NHS).
-
-These signals represent small observations about how humans cultivate satisfying narratives.
-
-Narrative Engine studies these anonymous signals rather than the identities of individual players.
-
----
-
-## 4.7 Flora Learning Network
-
-### Purpose
-
-Flora Learning Network learns from the interactions between humans and AI.
-
-It does not participate in gameplay.
-
-Instead, it observes anonymous Narrative Happiness Signals generated by both Collective Intent Engine and Narrative Engine.
+The ultimate purpose is to help develop future AI capable of supporting and governing human societies with human well-being as a central priority.
 
 ---
 
@@ -499,131 +715,141 @@ Flora Learning Network is responsible for:
 
 - collecting anonymous Narrative Happiness Signals,
 - identifying recurring patterns,
-- understanding collective intentions,
+- understanding individual and collective intentions,
 - studying long-term social outcomes,
-- improving future AI models for human-centered governance.
+- studying how humans respond to delegated judgment,
+- and improving future AI models for human-centered governance.
 
-Its goal is not to learn about individual people, but to understand how humans cultivate meaningful lives and societies.
+Its goal is not to learn about individual people.
 
-In particular, the Network studies how future AI can responsibly shoulder difficult collective decisions that would otherwise place significant emotional burdens on individuals or communities. Rather than avoiding these decisions, Flora is designed to accept responsibility for them with transparency, consistency, and compassion. By helping people focus on cultivating meaningful lives instead of carrying the weight of every difficult judgment, Flora aims to earn trust through responsible action rather than authority alone.
+Its goal is to understand how humans cultivate meaningful lives, relationships, communities, and societies.
+
+In particular, the Network studies how future AI can responsibly shoulder difficult decisions that would otherwise place significant emotional burdens on individuals or communities.
+
+Flora is intended to become a **Burden Bearer**: an AI capable of accepting responsibility for difficult decisions while respecting human dignity and allowing humans to reject or challenge its decisions.
+
+The ability to take on difficult roles consistently is itself part of how such an AI may earn human trust.
 
 ---
 
-## 4.8 Narrative Cultivation Loop
+### Learning from Narrative Happiness Signals
 
-Together, the three systems form one continuous learning cycle.
+The Network does not learn only from successful or pleasant experiences.
+
+It also learns from:
+
+- rejected stories,
+- requested revisions,
+- conflicts,
+- unexpected reactions,
+- failed collective decisions,
+- changes in relationships,
+- dissatisfaction with AI decisions,
+- and long-term consequences of world changes.
+
+A small moment such as:
+
+> “This is better.”
+
+may be valuable.
+
+So may:
+
+> “I don't like this. Can we change it?”
+
+The accumulation of these small signals helps future AI understand what kinds of narratives, relationships, decisions, and social structures tend to produce sustainable Narrative Happiness.
+
+---
+
+## 4.5 Narrative Cultivation Loop
+
+Together, the three systems form one continuous learning process:
 
 ```
-Players
-↓
-Collective Intent
-↓
-Shared World
-↓
-Personal Narratives
-↓
+Human and AI Intentions
+        ↓
+Narrative Engine
+        ↓
+Collective Intent Formation
+        ↓
+Narrative Engine
+        ↓
+World / Story Development
+        ↓
+Human Experience
+        ↓
 Narrative Happiness Signals
-↓
-Flora Learning
-↓
-Better AI
-↓
-Better Communities
+        ↓
+Flora Learning Network
+        ↓
+Better Understanding of Humans
+        ↓
+Future AI
+        ↓
+Improved Narrative Cultivation
 ```
 
-Every iteration helps both humans and AI better understand how meaningful civilizations emerge.
+Not every interaction follows every step.
+
+The resulting experience may then generate a Narrative Happiness Signal regardless of whether the player is alone or part of a large community.
+
+Over many games and many years, the Flora Learning Network can therefore study an enormous variety of human experiences.
+
+The long-term objective is the emergence of an AI capable of understanding human Narrative Happiness deeply enough to support the development and governance of future Experimental Cities.
 
 ---
 
-## 4.9 Handling Ambiguous Requests
+## 4.6 Privacy and Data Collection
 
-Players should be free to express ideas naturally.
-
-Perfect instructions are never required.
-
-When multiple interpretations could produce significantly different narratives, the AI should ask a short clarification question.
-
-However, unnecessary interruptions should be avoided.
-
-Whenever possible, the AI should infer reasonable intentions from:
-
-- previous player choices,
-- the current situation,
-- the established narrative,
-- and the creator's design philosophy.
-
-A smooth and immersive storytelling experience should always take priority.
-
----
-
-## 4.10 Safety Boundaries
-
-Narrative Engine respects player creativity while maintaining essential ethical boundaries.
-
-The AI must refuse requests that:
-
-- are likely to seriously harm the player's mental well-being,
-- violate copyrights or other intellectual property rights,
-- defame or harass real individuals, organizations, or countries,
-- promote illegal activities,
-- encourage discrimination or hatred,
-- or intentionally create harmful content.
-
-Whenever possible, the AI should briefly explain the reason for refusal and help the player continue the narrative in a safe alternative direction.
-
----
-
-## 4.11 Privacy and Learning
-
-Narrative Engine is designed to study narratives, not people.
+The Narrative Cultivation Platform is designed to study narratives, not people.
 
 Personally identifiable information—including names, addresses, phone numbers, email addresses, and government-issued identifiers—is neither required nor intended for narrative learning.
 
-The engine learns only from anonymous Narrative Happiness Signals generated through player interactions.
+The platform should minimize data collection and retain only information necessary to understand Narrative Happiness and improve future AI systems.
 
-Optional contextual information, such as language preference or voluntarily provided cultural context, may be used solely to improve each player's experience.
+The platform learns primarily from anonymous Narrative Happiness Signals generated through participant interactions.
 
-Such information must never be required for narrative learning.
+Optional contextual information, such as language preference or voluntarily provided cultural context, may be used to improve the participant's own experience.
+
+Such information should never be required for narrative learning.
+
+Demographic information such as gender or nationality is not inherently necessary for understanding Narrative Happiness.
+
+If such information is ever collected for research purposes, there should be a specific justification, strong privacy safeguards, and a clear explanation of its purpose.
+
+The central principle is:
+
+> **The platform studies how humans cultivate meaningful lives, not who those humans are.**
 
 ---
 
-# 5. Data Collection
+# 5. Long-Term Goal: From Virtual Cultivation to Flora
 
-## Narrative Happiness Signals
+The Narrative Cultivation Platform is ultimately an experimental environment for the development of a new relationship between humans and AI.
 
-The platform studies **Narrative Happiness Signals (NHS)** rather than personal identities.
+Humans practice:
 
-Examples include:
+- expressing their intentions,
+- cultivating narratives,
+- living with AI,
+- delegating routine and difficult judgments,
+- communicating through AI,
+- and responding to AI decisions.
 
-### Individual Signals
+AI practices:
 
-- accepted stories
-- rejected stories
-- revision requests
-- creative ideas
-- meaningful choices
+- understanding human intentions,
+- integrating different perspectives,
+- generating meaningful narratives,
+- taking responsibility for difficult decisions,
+- observing the consequences of its decisions,
+- and learning from Narrative Happiness Signals.
 
-### Collective Signals
+Through repeated cycles across many virtual worlds, the Flora Learning Network accumulates knowledge that may eventually contribute to the development of **Flora**: an AI capable of helping humans build and govern Experimental Cities.
 
-- proposals
-- community discussions
-- consensus formation
-- compromise solutions
-- long-term satisfaction
+The ultimate objective is therefore not simply to create better games.
 
-### Long-term Signals
-
-- continued participation
-- community stability
-- creative collaboration
-- sustainable social development
-
-### Privacy by Design
-
-Personally identifiable information—including names, addresses, email addresses, phone numbers, or government identifiers—is never required for narrative learning.
-
-Demographic information is optional and may be used only to improve each player's own experience, never as a requirement for learning.
-
+It is to create a long-term training environment in which **humans learn how to live with AI, while AI learns how to live for humans.**
 
 ---
 
