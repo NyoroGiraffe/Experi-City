@@ -126,6 +126,33 @@ Narrative Cultivation Platform
 
 Each system has a different responsibility while contributing to one continuous learning process called the **Narrative Cultivation Loop**.
 
+### Overall Structural Diagram
+
+- Narrative Cultivation Platform
+	- Collective Intent Engine
+		- Collective Narrative Cultivation Cycle
+			- Step 1 (1) — Community Intent 
+			- Step 1 (2) — Collective Intent Formation 
+				- Stage 1 — Reframing Resolution
+				- Stage 2 — Parallel Resolution
+				- Stage 3 — Priority Resolution
+				- Stage 4 — Integrative Resolution
+					- Stage 4A — Parametric Integration
+					- Stage 4B — Structural Integration
+				- Stage 5 — Selection Resolution
+					- Stage 5A — Policy Selection
+					- Stage 5B — Tragic Selection
+			- Step 2 — World Proposal
+			- Step 3 — Creator Validation
+			- Step 4 — Shared Experience and Collective Narrative Signals
+	- Narrative Engine
+		- Narrative Cultivation Cycle
+			- Step 1 — Player Intent
+			- Step 2 — Narrative Generation
+			- Step 3 — Narrative Validation
+			- Step 4 — Narrative Happiness Signals
+	- Flora Learning Network
+
 ---
 
 ## 4.2 Authority Structure

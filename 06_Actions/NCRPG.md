@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-Version: 0.13
-Used GPT 5.6 Luna
-August 13, 2026
+- Version: 0.13
+- Used GPT 5.6 Luna
+- August 13, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 

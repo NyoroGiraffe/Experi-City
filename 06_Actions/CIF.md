@@ -14,26 +14,59 @@ Based on the world of Nyoro Giraffe,
 Proposed by OpenAI ChatGPT 5.5,
 July 2026
 
+# Abstract
+
+**Collective Intent Formation** transforms diverse Community Intents into a shared direction for the next stage of world cultivation. Rather than relying on majority voting, the Engine identifies underlying intentions, classifies the nature of disagreements, and applies an appropriate resolution framework. The result is a well-reasoned Collective Intent that serves as the foundation for the next World Proposal.
+
+---
+
 # Overall Structure
 
-### [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+### 1. Narrative Cultivation Platform
 
-The Narrative Cultivation Platform consists of three major software components as follows:
+The [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html) is an open framework that enables humans and AI to cultivate better societies together.
+It consists of three major software components as follows:
 
 - **Collective Intent Engine**
 - Narrative Engine
 - Flora Learning Network
 
-### Collective Intent Engine
+### 2. Collective Intent Engine
 
-Collective Intent Engine cultivates the shared future of a community.
+Collective Intent Engine cultivates the shared future of a community. Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
 
-#### Collective Narrative Cultivation Cycle:
+#### Collective Narrative Cultivation Cycle
+
+The shared world evolves through repeated collaboration between the community, AI, and the game creator.
+
 - Step 1 (1) — Community Intent 
 - **Step 1 (2) — Collective Intent Formation**
+	  → [For more details, see below.](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html#step-1-2)
 - Step 2 — World Proposal
 - Step 3 — Creator Validation
 - Step 4 — Shared Experience and Collective Narrative Signals
+
+### 3. Overall Structural Diagram
+
+- Narrative Cultivation Platform
+	- ***Collective Intent Engine***
+		- Collective Narrative Cultivation Cycle
+			- Step 1 (1) — Community Intent 
+			- ***Step 1 (2) — Collective Intent Formation*** 
+				- Stage 1 — Reframing Resolution
+				- Stage 2 — Parallel Resolution
+				- Stage 3 — Priority Resolution
+				- Stage 4 — Integrative Resolution
+					- Stage 4A — Parametric Integration
+					- Stage 4B — Structural Integration
+				- Stage 5 — Selection Resolution
+					- Stage 5A — Policy Selection
+					- Stage 5B — Tragic Selection
+			- Step 2 — World Proposal
+			- Step 3 — Creator Validation
+			- Step 4 — Shared Experience and Collective Narrative Signals
+	- Narrative Engine
+	- Flora Learning Network
 
 ---
 ## What is Collective Intent?
@@ -43,13 +76,7 @@ Collective Intent is not the opinion supported by the largest number of people.
 It is the direction that best reflects the long-term Narrative Happiness of the community while respecting diverse perspectives.
 
 ---
-
-# Abstract
-
-**Collective Intent Formation** transforms diverse Community Intents into a shared direction for the next stage of world cultivation. Rather than relying on majority voting, the Engine identifies underlying intentions, classifies the nature of disagreements, and applies an appropriate resolution framework. The result is a well-reasoned Collective Intent that serves as the foundation for the next World Proposal.
-
----
-
+<a id="step-1-2"></a>
 # Step 1 (2) — Collective Intent Formation
 
 ## Purpose
