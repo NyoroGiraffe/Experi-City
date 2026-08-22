@@ -55,6 +55,21 @@ In Experimental Cities, individuals were prohibited from owning graves for thems
 
 ---
 
+## 6. Automated Censorship
+
+In Experimental Cities, open social media platforms that allow anyone to connect directly with the rest of the world are not available.  
+
+Furthermore, it is impossible to express aggressive language or negative emotions toward others online.  The moment you post something, your Nexus Unit automatically deletes it, so your message never reaches anyone. 
+
+For example, even if you wanted to say that the food served at a restaurant was bad, unless you phrased it as “I personally prefer it less salty” or “I think it would be better if it were cooked a bit longer,” your message won’t appear online. 
+
+Since this kind of automated censorship is not always enforced outside the city, people from outside can, of course, post insults or harsh criticism online, but citizens of Experimental Cities cannot even see them.  This is because the moment such content is received, their Nexus Unit automatically deletes it. 
+
+However, if, for example, someone from outside the city were standing right next to them and physically showed or told them about it, they would still find out, so a complete information blackout was impossible. 
+
+
+---
+
 [--> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 
 [--> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [--> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
