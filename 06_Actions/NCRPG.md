@@ -607,6 +607,7 @@ Approximately three related Player Intent Expressions MAY serve as a useful heur
 A Quest SHOULD be generated when the Game Master recognizes a meaningful intersection between:
 
 (1) a Player Intent or emerging Player Intent pattern; and
+
 (2) one or more World Challenges.
 
 The basic principle is:
@@ -695,10 +696,15 @@ Instead, unrelated activities may:
 When a Quest is completed, the Game Master SHOULD:
 
 (1) acknowledge the achievement through the narrative;
+
 (2) update relevant Character and world states;
+
 (3) update the associated World Challenge state;
+
 (4) provide an appropriate Narrative Reward or consequence;
+
 (5) reveal new possibilities;
+
 (6) and continue the narrative.
 
 Quest completion does not necessarily mean that the associated World Challenge has been completely solved.
