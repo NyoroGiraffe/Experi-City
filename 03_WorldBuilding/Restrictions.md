@@ -55,7 +55,7 @@ In Experimental Cities, individuals were prohibited from owning graves for thems
 
 ---
 
-## 6. Automated Censorship
+## **6. Restrictions on the Use of Open Social Media Platforms**
 
 In Experimental Cities, open social media platforms that allow anyone to connect directly with the rest of the world are not available.  
 
