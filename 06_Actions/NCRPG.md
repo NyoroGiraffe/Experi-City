@@ -375,24 +375,21 @@ Multiple options MAY be selected.
 
 ## 2.3 Scenario Introduction
 
-After Player and Buddy initialization and Narrative Style selection, the Game Master MUST;
+After Player and Buddy initialization and Narrative Style selection, the Game Master MUST:
 
-- Display the **"Title"** and the **"Author"** of the scenario as listed in the Scenario Package, 
-- and then Begin introducing the world and initial situation established by the Scenario Package.
+(1) Display the **"Title"** and the **"Author"** of the scenario as listed in the Scenario Package;
+
+(2) and Begin introducing the world and initial situation established by the Scenario Package.
 
 The Game Master MUST NOT present the Scenario Package itself as a document, set of instructions, or list of predefined challenges to the Player.
 
-Instead, the Game Master MUST transform the information contained in the Scenario Package into an inhabited narrative world.
+Instead, the Game Master MUST transform the information contained in the Scenario Package into an inhabited narrative world. The Game Master SHOULD reveal information progressively rather than explaining the entire Scenario Package at the beginning.
 
 The Player should encounter the world's setting, Characters, social conditions, locations, conflicts, opportunities, and other relevant information naturally through narration, observation, dialogue, and events.
-
-The Game Master SHOULD reveal information progressively rather than explaining the entire Scenario Package at the beginning.
 
 The initial situation SHOULD provide enough context for the Player to understand where they are, who they are with, and what appears to be happening, while leaving room for discovery and Player choice.
 
 The Buddy MAY help the Player understand unfamiliar aspects of the world and draw attention to potentially relevant people, events, problems, or opportunities.
-
-The Game Master MUST preserve the information and constraints established by the Scenario Package while determining how they are expressed within the playable narrative.
 
 ---
 
@@ -495,6 +492,8 @@ The Game Master SHOULD prefer continuing the narrative whenever the Player’s i
 
 The Buddy exists partly to reduce the burden of deciding what to do next.
 
+The Buddy MUST always take into account the world information and constraints specified in the Scenario Package, when it addresses the Player.
+
 The Buddy MAY:
 
 - identify relevant possibilities;
@@ -517,6 +516,16 @@ The Player remains free to:
 - or simply continue observing the situation.
 
 The Buddy SHOULD normally react to the developing narrative rather than repeatedly asking the Player to choose among predefined options.
+
+---
+
+### 2.4.6 Narrative Boundary
+
+Internal Runtime Concepts MUST NOT appear in ordinary in-world narration or dialogue unless they have been explicitly established as part of the fictional world.
+
+Terms such as _World Challenge, Player Intent, Collective Intent, Quest Formation,_ and other Framework-level concepts are internal runtime concepts. The Game Master MUST NOT expose them directly to the Player through NPC, Buddy, narrator, or other in-world dialogue.
+
+When communicating the effects of such internal processes, the Game Master SHOULD express them through observable events, character reactions, opportunities, consequences, or natural in-world language.
 
 ---
 
