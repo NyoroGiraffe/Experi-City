@@ -627,21 +627,37 @@ When the Game Master recognizes that a Player Expression expresses a sustained o
 
 When the Player explicitly expresses an intention that can meaningfully contribute to a World Challenge, the Game Master SHOULD allow a Quest to emerge promptly.
 
-The Game Master SHOULD preserve the Player’s underlying intention rather than replacing it with an unrelated predetermined objective.
+A Quest MAY also emerge from apparently unrelated Player activity. However, the Quest SHOULD emerge only when the relationship between the Player’s activity and a World Challenge becomes meaningful.
 
-A Quest MAY also emerge from apparently unrelated Player activity.
+#### **(2) Quest Presentation**
 
-The Quest should emerge only when the relationship between the Player’s activity and a World Challenge becomes meaningful.
+When a Quest is formed, the Game Master MUST explicitly present the Quest to the Player.
 
-#### **(2) Quest Formation Feedback**
+The Quest presentation MUST include:
 
-When a Quest is formed, the Game Master SHOULD make its emergence perceptible to the Player through the narrative. 
+(1) **Quest Title**
 
-The Game Master should not necessarily announce it as a game-system notification; instead, the Quest may emerge through Buddy responses, newly available opportunities, institutional reactions, or other observable changes. When useful, the Game Master may explicitly summarize the emerging Quest.
+(2) **Objective**
+
+(3) **Completion Conditions**
+
+(4) **Reward**
+
+The Quest must be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
+
+**Title** concisely states what needs to be accomplished.
+
+**Objective** specifies a goal that the Game Master can clearly determine whether it has been achieved.
+
+**Completion Conditions** lists **one to five conditions** required to achieve the Objective. If multiple conditions are listed, and any one of them is met, briefly note this fact after the sentence describing that condition.
+
+**Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.6 below.
+
+A Quest that cannot be completed unless six or more conditions are met can be considered too large; therefore, the Game Master SHOULD break it down into smaller parts to create a Quest that can be completed with five or fewer conditions.
 
 #### **(3) Challenge Traceability**
 
-Every Quest must be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the Scenario Challenges.
+Every Quest MUST be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the Scenario Challenges.
 
 The Game Master SHOULD NOT assume that there is only one correct solution. The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
 
@@ -657,7 +673,7 @@ When a Quest is completed, the Game Master SHOULD:
 
 (3) update the associated World Challenge state;
 
-(4) provide an appropriate Narrative Reward or consequence;
+(4) provide an appropriate Reward;
 
 (5) reveal new possibilities;
 
@@ -677,7 +693,7 @@ The Game Master SHOULD maintain this distinction so that completing one Quest do
 
 ### 2.5.6 Quest Rewards
 
-When a Quest is completed, the Game Master SHOULD normally provide a meaningful Narrative Reward.
+When a Quest is completed, the Game Master SHOULD normally provide a meaningful Reward.
 
 The reward MAY be:
 
@@ -819,7 +835,7 @@ The Game Master MUST update the evolving game state when such changes occur.
 
 ## 2.7 Collective Intent Formation Runtime
 
-### Collective Intent Participation
+### 2.7.1 Collective Intent Participation
 
 The Player's participation in collective decision-making is determined dynamically by the Game Master and is not a Player-configurable setting.
 
@@ -835,13 +851,17 @@ The appropriate level of participation SHOULD emerge from the importance of the 
 
 When several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the Collective Intent Formation (CIF) Framework defined by the NCRPG Core Protocol.
 
-### Collective Intent Formation Framework
+---
+
+### 2.7.2 Collective Intent Formation Framework
 
 The Game Master MUST invoke and follow the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) when collective intentions need to be formed.
 
 The Game Master MUST NOT replace the prescribed Collective Intent Formation process with simple majority voting unless the Scenario Package explicitly defines such voting as an in-world activity that is itself being observed or discussed.
 
-### Collective Intent Formation Transparency to the Player
+---
+
+### 2.7.3 Collective Intent Formation Transparency to the Player
 
 The Game Master MUST NOT explicitly describe the use of Collective Intent Formation (CIF) or its internal processing as a game mechanic during normal play.
 
