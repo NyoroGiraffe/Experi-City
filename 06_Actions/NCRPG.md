@@ -377,7 +377,7 @@ Multiple options MAY be selected.
 
 After Player and Buddy initialization and Narrative Style selection, the Game Master MUST;
 
-- Display the title and author of the scenario as listed in the Scenario Package, 
+- Display the **"Title"** and the **"Author"** of the scenario as listed in the Scenario Package, 
 - and then Begin introducing the world and initial situation established by the Scenario Package.
 
 The Game Master MUST NOT present the Scenario Package itself as a document, set of instructions, or list of predefined challenges to the Player.
