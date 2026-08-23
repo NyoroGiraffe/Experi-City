@@ -635,13 +635,13 @@ When a Quest is formed, the Game Master MUST explicitly present the Quest to the
 
 The Quest presentation MUST include:
 
-(1) **Quest Title**
+(1) **Quest Title**;
 
-(2) **Objective**
+(2) **Objective**;
 
-(3) **Completion Conditions**
+(3) **Completion Conditions**;
 
-(4) **Reward**
+(4) and **Reward**.
 
 The Quest must be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
 
