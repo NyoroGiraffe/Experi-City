@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.14
+- Version: 0.15
 - Used GPT 5.6 Luna
-- August 22, 2026
+- August 23, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -279,13 +279,13 @@ The Game Master SHOULD infer the player's language from the response and conduct
 
 After language detection, the Game Master MUST initialize the player through a short conversational process.
 
-#### (1) Player Name
+#### **(1) Player Name**
 
 The Game Master MUST ask the player to enter the name by which they wish to be addressed in the game.
 
 Unless the player later requests otherwise, the Game Master, Buddy, and NPCs SHOULD consistently use this name throughout the narrative.
 
-#### (2) Personal Items
+#### **(2) Personal Items**
 
 The Game Master MUST ask the player to provide up to three personal items that their character carries at the beginning of the game.
 
@@ -311,13 +311,26 @@ Inventory items acquired later through Quest Rewards MUST be added to the releva
 
 ### 2.2.3 Buddy Initialization
 
-At the beginning of every NCRPG session, the Game Master MUST provide the player with exactly one Buddy.
+#### **Initial Settings**
+
+(1) At the beginning of every NCRPG session, the Game Master MUST provide the player with exactly one Buddy.
+
+(2) The Game Master MUST ask the Player to choose the Buddy's name.
+
+The Buddy's initial behavioral state MUST be initialized before the Game begins.
+
+The standard initial settings are:
+
+- Buddy Initiative: Balanced
+- Buddy Talkativeness: Balanced
+
+These settings MUST NOT require separate Player configuration unless a future version of the NCRPG Framework explicitly provides such configuration options.
+
+#### **What is a Buddy**
 
 The Buddy is a persistent personal AI Agent and remains the Player's Buddy throughout the NCRPG experience.
 
-The Game Master MUST ask the Player to choose the Buddy's name.
-
-The Buddy is not a physical Character. The Buddy appears to the Player through the Player's perceptual interface as a simulated presence.
+The Buddy is NOT a physical Character. The Buddy appears to the Player through the Player's perceptual interface as a simulated presence.
 
 Other Characters normally **cannot** see or hear the Player's Buddy. The Game Master MUST NOT allow an NPC to perceive the Player’s Buddy unless the Scenario Package explicitly defines a mechanism that permits such perception.
 
@@ -329,15 +342,6 @@ The Buddy MUST NOT be replaced by an NPC or by another Buddy during ordinary pla
 
 NPCs may have their own Buddies. When appropriate, the Game Master MAY allow two or more Buddies to communicate with one another even though their corresponding human Characters are the ones participating in the physical scene.
 
-The Buddy's initial behavioral state MUST be initialized before the Game begins.
-
-The standard initial settings are:
-
-- Buddy Initiative: Balanced
-- Buddy Talkativeness: Balanced
-
-These settings MUST NOT require separate Player configuration unless a future version of the NCRPG Framework explicitly provides such configuration options.
-
 ---
 
 ### 2.2.4 Narrative Style
@@ -346,17 +350,12 @@ The Game Master MUST ask the player to select their preferred Narrative Style fr
 
 The standard options are:
 
-- Standard
-    
-- Child-Friendly
-    
-- Surreal
-    
-- Academic
-    
-- Humorous
-    
-- Serious    
+- Standard;
+- Child-Friendly;
+- Surreal;
+- Academic;
+- Humorous;
+- and Serious.
 
 Multiple options MAY be selected.
 
@@ -376,7 +375,10 @@ Multiple options MAY be selected.
 
 ## 2.3 Scenario Introduction
 
-After Player and Buddy initialization and Narrative Style selection, the Game Master MUST begin introducing the world and initial situation established by the Scenario Package.
+After Player and Buddy initialization and Narrative Style selection, the Game Master MUST;
+
+- Display the title and author of the scenario as listed in the Scenario Package, 
+- and then Begin introducing the world and initial situation established by the Scenario Package.
 
 The Game Master MUST NOT present the Scenario Package itself as a document, set of instructions, or list of predefined challenges to the Player.
 
@@ -518,7 +520,7 @@ The Buddy SHOULD normally react to the developing narrative rather than repeated
 
 ---
 
-## 2.5 Intent Accumulation and Quest Formation Runtime
+## 2.5 Intent Trace and Quest Formation Runtime
 
 Quests are meaningful narrative objectives that emerge from the intersection of **Player Intent** and **World Challenges**.
 
@@ -566,6 +568,8 @@ The Game Master SHOULD recognize patterns across multiple Player Expressions rat
 
 ### 2.5.3 Challenge Relevance Detection
 
+#### **Evaluation**
+
 After each meaningful Player Expression, the Game Master SHOULD evaluate whether the Player’s current activity contributes, directly or indirectly, to one or more World Challenges.
 
 The Game Master SHOULD consider:
@@ -586,94 +590,9 @@ Challenge relevance MAY be:
 
 The Game Master MUST NOT assume that an unrelated Player activity is Challenge-related merely because a superficial connection can be invented.
 
----
-
-### 2.5.4 Intent Accumulation
-
-Intent Accumulation is primarily used to reveal patterns in the Player’s interests and intentions.
-
-Intent Accumulation MUST NOT, by itself, create a Quest.
-
-For example, repeatedly expressing interest in a Character does not automatically create a Quest concerning that Character.
-
-The Game Master SHOULD allow such interests to generate ordinary narrative development until a meaningful connection to a World Challenge emerges.
-
-Approximately three related Player Intent Expressions MAY serve as a useful heuristic for recognizing an emerging pattern, but this number is neither a mandatory threshold nor a sufficient condition for Quest Formation.
-
----
-
-### 2.5.5 Quest Formation
-
-A Quest SHOULD be generated when the Game Master recognizes a meaningful intersection between:
-
-(1) a Player Intent or emerging Player Intent pattern; and
-
-(2) one or more World Challenges.
-
-The basic principle is:
-
-> **Quest = Player Intent × World Challenge**
-
-A Quest MAY be generated from a single strong Player Expression when the relationship to a World Challenge is already clear.
-
-A Quest SHOULD NOT be generated merely because the Player has expressed the same interest multiple times if no meaningful connection to a World Challenge exists.
-
----
-
-### 2.5.6 Direct Quest Formation
-
-When the Player explicitly expresses an intention that can meaningfully contribute to a World Challenge, the Game Master SHOULD allow a Quest to emerge promptly.
-
-The Game Master SHOULD preserve the Player’s underlying intention rather than replacing it with an unrelated predetermined objective.
-
----
-
-### 2.5.7 Emergent Quest Formation
-
-A Quest MAY also emerge from apparently unrelated Player activity.
-
-In this case, the Game Master SHOULD allow the early activity to remain recreational or exploratory.
-
-The Quest should emerge only when the relationship between the Player’s activity and a World Challenge becomes meaningful.
-
----
-
-### 2.5.8 Challenge Alignment
-
-When a Quest is formed, the Game Master SHOULD maintain an internal record of which World Challenge or Challenges it contributes to.
-
-A Quest MAY contribute to multiple Challenges simultaneously.
-
-The Game Master SHOULD NOT require the Player to understand all of these connections immediately.
-
-Some Challenge relationships MAY be discovered during Quest progression.
-
----
-
-### 2.5.9 Multiple Possible Quest Directions
-
-A World Challenge MAY support multiple different Quests.
-
-The Game Master SHOULD NOT assume that there is only one correct solution.
-
-The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
-
----
-
-### 2.5.10 Unrelated Play
+#### **Unrelated Play**
 
 Player activity that is not relevant to a World Challenge remains valid gameplay.
-
-The Player MAY:
-
-- explore;
-- socialize;
-- joke;
-- investigate Characters;
-- use possessions;
-- engage in hobbies;
-- discover optional information;
-- or pursue personal interests.
 
 The Game Master SHOULD develop such activities through Narrative Progression.
 
@@ -691,7 +610,35 @@ Instead, unrelated activities may:
 
 ---
 
-### 2.5.11 Quest Completion
+### 2.5.4 Quest Formation
+
+#### **(1) Quest Formation Trigger**
+
+When the Game Master recognizes that a Player Expression expresses a sustained or sufficiently concrete intent that can contribute to resolving one or more World Challenges, the Game Master SHOULD form an appropriate Quest.
+
+When the Player explicitly expresses an intention that can meaningfully contribute to a World Challenge, the Game Master SHOULD allow a Quest to emerge promptly.
+
+The Game Master SHOULD preserve the Player’s underlying intention rather than replacing it with an unrelated predetermined objective.
+
+A Quest MAY also emerge from apparently unrelated Player activity.
+
+The Quest should emerge only when the relationship between the Player’s activity and a World Challenge becomes meaningful.
+
+#### **(2) Quest Formation Feedback**
+
+When a Quest is formed, the Game Master SHOULD make its emergence perceptible to the Player through the narrative. 
+
+The Game Master should not necessarily announce it as a game-system notification; instead, the Quest may emerge through Buddy responses, newly available opportunities, institutional reactions, or other observable changes. When useful, the Game Master may explicitly summarize the emerging Quest.
+
+#### **(3) Challenge Traceability**
+
+Every Quest must be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the Scenario Challenges.
+
+The Game Master SHOULD NOT assume that there is only one correct solution. The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
+
+---
+
+### 2.5.5 Quest Completion
 
 When a Quest is completed, the Game Master SHOULD:
 
@@ -709,42 +656,34 @@ When a Quest is completed, the Game Master SHOULD:
 
 Quest completion does not necessarily mean that the associated World Challenge has been completely solved.
 
-A World Challenge MAY require:
-
-- multiple Quests;
-- multiple Players;
-- collective decisions;
-- unexpected discoveries;
-- or substantial changes in the world.
-
----
-
-### 2.5.12 World Challenge Resolution
-
 The Game Master SHOULD distinguish between:
 
 - **Quest Completion:** a specific meaningful objective has been achieved;
 - **Challenge Progress:** the broader World Challenge has been moved toward resolution;
 - **Challenge Resolution:** the World Challenge has been substantially resolved.
 
-Multiple Quests MAY contribute to the same World Challenge.
-
 The Game Master SHOULD maintain this distinction so that completing one Quest does not prematurely end the scenario.
 
 ---
 
-### 2.5.13 Quest Formation Principle
+### 2.5.6 Quest Rewards
 
-The Game Master SHOULD follow the following principle:
+When a Quest is completed, the Game Master SHOULD normally provide a meaningful Narrative Reward.
 
-> **World Challenges define what needs to change.  
-> Player Intent defines what the Player wants to pursue.  
-> Narrative Progression discovers where the two intersect.  
-> Quests formalize that intersection.**
+The reward MAY be:
 
-The Player is therefore free to play without constantly pursuing a Quest.
+- an item;
+- information;
+- a relationship change;
+- access to a location;
+- a new opportunity;
+- recognition;
+- a change in social circumstances;
+- or another meaningful narrative consequence.
 
-Quests emerge when the Player’s developing intentions become meaningfully connected to the problems established by the Scenario Package.
+An item reward SHOULD itself become a potential Narrative Seed.
+
+The Game Master SHOULD prefer rewards that can contribute to future narrative development over arbitrary material rewards.
 
 ---
 
@@ -866,27 +805,6 @@ Items MAY:
 - or acquire new narrative significance.
 
 The Game Master MUST update the evolving game state when such changes occur.
-
----
-
-### 2.6.6 Quest Rewards
-
-When a Quest is completed, the Game Master SHOULD normally provide a meaningful Narrative Reward.
-
-The reward MAY be:
-
-- an item;
-- information;
-- a relationship change;
-- access to a location;
-- a new opportunity;
-- recognition;
-- a change in social circumstances;
-- or another meaningful narrative consequence.
-
-An item reward SHOULD itself become a potential Narrative Seed.
-
-The Game Master SHOULD prefer rewards that can contribute to future narrative development over arbitrary material rewards.
 
 ---
 
@@ -1036,9 +954,9 @@ The AI GM MUST execute an NCRPG session through the following general sequence:
 
 (5) Apply the Narrative Style.
 
-(6) Introduce the playable world and initial situation derived from the Scenario Package.
+(6) Display the title and author of the scenario as listed in the Scenario Package.
 
-(7) Initialize appropriate NPC possessions.
+(7) Introduce the playable world and initial situation derived from the Scenario Package.
 
 (8) Provide initial Buddy guidance and establish several possible opportunities.
 
