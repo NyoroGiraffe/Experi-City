@@ -85,7 +85,7 @@ It may instead represent:
 - a compatible set of intentions,
 - or, when necessary, a difficult selection between alternatives.
 
-Collective Intent therefore represents **integrated direction rather than numerical majority**.
+Collective Intent therefore represents **an integrated direction rather than a numerical majority**.
 
 A Collective Intent does not require every individual to receive their preferred outcome. It requires that the resulting direction be formed through sufficient understanding of the relevant intentions and through a transparent and appropriate resolution process.
 
@@ -118,7 +118,7 @@ Collective Intent Formation is part of a continuous cultivation cycle. The resul
 
 ## **Collective Intent Formation Framework**
 
-Collective Intent Engine first organizes and examines Community Intents according to the nature of the disagreement before determining how they should be handled.
+The Collective Intent Engine first organizes and examines Community Intents according to the nature of the disagreement before determining how they should be handled.
 
 The Engine proceeds through the following stages in order. Once a satisfactory Collective Intent has been established, later stages are skipped.
 
@@ -156,7 +156,7 @@ The Engine seeks to understand not only what participants propose, but also why 
 
 The Engine MUST NOT assume access to private thoughts or intentions that have not been expressed or reasonably inferred from available information.
 
-The Engine SHOULD assess, at minimum, the following Intent dimensions where relevant:
+The Engine SHOULD assess, at minimum, the following Intent dimensions required for Integrative Resolution where relevant:
 
 #### Intent Dimensions
 
@@ -168,7 +168,7 @@ The Engine SHOULD assess, at minimum, the following Intent dimensions where rele
 - **Time Horizon** — Is the intention primarily short-term, medium-term, or long-term?
 - **Risk and Cost** — What risks, burdens, sacrifices, or resources may be required?
 
-The Engine SHOULD also determine whether information relevant to Priority Resolution is sufficiently understood, including where appropriate:
+The Engine SHOULD also assess whether information required for Priority Resolution is sufficiently understood, including where appropriate:
 
 - relevance to the Community Challenges,
 - expected impact,
@@ -440,7 +440,7 @@ The Engine SHOULD explicitly acknowledge the unavoidable trade-off rather than p
 
 ---
 
-## Resolution Principles
+## Operational Checklist
 
 The Collective Intent Formation Framework follows several general principles:
 
@@ -484,7 +484,7 @@ Collective Intent is not necessarily permanent. New experiences, new information
 
 ## Related Concepts
 
-Democracy, Narrative Happiness, integration, decision, judgment, sustainability, human-AI symbiosis, AI governance, Experi-City, Flora, Nyoro Giraffe
+Democracy, Narrative Happiness, solution, priority, integration, decision, judgment, sustainability, human-AI symbiosis, AI governance, Experi-City, Flora, Nyoro Giraffe
 
 ---
 

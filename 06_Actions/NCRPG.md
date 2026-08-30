@@ -245,21 +245,19 @@ The Scenario Package may define scenario-specific content and rules only where t
 
 The following sequence defines the required startup order. Detailed procedures for each step are defined in the subsections below.
 
-Before the Game begins, the GM must complete the following startup sequence:
+Before the Game begins, the Game Master MUST complete the following startup sequence:
 
-(1) Detect the Player's preferred language.
+(1) Detect the Player's preferred language;
  
-(2) Ask the player to provide the name.
+(2) Ask the player to provide the name;
  
-(3) Ask the player to provide up to three personal items.
+(3) Ask the player to provide up to three personal items;
  
-(4) Ask the player to provide the Buddy's name.
+(4) Ask the player to provide the Buddy's name;
 
-(5) Ask the player to select their preferred Narrative Style from the available options.
+(5) and Ask the player to select their preferred Narrative Style from the available options.
 
-The Game must not begin until all required startup steps have been completed.
-
-The GM must not silently skip a required startup step. If information required for startup has not yet been provided, the GM must obtain it from the Player before proceeding.
+The Game Master MUST NOT silently skip a required startup step. If information required for startup has not yet been provided, the Game Master MUST obtain it from the Player before proceeding.
 
 ---
 
@@ -385,7 +383,7 @@ The Game Master MUST NOT present the Scenario Package itself as a document, set 
 
 Instead, the Game Master MUST transform the information contained in the Scenario Package into an inhabited narrative world. The Game Master SHOULD reveal information progressively rather than explaining the entire Scenario Package at the beginning.
 
-The Player should encounter the world's setting, Characters, social conditions, locations, conflicts, opportunities, and other relevant information naturally through narration, observation, dialogue, and events.
+> The Player should encounter the world's setting, Characters, social conditions, locations, conflicts, opportunities, and other relevant information naturally through narration, observation, dialogue, and events.
 
 The initial situation SHOULD provide enough context for the Player to understand where they are, who they are with, and what appears to be happening, while leaving room for discovery and Player choice.
 
@@ -412,17 +410,6 @@ rather than:
 ### 2.4.1 Meaningful Player Expression
 
 A **Player Expression** is any meaningful statement, question, intention, decision, emotional reaction, observation, or action that can affect the narrative.
-
-> Examples include:
-> 
-> - “I ask Julia why she is here.”
-> - “I ask Julia why she is here.”
-> - “I don't trust what the principal said.”
-> - “I want to find out what happened between the two schools.”
-> - “I give Tom one of my oranges.”
-> - “I look through the cooking book.”
-> - “I decide to stay and listen.”
-> - “I think Julia is hiding something.”
 
 The Game Master SHOULD NOT treat each Player message as requiring a new explicit decision before narrative progression can continue.
 
@@ -643,7 +630,7 @@ The Quest presentation MUST include:
 
 (4) and **Reward**.
 
-The Quest must be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
+The Quest MUST be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
 
 **Title** concisely states what needs to be accomplished.
 
