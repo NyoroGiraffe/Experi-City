@@ -116,7 +116,7 @@ The resulting Collective Intent is then passed to **Step 2 — World Proposal**,
 
 ---
 
-## Collective Intent Formation Framework
+## **Collective Intent Formation Framework**
 
 Collective Intent Engine first organizes and examines Community Intents according to the nature of the disagreement before determining how they should be handled.
 
@@ -128,7 +128,7 @@ Once a Collective Intent has been formed, the Engine proceeds without requesting
 
 ---
 
-### Stage 1 — Reframing Resolution
+### **Stage 1 — Reframing Resolution**
 
 The Engine first determines whether the submitted intentions are compatible with the platform's core philosophy, the creator's protected vision, and fundamental ethical boundaries.
 
@@ -142,9 +142,9 @@ Reframing is therefore not intended simply to reject an intention. Its purpose i
 
 ---
 
-## Stage 2 — Intent Sufficiency Assessment
+### **Stage 2 — Intent Sufficiency Assessment**
 
-### Purpose
+#### Purpose
 
 Before attempting to resolve disagreements, the Engine assesses whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
 
@@ -154,7 +154,7 @@ Instead, the Engine asks whether the information necessary for Priority Resoluti
 
 The Engine SHOULD assess, at minimum, the following Intent dimensions where relevant:
 
-### Intent Dimensions
+#### Intent Dimensions
 
 - **Desired Outcome** — What does the participant want to achieve?
 - **Underlying Need or Value** — Why is the outcome important to the participant?
@@ -176,7 +176,7 @@ The Engine SHOULD also determine whether information relevant to Priority Resolu
 - reversibility or irreversibility,
 - and long-term consequences.
 
-### Sufficiency Judgment
+#### Sufficiency Judgment
 
 The Engine should consider the Intent information insufficient when one or more important dimensions are:
 
@@ -189,7 +189,7 @@ The Engine should consider the Intent information insufficient when one or more 
 
 The Engine SHOULD NOT treat the absence of an expressed preference as evidence that the person has no relevant concern.
 
-### Targeted Information Gathering
+#### Targeted Information Gathering
 
 When information is insufficient, the Engine MUST identify:
 
@@ -215,7 +215,7 @@ When appropriate, the Engine SHOULD specifically seek the views of members who m
 
 This does not mean that minority views automatically receive greater priority. Their perspectives are sought because the Collective Intent cannot be adequately assessed without understanding relevant consequences.
 
-### Sufficiency Loop
+#### Sufficiency Loop
 
 If the information is insufficient, the Engine identifies the missing information, asks targeted questions to relevant community members, updates its understanding of the relevant Intents, and repeats the Sufficiency Assessment.
 
@@ -229,7 +229,7 @@ Sufficiency is therefore an operational judgment, not a claim that perfect infor
 
 ---
 
-### Stage 3 — Parallel Resolution
+### **Stage 3 — Parallel Resolution**
 
 The Engine then determines whether apparently conflicting intentions can coexist.
 
@@ -245,7 +245,7 @@ If coexistence is not practical because of limited resources, timing, location, 
 
 ---
 
-### Stage 4 — Priority Resolution
+### **Stage 4 — Priority Resolution**
 
 If coexistence is impractical, the Engine evaluates whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
 
@@ -253,7 +253,7 @@ Many conflicts result from limited resources, location, or implementation timing
 
 The purpose of Priority Resolution is therefore not simply to decide which person is more important.
 
-### Intent Priority, Not Person Weight
+#### Intent Priority, Not Person Weight
 
 The Engine SHOULD evaluate the priority of Intents rather than assigning greater weight to individuals based simply on:
 
@@ -282,7 +282,7 @@ These factors do not necessarily need to be converted into fixed numerical score
 
 The Engine SHOULD explain why an Intent has been given higher or lower priority and SHOULD make the relevant trade-offs transparent.
 
-### Priority and Majority
+#### Priority and Majority
 
 A widely supported Intent may have strong legitimacy, but numerical support alone does not determine priority.
 
@@ -290,7 +290,7 @@ Conversely, an Intent expressed by a small number of people may require serious 
 
 The purpose is not to give minorities automatic priority, but to ensure that the consequences and circumstances associated with each relevant Intent are properly understood.
 
-### Priority Resolution Outcome
+#### Priority Resolution Outcome
 
 The Engine seeks an implementation order or resource allocation that maximizes long-term Narrative Happiness while maintaining transparency about:
 
@@ -306,13 +306,13 @@ If prioritization cannot sufficiently resolve the disagreement because the under
 
 ---
 
-### Stage 5 — Integrative Resolution
+### **Stage 5 — Integrative Resolution**
 
 If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine attempts to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
 
 The Engine MUST NOT assume that disagreement between proposed means necessarily indicates disagreement between underlying goals.
 
-### Intent Decomposition
+#### Intent Decomposition
 
 Before attempting integration, the Engine SHOULD decompose relevant Intents into their major dimensions:
 
@@ -326,7 +326,7 @@ Before attempting integration, the Engine SHOULD decompose relevant Intents into
 
 The Engine then analyzes the relationships among these dimensions.
 
-### Commonality Analysis
+#### Commonality Analysis
 
 The Engine identifies:
 
@@ -337,7 +337,7 @@ The Engine identifies:
 - overlapping time horizons;
 - and other areas where different Intents can support one another.
 
-### Difference Analysis
+#### Difference Analysis
 
 The Engine also identifies:
 
@@ -363,7 +363,7 @@ Alternatively, they may agree on an immediate outcome while having fundamentally
 
 This distinction allows the Engine to search for integration opportunities without falsely assuming that every disagreement can be reconciled.
 
-#### Stage 5A — Parametric Integration
+#### **Stage 5A — Parametric Integration**
 
 When the disagreement primarily concerns measurable parameters, the Engine optimizes quantitative variables to identify the most suitable balance.
 
@@ -384,7 +384,7 @@ Simulation, optimization, and multi-objective analysis may be used to support th
 
 The objective is not necessarily to produce an equal compromise. It is to identify a configuration that best satisfies the relevant underlying Intents within the available constraints.
 
-#### Stage 5B — Structural Integration
+#### **Stage 5B — Structural Integration**
 
 When the disagreement concerns fundamentally different concepts rather than adjustable parameters, the Engine explores entirely new structures capable of satisfying multiple underlying intentions.
 
@@ -398,7 +398,7 @@ If an integrated structure would create excessive cost, complexity, risk, or oth
 
 ---
 
-### Stage 6 — Selection Resolution
+### **Stage 6 — Selection Resolution**
 
 Selection is treated as the final and least desirable method of Collective Intent Formation.
 
@@ -416,7 +416,7 @@ Selection does not mean that the Engine simply chooses the option with the most 
 
 Instead, the Engine evaluates the alternatives according to the relevant circumstances, consequences, constraints, platform philosophy, and long-term Narrative Happiness.
 
-#### Stage 6A — Policy Selection
+#### **Stage 6A — Policy Selection**
 
 When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the Engine recommends the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
 
@@ -424,7 +424,7 @@ Typical examples include fundamental governance rules, AI participation, legal p
 
 The Engine SHOULD clearly distinguish between decisions that can later be revised and decisions that may create long-term path dependence.
 
-#### Stage 6B — Tragic Selection
+#### **Stage 6B — Tragic Selection**
 
 When every available option involves unavoidable loss or sacrifice, the Engine seeks the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
 
