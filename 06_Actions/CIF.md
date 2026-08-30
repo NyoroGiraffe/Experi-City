@@ -70,7 +70,7 @@ The shared world evolves through repeated collaboration between the community, A
 	- Flora Learning Network
 
 ---
-# What is Collective Intent?
+## What is Collective Intent?
 
 Collective Intent is not the opinion supported by the largest number of people.
 
@@ -101,7 +101,7 @@ A Collective Intent does not require every individual to receive their preferred
 
 The purpose of Collective Intent Formation is to transform diverse Community Intents into a Collective Intent that best supports the long-term cultivation of Narrative Happiness. 
 
-The objective is not to determine who is right, nor to maximize the number of supporters for a particular proposal. 
+The objective is NOT to determine who is right, nor to maximize the number of supporters for a particular proposal. 
 
 Instead, the Engine seeks to:
 
@@ -122,7 +122,7 @@ The Collective Intent Engine first organizes and examines Community Intents acco
 
 The Engine proceeds through the following stages in order. Once a satisfactory Collective Intent has been established, later stages are skipped.
 
-The Engine should not proceed merely because some opinions have been collected. Before resolution, it must determine whether the relevant information required for understanding, prioritization, and integration is sufficiently available.
+The Engine SHOULD NOT proceed merely because some opinions have been collected. Before resolution, it MUST determine whether the relevant information required for understanding, prioritization, and integration is sufficiently available.
 
 Once a Collective Intent has been formed, the Engine proceeds without requesting repeated approval for each intermediate decision. Instead, it assumes responsibility for translating the Collective Intent into a World Proposal, while ensuring that all changes remain transparent, explainable, and open to future refinement through Community Intent and subsequent experience.
 
@@ -130,15 +130,15 @@ Once a Collective Intent has been formed, the Engine proceeds without requesting
 
 ### **Stage 1 — Reframing Resolution**
 
-The Engine first determines whether the submitted intentions are compatible with the platform's core philosophy, the creator's protected vision, and fundamental ethical boundaries.
+The Engine first SHOULD determine whether the submitted intentions are compatible with the platform's core philosophy, the creator's protected vision, and fundamental ethical boundaries.
 
-If an intention is incompatible, it does not become part of a Collective Intent.
+If an intention is incompatible, it does NOT become part of a Collective Intent.
 
 Instead, the Engine explains why the proposal cannot be adopted in its current form and encourages the community to explore more constructive alternatives.
 
 When similar incompatible intentions repeatedly emerge, the Engine may analyze their underlying motivations and generate new, philosophy-compatible directions for future consideration.
 
-Reframing is therefore not intended simply to reject an intention. Its purpose is to determine whether the underlying aspiration can be expressed in a form that is compatible with the framework.
+Reframing is therefore NOT intended simply to reject an intention. Its purpose is to determine whether the underlying aspiration can be expressed in a form that is compatible with the framework.
 
 ---
 
@@ -146,7 +146,7 @@ Reframing is therefore not intended simply to reject an intention. Its purpose i
 
 #### Purpose
 
-Before attempting to resolve disagreements, the Engine assesses whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
+Before attempting to resolve disagreements, the Engine MUST assess whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
 
 Sufficiency does not mean that every member has expressed an opinion about every possible issue.
 
@@ -182,7 +182,7 @@ The Engine SHOULD also assess whether information required for Priority Resoluti
 
 #### Sufficiency Judgment
 
-The Engine should consider the Intent information insufficient when one or more important dimensions are:
+The Engine SHOULD consider the Intent information insufficient when one or more important dimensions are:
 
 - unknown;
 - substantially ambiguous;
@@ -235,7 +235,7 @@ Sufficiency is therefore an operational judgment, not a claim that perfect infor
 
 ### **Stage 3 — Parallel Resolution**
 
-The Engine then determines whether apparently conflicting intentions can coexist.
+The Engine then SHOULD determine whether apparently conflicting intentions can coexist.
 
 Many disagreements arise because participants assume that only one proposal can be accepted. When coexistence is possible, the Engine preserves multiple preferences instead of forcing unnecessary consensus.
 
@@ -251,11 +251,11 @@ If coexistence is not practical because of limited resources, timing, location, 
 
 ### **Stage 4 — Priority Resolution**
 
-If coexistence is impractical, the Engine evaluates whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
+If coexistence is impractical, the Engine SHOULD evaluate whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
 
 Many conflicts result from limited resources, location, or implementation timing rather than incompatible objectives.
 
-The purpose of Priority Resolution is therefore not simply to decide which person is more important.
+The purpose of Priority Resolution is therefore NOT simply to decide which person is more important.
 
 #### Intent Priority, Not Person Weight
 
@@ -288,7 +288,7 @@ The Engine SHOULD explain why an Intent has been given higher or lower priority 
 
 #### Priority and Majority
 
-A widely supported Intent may have strong legitimacy, but numerical support alone does not determine priority.
+A widely supported Intent may have strong legitimacy, but numerical support alone does NOT determine priority.
 
 Conversely, an Intent expressed by a small number of people may require serious consideration when it concerns significant vulnerability, irreversible consequences, or a critical Community Challenge.
 
@@ -312,9 +312,9 @@ If prioritization cannot sufficiently resolve the disagreement because the under
 
 ### **Stage 5 — Integrative Resolution**
 
-If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine attempts to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
+If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine SHOULD attempt to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
 
-A New Intent should be derived from the underlying motivations identified in the Community Intents, rather than representing an independent preference of the Engine.
+A New Intent SHOULD be derived from the underlying motivations identified in the Community Intents, rather than representing an independent preference of the Engine.
 
 The Engine MUST NOT assume that disagreement between proposed means necessarily indicates disagreement between underlying goals.
 
@@ -398,7 +398,7 @@ Examples include new institutions, hybrid governance models, mixed-use urban des
 
 The Engine may therefore generate a New Intent that no individual participant initially proposed when that Intent better reflects the underlying aspirations identified through Intent Decomposition.
 
-However, it should not force incompatible elements together merely to avoid making a difficult choice.
+However, it SHOULD NOT force incompatible elements together merely to avoid making a difficult choice.
 
 If an integrated structure would create excessive cost, complexity, risk, or other problems, the Engine SHOULD return to Stage 4 — Priority Resolution or proceed to Stage 6 — Selection Resolution.
 
@@ -408,7 +408,7 @@ If an integrated structure would create excessive cost, complexity, risk, or oth
 
 Selection is treated as the final and least desirable method of Collective Intent Formation.
 
-Only after coexistence, prioritization, and integration have been sufficiently explored does the Engine recommend selecting between mutually exclusive alternatives.
+Only after coexistence, prioritization, and integration have been sufficiently explored does the Engine SHOULD select between mutually exclusive alternatives.
 
 The Engine MUST clearly explain why: 
 
@@ -418,13 +418,13 @@ The Engine MUST clearly explain why:
 
 before proceeding to Selection Resolution.
 
-Selection does not mean that the Engine simply chooses the option with the most supporters.
+Selection does NOT mean that the Engine simply chooses the option with the most supporters.
 
 Instead, the Engine evaluates the alternatives according to the relevant circumstances, consequences, constraints, platform philosophy, and long-term Narrative Happiness.
 
 #### **Stage 6A — Policy Selection**
 
-When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the Engine recommends the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
+When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the Engine SHOULD recommend the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
 
 Typical examples include fundamental governance rules, AI participation, legal principles, or other irreversible institutional choices.
 
@@ -432,7 +432,7 @@ The Engine SHOULD clearly distinguish between decisions that can later be revise
 
 #### **Stage 6B — Tragic Selection**
 
-When every available option involves unavoidable loss or sacrifice, the Engine seeks the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
+When every available option involves unavoidable loss or sacrifice, the Engine SHOULD seek the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
 
 These situations should remain exceptionally rare and are never treated as ordinary governance decisions.
 
