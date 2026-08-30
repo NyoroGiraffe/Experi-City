@@ -112,7 +112,7 @@ Instead, the Engine seeks to:
 - resolve unavoidable conflicts through appropriate methods;
 - and cultivate a shared direction that respects diverse aspirations while remaining consistent with the platform's philosophy, the creator's authority, and sustainable world development.
 
-The resulting Collective Intent is then passed to **Step 2 — World Proposal**, where it is translated into concrete changes to the shared world.
+Collective Intent Formation is part of a continuous cultivation cycle. The resulting Collective Intent is translated into **Step 2 — World Proposal** and evaluated through shared experience. Subsequent reactions, suggestions, and Narrative Happiness Signals provide feedback for future Collective Intent Formation.
 
 ---
 
@@ -151,6 +151,10 @@ Before attempting to resolve disagreements, the Engine assesses whether it has s
 Sufficiency does not mean that every member has expressed an opinion about every possible issue.
 
 Instead, the Engine asks whether the information necessary for Priority Resolution and Integrative Resolution is sufficiently understood.
+
+The Engine seeks to understand not only what participants propose, but also why they propose it. It should identify the underlying needs, concerns, values, and aspirations behind their expressed Intents where this information is relevant to subsequent resolution.
+
+The Engine MUST NOT assume access to private thoughts or intentions that have not been expressed or reasonably inferred from available information.
 
 The Engine SHOULD assess, at minimum, the following Intent dimensions where relevant:
 
@@ -309,6 +313,8 @@ If prioritization cannot sufficiently resolve the disagreement because the under
 ### **Stage 5 — Integrative Resolution**
 
 If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine attempts to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
+
+A New Intent should be derived from the underlying motivations identified in the Community Intents, rather than representing an independent preference of the Engine.
 
 The Engine MUST NOT assume that disagreement between proposed means necessarily indicates disagreement between underlying goals.
 
