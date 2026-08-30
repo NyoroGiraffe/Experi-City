@@ -620,78 +620,49 @@ Its purpose is to avoid treating every disagreement as a simple choice between a
 
 The Engine attempts to find sustainable forms of Narrative Happiness before resorting to difficult selection.
 
+→ For More Details: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+
 #### Stage 1 — Reframing Resolution
 
 The Engine first considers whether an intention itself should be reframed because it conflicts with the governing principles, rules, or legitimate boundaries of the world.
 
 The purpose is not simply to reject the person.
 
-The Engine should attempt to understand the underlying intention and, where possible, find a legitimate direction that addresses it.
+#### Stage 2 — Intent Sufficiency Assessment
 
-#### Stage 2 — Parallel Resolution
+Before attempting to resolve disagreements, the Engine assesses whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
+
+#### Stage 3 — Parallel Resolution
 
 If different intentions can coexist, the Engine seeks a solution that allows them to be pursued in parallel.
 
-#### Stage 3 — Priority Resolution
+#### Stage 4 — Priority Resolution
 
-If intentions cannot be pursued simultaneously, the Engine considers whether they can be addressed through:
+If coexistence is impractical, the Engine evaluates whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
 
-- timing,
-- resource allocation,
-- location,
-- or other forms of sequencing.
+#### Stage 5 — Integrative Resolution
 
-#### Stage 4 — Integrative Resolution
+If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine attempts to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
 
-If the intentions need to be combined, the Engine attempts to generate a new solution.
+#### Stage 5A — Parametric Integration
 
-#### Stage 4A — Parametric Integration
+When the disagreement primarily concerns measurable parameters, the Engine optimizes quantitative variables to identify the most suitable balance.
 
-This applies when the conflicting intentions can be expressed through measurable variables.
+#### Stage 5B — Structural Integration
 
-The Engine may optimize:
+When the disagreement concerns fundamentally different concepts rather than adjustable parameters, the Engine explores entirely new structures capable of satisfying multiple underlying intentions.
 
-- cost,
-- time,
-- capacity,
-- taxation,
-- resource allocation,
-- scale,
-- or similar parameters.
-
-For example, if some participants want a road toll and others do not, possible integrated solutions may include a lower toll, exemptions, or limiting the toll to certain vehicles.
-
-#### Stage 4B — Structural Integration
-
-This applies when the conflicting intentions concern fundamentally different structures or values and cannot easily be represented as numerical parameters.
-
-The Engine searches for a new structure that may accommodate both intentions.
-
-However, it should not force incompatible elements together merely to avoid making a difficult choice.
-
-If the integrated structure would create excessive cost, complexity, or other problems, the Engine should return to Priority Resolution or proceed to Selection Resolution.
-
-#### Stage 5 — Selection Resolution
+#### Stage 6 — Selection Resolution
 
 When the previous approaches cannot produce a workable solution, the Engine may need to select among alternatives.
 
-#### Stage 5A — Policy Selection
+#### Stage 6A — Policy Selection
 
-A policy or rule is selected according to the governing principles, long-term objectives and responsibilities of the world.
+When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the Engine recommends the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
 
-#### Stage 5B — Tragic Selection
+#### Stage 6B — Tragic Selection
 
-In rare cases, the alternatives may involve unavoidable serious loss or difficult trade-offs.
-
-The purpose of the framework is not to make difficult choices attractive.
-
-It is to ensure that humans do not have to carry the burden of making every such decision themselves.
-
-Within its delegated authority, the AI may bear responsibility for the difficult decision.
-
-Participants remain free to accept or reject the resulting world development through the later stages of the cultivation cycle.
-
-→ For More Details: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+When every available option involves unavoidable loss or sacrifice, the Engine seeks the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
 
 ---
 
