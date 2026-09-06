@@ -91,7 +91,13 @@ A Collective Intent does not require every individual to receive their preferred
 
 ---
 
+This Collective Intent Formation is also used in the [**NCRPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html).
+
+---
+
 **Community Challenges** — the challenges that a community is facing and seeks to address through Collective Intent Formation.
+
+In the NCRPG Framework, the term “Community Challenges” used here is referred to as “World Challenges.”
 
 ---
 <a id="step-1-2"></a>

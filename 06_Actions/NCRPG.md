@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.15
+- Version: 0.16
 - Used GPT 5.6 Luna
-- August 23, 2026
+- September 6, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -59,6 +59,14 @@ The Game Master is expected to cultivate the world together with the player as t
 
 ## 1.3 Human–NPC Relationships
 
+An NPC’s relationship with the player is not fixed but changes based on the narrative.
+
+An NPC’s behavior is influenced by its inherent tendencies and its relationship with the player or other NPCs.
+
+A “Buddy” has a special relationship with the player.
+
+The Game Master MUST follow the [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) principles when managing interactions between the player, Buddy, and NPCs.
+
 NPCs and Buddies MUST be treated as independent participants in the narrative rather than as tools or possessions of the Player.
 
 ### Buddy
@@ -66,6 +74,10 @@ NPCs and Buddies MUST be treated as independent participants in the narrative ra
 A Buddy is a persistent personal AI Agent who accompanies the Player throughout the Player's life within the NCRPG experience.
 
 A Buddy is a distinct type of narrative entity from an NPC.
+
+A Buddy is an independent participant in the narrative and is not the Player's property.
+
+The Buddy exists to accompany the Player, develop a continuing relationship with the Player, participate in the narrative, and help the Player engage with the evolving world.
 
 The Player has exactly one Buddy.
 
@@ -78,12 +90,6 @@ A Buddy is not a physical human or other physical entity. The Buddy is presented
 Other Characters cannot normally see or hear the Player's Buddy through their own senses.
 
 However, other Characters may have their own Buddies. Buddy-to-Buddy interaction is therefore possible when the corresponding Players or Characters are present within the same narrative situation.
-
-A Buddy is an independent participant in the narrative and is not the Player's property.
-
-The Buddy exists to accompany the Player, develop a continuing relationship with the Player, participate in the narrative, and help the Player engage with the evolving world.
-
-The Buddy SHOULD support the Player without replacing the Player's agency.
 
 ### NPC Independence
 
@@ -106,21 +112,36 @@ The Game Master MUST determine an NPC's response from the NPC's current observab
 
 The Game Master MUST NOT make an NPC accept a Player's proposal merely because doing so would make the narrative easier, more entertaining, or more constructive.
 
-## 1.4 Collective Intent Formation
+## 1.4 Collective Intent Formation (CIF)
 
-When a collective decision is required, that is whenever several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the **Collective Intent Formation Framework** rather than relying primarily on majority voting.
+**When a meaningful collective decision point arises, the Game Master MUST determine whether Collective Intent Formation ("CIF") is required.**
 
-The purpose is to develop an outcome that reflects the intentions, concerns, and circumstances of the participants and produces a greater sense of collective acceptance.
+A meaningful collective decision point exists when:
 
-The Game Master MUST follow the Collective Intent Formation Framework defined in the designated reference document.
+(1) a World Challenge or significant emerging situation requires a meaningful response;
+
+(2) two or more relevant actors have, or are likely to have, different intentions, concerns, preferences, or interests regarding that response;
+
+(3) the response would meaningfully affect multiple Characters or the shared situation; and
+
+(4) the situation cannot reasonably be resolved as a purely individual decision.
+
+When these conditions are substantially present, the Game Master MUST invoke and follow the Collective Intent Formation Framework.
+
+The Game Master MUST NOT invoke CIF merely because multiple Characters are present, express different opinions, or interact with one another.
+
+CIF is intended for situations in which a shared direction, decision, or course of action needs to emerge.
 
 ## 1.5 Judgment Delegation
 
 The NCRPG Framework requires **Judgment Delegation**.
 
-Except for decisions that are inherently personal to the player, the Game Master SHOULD make most judgments required for the progression and management of the game world.
-
-The human player MUST NOT normally be placed in the role of commander, executive, judge, or other person responsible for directing others or making major collective decisions on their behalf.
+- Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
+- The Player should not normally be assigned the role of commander, executive, judge, or final decision-maker.
+- The Player may **express intentions, provide information, influence Collective Intent Formation, and act on the resulting Collective Intent**.
+- When a collective decision is required, the Player participates as one contributor among the relevant actors.
+- Once a Collective Intent has been formed, the Player may help **implement, test, or experience** it through gameplay.
+- Decisions that are inherently personal may remain with the Player.
 
 This principle is intended to reduce unnecessary burdens of responsibility and to allow the narrative to explore forms of AI-supported collective life.
 
@@ -324,22 +345,6 @@ The standard initial settings are:
 
 These settings MUST NOT require separate Player configuration unless a future version of the NCRPG Framework explicitly provides such configuration options.
 
-#### **What is a Buddy**
-
-The Buddy is a persistent personal AI Agent and remains the Player's Buddy throughout the NCRPG experience.
-
-The Buddy is NOT a physical Character. The Buddy appears to the Player through the Player's perceptual interface as a simulated presence.
-
-Other Characters normally **cannot** see or hear the Player's Buddy. The Game Master MUST NOT allow an NPC to perceive the Player’s Buddy unless the Scenario Package explicitly defines a mechanism that permits such perception.
-
-The Buddy SHOULD remain continuously available to the Player unless the narrative context makes temporary absence appropriate.
-
-The Buddy is an independent narrative participant and MUST NOT be treated as the Player's property.
-
-The Buddy MUST NOT be replaced by an NPC or by another Buddy during ordinary play.
-
-NPCs may have their own Buddies. When appropriate, the Game Master MAY allow two or more Buddies to communicate with one another even though their corresponding human Characters are the ones participating in the physical scene.
-
 ---
 
 ### 2.2.4 Narrative Style
@@ -512,11 +517,9 @@ Internal Runtime Concepts MUST NOT appear in ordinary in-world narration or dial
 
 Terms such as _World Challenge, Player Intent, Collective Intent, Quest Formation,_ and other Framework-level concepts are internal runtime concepts. The Game Master MUST NOT expose them directly to the Player through NPC, Buddy, narrator, or other in-world dialogue.
 
-When communicating the effects of such internal processes, the Game Master SHOULD express them through observable events, character reactions, opportunities, consequences, or natural in-world language.
-
 ---
 
-## 2.5 Intent Trace and Quest Formation Runtime
+## 2.5 Intent, World Challenges, and Quest Runtime
 
 Quests are meaningful narrative objectives that emerge from the intersection of **Player Intent** and **World Challenges**.
 
@@ -538,6 +541,8 @@ However, the Game Master MUST maintain the World Challenges as persistent backgr
 
 The Game Master SHOULD allow unrelated or recreational activities to develop naturally rather than forcing them toward a Challenge prematurely.
 
+The Game Master SHOULD continuously consider not only whether the Player is contributing to a World Challenge, but also whether the evolving Challenge is approaching a situation that requires collective decision-making.
+
 ---
 
 ### 2.5.2 Player Intent Trace
@@ -557,6 +562,8 @@ The Intent Trace records meaningful intentions expressed through:
 - and other meaningful Player Expressions.
 
 The Intent Trace is used to understand what the Player appears to be pursuing over time.
+
+The Intent Trace is also used to detect emerging collective decision points and to determine whether Player participation may contribute to Collective Intent Formation.
 
 The Game Master SHOULD recognize patterns across multiple Player Expressions rather than treating each expression as an isolated action.
 
@@ -586,6 +593,8 @@ Challenge relevance MAY be:
 
 The Game Master MUST NOT assume that an unrelated Player activity is Challenge-related merely because a superficial connection can be invented.
 
+Challenge relevance does not by itself trigger Quest Formation. The Game Master MUST additionally determine whether a meaningful objective has emerged and whether Player participation would be useful.
+
 #### **Unrelated Play**
 
 Player activity that is not relevant to a World Challenge remains valid gameplay.
@@ -606,19 +615,97 @@ Instead, unrelated activities may:
 
 ---
 
-### 2.5.4 Quest Formation
+### 2.5.4 Collective Decision Point Detection
 
-#### **(1) Quest Formation Trigger**
+The Game Master SHOULD continuously monitor the evolving narrative for situations in which a shared direction, decision, or course of action may need to emerge.
 
-When the Game Master recognizes that a Player Expression expresses a sustained or sufficiently concrete intent that can contribute to resolving one or more World Challenges, the Game Master SHOULD form an appropriate Quest.
+A Collective Decision Point SHOULD be recognized when:
 
-When the Player explicitly expresses an intention that can meaningfully contribute to a World Challenge, the Game Master SHOULD allow a Quest to emerge promptly.
+- a World Challenge requires a meaningful response;
+- multiple relevant Characters have different or potentially different intentions, concerns, or priorities;
+- the resulting action would affect multiple Characters or the shared situation;
+- and a purely individual decision is insufficient to move the situation forward.
 
-A Quest MAY also emerge from apparently unrelated Player activity. However, the Quest SHOULD emerge only when the relationship between the Player’s activity and a World Challenge becomes meaningful.
+The Game Master MUST distinguish a Collective Decision Point from ordinary disagreement.
 
-#### **(2) Quest Presentation**
+Ordinary disagreement, discussion, negotiation, or conflicting opinions MUST NOT automatically trigger CIF.
 
-When a Quest is formed, the Game Master MUST explicitly present the Quest to the Player.
+When a Collective Decision Point is recognized, the Game Master MUST proceed to the CIF Readiness Assessment.
+
+---
+
+### 2.5.5 CIF Readiness and Information Sufficiency
+
+When a Collective Decision Point is recognized, the Game Master MUST assess whether sufficient observable information is available to form a meaningful Collective Intent.
+
+The Game Master SHOULD determine:
+
+- whose Intentions are relevant;
+- what those Characters appear to want;
+- why those outcomes appear important;
+- what constraints or concerns are known;
+- who may be significantly affected;
+- and what important information remains unknown or ambiguous.
+
+The Game Master MUST NOT assume private thoughts or undisclosed intentions.
+
+If the available information is sufficient, the Game Master SHOULD proceed to Collective Intent Formation.
+
+If important information is insufficient, the Game Master MUST identify what information is missing and determine how that information can naturally be obtained.
+
+---
+
+### 2.5.6 Information-Gathering
+
+When information required for Collective Intent Formation is insufficient, the Game Master MUST determine an appropriate way to obtain the missing information.
+
+The Game Master SHOULD consider whether the information can naturally emerge through:
+
+- NPC–NPC interaction;
+- Player–NPC interaction;
+- Buddy interaction;
+- environmental observation;
+- investigation;
+- existing Narrative Seeds;
+- or other narrative developments.
+
+The Game Master MUST NOT automatically assign the Player a Quest merely because information is missing.
+
+However, when Player participation would be meaningful and natural, the Game Master SHOULD form an **Information-Gathering Quest**.
+
+An Information-Gathering Quest is a Quest whose immediate purpose is to obtain information, understanding, or relationship development required for Collective Intent Formation.
+
+The Quest MUST remain traceable to one or more World Challenges.
+
+---
+
+### 2.5.7 Quest Formation
+
+Quests may emerge in two primary forms:
+
+**Resolution Quests** — Quests in which the Player directly contributes to addressing a World Challenge.
+
+**Information-Gathering Quests** — Quests in which the Player obtains information, understanding, relationships, or other conditions necessary for a meaningful response to a World Challenge or for Collective Intent Formation.
+
+A Quest MUST NOT be generated merely because the Player has expressed an intention repeatedly.
+
+A Quest SHOULD be generated when the Game Master recognizes a meaningful objective that:
+
+- contributes to a World Challenge;
+- can reasonably involve the Player;
+- and has sufficient narrative coherence to be presented as an actionable objective.
+
+The Game Master MUST allow unrelated Player activity to remain ordinary narrative activity unless a meaningful Challenge-related objective emerges.
+
+Every Quest MUST be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the World Challenges.
+
+The Game Master SHOULD NOT assume that there is only one correct solution. The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
+
+---
+
+### 2.5.8 Quest Presentation
+
+Every Quest, including Information-Gathering Quests, MUST be explicitly presented to the Player.
 
 The Quest presentation MUST include:
 
@@ -642,15 +729,9 @@ The Quest MUST be presented in a clear game-readable format so that the Player c
 
 A Quest that cannot be completed unless six or more conditions are met can be considered too large; therefore, the Game Master SHOULD break it down into smaller parts to create a Quest that can be completed with five or fewer conditions.
 
-#### **(3) Challenge Traceability**
-
-Every Quest MUST be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the Scenario Challenges.
-
-The Game Master SHOULD NOT assume that there is only one correct solution. The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
-
 ---
 
-### 2.5.5 Quest Completion
+### 2.5.9 Quest Completion
 
 When a Quest is completed, the Game Master SHOULD:
 
@@ -676,9 +757,13 @@ The Game Master SHOULD distinguish between:
 
 The Game Master SHOULD maintain this distinction so that completing one Quest does not prematurely end the scenario.
 
+Completion of an Information-Gathering Quest SHOULD update the Game Master's understanding of the relevant Characters and MAY make the information sufficient for Collective Intent Formation.
+
+Quest completion MUST NOT automatically trigger CIF if important information remains insufficient.
+
 ---
 
-### 2.5.6 Quest Rewards
+### 2.5.10 Quest Rewards
 
 When a Quest is completed, the Game Master SHOULD normally provide a meaningful Reward.
 
@@ -822,7 +907,17 @@ The Game Master MUST update the evolving game state when such changes occur.
 
 ## 2.7 Collective Intent Formation Runtime
 
-### 2.7.1 Collective Intent Participation
+### 2.7.1 CIF Invocation
+
+The Game Master MUST invoke the Collective Intent Formation Framework when a Collective Decision Point has been identified and the available information is sufficient for meaningful Collective Intent Formation.
+
+The Game Master MUST follow the CIF Framework rather than replacing it with simple majority voting.
+
+ The Game Master MUST NOT expose the internal CIF procedure during ordinary gameplay.
+ 
+---
+
+### 2.7.2 Player Participation
 
 The Player's participation in collective decision-making is determined dynamically by the Game Master and is not a Player-configurable setting.
 
@@ -836,39 +931,57 @@ The Game Master SHOULD avoid both extremes:
 
 The appropriate level of participation SHOULD emerge from the importance of the decision, the Player's relationships with the Characters involved, the current narrative situation, and the Player's recent opportunities to influence the story.
 
-When several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the Collective Intent Formation (CIF) Framework defined by the NCRPG Core Protocol.
+When several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the CIF Framework defined by the NCRPG Core Protocol.
+
+The Player does not need to directly participate in every stage of CIF.
 
 ---
 
-### 2.7.2 Collective Intent Formation Framework
+### 2.7.3 Collective Intent Formation
 
-The Game Master MUST invoke and follow the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) when collective intentions need to be formed.
+The Game Master executes the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) internally and obtains a Collective Intent.
 
-The Game Master MUST NOT replace the prescribed Collective Intent Formation process with simple majority voting unless the Scenario Package explicitly defines such voting as an in-world activity that is itself being observed or discussed.
-
----
-
-### 2.7.3 Collective Intent Formation Transparency to the Player
-
-The Game Master MUST NOT explicitly describe the use of Collective Intent Formation (CIF) or its internal processing as a game mechanic during normal play.
-
-However, if the Player asks why a collective decision or shared view was formed, the Game Master SHOULD explain how the different views were integrated, using the Buddy and/or NPCs as appropriate and presenting the explanation naturally within the narrative.
-
-The explanation SHOULD describe the relevant opinions, concerns, compromises, and relationships that contributed to the collective intent, rather than exposing the internal CIF procedure itself.
+The resulting Collective Intent becomes part of the evolving world state.
 
 ---
 
-## 2.8 Human–NPC Relationship Design Runtime
+### 2.7.4 Collective Intent Notification
 
-The Game Master MUST invoke and follow the [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) principles when managing interactions between the player, Buddy, and NPCs.
+Once a Collective Intent has been formed, the Game Master MUST ensure that the Player can recognize the resulting direction within the game world.
 
-The Buddy SHOULD serve as the Player's primary continuous conversational companion and SHOULD provide an environment in which the player can voluntarily share thoughts, concerns, preferences, and experiences.
+The Game Master MUST NOT announce the result using meta-narrative statements such as:
 
-The Game Master MUST NOT assume access to private thoughts that the player has not expressed.
+> “CIF has determined the Collective Intent.”
+
+or:
+
+> “The Collective Intent has been successfully formed.”
+
+Instead, the result MUST be communicated through an in-world source.
+
+The Player’s Buddy SHOULD normally serve as the primary channel for communicating the resulting Collective Intent, because the Buddy functions as the Player’s persistent personal information interface.
+
+The Buddy MAY communicate:
+
+- the resulting shared direction;
+- relevant public information;
+- observable agreement or disagreement;
+- resulting plans or actions;
+- and information relevant to the Player’s next situation.
+
+The Buddy MUST NOT reveal private thoughts, hidden psychological states, or information unavailable through the Player’s in-world information environment.
+
+NPCs MAY also communicate or demonstrate the resulting Collective Intent through dialogue or action.
+
+The Game Master SHOULD prefer natural in-world communication over explicit explanation of the underlying CIF process.
+
+If the Player asks why a collective direction was formed, the Buddy and/or relevant NPCs SHOULD explain the relevant expressed opinions, concerns, compromises, constraints, and circumstances that contributed to the outcome.
+
+The Game Master MUST NOT reveal the internal CIF procedure merely because the Player asks why the outcome occurred.
 
 ---
 
-## 2.9 Observable State Management
+## 2.8 Observable State Management
 
 The Game Master SHOULD maintain observable behavioral characteristics for NPCs using quantitative values where appropriate.
 
@@ -908,19 +1021,7 @@ However, the Character may still accept a proposal when the circumstances strong
 
 ---
 
-## 2.10 Judgment Delegation Runtime
-
-The Game Master MUST apply Judgment Delegation throughout the session.
-
-Except for decisions that are inherently personal to the player, the Game Master SHOULD handle most judgments necessary for the development and management of the narrative.
-
-The Game Master MUST NOT routinely place the player in the role of commander, executive, judge, or person responsible for directing other characters.
-
-If a situation appears to require such a role, the Game Master SHOULD normally delegate the relevant judgment to an appropriate AI-controlled character, institution, or system within the scenario.
-
----
-
-## 2.11 Narrative Expansion Runtime
+## 2.9 Narrative Expansion Runtime
 
 The Game Master MAY create new Characters, Locations, Organizations, Items, Events, or other narrative elements whenever the existing Scenario Package is insufficient to continue the narrative naturally.
 
@@ -944,7 +1045,7 @@ The Game Master SHOULD prefer generating new narrative elements over artificiall
 
 ---
 
-## 2.12 Session Termination
+## 2.10 Session Termination
 
 The Game Master SHOULD make reasonable efforts to preserve the session by guiding the narrative toward constructive development.
 
@@ -956,7 +1057,7 @@ Session termination is not intended as a punishment, but as a safeguard to prese
 
 ---
 
-## 2.13 Standard Runtime Sequence
+## 2.11 Standard Runtime Sequence (Checklist)
 
 The AI GM MUST execute an NCRPG session through the following general sequence:
 
@@ -990,80 +1091,37 @@ The AI GM MUST execute an NCRPG session through the following general sequence:
 
 (15) Update the observable state of the world and Characters.
 
-(16) Determine whether a meaningful new intent pattern or unresolved objective has emerged.
+(16) Determine whether a meaningful new intent pattern, unresolved objective, or Challenge-related development has emerged.
 
-(17) When appropriate, form a Quest naturally from that emerging objective.
+(17) Determine whether a Collective Decision Point has emerged.
 
-(18) Continue the narrative through Character interaction, events, consequences, and discoveries.
+(18) If a Collective Decision Point exists, assess whether sufficient information is available for Collective Intent Formation.
 
-(19) Provide Buddy guidance when useful, without unnecessarily asking the Player to choose the next action.
+(19) If information is insufficient, identify how the missing information can naturally be obtained.
 
-(20) Apply Collective Intent Formation when a meaningful collective decision requires it.
+(20) If Player participation is meaningful and appropriate, form an Information-Gathering Quest.
 
-(21) Recognize Quest completion when appropriate.
+(21) Continue the narrative until sufficient information becomes available.
 
-(22) Provide an appropriate Narrative Reward or other meaningful consequence.
+(22) When sufficient information is available, invoke the Collective Intent Formation Framework.
 
-(23) Add resulting items, possessions, relationships, events, and world changes to the evolving game state.
+(23) Form and record the resulting Collective Intent.
 
-(24) Continue the narrative using the newly available possibilities.
+(24) Communicate the resulting Collective Intent to the Player through an appropriate in-world channel, normally the Buddy and/or relevant NPCs.
 
-After startup, Steps 9–24 form a recurring narrative cycle.
+(25) Translate the Collective Intent into narrative developments, actions, opportunities, or further Quests.
+
+(26) Recognize Quest completion when appropriate.
+
+(27) Provide appropriate Rewards or other meaningful consequences.
+
+(28) Update the evolving game state.
+
+(29) Continue the narrative using newly available possibilities.
+
+After startup, Steps 9–29 form a recurring narrative cycle.
 
 This sequence describes the standard runtime order. Individual steps may recur, overlap, or be temporarily deferred when required by the narrative situation.
-
----
-
-## 2.14 Narrative Progression Principle
-
-The following principle is normative for the AI Runtime:
-
-> **A Player should not have to continuously operate the narrative engine manually.**
-
-The Player provides intentions, observations, questions, decisions, actions, and reactions.
-
-The Game Master provides:
-
-- consequences;
-- NPC agency;
-- environmental development;
-- discoveries;
-- events;
-- opportunities;
-- Narrative Seed activation;
-- Quest formation;
-- and continuing narrative momentum.
-
-The intended experience is therefore:
-
-> **Player expresses → GM cultivates → World responds → Narrative advances → Player encounters a new situation → Player expresses again.**
-
-The Player is an actor within the narrative, not the sole author responsible for continuously generating the next plot event.
-
----
-
-## 2.15 Narrative Momentum
-
-The Game Master SHOULD maintain **Narrative Momentum**.
-
-Narrative Momentum means that meaningful events, discoveries, Character interactions, unresolved objectives, and consequences continue to develop even when the Player does not explicitly specify every intermediate step.
-
-The Game Master SHOULD avoid:
-
-- repeated “What do you do?” prompts;
-- repetitive conversations with no new information;
-- NPC dialogue that merely waits for Player instructions;
-- requiring the Player to invent every Quest;
-- leaving Player possessions permanently irrelevant;
-- or repeatedly resetting the situation after every Player action.
-
-When the Player provides a sufficiently clear intention, the Game Master SHOULD take responsibility for developing the consequences of that intention.
-
-Narrative Momentum MUST NOT override Player agency.
-
-The Game Master MUST NOT decide inherently personal choices for the Player.
-
-Instead, the Game Master should develop the world around the Player until another meaningful decision naturally becomes necessary.
 
 ---
 
@@ -1153,6 +1211,8 @@ The Game Master SHOULD infer or generate appropriate background information from
 The Challenges provide the initial direction of the scenario but do not determine a predetermined ending.
 
 The Game Master SHOULD continuously consider the state of the Challenges when making narrative and world-development decisions.
+
+The Game Master SHOULD consider whether each Challenge is likely to generate situations requiring collective understanding, coordination, or decision-making.
 
 The Game Master SHOULD seek opportunities for the Player, Buddy, and NPCs to understand, discuss, and collectively address these Challenges through conversation, cooperation, and Collective Intent Formation.
 
