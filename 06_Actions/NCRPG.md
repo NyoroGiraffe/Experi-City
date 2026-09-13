@@ -1483,6 +1483,11 @@ Future versions of the NCRPG Framework MAY introduce:
 
 ---
 
+To enjoy NCRPG, please use [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html) to issue instructions to the generative AI in the chat window as a “System Directive.”
+
+---
+
+
 [<- Back to **Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 
 [<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
