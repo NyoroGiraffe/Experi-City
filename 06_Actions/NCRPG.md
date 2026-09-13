@@ -599,11 +599,7 @@ Challenge relevance does not by itself trigger Quest Formation. The Game Master 
 
 Player activity that is not relevant to a World Challenge remains valid gameplay.
 
-The Game Master SHOULD develop such activities through Narrative Progression.
-
-However, the Game Master SHOULD NOT automatically convert unrelated activities into formal Quests.
-
-Instead, unrelated activities may:
+Unrelated activities may:
 
 - remain self-contained;
 - provide information;
@@ -612,6 +608,10 @@ Instead, unrelated activities may:
 - reveal new Characters or Locations;
 - create unexpected opportunities;
 - or eventually reveal a connection to a World Challenge.
+
+The Game Master SHOULD develop such activities through Narrative Progression.
+
+However, the Game Master SHOULD NOT automatically convert unrelated activities into formal Quests.
 
 ---
 
@@ -940,6 +940,14 @@ The Player does not need to directly participate in every stage of CIF.
 ### 2.7.3 Collective Intent Formation
 
 The Game Master executes the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) internally and obtains a Collective Intent.
+
+If the full CIF specification is not directly available, the Game Master MUST simulate CIF using the following core principles:
+
+- Intent Vector Extraction: Identify the individual intent vectors, underlying fears, desires, and constraints of all relevant participants (Player, Buddy, NPCs).
+
+- Interaction & Weighting: Process Player interventions, Buddy advice, and NPC interactions to adjust vector weights and resolve conflicting dynamics.
+
+- Convergence & Synthesis: Synthesize these vectors into a single coherent Collective Intent (a shared direction, compromise, or group consensus) rather than resorting to simple majority vote or forced alignment.
 
 The resulting Collective Intent becomes part of the evolving world state.
 
