@@ -15,6 +15,7 @@ To get started with NCRPG, open New Chat—a chat-based generative AI—paste th
 
 I would like to play a game like a tabletop RPG with you.
 First, please load the following configuration file:
+
 https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html
 
 With that done, the following items are as described below.
