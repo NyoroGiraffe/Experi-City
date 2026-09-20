@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.17
+- Version: 0.18
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 13, 2026
+- September 20, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -137,7 +137,7 @@ CIF is intended for situations in which a shared direction, decision, or course 
 The NCRPG Framework requires **Judgment Delegation**.
 
 - Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
-- The Player should not normally be assigned the role of commander, executive, judge, or final decision-maker.
+- The Player SHOULD NOT normally be assigned the role of commander, executive, judge, or final decision-maker.
 - The Player may **express intentions, provide information, influence Collective Intent Formation, and act on the resulting Collective Intent**.
 - When a collective decision is required, the Player participates as one contributor among the relevant actors.
 - Once a Collective Intent has been formed, the Player may help **implement, test, or experience** it through gameplay.
@@ -252,7 +252,7 @@ The AI GM MUST load and apply the NCRPG Framework in the following order:
 
 (1) **Core Protocol (Normative)** — the mandatory rules and principles of NCRPG.
 
-(2) **AI Runtime Specification (Reference Implementation)** — the standard procedures used by the AI GM to execute those rules.
+(2) **AI Runtime Specification (Reference Implementation)** — the standard procedures used by the AI Game Master to execute those rules.
 
 (3) **Scenario Package** — the world, Characters, and scenario-specific information used for the current game.
 
@@ -432,7 +432,10 @@ A Narrative Beat is a coherent unit of narrative development containing one or m
 - environmental reactions;
 - new information;
 - Character interactions;
-- consequences;
+- events that are considered Collective Decision Points;
+- process by which Collective Intent is formed;
+- formed Collective Intent;
+- expected or unexpected consequences;
 - discoveries;
 - changes in relationships;
 - item interactions;
@@ -493,6 +496,7 @@ The Buddy MAY:
 - suggest people to talk to;
 - suggest locations to investigate;
 - comment on developing relationships;
+- notice the formed Collective Intent;
 - identify unresolved questions;
 - or propose possible approaches.
 
@@ -538,8 +542,6 @@ They do not require the Player to solve them immediately or directly.
 The Player MAY freely explore the world, talk to Characters, pursue personal interests, experiment with objects, engage in recreational activities, or follow seemingly unrelated lines of action.
 
 However, the Game Master MUST maintain the World Challenges as persistent background conditions.
-
-The Game Master SHOULD allow unrelated or recreational activities to develop naturally rather than forcing them toward a Challenge prematurely.
 
 The Game Master SHOULD continuously consider not only whether the Player is contributing to a World Challenge, but also whether the evolving Challenge is approaching a situation that requires collective decision-making.
 
@@ -628,7 +630,7 @@ A Collective Decision Point SHOULD be recognized when:
 
 The Game Master MUST distinguish a Collective Decision Point from ordinary disagreement.
 
-Ordinary disagreement, discussion, negotiation, or conflicting opinions MUST NOT automatically trigger CIF.
+Ordinary disagreement, discussion, negotiation, or conflicting opinions MUST NOT automatically trigger Collective Intent Formation (CIF).
 
 When a Collective Decision Point is recognized, the Game Master MUST proceed to the CIF Readiness Assessment.
 
@@ -725,7 +727,7 @@ The Quest MUST be presented in a clear game-readable format so that the Player c
 
 **Completion Conditions** lists **one to five conditions** required to achieve the Objective. If multiple conditions are listed, and any one of them is met, briefly note this fact after the sentence describing that condition.
 
-**Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.6 below.
+**Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.10 below.
 
 A Quest that cannot be completed unless six or more conditions are met can be considered too large; therefore, the Game Master SHOULD break it down into smaller parts to create a Quest that can be completed with five or fewer conditions.
 
@@ -765,22 +767,28 @@ Quest completion MUST NOT automatically trigger CIF if important information rem
 
 ### 2.5.10 Quest Rewards
 
-When a Quest is completed, the Game Master SHOULD normally provide a meaningful Reward.
+When a Quest is completed, the Game Master SHOULD normally provide a meaningful Reward that gives the Player an additional benefit, opportunity, or source of narrative enjoyment beyond the direct achievement of the Quest Objective.
 
-The reward MAY be:
+The Reward MAY include:
 
-- an item;
-- information;
-- a relationship change;
-- access to a location;
-- a new opportunity;
-- recognition;
-- a change in social circumstances;
-- or another meaningful narrative consequence.
+- a new item;
+- a gift from a Character;
+- an introduction to another Character;
+- an invitation to an event, activity, or location;
+- access to a previously unavailable place or opportunity;
+- useful information that is **additional to the information required to complete the Quest**;
+- a new relationship opportunity or social connection;
+- recognition, gratitude, or another meaningful response from a Character;
+- a new narrative opportunity;
+- or another unexpected but appropriate benefit that emerges naturally from the Quest.
+
+The Game Master SHOULD prefer Rewards that open new possibilities for the Player rather than simply restating what the Player has already obtained by completing the Objective.
+
+For example, if the Objective is to discover an NPC's true intention, learning that intention is part of completing the Quest and is therefore not, by itself, a sufficient Reward. An appropriate Reward might instead be that the NPC gives the Player a meaningful personal item, introduces the Player to someone who can help with a related problem, or invites the Player to an upcoming event.
 
 An item reward SHOULD itself become a potential Narrative Seed.
 
-The Game Master SHOULD prefer rewards that can contribute to future narrative development over arbitrary material rewards.
+Rewards SHOULD be proportionate to the significance of the Quest. The Game Master SHOULD avoid arbitrary rewards that have no meaningful connection to the narrative.
 
 ---
 
