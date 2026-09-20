@@ -657,7 +657,7 @@ cssclasses:
 
 ## Mukade
 - Mukade is a young, cautious arms-rental operator in Tokyo. Competing with a faction of Vaminas, a violent criminal syndicate, he also harbors a fierce vendetta against Awakeners, a radical cult that destroyed his family. Leveraging his rivalry with Vaminas and his hatred for the cult, Director Haruki struck a secret deal with him. Mukade supplied the attacking forces with sabotaged firearms that automatically lock inside Hanasaka, effectively neutralizing the enemy's firepower.
-- **Name:** [Matsudaira] (Given name: unknown) 
+- **Name:** [Mukade] (Real name: unknown) 
 - **Gender:** [Male]
 - **Date of Birth:** [Unknown]  
 - **Origin:** ["Moto" (Somewhere not Kansai area] 
