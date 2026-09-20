@@ -1,19 +1,22 @@
 ---
-aliases:
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 tags:
   - Characters
+  - Story
   - Core
-cssclasses:
 ---
 # **Characters**
 
-- [**Outline and Overview of Story**](../01_Story/Story_Overview.md)
-- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/) 
+Here are some of the characters who appear in [“**Experi-City Hanasaka**.”](https://nyorogiraffe.github.io/Experi-City/)
+
+→ [**Outline and Overview of Story**](../01_Story/Story_Overview.md)
 
 ---
 ## Notes:
 
-- "**E.E.**" is an abbreviation for “Establishment Era,” the standard used for counting years in the [Experiment Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), including [Hanasaka City](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html).
+- "E.E." is an abbreviation for “Establishment Era,” the standard used for counting years in the [Experiment Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), including [Hanasaka City](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html).
 - Unless otherwise specified, “Gender” refers to gender based on physical characteristics.
 - “Moto” is the name used by the citizens of Hanasaka City to refer to the country that once ceded a portion of its territory for the city's establishment, without specifying the country's actual name.
 
