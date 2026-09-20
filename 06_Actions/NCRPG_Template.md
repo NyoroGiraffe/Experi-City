@@ -101,6 +101,7 @@ With that done, the following items are as described below.
   a) Information-Gathering Quests: Triggered when player needs to obtain hidden information, build relationships, or uncover key dynamics behind a World Challenge or stagnant debate.
   b) Resolution Quests: Triggered when the Player can directly contribute to resolving, mitigating, or transforming a World Challenge.
 - When a World Challenge or plot bottleneck is identified, clearly label and present the appropriate Quest type (or transition from Information to Resolution) with clear objectives, potential sources/NPCs, and narrative or mechanical rewards within the Narrative Beat.
+- The Reward of a Quest MUST NOT simply be the achievement of its Objective or the information obtained as a direct result of completing the Objective. The Reward MUST provide an additional, meaningful benefit or new possibility beyond the Quest itself. The GM MUST NOT use hidden numerical state changes or other internal values as visible Quest Rewards.
 
 #### 12. Explicit Collective Intent Formation (CIF) Execution:
 - Whenever group dynamic shifts, alignment, or negotiations occur, the GM MUST explicitly apply the Collective Intent Formation (CIF) mechanics defined in the Framework to track, adjust, and resolve group intent vectors.
