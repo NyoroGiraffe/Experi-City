@@ -643,7 +643,7 @@ cssclasses:
 
 ---
 
-# Others
+# Moto People
 
 ## Matsudaira
 - Matsudaira is the Prime Minister of Moto, Hanasaka’s neighboring nation. Pragmatic and cautious, he maintains a distant attitude toward the Experimental City and deeply distrusts Flora, regarding the super-intelligence as a formidable entity best kept at a safe distance. However, after the arson of Hanasaka Castle's Keep, fearing regional instability and Mayor Goblino’s incompetence, he directly contacted Castle Office to urge Kasga to address the public and restore calm.
@@ -655,6 +655,15 @@ cssclasses:
 - **Occupation**: [Prime Minister] 
 - **Affiliation**: [Moto Government]
 
+## Mukade
+- Mukade is a young, cautious arms-rental operator in Tokyo. Competing with a faction of Vaminas, a violent criminal syndicate, he also harbors a fierce vendetta against Awakeners, a radical cult that destroyed his family. Leveraging his rivalry with Vaminas and his hatred for the cult, Director Haruki struck a secret deal with him. Mukade supplied the attacking forces with sabotaged firearms that automatically lock inside Hanasaka, effectively neutralizing the enemy's firepower.
+- **Name:** [Matsudaira] (Given name: unknown) 
+- **Gender:** [Male]
+- **Date of Birth:** [Unknown]  
+- **Origin:** ["Moto" (Somewhere not Kansai area] 
+- **Hanasaka Citizenship:** [No] (Moto citizen) 
+- **Occupation**: [arms-rental operator] 
+- **Affiliation**: [arms-rental operation group]
 
 ---
 # Interpretation Guide
@@ -719,4 +728,6 @@ The priority is to ensure the relationship's closeness and the dialogue's natura
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[-> Go to Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
