@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 3.8 The Looming Shadow of the Other Enemy
   - 3.9 A Special Visit to Workshop Nemophila
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 3: The Ninth Autumn
 <a id="chapter3.8"></a>

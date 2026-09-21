@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 2.2 Narrative Happiness
   - 2.3 A Fabricated Conspiracy
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 2: The Ninth Summer
 <a id="chapter2.2"></a>

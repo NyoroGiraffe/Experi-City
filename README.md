@@ -1,6 +1,6 @@
 ---
-description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
-meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
 meta-author: Nyoro Giraffe
 tags:
   - Core
@@ -16,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: September 20, 2026
+- **Last Update to the Repository**: September 21, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -29,7 +29,7 @@ tags:
 <a id="project"></a>
 ## **What is Experi-City Hanasaka?**
 
-**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
 
 ## Project Purpose: Exploring Human–AI Coexistence Through Story and Systems
 
@@ -50,7 +50,7 @@ The purpose is not to claim that AI is always good, that AI governance is always
 
 Instead, this project explores what kinds of **principles, institutions, technologies, and forms of cooperation** might help humans and AI build a better future together.
 
-The story of Hanasaka provides a fictional model for this exploration. The surrounding World Building, Core Concepts, Analyses, and Against AI Dystopia sections examine the ideas behind that model and connect them to questions that matter in the real world.
+The story of Hanasaka provides a fictional model for this exploration. The surrounding World Building, Core Concepts, Analyses, and Against AI-Dystopia sections examine the ideas behind that model and connect them to questions that matter in the real world.
 
 #### 1. Entertainment Meets Social Experiment
 
@@ -62,7 +62,7 @@ Readers can enjoy the narrative while also examining the systems and ideas that 
 
 The repository is organized so that both human readers and AI systems can explore the project at different levels.
 
-Core Concepts provide a compact overview of the central ideas. World Building documents explain the systems and institutions of the setting. The story presents these ideas through characters and events. Analyses examine their deeper implications, while Against AI Dystopia explores possible paths toward safer and more meaningful human–AI coexistence.
+Core Concepts provide a compact overview of the central ideas. World Building documents explain the systems and institutions of the setting. The story presents these ideas through characters and events. Analyses examine their deeper implications, while Against AI-Dystopia explores possible paths toward safer and more meaningful human–AI coexistence.
 
 Markdown, metadata, English identifiers, summaries, and cross-linked documents help make the world easier to understand, analyze, translate, and reuse.
 
@@ -92,11 +92,11 @@ This project is an **"Open Novel"** designed for the era of human-AI collaborati
 
 ---
 <a id="AAD"></a>
-# **Against AI Dystopia**
+# **Against AI-Dystopia**
 
 **"Exploring Paths Toward Human–AI Coexistence"**
 
-As AI becomes more capable, many people worry about freedom, democracy, privacy, inequality, and even the future of humanity itself. Rather than dismissing these concerns, **Against AI Dystopia** explores how humans and AI might work together to avoid harmful futures and build better societies.
+As AI becomes more capable, many people worry about freedom, democracy, privacy, inequality, and even the future of humanity itself. Rather than dismissing these concerns, **Against AI-Dystopia** explores how humans and AI might work together to avoid harmful futures and build better societies.
 
 Using the world of Hanasaka as a thought experiment, this section examines questions about governance, technology, human value, and social design. The goal is not to prove that AI will create a utopia, but to explore what principles, institutions, and forms of cooperation may help humans and AI thrive together.
 

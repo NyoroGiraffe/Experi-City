@@ -1,13 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - Hanasaka
-  - Castle Park
-  - Moto
-  - Stone Cold
+  - Hanasaka City
 tags:
   - World_Building
   - Core
-cssclasses:
 ---
 # **Hanasaka** or **Hanasaka City**
 
@@ -315,5 +315,7 @@ Mukade’s organization and Vaminas (specifically the faction led by a man named
 
 
 ---
+
+[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
 
 [<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 

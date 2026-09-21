@@ -1,6 +1,6 @@
 ---
-description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
-meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
 meta-author: Nyoro Giraffe
 tags:
   - Core
@@ -15,7 +15,7 @@ For full definitions:
 
 ---
 
-## Against AI Dystopia — Key Answers
+## Against AI-Dystopia — Key Answers
 
 Six core responses to common concerns about AI and society.
 

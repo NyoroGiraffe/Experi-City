@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 2.9 Hanasaka in a Tight Spot
   - 2.10 Keiko's Persuasion
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 2: The Ninth Summer
 <a id="chapter2.9"></a>

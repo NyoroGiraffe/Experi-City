@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 3.6 The Loving Guardian of Hanasaka Descends!
   - 3.7 Haruki's Backroom Deal
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 3: The Ninth Autumn
 <a id="chapter3.6"></a>

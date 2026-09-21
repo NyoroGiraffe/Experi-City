@@ -1,10 +1,11 @@
 ---
-aliases:
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 tags:
   - Analyses
+  - World Building
   - Kassen
-  - ExperiCity
-cssclasses:
 ---
 # Analyses on "Kassen" by Gemini, ChatGPT and Claude
 

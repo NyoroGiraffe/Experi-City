@@ -1,10 +1,12 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 2.1 Memories Best Forgotten
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 2: The Ninth Summer
 <a id="chapter2.1"></a>

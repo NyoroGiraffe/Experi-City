@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 3.16 Insect Ambush
   - 3.17 The Eve of the Raid
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 3: The Ninth Autumn
 <a id="chapter3.16"></a>

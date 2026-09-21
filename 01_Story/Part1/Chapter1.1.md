@@ -1,10 +1,12 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 1.1 Holder of the Black Stone
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 1: The Ninth Spring
 <a id="chapter1.1"></a>

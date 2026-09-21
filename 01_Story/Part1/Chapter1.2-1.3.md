@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 1.2 Sapphire Comet
   - 1.3 A Special Order for Workshop Nemophila
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 1: The Ninth Spring
 <a id="chapter1.2"></a>

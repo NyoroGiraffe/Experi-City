@@ -1,4 +1,7 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 1.4 Kasga's Concern
   - 1.5 The Center of Flora's Coordinates
@@ -6,7 +9,6 @@ aliases:
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 1: The Ninth Spring
 <a id="chapter1.4"></a>

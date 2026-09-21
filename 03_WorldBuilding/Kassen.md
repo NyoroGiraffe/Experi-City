@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Kassen community
-  - Hanasaka Arena
-  - battle area
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 tags:
   - World_Building
   - Core
-cssclasses:
+  - Kassen
 ---
 # **Kassen**
 
@@ -23,7 +22,7 @@ Management and operations are overseen by the **Castle Office** (formally the Ha
 All rules relating to the Kassen are detailed by the "Kassen Regulations" established by the Castle Office.
 
 ---
-# **Overview of Kassen Games**
+# **Kassen Games**
 
 Kassen is held in Hanasaka City twice a year as **Season Games** in **Spring** (starting mid-April) and **Autumn** (starting mid-October). These matches take place at the **Hanasaka Arena**, located east of the Hanasaka Castle Outer Moat. Around the time of these season games, **Inter-Alliance Games** (also known as the "Alliance Tour") are held at various castle locations outside the city, where Hanasaka clubs dispatch their Fighters to compete alongside Alliance clubs.
 
@@ -162,7 +161,7 @@ Kassen matches in Hanasaka City will be held at the Hanasaka Arena, owned by the
 ---
 # Field and Battle Area
 
-#### **Overview of the Kassen Battle Area**
+### **Kassen Battle Area**
 
 The **battle area** is a rectangular space located at the center of the Hanasaka Arena's artificial turf field.
 
@@ -210,7 +209,7 @@ Key details about the title include:
 - New Successor: Following the Autumn Games of 9 E.E., Keiko Sacra (the "Sapphire Comet") was officially named the new Apex Fighter after defeating Don Dandelion in a decisive Singles Match.
 - Rewards and Honors: While historically a purely symbolic title, starting in 9 E.E., the Apex Fighter receives the "Diamond Sword" and the prestigious duty of serving as the Unifier Kasga’s immediate protector during official ceremonies in the Palace.
 
-### **Battle friends**
+### **Battle Friends**
 
 In the world of Kassen, the term **"battle friends"** refers to a deep bond of friendship and mutual respect between Fighters belonging to different clubs. This relationship is relatively rare, as it typically develops only after the individuals have faced each other in numerous intense battles.
 
@@ -478,7 +477,8 @@ Formally known as the "Unifier of the Kassen Community," this figure stands tran
 - the First: Haruna Laliguras (January 2, 1 E.E. - November 30, 5 E.E.)
 - the Second: Kasga Wisteria, (December 1, 5 E.E. - )
 
-
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[-> Go to **"Characters"**](../02_Characters/Characters.md)
+
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)

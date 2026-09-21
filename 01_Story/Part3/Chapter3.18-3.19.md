@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 3.18 The Sneaky Opening
   - 3.19 Decisive Weapon: Shining Black Sapphire Booster
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 3: The Ninth Autumn
 <a id="chapter3.18"></a>

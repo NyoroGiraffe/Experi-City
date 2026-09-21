@@ -1,4 +1,7 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 1.7 Fanfare of Revival
   - 1.8 Sapphire Comet vs. Flash Lightning
@@ -6,7 +9,6 @@ aliases:
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 1: The Ninth Spring
 <a id="chapter1.7"></a>

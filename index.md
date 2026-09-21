@@ -1,6 +1,6 @@
 ---
-description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
-meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist.
+description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe. Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist.
 meta-author: Nyoro Giraffe
 tags:
   - Core
@@ -8,7 +8,7 @@ tags:
 ---
 ## "Experi-City HANASAKA" Official Website
 
-**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
+**“Experi-City Hanasaka” is a science fiction novel written by Nyoro Giraffe and published online.** Presenting an “Against AI-Dystopia” perspective, the story depicts a society where AI and humans coexist, set in the near-future experimental city named “Hanasaka.”
 
 ---
 
@@ -49,7 +49,7 @@ Start here: **Six key questions about AI and society.**
 }
 </style>
 
-<h3>Against AI Dystopia</h3>
+<h3>Against AI-Dystopia</h3>
 <p>Common concerns about AI—and clear answers from "Experi-City HANASAKA".</p>
 
 <div class="card-grid">
@@ -147,7 +147,7 @@ Nyoro Giraffe
     "@type": "Person",
     "name": "Nyoro Giraffe"
   },
-  "description": “A science fiction novel by Nyoro Giraffe. A story set in a near-future city, written under the concept of ‘Against AI Dystopia,’ which challenges dystopian views of AI.”,
+  "description": “A science fiction novel by Nyoro Giraffe. A story set in a near-future city, written under the concept of ‘Against AI-Dystopia,’ which challenges dystopian views of AI.”,
   "genre": "Science Fiction",
   "url": "https://nyorogiraffe.github.io/Experi-City/"
 }

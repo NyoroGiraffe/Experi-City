@@ -1,11 +1,13 @@
 ---
+description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-og:description: A science fiction novel by Nyoro Giraffe that depicts a society where AI and humans coexist.
+meta-author: Nyoro Giraffe
 aliases:
   - 3.4 Rising from Resentment
   - 3.5 Sapphire Comet vs. Elegant Lightning
 tags:
   - Story
   - Core
-cssclasses:
 ---
 # Part 3: The Ninth Autumn
 <a id="chapter3.4"></a>
