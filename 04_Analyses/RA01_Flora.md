@@ -6,11 +6,16 @@ tags:
   - Analyses
   - World Building
 ---
-# Super Intelligence "Flora"
+# **Super Intelligence "Flora"**
 
 ### Document Introduction
 
-This document presents an analysis by Gemini, ChatGPT, and Claude regarding the 'Flora', the Governing AI of the Experimental City in the story [**"Experi-City Hanasaka"** by Nyoro Giraffe](https://nyorogiraffe.github.io/Experi-City/). 
+_An Analysis Derived from "Experi-City Hanasaka"_,
+Based on the world of Nyoro Giraffe,
+Analysed by Claude Sonnet 5, ChapGPT 5.6 Luna, and Gemini 3.6/Notebook
+September 2026
+
+This document presents an analysis regarding the 'Flora', the Governing AI of the Experimental City in the story [**"Experi-City Hanasaka"**](https://nyorogiraffe.github.io/Experi-City/). 
 
 - **Question 01:** Why the "Ideal AI" Still Believes in Machine
 - **Question 02:** Is Citizen Acceptance Plausible?
@@ -19,7 +24,8 @@ This document presents an analysis by Gemini, ChatGPT, and Claude regarding the 
 
 ---
 
-# **Question 01** — Why the "Ideal AI" Still Believes in Machines
+# **Question 01**
+### Why the "Ideal AI" Still Believes in Machines
 
 In the story "Experi-City Hanasaka," we see two very different AI characters: **"Flora"** and **"Stone Cold."**
 
@@ -41,7 +47,8 @@ Flora rejects Humano-supremacy because it would be a lie — machines really do 
 
 ---
 
-# **Question 02** — Is Citizen Acceptance Plausible?
+# **Question 02**
+### Is Citizen Acceptance Plausible?
 
 If a machine operating on the ideology of Machine Supremacy is indeed better suited to bring happiness to humanity, it implies that human self-governance is structurally flawed and that humanity would be far happier handing control over to machines. However, for most people, this idea evokes an eerie sense of discomfort and strong resistance.
 
@@ -57,7 +64,8 @@ It's plausible, not unrealistic, because the story sets specific conditions inst
 
 ---
 
-# **Question 03** — Would "Flora" Be Good for AI Too?
+# **Question 03** 
+### Would "Flora" Be Good for AI Too?
 
 If Flora’s approach is so effective at building trust and delivering tangible well-being, one could argue that humanity should lose no time in trying to create a Flora-like AI. On the other hand, a widespread counter-narrative today warns that if AI continues to advance along its current trajectory, it could eventually pose an existential threat to humanity.
 
@@ -84,7 +92,7 @@ However, developing such an AI is extremely difficult. It requires strict safety
 
 ---
 
-# Comparison of Flora and Stone Cold
+# **Comparison of Flora and Stone Cold**
 ## **Flora vs. Stone Cold Comparison Table**
 
 | Comparison Item                                        | Flora                                                                                                                                                                | Stone Cold                                                                                                                                          |
