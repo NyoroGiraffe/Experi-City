@@ -87,6 +87,7 @@ Flora excels at luring enemies into logical labyrinths and neutralizing them, ra
 ### Related Information:
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
+- [Analysis regarding **Super Intelligence “Flora”**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 
 
 ---
@@ -159,5 +160,7 @@ The **transportation control system** that manages the city's road and railway n
 ---
 
 [<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
+
+[-> Go to **Super Intelligence “Flora”**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 
 [-> Go to the Charter](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
