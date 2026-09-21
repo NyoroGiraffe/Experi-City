@@ -12,7 +12,7 @@ tags:
 _A Technical Analysis Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
 Analysed by Claude (Anthropic) Sonnet 4.6,
-June 2026
+September 2026
 
 ## Abstract
 
