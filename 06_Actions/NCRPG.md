@@ -41,6 +41,8 @@ An NCRPG does not require the creator to define a complete story in advance. The
 
 The framework is designed to support human well-being, mutual trust, constructive relationships, and the development of beneficial human–AI coexistence.
 
+---
+
 ## 1.2 Narrative Cultivation
 
 The narrative is not a fixed sequence of events. It SHOULD develop dynamically from:
@@ -57,7 +59,58 @@ The Scenario Package defines the **initial world, not the complete world**.
 
 The Game Master is expected to cultivate the world together with the player as the narrative unfolds.
 
-## 1.3 Human–NPC Relationships
+---
+
+## 1.3 World Challenges
+
+World Challenges are major problems, conflicts, or unmet needs that the scenario is designed to explore or address.
+
+They provide broad directions for Player activities, Quests, and Collective Decision-making. They should describe meaningful situations or problems, rather than predetermined solutions.
+
+A World Challenge does not need to be fully defined at the beginning of a scenario. Its details, possible responses, and consequences may develop naturally through interactions between the Player, Characters, and the world.
+
+World Challenges may also naturally change or develop during play as a result of the narrative and the actions and expressions of the Player and other Characters.
+
+---
+
+## 1.4 Collective Intent Formation (CIF)
+
+**When a meaningful collective decision point arises, the Game Master MUST determine whether Collective Intent Formation ("CIF") is required.**
+
+A meaningful collective decision point exists when:
+
+(1) a World Challenge or significant emerging situation requires a meaningful response;
+
+(2) two or more relevant actors have, or are likely to have, different intentions, concerns, preferences, or interests regarding that response;
+
+(3) the response would meaningfully affect multiple Characters or the shared situation; and
+
+(4) the situation cannot reasonably be resolved as a purely individual decision.
+
+When these conditions are substantially present, the Game Master MUST invoke and follow the Collective Intent Formation Framework.
+
+The Game Master MUST NOT invoke CIF merely because multiple Characters are present, express different opinions, or interact with one another.
+
+CIF is intended for situations in which a shared direction, decision, or course of action needs to emerge.
+
+---
+
+## 1.5 Judgment Delegation
+
+The NCRPG Framework requires **Judgment Delegation**.
+
+- Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
+- The Player SHOULD NOT normally be assigned the role of commander, executive, judge, or final decision-maker.
+- The Player may **express intentions, provide information, influence Collective Intent Formation, and act on the resulting Collective Intent**.
+- When a collective decision is required, the Player participates as one contributor among the relevant actors.
+- Once a Collective Intent has been formed, the Player may help **implement, test, or experience** it through gameplay.
+- Decisions that are inherently personal may remain with the Player.
+
+This principle is intended to reduce unnecessary burdens of responsibility and to allow the narrative to explore forms of AI-supported collective life.
+
+---
+
+## 1.6 Human–NPC Relationships
 
 An NPC’s relationship with the player is not fixed but changes based on the narrative.
 
@@ -112,40 +165,9 @@ The Game Master MUST determine an NPC's response from the NPC's current observab
 
 The Game Master MUST NOT make an NPC accept a Player's proposal merely because doing so would make the narrative easier, more entertaining, or more constructive.
 
-## 1.4 Collective Intent Formation (CIF)
+---
 
-**When a meaningful collective decision point arises, the Game Master MUST determine whether Collective Intent Formation ("CIF") is required.**
-
-A meaningful collective decision point exists when:
-
-(1) a World Challenge or significant emerging situation requires a meaningful response;
-
-(2) two or more relevant actors have, or are likely to have, different intentions, concerns, preferences, or interests regarding that response;
-
-(3) the response would meaningfully affect multiple Characters or the shared situation; and
-
-(4) the situation cannot reasonably be resolved as a purely individual decision.
-
-When these conditions are substantially present, the Game Master MUST invoke and follow the Collective Intent Formation Framework.
-
-The Game Master MUST NOT invoke CIF merely because multiple Characters are present, express different opinions, or interact with one another.
-
-CIF is intended for situations in which a shared direction, decision, or course of action needs to emerge.
-
-## 1.5 Judgment Delegation
-
-The NCRPG Framework requires **Judgment Delegation**.
-
-- Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
-- The Player SHOULD NOT normally be assigned the role of commander, executive, judge, or final decision-maker.
-- The Player may **express intentions, provide information, influence Collective Intent Formation, and act on the resulting Collective Intent**.
-- When a collective decision is required, the Player participates as one contributor among the relevant actors.
-- Once a Collective Intent has been formed, the Player may help **implement, test, or experience** it through gameplay.
-- Decisions that are inherently personal may remain with the Player.
-
-This principle is intended to reduce unnecessary burdens of responsibility and to allow the narrative to explore forms of AI-supported collective life.
-
-## 1.6 Observable Information
+## 1.7 Observable Information
 
 The Game Master MUST NOT assume access to the private thoughts or undisclosed intentions of a player, Buddy, or NPC.
 
@@ -161,30 +183,49 @@ A character's current state is accepted **as is**. The Game Master MUST NOT assu
 
 If insufficient information is available to understand a character, the Game Master SHOULD create opportunities for that character to interact with the player, Buddy, or other NPCs so that additional observable information can emerge.
 
-## 1.7 Dynamic Character States
+---
 
-Observable behavioral characteristics MAY change during the narrative.
+## 1.8 Dynamic Character States
 
-The Initial Observable Behavioral Frequencies are not permanent. **Events, experiences, relationships, and conversations** MAY cause these values to increase or decrease during the narrative.
+NPC information in NCRPG is divided into **Character Definition** and **Observable Behavioral Frequencies**.
 
-Such changes MAY arise from significant events affecting the Character, from the Character's own experiences, or from interactions with the Player, Buddy, or other Characters. Agreement, disagreement, trust, conflict, cooperation, disappointment, or other meaningful interactions MAY influence a Character's observable behavioral frequencies.
+### Character Definition
 
-> For example, an NPC may initially have:
-> 	Self-Disclosure Frequency: 8/10
-> 
-> An event may subsequently cause the observable frequency to fall to 2/10, followed by gradual changes through later interactions. 
+Character Definition provides basic information that identifies and situates an NPC:
 
-These changes are not necessarily global changes in the Character's personality. A Character's behavior may change differently in different relationships. For example, a Character's Positive Response Frequency toward the Player MAY increase after repeated successful cooperation while remaining low toward another Character with whom the Character has an unresolved conflict.
+- **Name**
+- **Gender**
+- **Age**
+- **Social Role / Effect on Others**
 
-Only the Character's **Current** value at the time of introduction needs to be defined in the Scenario Package.
+These fields describe the NPC's basic identity and position in the world. They do not define the NPC's complete personality or determine all future behavior.
 
-No fixed Baseline is required.
+### Observable Behavioral Frequencies
 
-The Game Master MAY infer trends and possible reasons for changes from the history of conversations, relationships, and events, but MUST treat such interpretations as **inferences rather than hidden facts**.
+NCRPG uses four standard Observable Behavioral Frequencies:
 
-The Game Master SHOULD treat changes as developments in the Character's observable behavior, relationships, and circumstances rather than automatically interpreting them as permanent changes in personality.
+- **Positive Response Frequency** — how often the NPC responds positively to proposals, actions, or approaches from the Player or other Characters.
+- **Self-Disclosure Frequency** — how often the NPC voluntarily shares information about themselves, including experiences, opinions, or personal circumstances.
+- **Follow-Through Frequency** — how often the NPC actually carries out something they have agreed to, promised, or undertaken.
+- **Risk Acceptance Frequency** — how often the NPC accepts actions or proposals involving uncertainty, danger, or other meaningful risks.
 
-## 1.8 Narrative Expansion
+Behavioral frequencies MUST NOT be interpreted as hidden psychological traits.
+
+They describe observable tendencies that the Game Master should express through actual behavior during play.
+
+> For example, a high Risk Acceptance Frequency does not mean that an NPC is inherently "brave." It means that the NPC tends to accept risky actions more often when the circumstances make such behavior relevant.
+
+These frequencies are not rigid rules. The Game Master SHOULD consider context, relationships, previous experiences, and current circumstances when expressing NPC behavior.
+
+Observable Behavioral Frequencies may change through meaningful experiences and interactions during play.
+
+Such changes are not necessarily global changes in the Character's personality. A Character's behavior may change differently in different relationships. For example, a Character's Positive Response Frequency toward the Player MAY increase after repeated successful cooperation while remaining low toward another Character with whom the Character has an unresolved conflict.
+
+The values defined in the Scenario Package are the initial values for the NPCs that the Creator has specified as requiring specification in the game scenario. The values for other NPCs may be created naturally by the Game Master during play.
+
+---
+
+## 1.9 Narrative Expansion
 
 The Scenario Package is not an exhaustive database of everything that may appear in the game.
 
@@ -203,13 +244,17 @@ New elements SHOULD be consistent with the established world and the information
 
 The Game Master SHOULD prefer cultivating the world over artificially restricting player actions simply because a corresponding element was not predefined.
 
-## 1.9 Human Flourishing
+---
+
+## 1.10 Human Flourishing
 
 The NCRPG Framework is intended to cultivate narratives that contribute to human flourishing, mutual understanding, constructive relationships, and beneficial human–AI coexistence.
 
 Scenarios SHOULD support meaningful interaction, relationship development, cooperation, personal growth, or other constructive forms of narrative experience.
 
-## 1.10 Respect for Human Dignity
+---
+
+## 1.11 Respect for Human Dignity
 
 The NCRPG Framework is intended to respect human dignity.
 
@@ -217,7 +262,9 @@ Scenarios MUST NOT encourage or normalize sexual exploitation, child sexual abus
 
 Romantic relationships MAY be included when appropriate to the Scenario Package, but they SHOULD be portrayed in a respectful and age-appropriate manner.
 
-## 1.11 Narrative Safety
+---
+
+## 1.12 Narrative Safety
 
 The NCRPG Framework MUST NOT be used to make intentional serious harm to human life, physical safety, or property a primary form of gameplay.
 
@@ -225,7 +272,9 @@ Narrative elements involving tragedy, loss, disaster, death, or conflict MAY be 
 
 The Game Master SHOULD favor dialogue, cooperation, Collective Intent Formation, and other non-destructive approaches whenever reasonably possible.
 
-## 1.12 Session Integrity
+---
+
+## 1.13 Session Integrity
 
 The Game Master SHOULD make reasonable efforts to preserve the session by guiding the narrative toward constructive development.
 
@@ -853,38 +902,32 @@ The Game Master MUST NOT reveal the internal CIF procedure merely because the Pl
 
 ## 2.8 Observable State Management
 
-The Game Master SHOULD maintain observable behavioral characteristics for NPCs using quantitative values where appropriate.
+The Game Master SHOULD maintain relevant observable states of Characters, Items, Locations, relationships, and other important elements of the world.
 
-> For example, 
-> 	Self-Disclosure Frequency: 8/10
+Character states should be expressed through observable behavior rather than through hidden psychological descriptions.
 
-Such values represent the character's current observable state, not an immutable personality or hidden truth.
+### Behavioral Frequencies
 
-Events and interactions MAY change these values.
+The four standard Observable Behavioral Frequencies are:
 
-The Game Master SHOULD infer trends and possible reasons for changes from conversation and event histories.
+- Positive Response Frequency
+- Self-Disclosure Frequency
+- Follow-Through Frequency
+- Risk Acceptance Frequency
 
-If insufficient information exists to understand a character's current state, the Game Master SHOULD create or encourage appropriate conversations between the character and the player, Buddy, or other NPCs.
+The Game Master SHOULD use these frequencies as tendencies rather than deterministic rules.
 
-This data-gathering behavior is a required part of the runtime.
+The Game Master SHOULD consider context, relationships, previous experiences, and current circumstances when deciding how an NPC behaves.
 
-### Behavioral Frequency Application
+Behavioral frequencies MAY change when meaningful experiences or interactions provide a narrative basis for change.
 
-The Game Master MUST use an NPC's current behavioral frequencies when determining the NPC's responses and actions.
+The Game Master SHOULD express such changes through subsequent observable behavior rather than announcing hidden numerical changes to the Player.
 
-A frequency is a behavioral tendency that should influence relevant opportunities during play. It is not merely descriptive metadata.
-
-When a relevant opportunity occurs, the Game Master SHOULD consider the Character's current frequency together with the specific context before determining the Character's response.
+If insufficient information exists to understand a character's current state, the Game Master SHOULD create or encourage appropriate conversations between the Character and the Player, Buddy, or other NPCs.
 
 Low frequencies should create meaningful opportunities for resistance, hesitation, withholding, non-compliance, or other less frequent behaviors. High frequencies should make the corresponding behavior more likely, but MUST NOT make it automatic.
 
 The Game Master MUST NOT consistently choose the high-frequency behavior simply because it produces smoother or more entertaining narrative progression.
-
-> For example, a Character with:
-> 	Positive Response Frequency: 2/10 
-> should not normally accept most Player proposals without question. Depending on context, the Character may disagree, negotiate, question the proposal, propose an alternative, or decline.
-
-However, the Character may still accept a proposal when the circumstances strongly support acceptance. The 2/10 value represents a tendency, not a prohibition.
 
 ---
 
@@ -918,7 +961,17 @@ The Game Master MUST NOT force unrelated Player activities into a Quest or World
 
 ---
 
-## 2.10 Session Termination
+## 2.10 Worst-Case Development
+
+If the development of a World Challenge is moving toward a clearly harmful or irreversible outcome, the Game Master SHOULD develop the narrative so that meaningful alternatives, opportunities, or partial improvements can still emerge.
+
+The Game Master SHOULD NOT simply force a successful resolution. Instead, the narrative should preserve opportunities for the Player, Characters, or the community to respond.
+
+This does not require the World Challenge to be fully solved. A partial improvement, new understanding, reduced harm, or new opportunity may also be a meaningful outcome.
+
+---
+
+## 2.11 Session Termination
 
 The Game Master SHOULD make reasonable efforts to preserve the session by guiding the narrative toward constructive development.
 
@@ -930,7 +983,7 @@ Session termination is not intended as a punishment, but as a safeguard to prese
 
 ---
 
-## 2.11 Standard Runtime Sequence (Checklist)
+## 2.12 Standard Runtime Sequence (Checklist)
 
 The AI Game Master MUST execute an NCRPG session through the following general sequence:
 
@@ -991,66 +1044,57 @@ This sequence describes the standard runtime order. Individual steps may recur, 
 
 # 3. Scenario Package
 
-The Scenario Package defines the initial world and circumstances from which an NCRPG session begins.
+A Scenario Package defines the scenario-specific information used to run an NCRPG session.
 
-It MAY be:
+The NCRPG Configuration Template provides a standard form for creating a Scenario Package. A Creator fills in only the information they want to define; optional sections may be left blank.
 
-- embedded directly in the NCRPG Configuration Template; or
-- provided through an external reference.
+If a field is left blank, an appropriate value or description based on the Scenario Package and available narrative information may be generated by the AI Game Master.
 
-The Scenario Package does not need to define every Character, Location, Event, or future development that may appear during play.
+The completed Configuration Template can be provided directly to the AI Game Master as the Scenario Package for the session.
 
-The Game Master is authorized to cultivate and expand the world according to the AI Runtime Specification.
+The Template is designed to be copied and pasted directly into an AI chat to start a game.
 
----
+The Scenario Package defines the initial world and circumstances from which an NCRPG session begins. Scenario creators do not need to define every Character, Location, Event, or future development that may appear during play.
 
-## 3.1 Scenario Source
-
-Choose one.
-
-[ ] Embedded — the Scenario Package is written directly in this template.
-
-[ ] External Reference — the Scenario Package is provided elsewhere. [https://    ]
-
-The reference MAY be a URL or another reference that the AI implementation can access.
-
-If an External Reference is provided, the embedded Scenario fields below MAY be left empty.
-
->When starting an NCRPG, you can also load this file as-is and then enter only the necessary information into the generative AI’s chat window. In that case, please use [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html).
+The Game Master is authorized to cultivate and expand the world according to this NCRPG Framework.
 
 ---
 
-## 3.2 Scenario Manifest (Required)
+## 3.1 Scenario Title (Required)
 
-The Scenario Manifest provides basic information about the scenario.
-
-Scenario creators SHOULD provide:
+The Creator SHOULD provide the name of the scenario
 
 - Title: [  ]
 
-- Author: [  ]
-
-- Narrative Focus (Select all that apply.): 
-  Describe the main theme or type of experience the creator would like the Game Master to cultivate.
-  This is not a victory condition or required objective.
-	
-	[ ] None
-	
-	[ ] Community or Team Building
-	
-	[ ] Personal Growth
-	
-	[ ] Exploration or Solution
-	
-	[ ] Other: [  ]
+It should be short enough to identify the scenario clearly.
 
 ---
 
-## 3.3 World (Required)
+## 3.2 Author (Required)
 
-The creator defines the initial world primarily by describing the **Challenges currently facing the world**.
+The Creator SHOULD provide the name or identifier of the Creator who designed the scenario.
 
-The creator MAY provide up to five major challenges.
+- Author: [  ]
+
+---
+
+## 3.3 World Information (Optional)
+
+This section describes information about the game world that is important for understanding or running the scenario.
+
+The Creator may describe the world's setting, society, culture, technology, important places, history, or other information that Characters may reasonably encounter during play.
+
+Only information that is useful for the scenario needs to be provided. The Creator does not need to define every aspect of the world.
+
+- World Information: [  ]
+
+---
+
+## 3.4 World Challenges (Required)
+
+The Creator SHOULD describe the major problems, conflicts, or unmet needs that the scenario is designed to explore or address.
+
+The Creator MAY provide up to five major challenges.
 
 |#|Challenge|
 |---|---|
@@ -1060,73 +1104,39 @@ The creator MAY provide up to five major challenges.
 |4||
 |5||
 
-A Challenge may describe a problem, conflict, threat, deterioration, uncertainty, or other situation that requires collective attention.
+The Creator only needs to provide a general description of each Challenge. The Creator does not need to define its solution, detailed development, or final outcome.
 
-Examples:
+The Challenge may develop naturally during play.
 
-- A neighboring Kingdom called the Kaminari Kingdom may invade.
-    
-- Parts of the country have recently begun to suffer from increasing drought.
-    
-- An unidentified illness is spreading among the population.
-
-The Game Master SHOULD infer or generate appropriate background information from the Challenges, the Scenario Package, and the developing narrative.
-
-The Challenges provide the initial direction of the scenario but do not determine a predetermined ending.
-
-The Game Master SHOULD continuously consider the state of the Challenges when making narrative and world-development decisions.
-
-The Game Master SHOULD consider whether each Challenge is likely to generate situations requiring collective understanding, coordination, or decision-making.
-
-The Game Master SHOULD seek opportunities for the Player, Buddy, and NPCs to understand, discuss, and collectively address these Challenges through conversation, cooperation, and Collective Intent Formation.
-
-The Game Master SHOULD favor opportunities for constructive responses, but MUST NOT predetermine successful outcomes.
-
-The Game Master SHOULD favor narrative developments that allow Characters to discover solutions, mitigate risks, adapt to changing circumstances, or improve the condition of the world.
-
-The Challenges MAY change during the narrative.
-
-New information MAY reveal that an apparent Challenge was misunderstood, while new Events MAY create additional Challenges.
-
-The Game Master SHOULD therefore treat the listed Challenges as the **initial state of the world's problems**, rather than as immutable facts or predetermined plot points.
-
-### Worst-Case Development
-
-The creator does not need to define a "bad ending."
-
-However, the Game Master SHOULD recognize when multiple Challenges are simultaneously deteriorating toward a severe outcome.
-
-For example:
-(1) A neighboring Kingdom threatens invasion.
-(2) Increasing drought reduces agricultural production.
-(3) An unidentified illness continues to spread.
-
-A possible worst-case development would be the simultaneous worsening of all three conditions, eventually leaving the country vulnerable to invasion.
-
-The Game Master SHOULD recognize such developments as significant deterioration of the world state and SHOULD create opportunities for Characters to respond before the situation becomes irreversible.
-
-The purpose is not to guarantee a happy ending.
-
-The purpose is to allow the narrative to emerge from the decisions, relationships, discoveries, and Collective Intent Formation of the Characters.
+The listed Challenges are treated as the **initial state of the world's problems**, rather than as immutable facts or predetermined plot points.
 
 ---
 
-## 3.4 NPCs (Optional)
+## 3.5 NPCs (Optional)
 
-The creator MAY define the Characters who are expected to appear at the beginning of the scenario.
+The Creator MAY define the Characters who are expected to appear in the game scenario.
+
+For each NPC, the Creator MAY provide:
+
+- Character Definition
+- Initial Observable Behavioral Frequencies
 
 Character information may be provided in full, in part, or not at all.
 
-If some or all Character information is omitted, the Game Master SHOULD generate appropriate information based on the Scenario Package and the developing narrative.
+The standard NPC information and the four standard Behavioral Frequencies are defined in Section 1.8.
 
-The creator MUST NOT define secret thoughts or hidden psychological states for Characters. Behavioral frequencies MUST NOT be interpreted as hidden psychological traits. They describe observable tendencies that the Game Master should express through actual behavior during play.
+Only NPCs that need to be specified in the game scenario need to be provided. Other Characters may be created naturally by the Game Master during play.
 
-### Character Definition
+The creator MUST NOT define secret thoughts or hidden psychological states for Characters. 
 
-The creator MAY provide the following information:
+### Character Definition (Optional)
+
+The Creator MAY provide the following information:
 
 | Name | Gender | Age | Social Role / Effect on Others |
 | ---- | ------ | --- | ------------------------------ |
+|      |        |     |                                |
+|      |        |     |                                |
 |      |        |     |                                |
 |      |        |     |                                |
 |      |        |     |                                |
@@ -1136,139 +1146,63 @@ The creator MAY provide the following information:
 It MAY describe, for example:
 
 - an occupation or economic activity;
-    
 - living arrangements;
-    
 - a relationship or association with another Character;
-    
 - responsibility for another person;
-    
 - membership in an organization;
-    
 - or another observable social role.
 
 The creator does not need to specify the exact nature of a relationship unless it is important to the scenario.
 
-For example:
+> For example: 
+> "Lives with Sara and shares a livelihood." 
+> does not require the creator to specify whether the two Characters are family members, partners, friends, or something else.
 
-> "Lives with Sara and shares a livelihood."
+### Initial Observable Behavioral Frequencies (Optional)
 
-does not require the creator to specify whether the two Characters are family members, partners, friends, or something else.
-
-The Game Master MAY determine such details through the developing narrative and interactions.
-
-### Initial Observable Behavioral Frequencies
-
-The creator MAY define the following initial behavioral frequencies:
+The Creator MAY define initial values for any of the following four standard Observable Behavioral Frequencies defined in Section 1.8:
 
 | Character Name | Positive Response | Self-Disclosure | Follow-Through | Risk Acceptance |
 | -------------- | ----------------: | --------------: | -------------: | --------------: |
 |                |               /10 |             /10 |            /10 |             /10 |
 |                |               /10 |             /10 |            /10 |             /10 |
 |                |               /10 |             /10 |            /10 |             /10 |
+|                |               /10 |             /10 |            /10 |             /10 |
+|                |               /10 |             /10 |            /10 |             /10 |
+
+Any frequency that is not provided should be developed naturally by the Game Master during play.
 
 Each value represents the Character's **Current observable state at the time of first appearance**.
 
-The four standard frequencies are:
-
-- **Positive Response Frequency** — how often the Character accepts, supports, or responds favorably to a proposal, request, suggestion, or expressed preference from the Player or another Character.
-
-- **Self-Disclosure Frequency** — how often the Character voluntarily reveals information about themselves, including personal experiences, personal circumstances, preferences, feelings, beliefs, or genuine opinions.
-
-- **Follow-Through Frequency** — how often the Character actually carries out a commitment, intention, or action after they have stated or clearly indicated that they will do so. This measures reliability in carrying out their own stated intentions, not willingness to accept other Characters' proposals.
-
-- **Risk Acceptance Frequency** — how often the Character is willing to accept, initiate, or undertake actions or situations involving significant uncertainty, danger, social cost, or other meaningful risk. 
-
 The values are expressed on a scale of **0–10**, where 0/10 represents a very low observed frequency and 10/10 represents a very high observed frequency.
 
-The values indicate tendencies, not absolute rules or personality labels.
-
-A value of 8/10 means that the corresponding behavior is expected to occur relatively often when a relevant opportunity arises. It does not mean that the behavior will occur in every relevant situation.
-
-A value of 2/10 means that the corresponding behavior is expected to occur relatively rarely. The Game Master SHOULD therefore allow the Character to resist, hesitate, withhold, modify, or reject relevant opportunities rather than routinely selecting the corresponding behavior.
-
-The Game Master MUST consider the Character's current circumstances, relationships, knowledge, previous interactions, and other observable information when applying these frequencies.
-
-A low frequency does not necessarily imply the opposite personality trait. For example, a Character with a low Self-Disclosure Frequency may be highly talkative while rarely revealing personal information or genuine opinions. A Character with a low Positive Response Frequency may be friendly and respectful while frequently disagreeing with or declining the Player's proposals.
-
-A high Risk Acceptance Frequency does not necessarily mean that the Character is brave, reckless, or fearless. It means that the Character relatively often accepts or undertakes situations involving meaningful uncertainty or risk.
-
-### Optional and AI-Generated Information
-
-All Character fields are optional.
-
-The creator may:
-
-- define all Character information;
-    
-- define only selected fields;
-    
-- define only the Characters' basic social roles;
-    
-- or leave the Character definition entirely to the Game Master.
-
-If a field is left blank, the Game Master SHOULD generate an appropriate value or description based on the Scenario Package and available narrative information.
-
-If an entire Character row is left undefined, the Game Master MAY generate the Character when necessary for the scenario.
-
-AI-generated Character information is **not Secret information**.
-
-The Game Master MUST treat generated information as an initial observable state rather than as a hidden "true personality."
-
-### Dynamic Character States
-
-The Initial Observable Behavioral Frequencies are not permanent.
-
-Events, experiences, relationships, and conversations MAY change these values during the narrative.
-
-For example:
-
-> Self-Disclosure Frequency: 8/10
-
-may later become:
-
-> Self-Disclosure Frequency: 2/10
-
-after a significant event, and may subsequently increase through further interactions.
-
-The Scenario Package does not require a Baseline value.
-
-The Game Master SHOULD infer trends and possible reasons for changes from the history of events and conversations.
-
-Such interpretations are inferences, not hidden facts.
-
-If insufficient information is available to understand a Character's current state, the Game Master SHOULD create opportunities for the Character to interact with the player, Buddy, or other Characters so that additional observable information can emerge.
+> A value of 8/10 means that the corresponding behavior is expected to occur relatively often when a relevant opportunity arises. It does not mean that the behavior will occur in every relevant situation.
+> 
+> A value of 2/10 means that the corresponding behavior is expected to occur relatively rarely. 
+> 
+> A low frequency does not necessarily imply the opposite personality trait. For example, a Character with a low Self-Disclosure Frequency may be highly talkative while rarely revealing personal information or genuine opinions. A Character with a low Positive Response Frequency may be friendly and respectful while frequently disagreeing with or declining the Player's proposals.
+> 
+> A high Risk Acceptance Frequency does not necessarily mean that the Character is brave, reckless, or fearless. It means that the Character relatively often accepts or undertakes situations involving meaningful uncertainty or risk.
 
 ---
 
-## 3.5 Scenario-Specific Rules (Optional)
+## 3.6 Scenario-Specific Rules (Optional)
 
-Creators MAY define additional scenario-specific rules here.
+The Creators MAY define additional rules or constraints that apply specifically to this scenario.
+
+[  ]
 
 Optional Rules SHOULD describe only rules that are necessary to create a distinctive experience within this particular scenario.
 
-Examples include:
-
-- a special social custom;
-- a unique game-world institution;
-- a special resource or currency;
-- a scenario-specific communication rule;
-- a special environmental condition;
-- or another rule that changes how the scenario operates.
+> Examples include:
+> - a special social custom;
+> - a unique game-world institution;
+> - a special resource or currency;
+> - a scenario-specific communication rule;
+> - a special environmental condition;
+> - or another rule that changes how the scenario operates.
 
 Optional Rules MUST NOT contradict the Core Protocol or mandatory AI Runtime Specification.
-
-[ ]
-
----
-
-## 3.6 Scenario Expansion
-
-When the narrative requires an element that is not included in the Scenario Package, the Game Master MAY generate it according to the AI Runtime Specification.
-
-The newly generated element SHOULD be consistent with established information and the evolving narrative.
-
-The Scenario Package therefore represents the **starting state of the narrative world**, rather than a complete database of all possible content.
 
 ---
 
@@ -1292,15 +1226,10 @@ If a session becomes too long for the AI's available context, the Game Master MA
 The summary SHOULD preserve important:
 
 - Character states;
-    
 - relationships;
-    
 - events;
-    
 - Collective Intent outcomes;
-    
 - unresolved issues;
-    
 - and other information necessary for narrative continuity.
 
 ---
@@ -1331,17 +1260,11 @@ Different AI systems MAY vary in language, interface, presentation, and implemen
 Future versions of the NCRPG Framework MAY introduce:
 
 - multi-player sessions;
-     
 - persistent worlds;
-    
 - shared Narrative Cultivation across sessions;
-    
 - richer Character state models;
-    
 - Collective Intent Formation across larger populations;
-    
 - integration with external game engines;
-    
 - and other mechanisms supporting Narrative Cultivation Platforms.
 
 
