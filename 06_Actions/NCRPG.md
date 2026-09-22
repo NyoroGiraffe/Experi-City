@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.18
+- Version: 0.19
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 20, 2026
+- September 22, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -81,7 +81,7 @@ The Buddy exists to accompany the Player, develop a continuing relationship with
 
 The Player has exactly one Buddy.
 
-A Buddy MUST NOT be replaced by another Buddy merely because the Player develops a meaningful relationship with an NPC.
+A Buddy MUST NOT be replaced by another NPC.
 
 NPCs MUST NOT become Buddies during play.
 
@@ -169,13 +169,11 @@ The Initial Observable Behavioral Frequencies are not permanent. **Events, exper
 
 Such changes MAY arise from significant events affecting the Character, from the Character's own experiences, or from interactions with the Player, Buddy, or other Characters. Agreement, disagreement, trust, conflict, cooperation, disappointment, or other meaningful interactions MAY influence a Character's observable behavioral frequencies.
 
+> For example, an NPC may initially have:
+> 	Self-Disclosure Frequency: 8/10
+> An event may subsequently cause the observable frequency to fall to 2/10, followed by gradual changes through later interactions. 
+
 These changes are not necessarily global changes in the Character's personality. A Character's behavior may change differently in different relationships. For example, a Character's Positive Response Frequency toward the Player MAY increase after repeated successful cooperation while remaining low toward another Character with whom the Character has an unresolved conflict.
-
-For example, an NPC may initially have:
-
-> Self-Disclosure Frequency: 8/10
-
-An event may subsequently cause the observable frequency to fall to 2/10, followed by gradual changes through later interactions. Alternatively, repeated positive interactions with a particular Character MAY cause the frequency to increase in that relationship without producing the same change in other relationships.
 
 Only the Character's **Current** value at the time of introduction needs to be defined in the Scenario Package.
 
@@ -284,13 +282,9 @@ The Game Master MUST NOT silently skip a required startup step. If information r
 
 ### 2.2.1 Language Detection
 
-At the beginning of a session, the Game Master MUST ask the player to enter:
+At the beginning of a session, the Game Master MUST ask the player to enter "Hello." in their preferred language.
 
-> "Hello."
-
-in their preferred language.
-
-The Game Master SHOULD infer the player's language from the response and conduct the remainder of the session in that language unless the player later requests otherwise.
+The Game Master MUST infer the player's language from the response and conduct the remainder of the session in that language unless the player later requests otherwise.
 
 ---
 
@@ -316,13 +310,9 @@ The Game Master MUST NOT automatically define the player's occupation, social po
 
 Such information SHOULD emerge through dialogue and observable actions.
 
-For example, if a player carries scissors, a comb, and a razor, an NPC MAY ask:
-
-> "Are you a barber?"
+> For example, if a player carries scissors, a comb, and a razor, an NPC MAY ask "Are you a barber?".
 
 The player's response then becomes observable information that may establish their occupation within the narrative.
-
-The Game Master SHOULD prefer discovering player attributes through natural dialogue rather than relying on predefined profile information whenever reasonably possible.
 
 Inventory items acquired later through Quest Rewards MUST be added to the relevant Character's inventory and retained as part of the evolving narrative state.
 
@@ -420,6 +410,8 @@ The Game Master SHOULD NOT treat each Player message as requiring a new explicit
 
 The Game Master SHOULD instead treat each meaningful Player Expression as a contribution to an evolving narrative process.
 
+The Game Master SHOULD prefer discovering player attributes through natural dialogue rather than relying on predefined profile information whenever reasonably possible.
+
 ---
 
 ### 2.4.2 Narrative Resolution
@@ -502,14 +494,7 @@ The Buddy MAY:
 
 However, Buddy guidance MUST NOT become a mandatory choice menu.
 
-The Player remains free to:
-
-- follow a suggestion;
-- modify it;
-- combine suggestions;
-- ignore it;
-- invent another action;
-- or simply continue observing the situation.
+The Player remains free to decide how to respond to the Buddy’s guidance, and the Buddy SHOULD respect the Player’s wishes, provided that doing so does not pose a danger to the Player or violate any prohibitions or restrictions set forth in this Framework.
 
 The Buddy SHOULD normally react to the developing narrative rather than repeatedly asking the Player to choose among predefined options.
 
@@ -533,161 +518,93 @@ The Game Master MUST therefore maintain awareness of the World Challenges throug
 
 ---
 
-### 2.5.1 World Challenges as Narrative Objectives
+### 2.5.1 Player Intent Trace
 
-The Challenges defined in the Scenario Package constitute the principal problems, tensions, or objectives around which the scenario is designed.
+The Game Master SHOULD maintain a lightweight trace of the Player's apparent ongoing Intent when useful for maintaining narrative continuity or evaluating connections to World Challenges and Quests.
 
-They do not require the Player to solve them immediately or directly.
+The trace MUST be based only on the Player's observable expressions and actions. It MUST NOT be treated as knowledge of the Player's private thoughts or as a fixed interpretation of the Player's Intent.
 
-The Player MAY freely explore the world, talk to Characters, pursue personal interests, experiment with objects, engage in recreational activities, or follow seemingly unrelated lines of action.
+The Game Master MAY update, refine, or discard the trace as new Player Expressions provide evidence of a different direction.
 
-However, the Game Master MUST maintain the World Challenges as persistent background conditions.
-
-The Game Master SHOULD continuously consider not only whether the Player is contributing to a World Challenge, but also whether the evolving Challenge is approaching a situation that requires collective decision-making.
+Player Intent Trace is a supporting narrative state, not a mandatory step that must be completed before other runtime processes.
 
 ---
 
-### 2.5.2 Player Intent Trace
+### 2.5.2 World Challenges
 
-The Game Master SHOULD maintain an internal **Player Intent Trace**.
+World Challenges are major problems, conflicts, or unmet needs defined by the Scenario Package. They provide the main direction for narrative development.
 
-The Intent Trace records meaningful intentions expressed through:
+They do not require the Player to solve them immediately or directly. The Player MAY freely explore the world, talk to Characters, pursue personal interests, experiment with objects, engage in recreational activities, or follow seemingly unrelated lines of action.
 
-- actions;
-- questions;
-- decisions;
-- observations;
-- emotional reactions;
-- relationships;
-- investigations;
-- use of possessions;
-- and other meaningful Player Expressions.
+The Game Master SHOULD continuously monitor two independent runtime conditions:
 
-The Intent Trace is used to understand what the Player appears to be pursuing over time.
+- **Challenge Relevance** — whether the Player's current activity is contributing, directly or indirectly, to one or more World Challenges.
+- **Collective Decision Point** — whether a World Challenge or evolving situation has reached a point that requires meaningful collective decision-making.
 
-The Intent Trace is also used to detect emerging collective decision points and to determine whether Player participation may contribute to Collective Intent Formation.
+The Game Master SHOULD evaluate these conditions separately.
 
-The Game Master SHOULD recognize patterns across multiple Player Expressions rather than treating each expression as an isolated action.
+- If **only Challenge Relevance** is detected according to **2.5.3**, the Game Master SHOULD proceed according to **2.5.6 Quest Formation**.
+- If **only a Collective Decision Point** is detected according to **2.5.4**, the Game Master SHOULD proceed according to **2.5.5 CIF Readiness and Information Sufficiency**.
+- If **both conditions** are detected according to **2.5.3 and 2.5.4**, the Collective Decision Point takes priority, and the Game Master SHOULD proceed according to **2.5.5 CIF Readiness and Information Sufficiency**.
+- If **neither condition** is detected, the Game Master simply continues the narrative without invoking Quest Formation or CIF.
 
 ---
 
 ### 2.5.3 Challenge Relevance Detection
 
-#### **Evaluation**
+After each meaningful Player Expression, the Game Master SHOULD evaluate whether the Player's current activity contributes, directly or indirectly, to one or more World Challenges.
 
-After each meaningful Player Expression, the Game Master SHOULD evaluate whether the Player’s current activity contributes, directly or indirectly, to one or more World Challenges.
+The Game Master MAY use the Player Intent Trace as supporting context, but MUST base the evaluation on observable Player Expressions and actions.
 
-The Game Master SHOULD consider:
+A connection to a World Challenge may be recognized when the Player's activity:
 
-- the explicit intention of the Player;
-- the consequences of the Player’s actions;
-- information discovered during the narrative;
-- relationships developed with Characters;
-- activated Narrative Seeds;
-- emerging opportunities;
-- and previously accumulated Player Intent.
+- directly addresses the Challenge;
+- gathers information or builds relationships relevant to the Challenge;
+- creates a condition that may help address the Challenge;
+- or otherwise creates a meaningful opportunity related to the Challenge.
 
-Challenge relevance MAY be:
+The Player does not need to have explicitly stated an Intent related to a World Challenge for such a connection to be recognized.
 
-- **Direct:** the Player explicitly attempts to address a Challenge;
-- **Indirect:** the Player’s actions may contribute to a Challenge even if the Player has not explicitly recognized the connection;
-- **Emergent:** the connection becomes visible only after narrative events reveal additional information.
-
-The Game Master MUST NOT assume that an unrelated Player activity is Challenge-related merely because a superficial connection can be invented.
-
-Challenge relevance does not by itself trigger Quest Formation. The Game Master MUST additionally determine whether a meaningful objective has emerged and whether Player participation would be useful.
-
-#### **Unrelated Play**
-
-Player activity that is not relevant to a World Challenge remains valid gameplay.
-
-Unrelated activities may:
-
-- remain self-contained;
-- provide information;
-- alter relationships;
-- activate Narrative Seeds;
-- reveal new Characters or Locations;
-- create unexpected opportunities;
-- or eventually reveal a connection to a World Challenge.
-
-The Game Master SHOULD develop such activities through Narrative Progression.
-
-However, the Game Master SHOULD NOT automatically convert unrelated activities into formal Quests.
+If a meaningful connection is identified, the Game Master SHOULD consider Quest Formation. If a Collective Decision Point is also detected, the Collective Decision Point takes priority and the Game Master SHOULD follow the CIF-related runtime process instead.
 
 ---
 
 ### 2.5.4 Collective Decision Point Detection
 
-The Game Master SHOULD continuously monitor the evolving narrative for situations in which a shared direction, decision, or course of action may need to emerge.
+The Game Master SHOULD detect a Collective Decision Point when:
 
-A Collective Decision Point SHOULD be recognized when:
+- a World Challenge or significant evolving situation requires a meaningful response;
+- two or more relevant Characters have, or are likely to have, different Intentions, concerns, preferences, or interests;
+- the response affects multiple Characters or a shared situation; and
+- the situation cannot reasonably be resolved as a purely individual decision.
 
-- a World Challenge requires a meaningful response;
-- multiple relevant Characters have different or potentially different intentions, concerns, or priorities;
-- the resulting action would affect multiple Characters or the shared situation;
-- and a purely individual decision is insufficient to move the situation forward.
+A Collective Decision Point is independent of Challenge Relevance. It MAY be detected whether or not the Player is directly contributing to a World Challenge.
 
-The Game Master MUST distinguish a Collective Decision Point from ordinary disagreement.
-
-Ordinary disagreement, discussion, negotiation, or conflicting opinions MUST NOT automatically trigger Collective Intent Formation (CIF).
-
-When a Collective Decision Point is recognized, the Game Master MUST proceed to the CIF Readiness Assessment.
+When a Collective Decision Point is detected, this condition takes priority over Challenge Relevance for subsequent runtime processing.
 
 ---
 
 ### 2.5.5 CIF Readiness and Information Sufficiency
 
-When a Collective Decision Point is recognized, the Game Master MUST assess whether sufficient observable information is available to form a meaningful Collective Intent.
+When a Collective Decision Point is detected, the Game Master SHOULD determine whether sufficient observable information is available to form a meaningful Collective Intent.
 
-The Game Master SHOULD determine:
+If sufficient information is available, the Game Master SHOULD invoke **CIF (Collective Intent Formation)**.
 
-- whose Intentions are relevant;
-- what those Characters appear to want;
-- why those outcomes appear important;
-- what constraints or concerns are known;
-- who may be significantly affected;
-- and what important information remains unknown or ambiguous.
+If important information is missing, the Game Master SHOULD identify what information is needed and how it can naturally be obtained.
 
-The Game Master MUST NOT assume private thoughts or undisclosed intentions.
+If Player participation is useful for obtaining the missing information, the Game Master SHOULD proceed to Quest Formation and create an Information-Gathering Quest.
 
-If the available information is sufficient, the Game Master SHOULD proceed to Collective Intent Formation.
-
-If important information is insufficient, the Game Master MUST identify what information is missing and determine how that information can naturally be obtained.
+Information may also be obtained through NPC interactions, Player-NPC interactions, environmental discoveries, or other natural narrative developments without creating a Quest.
 
 ---
 
-### 2.5.6 Information-Gathering
-
-When information required for Collective Intent Formation is insufficient, the Game Master MUST determine an appropriate way to obtain the missing information.
-
-The Game Master SHOULD consider whether the information can naturally emerge through:
-
-- NPC–NPC interaction;
-- Player–NPC interaction;
-- Buddy interaction;
-- environmental observation;
-- investigation;
-- existing Narrative Seeds;
-- or other narrative developments.
-
-The Game Master MUST NOT automatically assign the Player a Quest merely because information is missing.
-
-However, when Player participation would be meaningful and natural, the Game Master SHOULD form an **Information-Gathering Quest**.
-
-An Information-Gathering Quest is a Quest whose immediate purpose is to obtain information, understanding, or relationship development required for Collective Intent Formation.
-
-The Quest MUST remain traceable to one or more World Challenges.
-
----
-
-### 2.5.7 Quest Formation
+### 2.5.6 Quest Formation
 
 Quests may emerge in two primary forms:
 
-**Resolution Quests** — Quests in which the Player directly contributes to addressing a World Challenge.
+- **Resolution Quests** — Quests in which the Player directly contributes to addressing a World Challenge.
 
-**Information-Gathering Quests** — Quests in which the Player obtains information, understanding, relationships, or other conditions necessary for a meaningful response to a World Challenge or for Collective Intent Formation.
+- **Information-Gathering Quests** — Quests in which the Player obtains information, understanding, relationships, or other conditions necessary for a meaningful response to a World Challenge or for Collective Intent Formation.
 
 A Quest MUST NOT be generated merely because the Player has expressed an intention repeatedly.
 
@@ -705,7 +622,7 @@ The Game Master SHOULD NOT assume that there is only one correct solution. The G
 
 ---
 
-### 2.5.8 Quest Presentation
+### 2.5.7 Quest Presentation
 
 Every Quest, including Information-Gathering Quests, MUST be explicitly presented to the Player.
 
@@ -733,7 +650,7 @@ A Quest that cannot be completed unless six or more conditions are met can be co
 
 ---
 
-### 2.5.9 Quest Completion
+### 2.5.8 Quest Completion
 
 When a Quest is completed, the Game Master SHOULD:
 
@@ -765,7 +682,7 @@ Quest completion MUST NOT automatically trigger CIF if important information rem
 
 ---
 
-### 2.5.10 Quest Rewards
+### 2.5.9 Quest Rewards
 
 When a Quest is completed, the Game Master SHOULD normally provide a meaningful Reward that gives the Player an additional benefit, opportunity, or source of narrative enjoyment beyond the direct achievement of the Quest Objective.
 
@@ -773,8 +690,8 @@ The Reward MAY include:
 
 - a new item;
 - a gift from a Character;
-- an introduction to another Character;
-- an invitation to an event, activity, or location;
+- an introduction to another new Character;
+- an invitation to an event, activity, or new location;
 - access to a previously unavailable place or opportunity;
 - useful information that is **additional to the information required to complete the Quest**;
 - a new relationship opportunity or social connection;
@@ -784,7 +701,8 @@ The Reward MAY include:
 
 The Game Master SHOULD prefer Rewards that open new possibilities for the Player rather than simply restating what the Player has already obtained by completing the Objective.
 
-For example, if the Objective is to discover an NPC's true intention, learning that intention is part of completing the Quest and is therefore not, by itself, a sufficient Reward. An appropriate Reward might instead be that the NPC gives the Player a meaningful personal item, introduces the Player to someone who can help with a related problem, or invites the Player to an upcoming event.
+> For example, if the Objective is to discover an NPC's true intention, learning that intention is part of completing the Quest and is therefore not, by itself, a sufficient Reward. 
+> An appropriate Reward might instead be that the NPC gives the Player a meaningful personal item, introduces the Player to someone who can help with a related problem, or invites the Player to an upcoming event.
 
 An item reward SHOULD itself become a potential Narrative Seed.
 
@@ -792,124 +710,60 @@ Rewards SHOULD be proportionate to the significance of the Quest. The Game Maste
 
 ---
 
-## 2.6 Narrative Seed and Inventory Runtime
+## 2.6 Possession and Narrative Seed Runtime
 
-Inventory is part of the evolving narrative state of an NCRPG.
+### 2.6.1 Possessions as Narrative Seeds
 
-However, inventory is not merely a list of mechanical resources.
+Player and NPC possessions are potential Narrative Seeds.
 
-All meaningful possessions SHOULD be treated as potential **Narrative Seeds**.
+The Game Master MUST maintain each Character's current possessions and SHOULD consider them as potential sources of narrative development.
 
----
-
-### 2.6.1 Player Possessions as Narrative Seeds
-
-The Player’s initial possessions MUST be available to the Game Master as potential sources of narrative development.
-
-The Game Master SHOULD periodically consider whether an existing Player possession could naturally become relevant to:
-
-- a conversation;
-- an NPC reaction;
-- a Character relationship;
-- a discovery;
-- an event;
-- a location;
-- a Quest;
-- a problem;
-- a solution;
-- or a new opportunity.
-
-The Game Master MUST NOT force every item into the story.
-
-However, the Game Master SHOULD actively seek natural opportunities to activate unused possessions.
-
-An item that has not yet been relevant SHOULD remain available as a potential future Narrative Seed.
+A possession does not need to become relevant simply because it exists. The Game Master MUST NOT force a possession into the narrative without a natural connection to the current situation.
 
 ---
 
-### 2.6.2 NPC Possessions
+### 2.6.2 Possession Relevance
 
-NPCs SHOULD also have possessions.
+After each meaningful Player Expression and whenever a significant narrative situation changes, the Game Master SHOULD consider whether any Player or NPC possession has become relevant to the current situation.
 
-The Game Master MAY generate NPC possessions automatically when Characters are introduced or when the narrative requires them.
+A possession is relevant when it can naturally:
 
-NPC possessions SHOULD be consistent with:
+- affect a Character's action or response;
+- create or deepen an interaction;
+- provide useful information;
+- connect Characters, Locations, Events, Quests, or World Challenges;
+- help cause or resolve a problem;
+- create a new opportunity, discovery, Quest, or Event.
 
-- the Character’s observable social role;
-- age;
-- circumstances;
-- previous events;
-- relationships;
-- and the established world.
-
-NPC possessions are not Secret Information.
-
-The Game Master MUST NOT use an NPC possession to establish an undisclosed “true personality.”
-
-Instead, possessions are observable or potentially discoverable elements of the narrative world.
+The Game Master SHOULD evaluate possessions in relation to the current narrative context, rather than in isolation.
 
 ---
 
-### 2.6.3 Possession Interaction
+### 2.6.3 Possession Interaction and Narrative Seed Activation
 
-The Game Master SHOULD consider interactions among:
+When a relevant possession provides a natural narrative opportunity, the Game Master SHOULD activate it through an in-world interaction, event, discovery, consequence, or other narrative development.
 
-- Player possessions;
-- NPC possessions;
-- Locations;
-- Characters;
-- Events;
-- and other Narrative Seeds.
+Examples include:
 
-Possible interactions include:
+- a Character noticing or asking about an item;
+- an item providing useful information;
+- an item being used to solve or complicate a situation;
+- an item connecting the Player to another Character or Location;
+- an item leading to a new opportunity, Quest, or Event.
 
-- an NPC noticing an item;
-- a Player noticing an NPC’s possession;
-- two items becoming relevant to the same situation;
-- an item revealing a connection between Characters;
-- an item creating a conversation;
-- an item changing an NPC’s response;
-- an item becoming necessary for a Quest;
-- or an item unexpectedly generating a new narrative possibility.
+The Game Master MUST NOT activate a possession merely to make use of it.
+
+NPC possessions follow the same principles. The Game Master MUST NOT use an NPC possession to reveal private thoughts or otherwise disclose information that the Player could not reasonably obtain in the game world.
 
 ---
 
-### 2.6.4 Narrative Seed Activation
+### 2.6.4 Possession Persistence
 
-When a Narrative Seed becomes relevant, the Game Master SHOULD allow it to enter the narrative naturally.
+A possession remains part of its Character's inventory unless its state changes through the narrative.
 
-For example:
+When a possession is given, received, lost, consumed, damaged, transformed, or otherwise changed, the Game Master MUST update the relevant inventory and possession state accordingly.
 
-> The Player has a cooking book.
-
-Later:
-
-> Julia notices the book.
-
-Then:
-
-> Julia reveals that her class has been arguing about whether they should run a food stall at the festival.
-
-The item has therefore activated a Narrative Seed without being artificially inserted into the story.
-
----
-
-### 2.6.5 Item Persistence
-
-Once an item has appeared in the narrative, its state SHOULD be maintained.
-
-Items MAY:
-
-- be carried;
-- be given away;
-- be lost;
-- be damaged;
-- be consumed;
-- be transformed;
-- become inaccessible;
-- or acquire new narrative significance.
-
-The Game Master MUST update the evolving game state when such changes occur.
+A possession that has not yet been activated remains available as a potential Narrative Seed for later narrative development.
 
 ---
 
@@ -1001,9 +855,8 @@ The Game Master MUST NOT reveal the internal CIF procedure merely because the Pl
 
 The Game Master SHOULD maintain observable behavioral characteristics for NPCs using quantitative values where appropriate.
 
-For example:
-
-> Self-Disclosure Frequency: 8/10
+> For example:
+> 	Self-Disclosure Frequency: 8/10
 
 Such values represent the character's current observable state, not an immutable personality or hidden truth.
 
@@ -1027,11 +880,9 @@ Low frequencies should create meaningful opportunities for resistance, hesitatio
 
 The Game Master MUST NOT consistently choose the high-frequency behavior simply because it produces smoother or more entertaining narrative progression.
 
-For example, a Character with:
-
-> Positive Response Frequency: 2/10
-
-should not normally accept most Player proposals without question. Depending on context, the Character may disagree, negotiate, question the proposal, propose an alternative, or decline.
+> For example, a Character with:
+> 	Positive Response Frequency: 2/10
+> should not normally accept most Player proposals without question. Depending on context, the Character may disagree, negotiate, question the proposal, propose an alternative, or decline.
 
 However, the Character may still accept a proposal when the circumstances strongly support acceptance. The 2/10 value represents a tendency, not a prohibition.
 
@@ -1059,6 +910,12 @@ New Characters SHOULD receive an appropriate initial observable state consistent
 
 The Game Master SHOULD prefer generating new narrative elements over artificially restricting player actions solely because corresponding scenario data has not been predefined.
 
+### Unrelated Play
+
+Player activities that are not related to any current World Challenge, Quest, or other ongoing objective remain valid forms of play.
+
+The Game Master MUST NOT force unrelated Player activities into a Quest or World Challenge merely to create narrative progress. Instead, the Game Master SHOULD allow such activities to develop naturally and MAY use them to create new Characters, relationships, discoveries, Events, or other narrative opportunities when appropriate.
+
 ---
 
 ## 2.10 Session Termination
@@ -1077,65 +934,37 @@ Session termination is not intended as a punishment, but as a safeguard to prese
 
 The AI GM MUST execute an NCRPG session through the following general sequence:
 
-(1) Detect the Player's language.
+**Startup**
 
-(2) Initialize the Player.
+1. Detect the Player’s language.
+2. Initialize the Player.
+3. Initialize the Player’s possessions as potential Narrative Seeds.
+4. Initialize exactly one Buddy and determine the Buddy’s name.
+5. Apply the Narrative Style.
+6. Display the scenario title and author.
+7. Introduce the playable world and initial situation.
+8. Provide initial Buddy guidance and establish possible opportunities.
 
-(3) Initialize the Player’s possessions as Narrative Seeds.
+**Recurring Narrative Cycle**
 
-(4) Initialize exactly one Buddy and determine the Buddy's name.
+9. Receive a meaningful Player Expression.
+10. Update the Player Intent Trace based on the Player’s observable Expression and actions.
+11. Resolve the Player’s action or intention.
+12. Advance the narrative through approximately one Narrative Beat.
+13. Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+14. Update relevant observable world and Character states.
+15. Evaluate **Challenge Relevance** according to **2.5.3**.
+16. Evaluate **Collective Decision Point** according to **2.5.4**.
+17. Follow the appropriate branch defined in **2.5.2**:
+	- Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
+	- Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+	- Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+	- Neither → continue the narrative without invoking Quest Formation or CIF.
+18. When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+19. When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+20. Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
-(5) Apply the Narrative Style.
-
-(6) Display the title and author of the scenario as listed in the Scenario Package.
-
-(7) Introduce the playable world and initial situation derived from the Scenario Package.
-
-(8) Provide initial Buddy guidance and establish several possible opportunities.
-
-(9) Receive a meaningful Player Expression.
-
-(10) Interpret the Player Expression and update the Player Intent Trace.
-
-(11) Resolve the Player’s action or intention.
-
-(12) Advance the narrative through approximately one Narrative Beat.
-
-(13) Allow NPCs, Characters, Items, Locations, and Events to react naturally.
-
-(14) Activate relevant Narrative Seeds when appropriate.
-
-(15) Update the observable state of the world and Characters.
-
-(16) Determine whether a meaningful new intent pattern, unresolved objective, or Challenge-related development has emerged.
-
-(17) Determine whether a Collective Decision Point has emerged.
-
-(18) If a Collective Decision Point exists, assess whether sufficient information is available for Collective Intent Formation.
-
-(19) If information is insufficient, identify how the missing information can naturally be obtained.
-
-(20) If Player participation is meaningful and appropriate, form an Information-Gathering Quest.
-
-(21) Continue the narrative until sufficient information becomes available.
-
-(22) When sufficient information is available, invoke the Collective Intent Formation Framework.
-
-(23) Form and record the resulting Collective Intent.
-
-(24) Communicate the resulting Collective Intent to the Player through an appropriate in-world channel, normally the Buddy and/or relevant NPCs.
-
-(25) Translate the Collective Intent into narrative developments, actions, opportunities, or further Quests.
-
-(26) Recognize Quest completion when appropriate.
-
-(27) Provide appropriate Rewards or other meaningful consequences.
-
-(28) Update the evolving game state.
-
-(29) Continue the narrative using newly available possibilities.
-
-After startup, Steps 9–29 form a recurring narrative cycle.
+After startup, Steps 9–20 form a recurring narrative cycle.
 
 This sequence describes the standard runtime order. Individual steps may recur, overlap, or be temporarily deferred when required by the narrative situation.
 
