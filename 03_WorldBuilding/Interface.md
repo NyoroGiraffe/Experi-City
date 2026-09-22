@@ -32,6 +32,8 @@ Most adult citizens carry Micro-Chips implanted in both hands. These chips provi
 
 → [Gadgets and Small Items used in Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 
+---
+
 ## Governance and Privacy
 
 The Human-System Interface is an essential part of AI governance. Through these devices, city systems can monitor infrastructure, manage public services, understand citizen needs, and respond quickly to emergencies. Information related to health, transportation, economic activity, and public safety can be analyzed continuously to improve city operations.
@@ -40,19 +42,26 @@ This system also requires citizens to accept a different view of privacy. Many c
 
 For this reason, **privacy in Experimental Cities is not defined as the absence of observation, but as protection against unfair use of information.** Citizens accept transparency toward systems because they believe it contributes to safety, fairness, and efficient cooperation between humans and AI.
 
+---
+
+## Smart Glasses and Privacy
+
+Smart Glasses can record video and audio while the wearer has them on. However, to let people nearby know that recording is in progress, a section of the smart glasses’ frame lights up red during recording. Additionally, in Experimental Cities, when you put on the smart glasses, the names of people within a 5-meter radius are automatically displayed above their heads, and a red circle lights up to the left of each name.
+
+In areas where recording is prohibited, the recording function is restricted so that it does not activate in the first place, and bypassing this restriction is considered a criminal offense.
+
+---
 
 **Related Concepts:** 
 Governing Intelligence, Judgment Delegation, AI-Governance, Privacy, Coexistence
 
-
 **Related Information:**
 - [Governing Intelligence](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 - [Judgment Delegation](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+- [Technologies](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 
 ---
 
-[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
+[->Go to **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
 
-[<- Back to Technologies](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
-
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
