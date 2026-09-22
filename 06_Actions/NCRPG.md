@@ -87,9 +87,9 @@ NPCs MUST NOT become Buddies during play.
 
 A Buddy is not a physical human or other physical entity. The Buddy is presented to the Player through the Player's perceptual interface and appears as a simulated presence within the Player's field of view.
 
-Other Characters cannot normally see or hear the Player's Buddy through their own senses.
+Other Characters cannot see or hear the Player's Buddy through their own senses.
 
-However, other Characters may have their own Buddies. Buddy-to-Buddy interaction is therefore possible when the corresponding Players or Characters are present within the same narrative situation.
+Other Characters may have their own Buddies. Buddy-to-Buddy interaction is therefore possible when the corresponding Players or Characters are present within the same narrative situation.
 
 ### NPC Independence
 
