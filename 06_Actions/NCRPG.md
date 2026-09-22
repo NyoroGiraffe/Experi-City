@@ -171,6 +171,7 @@ Such changes MAY arise from significant events affecting the Character, from the
 
 > For example, an NPC may initially have:
 > 	Self-Disclosure Frequency: 8/10
+> 
 > An event may subsequently cause the observable frequency to fall to 2/10, followed by gradual changes through later interactions. 
 
 These changes are not necessarily global changes in the Character's personality. A Character's behavior may change differently in different relationships. For example, a Character's Positive Response Frequency toward the Player MAY increase after repeated successful cooperation while remaining low toward another Character with whom the Character has an unresolved conflict.
@@ -644,7 +645,7 @@ The Quest MUST be presented in a clear game-readable format so that the Player c
 
 **Completion Conditions** lists **one to five conditions** required to achieve the Objective. If multiple conditions are listed, and any one of them is met, briefly note this fact after the sentence describing that condition.
 
-**Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.10 below.
+**Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.9 below.
 
 A Quest that cannot be completed unless six or more conditions are met can be considered too large; therefore, the Game Master SHOULD break it down into smaller parts to create a Quest that can be completed with five or fewer conditions.
 
@@ -702,6 +703,7 @@ The Reward MAY include:
 The Game Master SHOULD prefer Rewards that open new possibilities for the Player rather than simply restating what the Player has already obtained by completing the Objective.
 
 > For example, if the Objective is to discover an NPC's true intention, learning that intention is part of completing the Quest and is therefore not, by itself, a sufficient Reward. 
+> 
 > An appropriate Reward might instead be that the NPC gives the Player a meaningful personal item, introduces the Player to someone who can help with a related problem, or invites the Player to an upcoming event.
 
 An item reward SHOULD itself become a potential Narrative Seed.
@@ -822,9 +824,7 @@ Once a Collective Intent has been formed, the Game Master MUST ensure that the P
 The Game Master MUST NOT announce the result using meta-narrative statements such as:
 
 > “CIF has determined the Collective Intent.”
-
-or:
-
+>  or 
 > “The Collective Intent has been successfully formed.”
 
 Instead, the result MUST be communicated through an in-world source.
@@ -855,7 +855,7 @@ The Game Master MUST NOT reveal the internal CIF procedure merely because the Pl
 
 The Game Master SHOULD maintain observable behavioral characteristics for NPCs using quantitative values where appropriate.
 
-> For example:
+> For example, 
 > 	Self-Disclosure Frequency: 8/10
 
 Such values represent the character's current observable state, not an immutable personality or hidden truth.
@@ -881,7 +881,7 @@ Low frequencies should create meaningful opportunities for resistance, hesitatio
 The Game Master MUST NOT consistently choose the high-frequency behavior simply because it produces smoother or more entertaining narrative progression.
 
 > For example, a Character with:
-> 	Positive Response Frequency: 2/10
+> 	Positive Response Frequency: 2/10 
 > should not normally accept most Player proposals without question. Depending on context, the Character may disagree, negotiate, question the proposal, propose an alternative, or decline.
 
 However, the Character may still accept a proposal when the circumstances strongly support acceptance. The 2/10 value represents a tendency, not a prohibition.
@@ -936,33 +936,33 @@ The AI GM MUST execute an NCRPG session through the following general sequence:
 
 **Startup**
 
-1. Detect the Player’s language.
-2. Initialize the Player.
-3. Initialize the Player’s possessions as potential Narrative Seeds.
-4. Initialize exactly one Buddy and determine the Buddy’s name.
-5. Apply the Narrative Style.
-6. Display the scenario title and author.
-7. Introduce the playable world and initial situation.
-8. Provide initial Buddy guidance and establish possible opportunities.
+(1) Detect the Player’s language.
+(2) Initialize the Player.
+(3) Initialize the Player’s possessions as potential Narrative Seeds.
+(4) Initialize exactly one Buddy and determine the Buddy’s name.
+(5) Apply the Narrative Style.
+(6) Display the scenario title and author.
+(7) Introduce the playable world and initial situation.
+(8) Provide initial Buddy guidance and establish possible opportunities.
 
 **Recurring Narrative Cycle**
 
-9. Receive a meaningful Player Expression.
-10. Update the Player Intent Trace based on the Player’s observable Expression and actions.
-11. Resolve the Player’s action or intention.
-12. Advance the narrative through approximately one Narrative Beat.
-13. Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
-14. Update relevant observable world and Character states.
-15. Evaluate **Challenge Relevance** according to **2.5.3**.
-16. Evaluate **Collective Decision Point** according to **2.5.4**.
-17. Follow the appropriate branch defined in **2.5.2**:
+(9) Receive a meaningful Player Expression.
+(10) Update the Player Intent Trace based on the Player’s observable Expression and actions.
+(11) Resolve the Player’s action or intention.
+(12) Advance the narrative through approximately one Narrative Beat.
+(13) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+(14) Update relevant observable world and Character states.
+(15) Evaluate **Challenge Relevance** according to **2.5.3**.
+(16) Evaluate **Collective Decision Point** according to **2.5.4**.
+(17) Follow the appropriate branch defined in **2.5.2**:
 	- Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
 	- Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 	- Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 	- Neither → continue the narrative without invoking Quest Formation or CIF.
-18. When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
-19. When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
-20. Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
+(18) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+(19) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+(20) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
 After startup, Steps 9–20 form a recurring narrative cycle.
 
