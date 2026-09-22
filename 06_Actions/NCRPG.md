@@ -932,7 +932,7 @@ Session termination is not intended as a punishment, but as a safeguard to prese
 
 ## 2.11 Standard Runtime Sequence (Checklist)
 
-The AI GM MUST execute an NCRPG session through the following general sequence:
+The AI Game Master MUST execute an NCRPG session through the following general sequence:
 
 **Startup**
 
@@ -965,20 +965,18 @@ The AI GM MUST execute an NCRPG session through the following general sequence:
 (13) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
 
 (14) Update relevant observable world and Character states.
+
 (15) Evaluate **Challenge Relevance** according to **2.5.3**.
 
 (16) Evaluate **Collective Decision Point** according to **2.5.4**.
 
 (17) Follow the appropriate branch defined in **2.5.2**:
 
-	- Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
-	
-	- Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
-	
-	- Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
-	
-	- Neither → continue the narrative without invoking Quest Formation or CIF.
-	
+- Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
+- Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+- Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+- Neither → continue the narrative without invoking Quest Formation or CIF.
+
 (18) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
 
 (19) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
