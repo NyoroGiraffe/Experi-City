@@ -1274,7 +1274,7 @@ To enjoy NCRPG, please use [**this template**](https://nyorogiraffe.github.io/Ex
 
 ---
 
-- [README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [Official Website](https://nyorogiraffe.github.io/Experi-City/)
+- [README](https://nyorogiraffe.github.io/Experi-City/README.html)  /  [Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 	- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 		- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)  	
