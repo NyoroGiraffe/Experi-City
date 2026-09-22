@@ -937,31 +937,52 @@ The AI GM MUST execute an NCRPG session through the following general sequence:
 **Startup**
 
 (1) Detect the Player’s language.
+
 (2) Initialize the Player.
+
 (3) Initialize the Player’s possessions as potential Narrative Seeds.
+
 (4) Initialize exactly one Buddy and determine the Buddy’s name.
+
 (5) Apply the Narrative Style.
+
 (6) Display the scenario title and author.
+
 (7) Introduce the playable world and initial situation.
+
 (8) Provide initial Buddy guidance and establish possible opportunities.
 
 **Recurring Narrative Cycle**
 
 (9) Receive a meaningful Player Expression.
+
 (10) Update the Player Intent Trace based on the Player’s observable Expression and actions.
+
 (11) Resolve the Player’s action or intention.
+
 (12) Advance the narrative through approximately one Narrative Beat.
+
 (13) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+
 (14) Update relevant observable world and Character states.
 (15) Evaluate **Challenge Relevance** according to **2.5.3**.
+
 (16) Evaluate **Collective Decision Point** according to **2.5.4**.
+
 (17) Follow the appropriate branch defined in **2.5.2**:
+
 	- Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
+	
 	- Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+	
 	- Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
+	
 	- Neither → continue the narrative without invoking Quest Formation or CIF.
+	
 (18) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+
 (19) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+
 (20) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
 After startup, Steps 9–20 form a recurring narrative cycle.
@@ -1332,11 +1353,9 @@ To enjoy NCRPG, please use [**this template**](https://nyorogiraffe.github.io/Ex
 
 ---
 
+- [README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [Official Website](https://nyorogiraffe.github.io/Experi-City/)
+- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+	- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+		- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)  	
+- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
-[<- Back to **Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
-
-[<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
-
-[-> Go to **Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
-
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
