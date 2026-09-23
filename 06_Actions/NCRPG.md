@@ -1270,7 +1270,7 @@ Future versions of the NCRPG Framework MAY introduce:
 
 ---
 
-To enjoy NCRPG, please use [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html) to issue instructions to the generative AI in the chat window as a “System Directive.”
+To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG_Template.html), paste it into a text file, fill in the required information, open the chat-based AI generator “New Chat,” paste it into the chat window as a “System Directive”, and then begin.
 
 ---
 
