@@ -1276,6 +1276,10 @@ To get started with NCRPG, copy [**this template**](https://nyorogiraffe.github.
 
 ---
 
+If you want to play an NCRPG using a pre-made scenario package, there are several available on [**this site**](https://nyorogiraffe.github.io/NCRPG/) that you can copy.
+
+---
+
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
