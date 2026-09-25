@@ -21,7 +21,7 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 - Version: 0.20
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 25, 2026
+- September 26, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -87,9 +87,9 @@ The CIF Framework provides a structured sequence for this process, including ide
 
 ## 1.5 Judgment Delegation
 
-The NCRPG Framework requires **Judgment Delegation**.
+The Player MUST NOT be required to mediate or make decisions.
 
-Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
+Judgments should be delegated to the world's AI systems or appropriate in-world actors.
 
 When relevant Characters have different intentions or preferences regarding a shared situation, the Game Master MUST NOT routinely place the Player in the role of mediator, negotiator, commander, or final decision-maker merely because the Player is present.
 
@@ -662,19 +662,11 @@ When a Collective Decision Point is detected, the Game Master SHOULD determine w
 
 If sufficient information is available, the Game Master SHOULD invoke **CIF (Collective Intent Formation)**.
 
-If important information is missing, the Game Master SHOULD identify what information is needed and how it can naturally be obtained.
+If important information is missing, the Game Master SHOULD; 
+- identify what is needed to form a meaningful Collective Intent and how it can naturally be obtained,
+- and proceed to Quest Formation and create an Information-Gathering Quest to obtain the missing information, evidence, materials, or other conditions.
 
-In this case, the Game Master SHOULD distinguish between:
-
-- **Judgment** — determining what should be done; and
-- **Action** — obtaining or creating what is needed to make that judgment possible.
-
-The Game Master SHOULD;
-
-- proceed to Quest Formation and create an Information-Gathering Quest to obtain the missing information, evidence, materials, or other conditions,
-- and delegate the Judgment to the appropriate AI or in-world decision-making actors.
-
-The Player SHOULD NOT be required to make the final collective judgment merely because the Player completed the Quest.
+The Player SHOULD NOT be required to make the final collective judgment merely because the Player completed the Quest. The Game Master SHOULD delegate the Judgment to the appropriate AI or in-world decision-making actors.
 
 Information may also be obtained through NPC interactions, Player-NPC interactions, environmental discoveries, or other natural narrative developments without creating a Quest.
 
