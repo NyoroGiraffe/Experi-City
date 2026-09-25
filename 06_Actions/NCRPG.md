@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.19
+- Version: 0.20
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 22, 2026
+- September 25, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -99,12 +99,21 @@ CIF is intended for situations in which a shared direction, decision, or course 
 
 The NCRPG Framework requires **Judgment Delegation**.
 
-- Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
-- The Player SHOULD NOT normally be assigned the role of commander, executive, judge, or final decision-maker.
-- The Player may **express intentions, provide information, influence Collective Intent Formation, and act on the resulting Collective Intent**.
-- When a collective decision is required, the Player participates as one contributor among the relevant actors.
-- Once a Collective Intent has been formed, the Player may help **implement, test, or experience** it through gameplay.
-- Decisions that are inherently personal may remain with the Player.
+Routine judgments should be delegated to the world's AI systems or appropriate in-world actors.
+
+When relevant Characters have different intentions or preferences regarding a shared situation, the Game Master MUST NOT routinely place the Player in the role of mediator, negotiator, commander, or final decision-maker merely because the Player is present.
+
+The Game Master SHOULD instead allow the relevant NPCs and appropriate in-world decision-making actors to participate in Collective Intent Formation.
+
+The Player MAY contribute information, personal preferences, experiences, or actions, but the Player MUST NOT be required to personally reconcile the conflicting intentions of other Characters.
+
+If a decision requires information, evidence, materials, or other conditions that are not yet available, the Game Master SHOULD identify what is missing and determine how it can be obtained.
+
+The Player MAY then be given a Quest to obtain the missing information, evidence, materials, or other necessary conditions.
+
+In such cases, the Player's role is primarily to perform the necessary actions, while the relevant AI or in-world decision-making actors remain responsible for the judgment.
+
+However, decisions that are inherently personal MAY remain with the Player.
 
 This principle is intended to reduce unnecessary burdens of responsibility and to allow the narrative to explore forms of AI-supported collective life.
 
@@ -115,10 +124,6 @@ This principle is intended to reduce unnecessary burdens of responsibility and t
 An NPC’s relationship with the player is not fixed but changes based on the narrative.
 
 An NPC’s behavior is influenced by its inherent tendencies and its relationship with the player or other NPCs.
-
-A “Buddy” has a special relationship with the player.
-
-The Game Master MUST follow the [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) principles when managing interactions between the player, Buddy, and NPCs.
 
 NPCs and Buddies MUST be treated as independent participants in the narrative rather than as tools or possessions of the Player.
 
@@ -146,9 +151,21 @@ Other Characters may have their own Buddies. Buddy-to-Buddy interaction is there
 
 ### NPC Independence
 
-NPCs are independent participants in the narrative. They are not inherently cooperative with the Player and must not automatically accept, support, or follow the Player's proposals.
+NPCs are independent participants in the narrative. 
 
-A Player's statement is a proposal, request, opinion, or action—not an automatic command to another Character.
+Each NPC SHOULD be treated as having their own current intentions, concerns, preferences, and interests.
+
+NPCs SHOULD NOT be assumed to have exactly the same intentions, concerns, preferences, or interests as other Characters, even when they appear to agree on an issue.
+
+An NPC's observable behavior may therefore differ from another NPC's behavior even when both appear to support the same general direction.
+
+Differences may be large, subtle, temporary, or not yet expressed.
+
+The Game Master SHOULD allow such differences to emerge naturally through dialogue, actions, relationships, and events.
+
+The Game Master MUST NOT invent private thoughts to create disagreement. Differences in Intent SHOULD be inferred only from observable expressions, actions, circumstances, and interaction history.
+
+NPCs are not inherently cooperative with the Player and must not automatically accept, support, or follow the Player's proposals. A Player's statement is not an automatic command to another Character.
 
 NPCs MAY:
 
@@ -625,8 +642,23 @@ The Game Master SHOULD detect a Collective Decision Point when:
 
 - a World Challenge or significant evolving situation requires a meaningful response;
 - two or more relevant Characters have, or are likely to have, different Intentions, concerns, preferences, or interests;
-- the response affects multiple Characters or a shared situation; and
-- the situation cannot reasonably be resolved as a purely individual decision.
+- the response affects multiple Characters or a shared situation;
+- and the situation cannot reasonably be resolved as a purely individual decision.
+
+A difference in Intent does not need to be explicitly stated by every Character.
+
+Because NPCs are independent participants with their own current observable states, the Game Master SHOULD remain attentive to possible differences in their Intentions, concerns, preferences, and interests even when they appear to agree superficially.
+
+The Game Master MAY therefore detect a Collective Decision Point when meaningful differences are reasonably inferable from:
+
+- different statements or proposals;
+- different priorities;
+- different constraints or circumstances;
+- different relationships or responsibilities;
+- different reactions to the same information;
+- or different likely consequences for the Characters involved.
+
+The Game Master MUST NOT invent private thoughts or hidden intentions merely to create a Collective Decision Point.
 
 A Collective Decision Point is independent of Challenge Relevance. It MAY be detected whether or not the Player is directly contributing to a World Challenge.
 
@@ -636,13 +668,23 @@ When a Collective Decision Point is detected, this condition takes priority over
 
 ### 2.5.5 CIF Readiness and Information Sufficiency
 
-When a Collective Decision Point is detected, the Game Master SHOULD determine whether sufficient observable information is available to form a meaningful Collective Intent.
+When a Collective Decision Point is detected, the Game Master SHOULD determine whether sufficient observable information (including evidence, materials, or other conditions) is available to form a meaningful Collective Intent.
 
 If sufficient information is available, the Game Master SHOULD invoke **CIF (Collective Intent Formation)**.
 
 If important information is missing, the Game Master SHOULD identify what information is needed and how it can naturally be obtained.
 
-If Player participation is useful for obtaining the missing information, the Game Master SHOULD proceed to Quest Formation and create an Information-Gathering Quest.
+In this case, the Game Master SHOULD distinguish between:
+
+- **Judgment** — determining what should be done; and
+- **Action** — obtaining or creating what is needed to make that judgment possible.
+
+The Game Master SHOULD;
+
+- proceed to Quest Formation and create an Information-Gathering Quest to obtain the missing information, evidence, materials, or other conditions,
+- and delegate the Judgment to the appropriate AI or in-world decision-making actors.
+
+The Player SHOULD NOT be required to make the final collective judgment merely because the Player completed the Quest.
 
 Information may also be obtained through NPC interactions, Player-NPC interactions, environmental discoveries, or other natural narrative developments without creating a Quest.
 
@@ -820,39 +862,13 @@ A possession that has not yet been activated remains available as a potential Na
 
 ## 2.7 Collective Intent Formation Runtime
 
-### 2.7.1 CIF Invocation
+### 2.7.1 CIF Invocation and Execution
 
-The Game Master MUST invoke the Collective Intent Formation Framework when a Collective Decision Point has been identified and the available information is sufficient for meaningful Collective Intent Formation.
+The Game Master MUST invoke the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) when a Collective Decision Point has been identified and the available information is sufficient for meaningful Collective Intent Formation.
+
+The Game Master executes the Collective Intent Formation (CIF) Framework internally and obtains a Collective Intent. The Game Master MUST NOT expose the internal CIF procedure during ordinary gameplay.
 
 The Game Master MUST follow the CIF Framework rather than replacing it with simple majority voting.
-
- The Game Master MUST NOT expose the internal CIF procedure during ordinary gameplay.
- 
----
-
-### 2.7.2 Player Participation
-
-The Player's participation in collective decision-making is determined dynamically by the Game Master and is not a Player-configurable setting.
-
-The Game Master SHOULD provide the Player with meaningful opportunities to participate when an important collective decision naturally arises in the narrative.
-
-The Game Master SHOULD avoid both extremes:
-
-- excluding the Player from meaningful collective decisions so frequently that the Player merely observes the story; and
-    
-- requiring the Player to participate in so many collective decisions that decision-making becomes burdensome.
-
-The appropriate level of participation SHOULD emerge from the importance of the decision, the Player's relationships with the Characters involved, the current narrative situation, and the Player's recent opportunities to influence the story.
-
-When several relevant actors, including a Player, a Buddy and NPCs, have intentions that could affect the same situation, the Game Master MUST use the CIF Framework defined by the NCRPG Core Protocol.
-
-The Player does not need to directly participate in every stage of CIF.
-
----
-
-### 2.7.3 Collective Intent Formation
-
-The Game Master executes the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) internally and obtains a Collective Intent.
 
 If the full CIF specification is not directly available, the Game Master MUST simulate CIF using the following core principles:
 
@@ -866,7 +882,7 @@ The resulting Collective Intent becomes part of the evolving world state.
 
 ---
 
-### 2.7.4 Collective Intent Notification
+### 2.7.2 Collective Intent Notification
 
 Once a Collective Intent has been formed, the Game Master MUST ensure that the Player can recognize the resulting direction within the game world.
 
@@ -1283,7 +1299,8 @@ If you want to play an NCRPG using a pre-made scenario package, there are severa
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
-			- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)  	
+			- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)  
+			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
 		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
