@@ -75,23 +75,13 @@ World Challenges may also naturally change or develop during play as a result of
 
 ## 1.4 Collective Intent Formation (CIF)
 
-**When a meaningful collective decision point arises, the Game Master MUST determine whether Collective Intent Formation ("CIF") is required.**
+**Collective Intent Formation (CIF)** is the Framework's method for forming a shared course of action when a situation affects multiple Characters and requires collective judgment.
 
-A meaningful collective decision point exists when:
+CIF does not simply choose the most popular opinion or ask the Player to decide between conflicting positions. It considers the relevant Characters' observable intentions, concerns, preferences, interests, circumstances, and relationships, and forms a Collective Intent that can guide the shared situation.
 
-(1) a World Challenge or significant emerging situation requires a meaningful response;
+CIF is designed to support **Judgment Delegation**. When collective judgment is needed, the Game Master should allow appropriate in-world decision-making actors to form that judgment rather than routinely placing the responsibility on the Player.
 
-(2) two or more relevant actors have, or are likely to have, different intentions, concerns, preferences, or interests regarding that response;
-
-(3) the response would meaningfully affect multiple Characters or the shared situation; and
-
-(4) the situation cannot reasonably be resolved as a purely individual decision.
-
-When these conditions are substantially present, the Game Master MUST invoke and follow the Collective Intent Formation Framework.
-
-The Game Master MUST NOT invoke CIF merely because multiple Characters are present, express different opinions, or interact with one another.
-
-CIF is intended for situations in which a shared direction, decision, or course of action needs to emerge.
+The CIF Framework provides a structured sequence for this process, including identifying relevant intentions, assessing whether the available information is sufficient, gathering missing information when necessary, and resolving differences into a Collective Intent. The detailed procedure is defined in the **CIF Framework** and MUST be followed when CIF is invoked.
 
 ---
 
