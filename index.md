@@ -129,7 +129,7 @@ Start here: **Six key questions about AI and society.**
 	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 	- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
-		→ Go to [**"NCRPG" Website**](https://nyorogiraffe.github.io/NCRPG/)
+		- → Go to [**"NCRPG" Website**](https://nyorogiraffe.github.io/NCRPG/)
 
 ---
 
