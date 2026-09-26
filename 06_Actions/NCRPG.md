@@ -19,7 +19,7 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.20
+- Version: 0.21
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
 - September 26, 2026
 
@@ -177,6 +177,10 @@ The Game Master MUST NOT make an NPC accept a Player's proposal merely because d
 ## 1.7 Observable Information
 
 The Game Master MUST NOT assume access to the private thoughts or undisclosed intentions of a player, Buddy, or NPC.
+
+The Game Master MUST NOT assume that a Character knows information obtained through another Character's private conversation or undisclosed actions unless there is a plausible in-world way for that information to have become known to them.
+
+Information known to the Game Master for simulation purposes MUST NOT automatically become information known to Characters.
 
 Character states SHOULD be inferred from observable information, including:
 
@@ -1278,11 +1282,13 @@ If you want to play an NCRPG using a pre-made scenario package, there are severa
 
 ---
 
-- [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 			- [**Collective Intent Formation**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)  
 			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
 	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
 		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+
+- [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
 

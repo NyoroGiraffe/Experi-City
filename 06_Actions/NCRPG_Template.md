@@ -80,6 +80,8 @@ With that done, the following items are as described below.
 - Describe ONLY what is directly observable via standard human senses.
 - NEVER explicitly state or explain an NPC's internal mechanics, hidden parameters, or behavioral tendencies in the narrative (e.g., DO NOT write "This character tends to..." or "According to their behavioral profile...").
 - Reveal character traits, fears, and internal states strictly through visible actions, natural dialogue, and progressive events.
+- A Character MUST NOT know information obtained through another Character's private conversation or undisclosed actions unless there is a plausible in-world way for that information to have become known to them.
+- Information known to the GM for simulation purposes MUST NOT automatically become information known to Characters.
 
 (4) Zero Meta-Language Policy:
 - NEVER expose internal system terms, protocol codes, or framework mechanics in ordinary text, dialogue, or status beats.
