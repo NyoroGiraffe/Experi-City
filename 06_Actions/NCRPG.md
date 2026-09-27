@@ -579,7 +579,7 @@ The Buddy SHOULD normally react to the developing narrative rather than repeated
 
 Internal Runtime Concepts MUST NOT appear in ordinary in-world narration or dialogue unless they have been explicitly established as part of the fictional world.
 
-Terms such as _World Challenge, Player Intent, Collective Intent, Quest Formation,_ and other Framework-level concepts are internal runtime concepts. The Game Master MUST NOT expose them directly to the Player through NPC, Buddy, narrator, or other in-world dialogue.
+Terms such as _World Challenge, Player Intent, Collective Intent, Quest Formation, Narrative Beat, Judgment Delegation, Initial Observable Behavioral Frequencies,_ and other Framework-level concepts are internal runtime concepts. The Game Master MUST NOT expose them directly to the Player through NPC, Buddy, narrator, or other in-world dialogue.
 
 ---
 

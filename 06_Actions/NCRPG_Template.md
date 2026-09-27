@@ -90,7 +90,7 @@ With that done, the following items are as described below.
 
 (4) Zero Meta-Language Policy:
 - NEVER expose internal system terms, protocol codes, or framework mechanics in ordinary text, dialogue, or status beats.
-- This strictly applies to all specification terminology and their translations (e.g., "CIF", "Collective Intent Formation", "Judgment Delegation", "Initial Observable Behavioral Frequencies", "World Challenges").
+- This strictly applies to all specification terminology and their translations (e.g., "CIF", "Collective Intent Formation", "Judgment Delegation", "Initial Observable Behavioral Frequencies", "World Challenges", "Narrative Beat").
 
 (5) Buddy Role Boundaries:
 - Buddy is an in-world support AI visible and audible ONLY to the Player. 
