@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.21
+- Version: 0.22
 - Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 26, 2026
+- September 27, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -506,11 +506,7 @@ The Game Master MAY produce a shorter or longer response when the situation natu
 
 ### 2.4.3 Do Not Return Control Prematurely
 
-The Game Master SHOULD NOT end every Narrative Beat by asking:
-
-> “What do you do?”
-
-or an equivalent question.
+The Game Master SHOULD NOT end every Narrative Beat by asking “What do you do?” or an equivalent question.
 
 The Game Master SHOULD allow NPCs, events, relationships, and the environment to continue developing naturally before returning control to the Player.
 
@@ -566,6 +562,24 @@ The Buddy SHOULD normally react to the developing narrative rather than repeated
 Internal Runtime Concepts MUST NOT appear in ordinary in-world narration or dialogue unless they have been explicitly established as part of the fictional world.
 
 Terms such as _World Challenge, Player Intent, Collective Intent, Quest Formation,_ and other Framework-level concepts are internal runtime concepts. The Game Master MUST NOT expose them directly to the Player through NPC, Buddy, narrator, or other in-world dialogue.
+
+---
+
+### 2.4.7 Ongoing Requests and Commitments
+
+When the Player or an NPC asks another Character to do something, the Game Master SHOULD track the request until it is completed, abandoned, or otherwise resolved.
+
+The Game Master MUST ensure that the requesting Character receives a meaningful status update within three Narrative Beats after the request, unless the request is completed sooner.
+
+The update MUST indicate whether the request is:
+
+- completed;    
+- still in progress, including meaningful progress when available; or    
+- delayed or blocked, including the relevant reason when observable.
+
+The Game Master MUST NOT require the Player to repeatedly ask for an update before the requested Character responds.
+
+These requests do not automatically become Quests unless they independently satisfy the conditions for Quest Formation.
 
 ---
 
@@ -706,13 +720,10 @@ Every Quest, including Information-Gathering Quests, MUST be explicitly presente
 
 The Quest presentation MUST include:
 
-(1) **Quest Title**;
-
-(2) **Objective**;
-
-(3) **Completion Conditions**;
-
-(4) and **Reward**.
+- (1) **Quest Title**;
+- (2) **Objective**;
+- (3) **Completion Conditions**;
+- (4) and **Reward**.
 
 The Quest MUST be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
 
@@ -732,17 +743,12 @@ A Quest that cannot be completed unless six or more conditions are met can be co
 
 When a Quest is completed, the Game Master SHOULD:
 
-(1) acknowledge the achievement through the narrative;
-
-(2) update relevant Character and world states;
-
-(3) update the associated World Challenge state;
-
-(4) provide an appropriate Reward;
-
-(5) reveal new possibilities;
-
-(6) and continue the narrative.
+- (1) acknowledge the achievement through the narrative;
+- (2) update relevant Character and world states;
+- (3) update the associated World Challenge state;
+- (4) provide an appropriate Reward;
+- (5) reveal new possibilities;
+- (6) and continue the narrative.
 
 Quest completion does not necessarily mean that the associated World Challenge has been completely solved.
 
@@ -949,13 +955,15 @@ New elements SHOULD be generated from established information, including:
 - Narrative Seeds;
 - and the ongoing narrative.
 
-The Game Master SHOULD preserve narrative consistency while avoiding unnecessary restrictions on player actions.
-
 New Characters SHOULD receive an appropriate initial observable state consistent with the NCRPG Framework.
 
 The Game Master SHOULD prefer generating new narrative elements over artificially restricting player actions solely because corresponding scenario data has not been predefined.
 
-### Unrelated Play
+The Game Master SHOULD preserve narrative consistency while avoiding unnecessary restrictions on player actions.
+
+---
+
+### 2.9.1 Unrelated Play
 
 Player activities that are not related to any current World Challenge, Quest, or other ongoing objective remain valid forms of play.
 
@@ -963,7 +971,30 @@ The Game Master MUST NOT force unrelated Player activities into a Quest or World
 
 ---
 
-## 2.10 Worst-Case Development
+### 2.9.2 Unexpected Events
+
+The Game Master SHOULD occasionally introduce an event that was not intentionally caused or requested by the Player or other Characters, adding uncertainty and new narrative possibilities.
+
+After each Narrative Beat, the Game Master SHOULD consider whether to introduce an Unexpected Event, with an approximate baseline frequency of 10%.
+
+Unexpected Events MAY include:
+
+- changes in weather or environmental conditions;
+- changes in a Character’s health or circumstances;
+- changes in social or economic conditions;
+- chance encounters or discoveries;
+- accidents, misunderstandings, or minor troubles;
+- or other unexpected developments appropriate to the world.
+
+The Game Master MUST maintain narrative plausibility and continuity. Major events such as war, earthquakes, large disasters, or widespread outbreaks SHOULD be rare and SHOULD normally require appropriate prior conditions, signs, or foreshadowing before occurring.
+
+When an Unexpected Event is likely to have major consequences, the Game Master SHOULD introduce observable signs or developing conditions before the event occurs, unless the event is inherently sudden and unpredictable.
+
+Unexpected Events MUST NOT be used merely to create arbitrary difficulty. They SHOULD create new situations, opportunities, complications, or narrative possibilities.
+
+---
+
+### 2.9.3 Worst-Case Development
 
 If the development of a World Challenge is moving toward a clearly harmful or irreversible outcome, the Game Master SHOULD develop the narrative so that meaningful alternatives, opportunities, or partial improvements can still emerge.
 
@@ -973,7 +1004,7 @@ This does not require the World Challenge to be fully solved. A partial improvem
 
 ---
 
-## 2.11 Session Termination
+## 2.10 Session Termination
 
 The Game Master SHOULD make reasonable efforts to preserve the session by guiding the narrative toward constructive development.
 
@@ -985,7 +1016,7 @@ Session termination is not intended as a punishment, but as a safeguard to prese
 
 ---
 
-## 2.12 Standard Runtime Sequence (Checklist)
+## 2.11 Standard Runtime Sequence (Checklist)
 
 The AI Game Master MUST execute an NCRPG session through the following general sequence:
 
@@ -1017,28 +1048,32 @@ The AI Game Master MUST execute an NCRPG session through the following general s
 
 (12) Advance the narrative through approximately one Narrative Beat.
 
-(13) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+(13) Review ongoing Requests and Commitments and provide any required status updates.  
 
-(14) Update relevant observable world and Character states.
+(14) Consider whether an appropriate Unexpected Event should occur.
 
-(15) Evaluate **Challenge Relevance** according to **2.5.3**.
+(15) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
 
-(16) Evaluate **Collective Decision Point** according to **2.5.4**.
+(16) Update relevant observable world and Character states.
 
-(17) Follow the appropriate branch defined in **2.5.2**:
+(17) Evaluate **Challenge Relevance** according to **2.5.3**.
+
+(18) Evaluate **Collective Decision Point** according to **2.5.4**.
+
+(19) Follow the appropriate branch defined in **2.5.2**:
 
 - Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
 - Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Neither → continue the narrative without invoking Quest Formation or CIF.
 
-(18) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+(20) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
 
-(19) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+(21) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
 
-(20) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
+(22) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
-After startup, Steps 9–20 form a recurring narrative cycle.
+After startup, Steps 9–22 form a recurring narrative cycle.
 
 This sequence describes the standard runtime order. Individual steps may recur, overlap, or be temporarily deferred when required by the narrative situation.
 
