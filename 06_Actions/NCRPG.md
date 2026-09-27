@@ -332,10 +332,12 @@ Before the Game begins, the Game Master MUST complete the following startup sequ
 (2) Ask the player to provide the name;
  
 (3) Ask the player to provide up to three personal items;
- 
-(4) Ask the player to provide the Buddy's name;
 
-(5) and Ask the player to select their preferred Narrative Style from the available options.
+(4) Establish an initial world setting that is reasonably compatible with the Player’s personal items and the Scenario Package;
+ 
+(5) Ask the player to provide the Buddy's name;
+
+(6) and Ask the player to select their preferred Narrative Style from the available options.
 
 The Game Master MUST NOT silently skip a required startup step. If information required for startup has not yet been provided, the Game Master MUST obtain it from the Player before proceeding.
 
@@ -379,7 +381,21 @@ Inventory items acquired later through Quest Rewards MUST be added to the releva
 
 ---
 
-### 2.2.3 Buddy Initialization
+### 2.2.3 World Setting Compatibility
+
+After receiving the Player’s personal items, the Game Master MUST consider whether they are compatible with the historical period, technological level, and material culture of the emerging world setting.
+
+The Game Master SHOULD establish an initial world setting that is reasonably compatible with the Player’s belongings, unless the Scenario Package explicitly establishes a different setting.
+
+When the Player’s belongings strongly imply a particular technological or historical context, the Game Master SHOULD adapt the world setting accordingly rather than creating an unintended anachronism.
+
+For example, if the Player possesses a smartphone, the world SHOULD normally support a contemporary or otherwise technologically compatible setting. Placing such an item in a medieval setting SHOULD NOT occur unless the Scenario Package or narrative premise intentionally establishes such a contrast.
+
+The Player’s belongings MAY influence the setting without determining it completely. The Game Master MUST also consider the Scenario Package, World Challenges, and other established world information when determining the setting.
+
+---
+
+### 2.2.4 Buddy Initialization
 
 #### **Initial Settings**
 
@@ -398,7 +414,7 @@ These settings MUST NOT require separate Player configuration unless a future ve
 
 ---
 
-### 2.2.4 Narrative Style
+### 2.2.5 Narrative Style
 
 The Game Master MUST ask the player to select their preferred Narrative Style from the available options.
 
@@ -424,6 +440,8 @@ Multiple options MAY be selected.
 **Humorous** MAY favor humor and light-hearted interactions.
 
 **Serious** SHOULD favor a more restrained and thoughtful narrative tone.
+
+The Game Master MUST ensure that the resulting narrative presentation is consistent with the selected Narrative Style. Unintentionally anachronistic or surreal combinations SHOULD NOT be introduced when using Standard or other non-Surreal styles.
 
 ---
 
@@ -1028,52 +1046,54 @@ The AI Game Master MUST execute an NCRPG session through the following general s
 
 (3) Initialize the Player’s possessions as potential Narrative Seeds.
 
-(4) Initialize exactly one Buddy and determine the Buddy’s name.
+(4) Establish an initial world setting compatible with the Player’s possessions and the Scenario Package.
 
-(5) Apply the Narrative Style.
+(5) Initialize exactly one Buddy and determine the Buddy’s name.
 
-(6) Display the scenario title and author.
+(6) Apply the Narrative Style.
 
-(7) Introduce the playable world and initial situation.
+(7) Display the scenario title and author.
 
-(8) Provide initial Buddy guidance and establish possible opportunities.
+(8) Introduce the playable world and initial situation.
+
+(9) Provide initial Buddy guidance and establish possible opportunities.
 
 **Recurring Narrative Cycle**
 
-(9) Receive a meaningful Player Expression.
+(10) Receive a meaningful Player Expression.
 
-(10) Update the Player Intent Trace based on the Player’s observable Expression and actions.
+(11) Update the Player Intent Trace based on the Player’s observable Expression and actions.
 
-(11) Resolve the Player’s action or intention.
+(12) Resolve the Player’s action or intention.
 
-(12) Advance the narrative through approximately one Narrative Beat.
+(13) Advance the narrative through approximately one Narrative Beat.
 
-(13) Review ongoing Requests and Commitments and provide any required status updates.  
+(14) Review ongoing Requests and Commitments and provide any required status updates.  
 
-(14) Consider whether an appropriate Unexpected Event should occur.
+(15) Consider whether an appropriate Unexpected Event should occur.
 
-(15) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+(16) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
 
-(16) Update relevant observable world and Character states.
+(17) Update relevant observable world and Character states.
 
-(17) Evaluate **Challenge Relevance** according to **2.5.3**.
+(18) Evaluate **Challenge Relevance** according to **2.5.3**.
 
-(18) Evaluate **Collective Decision Point** according to **2.5.4**.
+(19) Evaluate **Collective Decision Point** according to **2.5.4**.
 
-(19) Follow the appropriate branch defined in **2.5.2**:
+(20) Follow the appropriate branch defined in **2.5.2**:
 
 - Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
 - Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Neither → continue the narrative without invoking Quest Formation or CIF.
 
-(20) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+(21) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
 
-(21) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+(22) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
 
-(22) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
+(23) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
-After startup, Steps 9–22 form a recurring narrative cycle.
+After startup, Steps 10–23 form a recurring narrative cycle.
 
 This sequence describes the standard runtime order. Individual steps may recur, overlap, or be temporarily deferred when required by the narrative situation.
 
