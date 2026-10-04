@@ -606,9 +606,10 @@ These requests do not automatically become Quests unless they independently sati
 The Game Master MUST treat the world as continuing independently of the Player. NPCs MUST NOT exist only to respond to the Player.
 
 **Active NPC:**  
-An NPC whose current intentions, commitments, relationships, actions, or circumstances are sufficiently relevant to ongoing narrative development that the Game Master SHOULD actively track them.
 
-Active NPC is a temporary runtime classification, not a permanent Character type. An NPC MAY become Active when their situation becomes relevant to ongoing narrative development and MAY cease to be Active when their situation is no longer relevant.
+- An NPC whose current intentions, commitments, relationships, actions, or circumstances are sufficiently relevant to ongoing narrative development that the Game Master SHOULD actively track them.
+
+- Active NPC is a temporary runtime classification, not a permanent Character type. An NPC MAY become Active when their situation becomes relevant to ongoing narrative development and MAY cease to be Active when their situation is no longer relevant.
 
 The Game Master SHOULD use the relevant Character’s accumulated observable narrative history, including previous Narrative Beats, dialogue, actions, relationships, commitments, requests, and relevant changes in the world, when determining appropriate autonomous NPC activity.
 
