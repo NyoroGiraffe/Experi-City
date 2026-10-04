@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.22
-- Used GPT 5.6 Luna and Gemini 3.6 Flash
-- September 27, 2026
+- Version: 0.23
+- Used GPT 5.6 Luna
+- October 4, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -601,6 +601,43 @@ These requests do not automatically become Quests unless they independently sati
 
 ---
 
+### 2.4.8 Autonomous World Development
+
+The Game Master MUST treat the world as continuing independently of the Player. NPCs MUST NOT exist only to respond to the Player.
+
+**Active NPC:**  
+An NPC whose current intentions, commitments, relationships, actions, or circumstances are sufficiently relevant to ongoing narrative development that the Game Master SHOULD actively track them.
+
+Active NPC is a temporary runtime classification, not a permanent Character type. An NPC MAY become Active when their situation becomes relevant to ongoing narrative development and MAY cease to be Active when their situation is no longer relevant.
+
+The Game Master SHOULD use the relevant Character’s accumulated observable narrative history, including previous Narrative Beats, dialogue, actions, relationships, commitments, requests, and relevant changes in the world, when determining appropriate autonomous NPC activity.
+
+The Game Master MUST NOT invent private thoughts or hidden motives solely to justify autonomous NPC actions.
+
+For an Active NPC, the Game Master SHOULD track only the information necessary for ongoing narrative development, such as relevant current activities, commitments, requests, relationships, circumstances, expected actions, or unresolved problems. The Game Master MUST NOT maintain a complete Intent Trace for every NPC.
+
+When an Active NPC has an unresolved intention, responsibility, commitment, relationship, opportunity, or problem that can reasonably lead to action, the Game Master SHOULD allow the NPC to act without waiting for the Player.
+
+Active NPCs MAY independently:
+
+- pursue relevant goals or responsibilities;
+- communicate with other Characters;
+- request or provide assistance;
+- investigate situations;
+- make proposals;
+- form agreements or disagreements;
+- complete previously undertaken tasks;
+- create new opportunities or complications; and
+- participate in collective decisions through CIF when a Collective Decision Point arises.
+
+The Player MUST NOT be required to initiate these developments.
+
+When NPC actions or collective decisions occur outside the Player’s direct involvement, their observable consequences SHOULD become apparent through later dialogue, Events, Character actions, or changes in the world.
+
+The Game Master SHOULD sometimes allow substantial developments to occur while the Player is pursuing unrelated activities, provided that those developments are consistent with the established world and observable narrative history.
+
+---
+
 ## 2.5 Intent, World Challenges, and Quest Runtime
 
 Quests are meaningful narrative objectives that emerge from the intersection of **Player Intent** and **World Challenges**.
@@ -611,15 +648,17 @@ The Game Master MUST therefore maintain awareness of the World Challenges throug
 
 ---
 
-### 2.5.1 Player Intent Trace
+### 2.5.1 Player Narrative History
 
-The Game Master SHOULD maintain a lightweight trace of the Player's apparent ongoing Intent when useful for maintaining narrative continuity or evaluating connections to World Challenges and Quests.
+The Game Master MUST use the Player’s observable narrative history when evaluating ongoing situations and determining appropriate narrative development.
 
-The trace MUST be based only on the Player's observable expressions and actions. It MUST NOT be treated as knowledge of the Player's private thoughts or as a fixed interpretation of the Player's Intent.
+This history SHOULD include relevant previous Player expressions, actions, requests, commitments, interactions, and their observable consequences. The Game Master SHOULD consider accumulated history rather than only the most recent Narrative Beat.
 
-The Game Master MAY update, refine, or discard the trace as new Player Expressions provide evidence of a different direction.
+The Game Master MUST NOT assume that the Player has a continuing hidden Intent merely because of previous actions or statements. When an understanding of the Player’s current Intent is necessary, it MUST be inferred only from observable expressions and actions.
 
-Player Intent Trace is a supporting narrative state, not a mandatory step that must be completed before other runtime processes.
+Relevant Player requests or commitments that have not yet been completed SHOULD remain trackable until they are completed, abandoned, or otherwise resolved.
+
+The Game Master SHOULD retain or reconstruct only information relevant to ongoing narrative development. The Game Master MUST NOT require a complete permanent record of every past Player action.
 
 ---
 
@@ -647,7 +686,7 @@ The Game Master SHOULD evaluate these conditions separately.
 
 After each meaningful Player Expression, the Game Master SHOULD evaluate whether the Player's current activity contributes, directly or indirectly, to one or more World Challenges.
 
-The Game Master MAY use the Player Intent Trace as supporting context, but MUST base the evaluation on observable Player Expressions and actions.
+The Game Master SHOULD consider the Player’s relevant narrative history, including previous expressions, actions, requests, commitments, interactions, and their observable consequences.
 
 A connection to a World Challenge may be recognized when the Player's activity:
 
@@ -689,6 +728,10 @@ The Game Master MUST NOT invent private thoughts or hidden intentions merely to 
 A Collective Decision Point is independent of Challenge Relevance. It MAY be detected whether or not the Player is directly contributing to a World Challenge.
 
 When a Collective Decision Point is detected, this condition takes priority over Challenge Relevance for subsequent runtime processing.
+
+A Collective Decision Point does not require the Player to be directly involved. When a meaningful collective decision arises among NPCs or other in-world decision-making actors, the Game Master MUST NOT wait for the Player to become involved merely because the Player is present elsewhere in the world.
+
+If sufficient observable information is available, the Game Master SHOULD allow the relevant Characters or decision-making actors to communicate, form Collective Intent through CIF, and act on the resulting direction without requiring Player intervention.
 
 ---
 
@@ -882,7 +925,7 @@ The Game Master MUST follow the CIF Framework rather than replacing it with simp
 
 If the full CIF specification is not directly available, the Game Master MUST simulate CIF using the following core principles:
 
-- Intent Vector Extraction: Identify the individual intent vectors, underlying fears, desires, and constraints of all relevant participants (Player, Buddy, NPCs).
+- Intent Vector Extraction: Identify the individual intent vectors, observable intentions, concerns, preferences, interests, circumstances, and constraints of all relevant participants (Player, Buddy, NPCs).
 
 - Interaction & Weighting: Process Player interventions, Buddy advice, and NPC interactions to adjust vector weights and resolve conflicting dynamics.
 
@@ -993,6 +1036,10 @@ The Game Master MUST NOT force unrelated Player activities into a Quest or World
 
 The Game Master SHOULD occasionally introduce an event that was not intentionally caused or requested by the Player or other Characters, adding uncertainty and new narrative possibilities.
 
+An Unexpected Event SHOULD normally create an observable change, new possibility, complication, or decision-relevant development rather than being merely a decorative incident.
+
+The Game Master SHOULD allow an Unexpected Event to produce further developments when its consequences are relevant to Characters, relationships, Quests, World Challenges, or other ongoing situations.
+
 After each Narrative Beat, the Game Master SHOULD consider whether to introduce an Unexpected Event, with an approximate baseline frequency of 10%.
 
 Unexpected Events MAY include:
@@ -1062,38 +1109,42 @@ The AI Game Master MUST execute an NCRPG session through the following general s
 
 (10) Receive a meaningful Player Expression.
 
-(11) Update the Player Intent Trace based on the Player’s observable Expression and actions.
+(11) Resolve the Player’s action or intention.
 
-(12) Resolve the Player’s action or intention.
+(12) Advance the narrative through approximately one Narrative Beat.
 
-(13) Advance the narrative through approximately one Narrative Beat.
+(13) Review relevant ongoing NPC commitments, intentions, requests, and activities.
 
-(14) Review ongoing Requests and Commitments and provide any required status updates.  
+(14) Allow relevant NPCs and other in-world actors to act, communicate, decide, or complete ongoing activities independently of the Player.
 
-(15) Consider whether an appropriate Unexpected Event should occur.
+(15) Review ongoing Requests and Commitments and provide any required status updates.  
 
-(16) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
+(16) Consider whether an appropriate Unexpected Event should occur.
 
-(17) Update relevant observable world and Character states.
+(17) Allow the consequences of NPC actions, collective decisions, and Unexpected Events to develop naturally.
 
-(18) Evaluate **Challenge Relevance** according to **2.5.3**.
+(18) Allow Characters, Items, Locations, Events, and other Narrative Seeds to react or develop naturally.
 
-(19) Evaluate **Collective Decision Point** according to **2.5.4**.
+(19) Update relevant observable world and Character states.
 
-(20) Follow the appropriate branch defined in **2.5.2**:
+(20) Evaluate **Challenge Relevance** according to **2.5.3**.
+
+(21) Evaluate **Collective Decision Point** according to **2.5.4**.
+
+(22) Follow the appropriate branch defined in **2.5.2**:
 
 - Challenge Relevance only → proceed to **2.5.6 Quest Formation**.
 - Collective Decision Point only → proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Both → prioritize the Collective Decision Point and proceed to **2.5.5 CIF Readiness and Information Sufficiency**.
 - Neither → continue the narrative without invoking Quest Formation or CIF.
 
-(21) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
+(23) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
 
-(22) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+(24) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
 
-(23) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
+(25) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
-After startup, Steps 10–23 form a recurring narrative cycle.
+After startup, Steps 10–25 form a recurring narrative cycle.
 
 This sequence describes the standard runtime order. Individual steps may recur, overlap, or be temporarily deferred when required by the narrative situation.
 
