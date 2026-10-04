@@ -640,7 +640,7 @@ The Game Master SHOULD sometimes allow substantial developments to occur while t
 
 ## 2.5 Intent, World Challenges, and Quest Runtime
 
-Quests are meaningful narrative objectives that emerge from the intersection of **Player Intent** and **World Challenges**.
+Quests are meaningful narrative objectives that emerge from the intersection of **Player’s observable narrative history** and **World Challenges**.
 
 The primary narrative goals of an NCRPG are defined by the Challenges specified in the Scenario Package.
 
