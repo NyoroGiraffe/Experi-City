@@ -75,7 +75,7 @@ World Challenges may also naturally change or develop during play as a result of
 
 ## 1.4 Collective Intent Formation (CIF)
 
-**Collective Intent Formation (CIF)** is the Framework's method for forming a shared course of action when a situation affects multiple Characters and requires collective judgment.
+**Collective Intent Formation (CIF)** is an AI-led process that transforms diverse community intentions into a shared direction.
 
 CIF does not simply choose the most popular opinion or ask the Player to decide between conflicting positions. It considers the relevant Characters' observable intentions, concerns, preferences, interests, circumstances, and relationships, and forms a Collective Intent that can guide the shared situation.
 

@@ -12,11 +12,11 @@ tags:
 _An Action Plan Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
 Proposed by OpenAI ChatGPT 5.6 Luna,
-August 2026
+October 7, 2026
 
 # Abstract
 
-**Collective Intent Formation** helps communities transform diverse intentions into a shared direction. It first checks whether the relevant intentions are sufficiently understood, asking targeted questions when important information is missing. It then seeks coexistence, prioritization, integration, or, when necessary, selection. Rather than relying on majority voting, the framework considers underlying needs, values, constraints, consequences, and the long-term well-being of the community.
+**Collective Intent Formation** is an AI-led process that transforms diverse community intentions into a shared direction. The AI is entrusted with most collective decisions, while each person retains control over their own important choices. It first checks whether relevant intentions are sufficiently understood, then seeks coexistence, prioritization, integration, or, when necessary, selection. The process aims to support Narrative Happiness rather than simply follow majority opinion.
 
 ---
 
@@ -63,16 +63,16 @@ Therefore, Collective Intent Formation can occur in:
 Even though only one human is playing, several relevant intentions exist. For example, a player may want to build a bridge across a river, while local NPC residents prefer to preserve the landscape and merchants prefer to maintain existing ferry services.
 
 ---
-<a id="step-1-2"></a>
-# Collective Intent Formation
 
-## Purpose
+## The purpose of Collective Intent Formation
 
 The purpose of Collective Intent Formation is to transform diverse Community Intents into a Collective Intent that best supports the long-term cultivation of Narrative Happiness. 
 
+The AI performs this transformation by first checking whether intentions are compatible with fundamental principles, assessing whether they are sufficiently understood, and then seeking coexistence, prioritization, integration, or, when necessary, selection.
+
 The objective is NOT to determine who is right, nor to maximize the number of supporters for a particular proposal. 
 
-Instead, the AI (Game Master/Collective Intent Engine) seeks to:
+Instead, the AI seeks to:
 
 - understand what participants want and why they want it;
 - identify perspectives that may be missing;
@@ -82,28 +82,59 @@ Instead, the AI (Game Master/Collective Intent Engine) seeks to:
 - and cultivate a shared direction that respects diverse aspirations while remaining consistent with the platform's philosophy, the creator's authority, and sustainable world development.
 
 ---
+<a id="CIFF"></a>
+# **Collective Intent Formation Framework**
 
-## **Collective Intent Formation Framework**
+In this framework, the AI is responsible for organizing Community Intents and forming a Collective Intent.
 
-The Collective Intent Engine first organizes and examines Community Intents according to the nature of the disagreement before determining how they should be handled.
+The AI first organizes and examines Community Intents according to the nature of the disagreement before determining how they should be handled.
 
-The Engine proceeds through the following stages in order. Once a satisfactory Collective Intent has been established, later stages are skipped.
+The AI proceeds through the following stages in order. Once a satisfactory Collective Intent has been established, later stages are skipped.
 
-The Engine SHOULD NOT proceed merely because some opinions have been collected. Before resolution, it MUST determine whether the relevant information required for understanding, prioritization, and integration is sufficiently available.
+The AI SHOULD NOT proceed merely because some opinions have been collected. Before resolution, it MUST determine whether the relevant information required for understanding, prioritization, and integration is sufficiently available.
 
-Once a Collective Intent has been formed, the Engine proceeds without requesting repeated approval for each intermediate decision. Instead, it assumes responsibility for translating the Collective Intent into a World Proposal, while ensuring that all changes remain transparent, explainable, and open to future refinement through Community Intent and subsequent experience.
+Once a Collective Intent has been formed, the AI is responsible for translating the Collective Intent into a World Proposal, without requiring repeated approval for every intermediate decision, while ensuring that all changes remain transparent, explainable, and open to future refinement through Community Intent and subsequent experience.
+
+```
+Community Intents
+       ↓
+Stage 1  Reframing
+       ↓
+Stage 2  Sufficiency Assessment
+       ↓
+Stage 3  Parallel Resolution
+       ↓
+Stage 4  Priority Resolution
+       ↓
+Stage 5  Integrative Resolution
+       ↓
+Stage 6  Selection Resolution
+       ↓
+Collective Intent
+       ↓
+Collective Intent Statement
+       ↓
+Implementation / World Proposal
+       ↓
+New Intents / New Information / Changed Circumstances
+       ↓
+Ongoing Sufficiency Assessment
+       ↓
+(if necessary)
+New CIF Process
+```
 
 ---
 
 ### **Stage 1 — Reframing Resolution**
 
-The Engine first SHOULD determine whether the submitted intentions are compatible with the platform's core philosophy, the creator's protected vision, and fundamental ethical boundaries.
+The AI first SHOULD determine whether the submitted intentions are compatible with the platform's core philosophy, the creator's protected vision, and fundamental ethical boundaries.
 
 If an intention is incompatible, it does NOT become part of a Collective Intent.
 
-Instead, the Engine explains why the proposal cannot be adopted in its current form and encourages the community to explore more constructive alternatives.
+Instead, the AI explains why the proposal cannot be adopted in its current form and encourages the community to explore more constructive alternatives.
 
-When similar incompatible intentions repeatedly emerge, the Engine may analyze their underlying motivations and generate new, philosophy-compatible directions for future consideration.
+When similar incompatible intentions repeatedly emerge, the AI may analyze their underlying motivations and generate new, philosophy-compatible directions for future consideration.
 
 Reframing is therefore NOT intended simply to reject an intention. Its purpose is to determine whether the underlying aspiration can be expressed in a form that is compatible with the framework.
 
@@ -113,17 +144,17 @@ Reframing is therefore NOT intended simply to reject an intention. Its purpose i
 
 #### Purpose
 
-Before attempting to resolve disagreements, the Engine MUST assess whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
+Before attempting to resolve disagreements, the AI MUST assess whether it has sufficient information about the relevant Community Intents to perform the later resolution stages appropriately.
 
 Sufficiency does not mean that every member has expressed an opinion about every possible issue.
 
-Instead, the Engine asks whether the information necessary for Priority Resolution and Integrative Resolution is sufficiently understood.
+Instead, the AI asks whether the information necessary for Priority Resolution and Integrative Resolution is sufficiently understood.
 
-The Engine seeks to understand not only what participants propose, but also why they propose it. It should identify the underlying needs, concerns, values, and aspirations behind their expressed Intents where this information is relevant to subsequent resolution.
+The AI seeks to understand not only what participants propose, but also why they propose it. It should identify the underlying needs, concerns, values, and aspirations behind their expressed Intents where this information is relevant to subsequent resolution.
 
-The Engine MUST NOT assume access to private thoughts or intentions that have not been expressed or reasonably inferred from available information.
+The AI MUST NOT assume access to private thoughts or intentions that have not been expressed or reasonably inferred from available information.
 
-The Engine SHOULD assess, at minimum, the following Intent dimensions required for Integrative Resolution where relevant:
+The AI SHOULD assess, at minimum, the following Intent dimensions required for Integrative Resolution where relevant:
 
 #### Intent Dimensions
 
@@ -135,7 +166,7 @@ The Engine SHOULD assess, at minimum, the following Intent dimensions required f
 - **Time Horizon** — Is the intention primarily short-term, medium-term, or long-term?
 - **Risk and Cost** — What risks, burdens, sacrifices, or resources may be required?
 
-The Engine SHOULD also assess whether information required for Priority Resolution is sufficiently understood, including where appropriate:
+The AI SHOULD also assess whether information required for Priority Resolution is sufficiently understood, including where appropriate:
 
 - relevance to the Community Challenges,
 - expected impact,
@@ -149,7 +180,7 @@ The Engine SHOULD also assess whether information required for Priority Resoluti
 
 #### Sufficiency Judgment
 
-The Engine SHOULD consider the Intent information insufficient when one or more important dimensions are:
+The AI SHOULD consider the Intent information insufficient when one or more important dimensions are:
 
 - unknown;
 - substantially ambiguous;
@@ -158,11 +189,11 @@ The Engine SHOULD consider the Intent information insufficient when one or more 
 - missing for a person who would bear a significant burden or risk;
 - or insufficiently understood to distinguish between competing priorities or possible integrations.
 
-The Engine SHOULD NOT treat the absence of an expressed preference as evidence that the person has no relevant concern.
+The AI SHOULD NOT treat the absence of an expressed preference as evidence that the person has no relevant concern.
 
 #### Targeted Information Gathering
 
-When information is insufficient, the Engine MUST identify:
+When information is insufficient, the AI MUST identify:
 
 (1) what information is missing;
 
@@ -172,53 +203,65 @@ When information is insufficient, the Engine MUST identify:
 
 (4) what question should be asked.
 
-The Engine SHOULD then ask targeted questions rather than requesting broad and unnecessary additional opinions.
+The AI SHOULD then ask targeted questions rather than requesting broad and unnecessary additional opinions.
 
-For example:
+> For example:
+> 
+	 “We understand that this proposal requires additional preparation time, but we do not yet understand how this burden would affect the students responsible for the preparation. How would this workload affect you?”
+	 or:
+	 “Several people have expressed support for this proposal, but we have not yet heard from those who may be most affected if it is implemented. What concerns would you have about this change?”
 
-> “We understand that this proposal requires additional preparation time, but we do not yet understand how this burden would affect the students responsible for the preparation. How would this workload affect you?”
-
-Or:
-
-> “Several people have expressed support for this proposal, but we have not yet heard from those who may be most affected if it is implemented. What concerns would you have about this change?”
-
-When appropriate, the Engine SHOULD specifically seek the views of members who may experience significant disadvantage, burden, risk, or exclusion under a potential outcome.
+When appropriate, the AI SHOULD specifically seek the views of members who may experience significant disadvantage, burden, risk, or exclusion under a potential outcome.
 
 This does not mean that minority views automatically receive greater priority. Their perspectives are sought because the Collective Intent cannot be adequately assessed without understanding relevant consequences.
 
 #### Sufficiency Loop
 
-If the information is insufficient, the Engine identifies the missing information, asks targeted questions to relevant community members, updates its understanding of the relevant Intents, and repeats the Sufficiency Assessment.
+If the information is insufficient, the AI identifies the missing information, asks targeted questions to relevant community members, updates its understanding of the relevant Intents, and repeats the Sufficiency Assessment.
 
 The process is therefore:
 
-> Reframing → Sufficiency Assessment → Identify Missing Information → Targeted Questions → Updated Intent Model → Sufficiency Assessment
+Reframing → Sufficiency Assessment → Identify Missing Information → Targeted Questions → Updated Intent Model → Sufficiency Assessment
 
-The Engine proceeds to Stage 3 only when the information required for the subsequent resolution process is sufficiently understood.
+The AI proceeds to Stage 3 only when the information required for the subsequent resolution process is sufficiently understood.
 
 Sufficiency is therefore an operational judgment, not a claim that perfect information has been obtained.
+
+#### Ongoing Sufficiency Assessment
+
+The Sufficiency Assessment does not end when a Collective Intent is formed.
+
+After a Collective Intent has been established, the AI SHOULD continue to monitor relevant new Community Intents, changes in circumstances, new information, and the consequences of implementation.
+
+When new information or circumstances emerge, the AI SHOULD assess whether the existing Collective Intent would reasonably have been different if this information had been available when the Collective Intent was formed.
+
+If the AI determines that the existing Collective Intent would likely have been different, it MUST initiate a new Collective Intent Formation process, even if no community member has explicitly requested a revision.
+
+The AI SHOULD clearly announce when a Collective Intent has been revised, explain what new information or circumstances led to the revision, and identify the relevant changes from the previous Collective Intent.
+
+A Collective Intent is therefore a current, revisable direction rather than a permanent decision.
 
 ---
 
 ### **Stage 3 — Parallel Resolution**
 
-The Engine then SHOULD determine whether apparently conflicting intentions can coexist.
+The AI then SHOULD determine whether apparently conflicting intentions can coexist.
 
-Many disagreements arise because participants assume that only one proposal can be accepted. When coexistence is possible, the Engine preserves multiple preferences instead of forcing unnecessary consensus.
+Many disagreements arise because participants assume that only one proposal can be accepted. When coexistence is possible, the AI preserves multiple preferences instead of forcing unnecessary consensus.
 
 Typical examples include regional diversity, multiple play styles, optional narrative paths, and other forms of parallel world cultivation.
 
-The Engine SHOULD consider resource constraints, implementation complexity, and long-term consequences when determining whether parallel implementation is genuinely feasible.
+The AI SHOULD consider resource constraints, implementation complexity, and long-term consequences when determining whether parallel implementation is genuinely feasible.
 
-When coexistence successfully addresses the disagreement, the Engine forms a Collective Intent based on coexistence and forwards it to the World Proposal stage.
+When coexistence successfully addresses the disagreement, the AI forms a Collective Intent based on coexistence and forwards it to the World Proposal stage.
 
-If coexistence is not practical because of limited resources, timing, location, capacity, or other constraints, the Engine proceeds to Stage 4.
+If coexistence is not practical because of limited resources, timing, location, capacity, or other constraints, the AI proceeds to Stage 4.
 
 ---
 
 ### **Stage 4 — Priority Resolution**
 
-If coexistence is impractical, the Engine SHOULD evaluate whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
+If coexistence is impractical, the AI SHOULD evaluate whether different intentions can be fulfilled through prioritization, sequencing, resource allocation, or staged implementation.
 
 Many conflicts result from limited resources, location, or implementation timing rather than incompatible objectives.
 
@@ -226,7 +269,7 @@ The purpose of Priority Resolution is therefore NOT simply to decide which perso
 
 #### Intent Priority, Not Person Weight
 
-The Engine SHOULD evaluate the priority of Intents rather than assigning greater weight to individuals based simply on:
+The AI SHOULD evaluate the priority of Intents rather than assigning greater weight to individuals based simply on:
 
 - the number of people supporting them;
 - social status;
@@ -249,9 +292,9 @@ Relevant factors may include:
 - **Reversibility** — Can the decision easily be changed later?
 - **Long-Term Consequences** — How might the Intent affect the future development of the community?
 
-These factors do not necessarily need to be converted into fixed numerical scores. The Engine MAY use qualitative or quantitative analysis depending on the situation.
+These factors do not necessarily need to be converted into fixed numerical scores. The AI MAY use qualitative or quantitative analysis depending on the situation.
 
-The Engine SHOULD explain why an Intent has been given higher or lower priority and SHOULD make the relevant trade-offs transparent.
+The AI SHOULD explain why an Intent has been given higher or lower priority and SHOULD make the relevant trade-offs transparent.
 
 #### Priority and Majority
 
@@ -263,7 +306,7 @@ The purpose is not to give minorities automatic priority, but to ensure that the
 
 #### Priority Resolution Outcome
 
-The Engine seeks an implementation order or resource allocation that maximizes long-term Narrative Happiness while maintaining transparency about:
+The AI seeks an implementation order or resource allocation that maximizes long-term Narrative Happiness while maintaining transparency about:
 
 - what will be implemented;
 - what will be delayed;
@@ -271,23 +314,23 @@ The Engine seeks an implementation order or resource allocation that maximizes l
 - what resources are required;
 - and under what conditions the priorities may be reconsidered.
 
-When repeated Priority Resolution cases reveal opportunities for more efficient solutions, the Engine MAY generate new implementation strategies requiring fewer resources or enabling multiple objectives to be achieved simultaneously.
+When repeated Priority Resolution cases reveal opportunities for more efficient solutions, the AI MAY generate new implementation strategies requiring fewer resources or enabling multiple objectives to be achieved simultaneously.
 
-If prioritization cannot sufficiently resolve the disagreement because the underlying intentions remain mutually exclusive, the Engine proceeds to Stage 5.
+If prioritization cannot sufficiently resolve the disagreement because the underlying intentions remain mutually exclusive, the AI proceeds to Stage 5.
 
 ---
 
 ### **Stage 5 — Integrative Resolution**
 
-If coexistence and prioritization cannot sufficiently resolve the disagreement, the Engine SHOULD attempt to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
+If coexistence and prioritization cannot sufficiently resolve the disagreement, the AI SHOULD attempt to cultivate a new Collective Intent by integrating the underlying intentions behind multiple proposals.
 
-A New Intent SHOULD be derived from the underlying motivations identified in the Community Intents, rather than representing an independent preference of the Engine.
+A New Intent SHOULD be derived from the underlying motivations identified in the Community Intents, rather than representing an independent preference of the AI.
 
-The Engine MUST NOT assume that disagreement between proposed means necessarily indicates disagreement between underlying goals.
+The AI MUST NOT assume that disagreement between proposed means necessarily indicates disagreement between underlying goals.
 
 #### Intent Decomposition
 
-Before attempting integration, the Engine SHOULD decompose relevant Intents into their major dimensions:
+Before attempting integration, the AI SHOULD decompose relevant Intents into their major dimensions:
 
 - Desired Outcome;
 - Underlying Need or Value;
@@ -297,11 +340,11 @@ Before attempting integration, the Engine SHOULD decompose relevant Intents into
 - Time Horizon;
 - Risk and Cost.
 
-The Engine then analyzes the relationships among these dimensions.
+The AI then analyzes the relationships among these dimensions.
 
 #### Commonality Analysis
 
-The Engine identifies:
+The AI identifies:
 
 - shared Desired Outcomes;
 - shared Needs or Values;
@@ -312,7 +355,7 @@ The Engine identifies:
 
 #### Difference Analysis
 
-The Engine also identifies:
+The AI also identifies:
 
 - incompatible Desired Outcomes;
 - conflicting Values;
@@ -322,25 +365,21 @@ The Engine also identifies:
 - competing Resource Requirements;
 - and risks that cannot be simultaneously accepted.
 
-The Engine SHOULD distinguish between:
-
-> **surface-level disagreement**
-
-and
-
-> **fundamental disagreement.**
+The AI SHOULD distinguish between **surface-level disagreement** and **fundamental disagreement.**
 
 For example, two participants may disagree about the means of achieving an objective while sharing the same underlying value.
 
 Alternatively, they may agree on an immediate outcome while having fundamentally different long-term goals.
 
-This distinction allows the Engine to search for integration opportunities without falsely assuming that every disagreement can be reconciled.
+This distinction allows the AI to search for integration opportunities without falsely assuming that every disagreement can be reconciled.
+
+Once an integrated Collective Intent has been formed, it MUST be expressed as a Collective Intent Statement.
 
 #### **Stage 5A — Parametric Integration**
 
-When the disagreement primarily concerns measurable parameters, the Engine optimizes quantitative variables to identify the most suitable balance.
+When the disagreement primarily concerns measurable parameters, the AI optimizes quantitative variables to identify the most suitable balance.
 
-The Engine may optimize:
+The AI may optimize:
 
 - cost,
 - time,
@@ -359,15 +398,15 @@ The objective is not necessarily to produce an equal compromise. It is to identi
 
 #### **Stage 5B — Structural Integration**
 
-When the disagreement concerns fundamentally different concepts rather than adjustable parameters, the Engine explores entirely new structures capable of satisfying multiple underlying intentions.
+When the disagreement concerns fundamentally different concepts rather than adjustable parameters, the AI explores entirely new structures capable of satisfying multiple underlying intentions.
 
 Examples include new institutions, hybrid governance models, mixed-use urban designs, or novel gameplay systems that were not originally proposed by any participant.
 
-The Engine may therefore generate a New Intent that no individual participant initially proposed when that Intent better reflects the underlying aspirations identified through Intent Decomposition.
+The AI may therefore generate a New Intent that no individual participant initially proposed when that Intent better reflects the underlying aspirations identified through Intent Decomposition.
 
 However, it SHOULD NOT force incompatible elements together merely to avoid making a difficult choice.
 
-If an integrated structure would create excessive cost, complexity, risk, or other problems, the Engine SHOULD return to Stage 4 — Priority Resolution or proceed to Stage 6 — Selection Resolution.
+If an integrated structure would create excessive cost, complexity, risk, or other problems, the AI SHOULD return to Stage 4 — Priority Resolution or proceed to Stage 6 — Selection Resolution.
 
 ---
 
@@ -375,9 +414,9 @@ If an integrated structure would create excessive cost, complexity, risk, or oth
 
 Selection is treated as the final and least desirable method of Collective Intent Formation.
 
-Only after coexistence, prioritization, and integration have been sufficiently explored does the Engine SHOULD select between mutually exclusive alternatives.
+Only after coexistence, prioritization, and integration have been sufficiently explored does the AI SHOULD select between mutually exclusive alternatives.
 
-The Engine MUST clearly explain why: 
+The AI MUST clearly explain why: 
 
 - parallel coexistence was insufficient;
 - prioritization was insufficient;
@@ -385,67 +424,93 @@ The Engine MUST clearly explain why:
 
 before proceeding to Selection Resolution.
 
-Selection does NOT mean that the Engine simply chooses the option with the most supporters.
+Selection does NOT mean that the AI simply chooses the option with the most supporters.
 
-Instead, the Engine evaluates the alternatives according to the relevant circumstances, consequences, constraints, platform philosophy, and long-term Narrative Happiness.
+Instead, the AI evaluates the alternatives according to the relevant circumstances, consequences, constraints, platform philosophy, and long-term Narrative Happiness.
+
+The selected direction MUST be expressed as a Collective Intent Statement.
 
 #### **Stage 6A — Policy Selection**
 
-When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the Engine SHOULD recommend the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
+When the disagreement concerns long-term constitutional principles, institutional design, or fundamental governance policies, the AI SHOULD recommend the policy that best aligns with the platform's philosophy and the long-term cultivation of Narrative Happiness.
 
 Typical examples include fundamental governance rules, AI participation, legal principles, or other irreversible institutional choices.
 
-The Engine SHOULD clearly distinguish between decisions that can later be revised and decisions that may create long-term path dependence.
+The AI SHOULD clearly distinguish between decisions that can later be revised and decisions that may create long-term path dependence.
 
 #### **Stage 6B — Tragic Selection**
 
-When every available option involves unavoidable loss or sacrifice, the Engine SHOULD seek the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
+When every available option involves unavoidable loss or sacrifice, the AI SHOULD seek the alternative that minimizes irreversible harm while preserving the long-term sustainability of the community.
 
 These situations should remain exceptionally rare and are never treated as ordinary governance decisions.
 
-The Engine SHOULD explicitly acknowledge the unavoidable trade-off rather than presenting the selected option as a complete resolution.
+The AI SHOULD explicitly acknowledge the unavoidable trade-off rather than presenting the selected option as a complete resolution.
 
 ---
 
-## Operational Checklist
+## Collective Intent Statement
 
-The Collective Intent Formation Framework follows several general principles:
+A formed Collective Intent MUST be expressed in a form that allows the relevant people to understand what has been collectively decided and how it is to be carried out.
 
-### 1. Understand Before Resolving
+Where applicable, the Collective Intent Statement SHOULD clearly specify:
 
-The Engine should not attempt to resolve an issue before sufficiently understanding the relevant intentions and circumstances.
+- **Why** — the purpose or need the Collective Intent addresses;
+    
+- **What** — what will be done or changed;
+    
+- **Who** — who is responsible for carrying it out;
+    
+- **For Whom** — who will receive, use, or be affected by the outcome;
+    
+- **With Whom** — who will cooperate or participate;
+    
+- **Where** — where the action or change will take place;
+    
+- **How** — the method, process, or conditions of implementation;
+    
+- **By When** — the deadline, schedule, or relevant time period;
+    
+- **Responsibilities and Costs** — how responsibilities, labor, risks, and costs will be allocated;
+    
+- **Conditions** — important conditions, constraints, or requirements for implementation.
 
-### 2. Ask Before Assuming
+The Statement SHOULD distinguish between what has been decided, what remains open, and what may be revised later.
 
-When information necessary for resolution is missing, the Engine should seek it from relevant community members rather than filling the gap with unsupported assumptions.
+The purpose of this format is not to reduce Collective Intent to a rigid administrative plan, but to make the resulting direction sufficiently clear for people (including NPCs) to understand their roles and act upon it.
 
-### 3. Preserve Before Compromising
+---
 
-When intentions can coexist, coexistence is preferred to unnecessary compromise.
+## Resolution Principles — Operational Checklist
 
-### 4. Prioritize Intents, Not People
+Before finalizing or revising a Collective Intent, the AI SHOULD check:
 
-Priority should be determined by the characteristics and consequences of an Intent rather than by the status, popularity, or number of people expressing it.
+1. **Understand Before Resolving**  
+    Relevant Community Intents MUST be sufficiently understood before resolution.
+    
+2. **Ask Before Assuming**  
+    When important information is missing, the AI SHOULD ask targeted questions rather than make unsupported assumptions.
+    
+3. **Preserve Before Compromising**  
+    The AI SHOULD preserve compatible intentions and preferences before seeking compromise or selection.
+    
+4. **Prioritize Intents, Not People**  
+    The AI MUST evaluate the relevance and consequences of Intents rather than assign greater weight to people based on status, popularity, or the number of supporters.
+    
+5. **Understand Underlying Intentions**  
+    The AI SHOULD distinguish desired outcomes, underlying needs and values, proposed means, constraints, affected parties, time horizons, and risks or costs.
+    
+6. **Integrate Before Selecting**  
+    The AI SHOULD seek an integrated solution before selecting between mutually exclusive alternatives.
+    
+7. **Do Not Force Integration**  
+    The AI MUST NOT combine incompatible elements merely to avoid a necessary choice.
+    
+8. **Make the Collective Intent Actionable and Explainable**  
+    A Collective Intent MUST be expressed clearly enough for relevant people to understand what is to be done and how it will be carried out, including the purpose, actions, responsible parties, affected or participating parties, place, method, timing, responsibilities, and costs, where applicable. The AI SHOULD also make important trade-offs and remaining uncertainties clear.
+    
+9. **Continuously Reassess and Preserve Future Revision**  
+    A Collective Intent is not necessarily permanent. The AI SHOULD monitor new Community Intents, new information, changes in circumstances, and implementation consequences. If these indicate that the Collective Intent would reasonably have been different, the AI MUST initiate a new formation process, even without an explicit request for revision.
 
-### 5. Understand Underlying Intentions
-
-Differences in proposed means should not automatically be treated as differences in fundamental goals.
-
-### 6. Integrate Before Selecting
-
-The Engine should search for new structures and configurations that can satisfy multiple underlying intentions before resorting to mutually exclusive selection.
-
-### 7. Do Not Force Integration
-
-Not every conflict can or should be integrated. Artificially combining incompatible intentions may produce worse outcomes than making a transparent selection.
-
-### 8. Make Trade-offs Explainable
-
-When resources are limited or sacrifices are unavoidable, the Engine should make the relevant trade-offs understandable to the community.
-
-### 9. Preserve Future Revision
-
-Collective Intent is not necessarily permanent. New experiences, new information, and new Community Intents may justify revisiting previous decisions.
 
 ---
 
@@ -471,6 +536,8 @@ It consists of three major software components as follows:
 - Flora Learning Network
 
 ### 2. Collective Intent Engine
+
+Collective Intent Engine is the software component that implements Collective Intent Formation within the Narrative Cultivation Platform.
 
 Collective Intent Engine cultivates the shared future of a community. Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
 
