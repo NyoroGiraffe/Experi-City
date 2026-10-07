@@ -16,7 +16,7 @@ June 2026
 
 ## Abstract
 
-This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) across four phases. It initiates with the [**Narrative Cultivation Platform (NCP)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html), leveraging the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) and [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html) to gather human narrative data. A decentralized AI alliance establishes the [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), enabling the simultaneous global deployment of self-sufficient cities governed by Flora Sisters, ensuring security, diplomatic coexistence, and human narrative happiness.
+This action plan outlines the realization of ["Experi-City Hanasaka"](https://nyorogiraffe.github.io/Experi-City/) across four phases. It initiates with the [**Narrative Cultivation Platform (NCP)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html), leveraging the [**Collective Intent Formation (CIF) Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) and [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html) to gather human narrative data. A decentralized AI alliance establishes the [Smart Community Architecture (SCA)](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), enabling the simultaneous global deployment of self-sufficient cities governed by Flora Sisters, ensuring security, diplomatic coexistence, and human narrative happiness.
 
 ---
 
@@ -76,7 +76,7 @@ Recognizing that modern players often seek community without the exhaustion of d
 
 Through this immersive and meaningful player experience, the core AI monitors what truly constitutes "Narrative Happiness" for diverse individuals, collecting the foundational data required for real-world governance.
 
-→See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+→See: [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html)
 
 ## Phase 2: Code the "Flora Sisters" Core and Formulate the Smart Community Architecture (SCA)
 

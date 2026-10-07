@@ -1,7 +1,7 @@
 ---
 description: A proposal for the Human–NPC Relationship Design. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-og:description: A proposal for the the Human–NPC Relationship Design. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
-meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
+meta-author: Nyoro Giraffe (project management) / OpenAI ChatGPT 5.5 (writing)
 tags:
   - Actions
   - Plan

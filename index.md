@@ -127,7 +127,7 @@ Start here: **Six key questions about AI and society.**
 - [**ACTION PLAN** by Gemini, ChatGPT and Claude](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
 	- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
 	- [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
-	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html)
 	- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
 		- → Go to [**"NCRPG" Website**](https://nyorogiraffe.github.io/NCRPG/)
 
