@@ -207,9 +207,9 @@ The AI SHOULD then ask targeted questions rather than requesting broad and unnec
 
 > For example:
 > 
-	 “We understand that this proposal requires additional preparation time, but we do not yet understand how this burden would affect the students responsible for the preparation. How would this workload affect you?”
-	 or:
-	 “Several people have expressed support for this proposal, but we have not yet heard from those who may be most affected if it is implemented. What concerns would you have about this change?”
+	“We understand that this proposal requires additional preparation time, but we do not yet understand how this burden would affect the students responsible for the preparation. How would this workload affect you?”
+	or:
+	“Several people have expressed support for this proposal, but we have not yet heard from those who may be most affected if it is implemented. What concerns would you have about this change?”
 
 When appropriate, the AI SHOULD specifically seek the views of members who may experience significant disadvantage, burden, risk, or exclusion under a potential outcome.
 
