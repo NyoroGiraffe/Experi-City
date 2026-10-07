@@ -4,6 +4,7 @@ meta-og:description: A proposal for the the Human–NPC Relationship Design. Der
 meta-author: Nyoro Giraffe (project management) / OpenAI ChatGPT (writing)
 tags:
   - Actions
+  - NCRPG
   - Plan
 ---
 

@@ -3,7 +3,8 @@ description: A proposal for the basic framework of the "Collective Intent Format
 meta-og:description: A proposal for the basic framework of the "Collective Intent Formation". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-author: Nyoro Giraffe (project management) / OpenAI ChatGPT (writing)
 tags:
-  - Action
+  - Actions
+  - NCRPG
   - Plan
 ---
 

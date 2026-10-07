@@ -3,7 +3,7 @@ description: A protocol for AI-assisted role-playing games that focuses on Narra
 meta-og:description: A protocol for AI-assisted role-playing games that focuses on Narrative Cultivation. Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-author: Nyoro Giraffe (project management) / OpenAI ChatGPT (writing)
 tags:
-  - Action
+  - Actions
   - Plan
   - NCRPG
 ---
