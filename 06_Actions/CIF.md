@@ -9,10 +9,8 @@ tags:
 
 # **Collective Intent Formation**
 
-_An Action Plan Derived from "Experi-City Hanasaka"_,
-Based on the world of Nyoro Giraffe,
-Proposed by OpenAI ChatGPT 5.6 Luna,
-October 7, 2026
+- Used: OpenAI ChatGPT 5.6 Luna
+- Last Updated: October 7, 2026
 
 # Abstract
 
