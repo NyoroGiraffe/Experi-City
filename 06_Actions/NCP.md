@@ -434,36 +434,6 @@ Its purpose is to discover a direction that can support sustainable Narrative Ha
 
 ---
 
-### When Is Collective Intent Required?
-
-Collective Intent Formation may be necessary whenever several relevant actors have intentions that could affect the same situation.
-
-These actors may include:
-
-- human players,
-- NPCs,
-- Buddies,
-- NPC communities,
-- organizations,
-- or other authorized participants.
-
-Therefore, Collective Intent Formation can occur in:
-
-- single-player games,
-- small-group games,
-- cooperative multiplayer games,
-- and large persistent online worlds.
-
-A single human player can therefore encounter Collective Intent Formation.
-
-For example, a player may want to build a bridge across a river, while local NPC residents prefer to preserve the landscape and merchants prefer to maintain existing ferry services.
-
-Even though only one human is playing, several relevant intentions exist.
-
-The Collective Intent Engine can integrate them before the Narrative Engine changes the world.
-
----
-
 ### What Is Collective Intent?
 
 A Collective Intent is an AI-formed representation of a direction that can reasonably guide collective action.
@@ -482,6 +452,31 @@ It may instead represent:
 - or, when necessary, a difficult selection between alternatives.
 
 Collective Intent therefore represents **integrated direction rather than numerical majority**.
+
+---
+
+### When Is Collective Intent Required?
+
+When multiple actors of a community find themselves in a situation where they need to resolve issues or challenges facing that community, but hold differing opinions or perspectives on how to resolve them, it may be necessary to establish a Collective Intent.
+
+These actors may include:
+
+- Humans (including players), 
+- NPCs (excluding those who act strictly according to the player's instructions), 
+- Groups or organizations composed of humans, 
+- Groups or organizations composed of such NPCs, 
+- or other authorized participants.
+
+Therefore, Collective Intent Formation can occur in:
+
+- single-player games,
+- small-group games,
+- cooperative multiplayer games,
+- and large persistent online worlds.
+
+Even though only one human is playing, several relevant intentions exist. For example, a player may want to build a bridge across a river, while local NPC residents prefer to preserve the landscape and merchants prefer to maintain existing ferry services.
+
+The Collective Intent Engine can integrate them before the Narrative Engine changes the world.
 
 ---
 

@@ -20,56 +20,6 @@ August 2026
 
 ---
 
-# Overall Structure
-
-### 1. Narrative Cultivation Platform
-
-The [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html) is an open framework that enables humans and AI to cultivate better societies together.
-It consists of three major software components as follows:
-
-- Narrative Engine
-- **Collective Intent Engine**
-- Flora Learning Network
-
-### 2. Collective Intent Engine
-
-Collective Intent Engine cultivates the shared future of a community. Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
-
-#### Collective Narrative Cultivation Cycle
-
-The shared world evolves through repeated collaboration between the community, AI, and the game creator.
-
-- Step 1 (1) — Community Intent 
-- **Step 1 (2) — Collective Intent Formation**
-	  → [For more details, see below.](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html#step-1-2)
-- Step 2 — World Proposal
-- Step 3 — Creator Validation
-- Step 4 — Shared Experience and Collective Narrative Signals
-
-### 3. Overall Structural Diagram
-
-- Narrative Cultivation Platform
-	- Narrative Engine
-	- ***Collective Intent Engine***
-		- Collective Narrative Cultivation Cycle
-			- Step 1 (1) — Community Intent 
-			- ***Step 1 (2) — Collective Intent Formation*** 
-				- Stage 1 — Reframing Resolution
-				- Stage 2 — Intent Sufficiency Assessment
-				- Stage 3 — Parallel Resolution
-				- Stage 4 — Priority Resolution
-				- Stage 5 — Integrative Resolution
-					- Stage 5A — Parametric Integration
-					- Stage 5B — Structural Integration
-				- Stage 6 — Selection Resolution
-					- Stage 6A — Policy Selection
-					- Stage 6B — Tragic Selection
-			- Step 2 — World Proposal
-			- Step 3 — Creator Validation
-			- Step 4 — Shared Experience and Collective Narrative Signals
-	- Flora Learning Network
-
----
 ## What is Collective Intent?
 
 Collective Intent is not the opinion supported by the largest number of people.
@@ -91,17 +41,30 @@ A Collective Intent does not require every individual to receive their preferred
 
 ---
 
-This Collective Intent Formation is also used in the [**NCRPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html).
+## When Is Collective Intent Required?
 
----
+When multiple actors of a community find themselves in a situation where they need to resolve issues or challenges facing that community, but hold differing opinions or perspectives on how to resolve them, it may be necessary to establish a Collective Intent.
 
-**Community Challenges** — the challenges that a community is facing and seeks to address through Collective Intent Formation.
+These actors may include:
 
-In the NCRPG Framework, the term “Community Challenges” used here is referred to as “World Challenges.”
+- Humans (including players), 
+- NPCs (excluding those who act strictly according to the player's instructions), 
+- Groups or organizations composed of humans, 
+- Groups or organizations composed of such NPCs, 
+- or other authorized participants.
+
+Therefore, Collective Intent Formation can occur in:
+
+- single-player games,
+- small-group games,
+- cooperative multiplayer games,
+- and large persistent online worlds.
+
+Even though only one human is playing, several relevant intentions exist. For example, a player may want to build a bridge across a river, while local NPC residents prefer to preserve the landscape and merchants prefer to maintain existing ferry services.
 
 ---
 <a id="step-1-2"></a>
-# Step 1 (2) — Collective Intent Formation
+# Collective Intent Formation
 
 ## Purpose
 
@@ -109,7 +72,7 @@ The purpose of Collective Intent Formation is to transform diverse Community Int
 
 The objective is NOT to determine who is right, nor to maximize the number of supporters for a particular proposal. 
 
-Instead, the Engine seeks to:
+Instead, the AI (Game Master/Collective Intent Engine) seeks to:
 
 - understand what participants want and why they want it;
 - identify perspectives that may be missing;
@@ -117,8 +80,6 @@ Instead, the Engine seeks to:
 - preserve compatible intentions whenever possible;
 - resolve unavoidable conflicts through appropriate methods;
 - and cultivate a shared direction that respects diverse aspirations while remaining consistent with the platform's philosophy, the creator's authority, and sustainable world development.
-
-Collective Intent Formation is part of a continuous cultivation cycle. The resulting Collective Intent is translated into **Step 2 — World Proposal** and evaluated through shared experience. Subsequent reactions, suggestions, and Narrative Happiness Signals provide feedback for future Collective Intent Formation.
 
 ---
 
@@ -488,17 +449,73 @@ Collective Intent is not necessarily permanent. New experiences, new information
 
 ---
 
+This Collective Intent Formation is also used in the [**NCRPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html).
+
+---
+
+**Community Challenges** — the challenges that a community is facing and seeks to address through Collective Intent Formation.
+
+In the NCRPG Framework, the term “Community Challenges” used here is referred to as “World Challenges.”
+
+---
+
+## Related Information ― CIF Integrated into  the “Narrative Cultivation Platform”
+
+### 1. Narrative Cultivation Platform
+
+The [**"Narrative Cultivation Platform"**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html) is an open framework that enables humans and AI to cultivate better societies together.
+It consists of three major software components as follows:
+
+- Narrative Engine
+- **Collective Intent Engine**
+- Flora Learning Network
+
+### 2. Collective Intent Engine
+
+Collective Intent Engine cultivates the shared future of a community. Rather than simply counting votes, it helps communities discover well-supported collective intentions through discussion, proposal refinement, consensus building, and AI-assisted synthesis.
+
+This shared world will evolve through the Collective Narrative Cultivation Cycle, driven by the repeated collaboration of the community, AI, and the creators of the game world.
+
+Collective Intent Formation is part of a continuous cultivation cycle. The resulting Collective Intent is translated into **Step 2 — World Proposal** and evaluated through shared experience. Subsequent reactions, suggestions, and Narrative Happiness Signals provide feedback for future Collective Intent Formation.
+
+### 3. Overall Structural Diagram
+
+- Narrative Cultivation Platform
+	- Narrative Engine
+	- ***Collective Intent Engine***
+		- Collective Narrative Cultivation Cycle
+			- Step 1 (1) — Community Intent 
+			- ***Step 1 (2) — Collective Intent Formation*** 
+				- Stage 1 — Reframing Resolution
+				- Stage 2 — Intent Sufficiency Assessment
+				- Stage 3 — Parallel Resolution
+				- Stage 4 — Priority Resolution
+				- Stage 5 — Integrative Resolution
+					- Stage 5A — Parametric Integration
+					- Stage 5B — Structural Integration
+				- Stage 6 — Selection Resolution
+					- Stage 6A — Policy Selection
+					- Stage 6B — Tragic Selection
+			- Step 2 — World Proposal
+			- Step 3 — Creator Validation
+			- Step 4 — Shared Experience and Collective Narrative Signals
+	- Flora Learning Network
+
+---
+
 ## Related Concepts
 
 Democracy, Narrative Happiness, solution, priority, integration, decision, judgment, sustainability, human-AI symbiosis, AI governance, Experi-City, Flora, Nyoro Giraffe
 
 ---
 
-[<- Back to **Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+			- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
+			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NPC.html)
+	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
+		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 
-[<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
-
-[-> Go to **Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
-
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
+- [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
 
