@@ -1,7 +1,7 @@
 ---
 description: A proposal for the basic framework of the "Collective Intent Formation". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
 meta-og:description: A proposal for the basic framework of the "Collective Intent Formation". Derived from the fiction Experi-City Hanasaka by Nyoro Giraffe.
-meta-author: Nyoro Giraffe (world) / OpenAI ChatGPT 5.5 (Proposal)
+meta-author: Nyoro Giraffe (project management) / OpenAI ChatGPT 5.5 (writing)
 tags:
   - Action
   - Plan
@@ -91,7 +91,7 @@ The AI proceeds through the following stages in order. Once a satisfactory Colle
 
 The AI SHOULD NOT proceed merely because some opinions have been collected. Before resolution, it MUST determine whether the relevant information required for understanding, prioritization, and integration is sufficiently available.
 
-Once a Collective Intent has been formed, the AI is responsible for translating the Collective Intent into a World Proposal, without requiring repeated approval for every intermediate decision, while ensuring that all changes remain transparent, explainable, and open to future refinement through Community Intent and subsequent experience.
+Once a Collective Intent has been formed, the AI is responsible for translating it into a clear and actionable Collective Intent Statement and for carrying that direction into implementation in the shared world, without requiring repeated approval for every intermediate decision. All resulting changes MUST remain transparent and explainable, and SHOULD remain open to future refinement through new Community Intent, changing circumstances, and subsequent experience.
 
 ```
 Community Intents
@@ -112,7 +112,7 @@ Collective Intent
        ↓
 Collective Intent Statement
        ↓
-Implementation / World Proposal
+Implementation
        ↓
 New Intents / New Information / Changed Circumstances
        ↓
@@ -253,7 +253,7 @@ Typical examples include regional diversity, multiple play styles, optional narr
 
 The AI SHOULD consider resource constraints, implementation complexity, and long-term consequences when determining whether parallel implementation is genuinely feasible.
 
-When coexistence successfully addresses the disagreement, the AI forms a Collective Intent based on coexistence and forwards it to the World Proposal stage.
+When coexistence successfully addresses the disagreement, the AI forms a Collective Intent based on coexistence and forwards it to the implementation stage.
 
 If coexistence is not practical because of limited resources, timing, location, capacity, or other constraints, the AI proceeds to Stage 4.
 
