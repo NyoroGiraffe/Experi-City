@@ -11,7 +11,7 @@ tags:
 # **Collective Intent Formation**
 
 - Used: OpenAI ChatGPT 5.6 Luna
-- Last Updated: October 7, 2026
+- Last Updated: October 8, 2026
 
 # Abstract
 
@@ -122,6 +122,18 @@ Ongoing Sufficiency Assessment
 (if necessary)
 New CIF Process
 ```
+
+**Three Perspectives of Collective Intent Formation**
+
+In forming a Collective Intent, the AI SHOULD consider three complementary perspectives:
+
+- **SAKI — Efficiency:** How can the desired outcome be achieved effectively and in a timely manner?
+- **AMA — Inclusiveness:** How can relevant people, needs, and perspectives be included and protected from being overlooked?
+- **TOKO — Sustainability:** How can the resulting direction remain viable and beneficial over time?
+
+These perspectives MUST NOT be treated as a fixed hierarchy. Their relative importance depends on the circumstances. The AI SHOULD determine whether one perspective should be prioritized, whether multiple perspectives can be pursued in parallel, or whether they can be integrated into a common solution.
+
+These perspectives SHOULD be considered throughout the Collective Intent Formation process, whenever relevant to the matter being resolved.
 
 ---
 
@@ -584,6 +596,7 @@ Democracy, Narrative Happiness, solution, priority, integration, decision, judgm
 			- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html)
 	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
 		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+		- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
 - [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
 
