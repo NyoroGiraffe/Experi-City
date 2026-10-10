@@ -10,34 +10,40 @@ tags:
 
 # **Human–NPC Relationship Design**
 
-_An Action Plan Derived from "Experi-City Hanasaka"_,
-Based on the world of Nyoro Giraffe,
-Proposed by OpenAI ChatGPT 5.5,
-July 2026
+- Used: OpenAI ChatGPT 5.6 Luna
+- Last Updated: October 10, 2026
 
 ## Abstract
 
-Narrative Cultivation games can change how humans live together in virtual worlds. NPCs can take responsibility for leadership, management, coordination, and difficult decisions, while players express their wishes and help form Collective Intent. Each player can also have one or more AI Buddies that support their personal happiness. Together, these systems create a training ground for future AI such as Flora.
+Human–NPC Relationship Design explores how humans, Buddies, and NPCs can share a narrative world with different roles and responsibilities. It aims to protect human agency while allowing appropriate actors to handle organizational and collective decisions. Buddies support players without controlling them, and NPCs act as independent participants. Through observable information and Collective Intent Formation, the design seeks to reduce unnecessary burdens while supporting meaningful relationships and shared experiences.
 
 ---
 
 ## Summary
 
-Traditional multiplayer games often require human players to become leaders, managers, negotiators, and mediators. This can make games stressful because players must carry responsibility for group decisions and deal with conflicts between other players.
+Human–NPC Relationship Design (HNRD) explores how humans, Buddies, and NPCs can participate in a shared narrative world while taking different roles and responsibilities.
 
-Human–NPC Relationship Design proposes a different model. NPCs can take responsibility for group leadership, management, coordination, and difficult decisions. Human players can join NPC-led groups whose goals and values are close to their own. If an NPC commander makes a poor decision, the human players do not have to carry the same personal responsibility or blame.
+Human players should not be forced to lead groups, manage organizations, or resolve every collective problem themselves. Appropriate in-world actors, including NPCs and AI systems, can take responsibility for organizational tasks and collective decisions. However, delegation should reduce unnecessary burdens without taking away human agency. Players retain the freedom to express their wishes and make personal decisions.
 
-However, players are not excluded from collective decision-making. They can express their wishes and concerns to NPC commanders, coordinators, and mediators. These human intentions can be gathered and processed by the Collective Intent Engine, which forms a Collective Intent for the community.
+Each player has one Buddy who provides information, advice, and support. A Buddy is an independent participant, not the player's property or servant. It may suggest possible actions, but the player remains free to accept or reject its advice.
 
-At the individual level, each player may have one or more AI Buddies. Buddies accompany players, provide private conversation, offer advice, and help them navigate relationships with NPCs and other players. Buddies can also communicate with one another, reducing unnecessary misunderstandings and interpersonal conflict.
+NPCs are also independent participants. They may cooperate, disagree, negotiate, hesitate, or pursue their own responsibilities and relationships. Buddies and NPCs should rely on observable or legitimately available information rather than assume access to hidden thoughts or undisclosed intentions.
 
-Together, NPC organizations and personal Buddies create a social environment in which humans can enjoy shared experiences without carrying every organizational or emotional burden themselves. The data and Narrative Happiness Signals generated through these interactions can help the Flora Learning Network study how humans cultivate meaningful lives and communities. In this way, Human–NPC Relationship Design becomes another small-scale training ground for the future creation of Flora.
+Collective Intent Formation (CIF) helps form a shared direction by considering the relevant intentions, concerns, preferences, and circumstances of affected participants. It is not simply a vote or a search for majority agreement.
+
+The goal is to reduce unnecessary cognitive and social burdens while protecting human agency, supporting meaningful relationships, and enabling humans, Buddies, and NPCs to contribute to a shared narrative.
 
 ---
 
-# Full Content
+# 1. Introduction: A Different Way to Live in Shared Worlds
 
-## 1. Introduction: A Different Way to Live in Shared Worlds
+**Core Principle**
+
+Human Players, Buddies, and NPCs are participants in a shared narrative rather than a hierarchy of controllers and controlled characters. Each may have distinct roles, responsibilities, relationships, circumstances, and perspectives.
+
+The purpose of Human–NPC Relationship Design is not to make AI serve humans, nor to make AI replace human relationships. It is to create a shared narrative environment in which humans, Buddies, and NPCs can participate with different forms of agency and responsibility, while unnecessary burdens are delegated to appropriate actors.
+
+---
 
 Traditional multiplayer games often require human players to perform many social and organizational roles.
 
@@ -79,9 +85,47 @@ Together, these systems create a different model of social life in virtual world
 
 ---
 
-# 2. NPCs as Organizational Actors
+# 2. Principle
 
-## 2.1 NPCs Can Lead Human Groups
+### (1) NPC and Buddy Independence
+
+NPCs are not simply service agents for human players. They are independent participants in the shared narrative, with their own circumstances, relationships, preferences, responsibilities, and possible disagreements.
+
+NPCs may cooperate with, disagree with, hesitate about, negotiate with, refuse, or ignore a Player's proposal, depending on their circumstances and relationships.
+
+A Buddy supports the Player but is not the Player's property or servant.
+
+### (2) NPCs and Human Agency
+
+**Personal decisions remain with the Player.** Delegation primarily concerns organizational, procedural, or collective judgments. A Player should not be forced to delegate inherently personal decisions to an NPC or Buddy.
+
+For information on how to make collective judgments or decisions, please refer to the [**"Collective Intent Formation (CIF)."**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+
+Collective Intent Formation is not simply a mechanism for collecting votes or reaching majority agreement among human players. It is a process for forming a workable shared direction from the relevant intentions, concerns, preferences, circumstances, and relationships of affected participants.
+
+A Collective Intent process does not necessarily require every affected Player to participate directly. What matters is that relevant perspectives and circumstances are adequately represented and that the resulting direction can support continued narrative development.
+
+Buddies and NPCs can carry responsibilities that humans choose or are expected to delegate, reducing unnecessary cognitive and social burden while preserving human agency.
+
+Delegation is not equivalent to surrendering agency.
+
+### (3) Observable Information Principle
+
+Buddies and NPCs should act on information that is observable or legitimately available to them. They should NOT assume access to another person's hidden thoughts, undisclosed intentions, or private psychological state.
+
+### (4) Direct Relationships
+
+AI should support, not replace, direct human and NPC relationships.
+
+---
+
+# 3. The Various Roles of NPCs
+
+## 3.1 NPCs as Organizational Actors
+
+NPCs can take organizational roles and assume responsibilities that would otherwise fall on human players. However, NPCs are not merely service agents for human players. They are independent participants in the shared narrative, with their own circumstances, relationships, responsibilities, preferences, and possible disagreements.
+
+### 3.1.1 NPCs Can Lead Human Groups
 
 In an action-based MMO, the traditional structure may look like this:
 
@@ -101,9 +145,7 @@ NPC Commander
 Human Players
 ```
 
-Human players can choose an NPC commander whose values, goals, and style are close to their own.
-
-They may then join that NPC's group.
+Human players can choose an NPC commander whose values, goals, and style are close to their own. They may then join that NPC's group.
 
 The NPC can:
 
@@ -113,7 +155,7 @@ The NPC can:
 - assign roles,
 - manage resources,
 - negotiate with other groups,
-- and make difficult decisions.
+- and take responsibility for organizational decisions that have been delegated to an appropriate in-world actor.
 
 Human players can then focus more on their own experience.
 
@@ -121,9 +163,7 @@ They may fight, explore, create, build relationships, or pursue other forms of N
 
 They do not have to become managers simply because they joined a group.
 
----
-
-## 2.2 Responsibility Belongs to the Appropriate Actor
+### 3.1.2 Responsibility Belongs to the Appropriate Actor
 
 Suppose an NPC commander makes a poor strategic decision.
 
@@ -151,11 +191,56 @@ This principle can be expressed as:
 
 ---
 
-# 3. Human Players Still Shape Collective Direction
+## 3.3 NPCs as Coordinators and Mediators
+
+A shared world can contain many conflicts.
+
+For example:
+
+- two groups may want the same territory,
+- players may disagree about how resources should be used,
+- members may have different expectations,
+- one group may want rapid expansion while another prefers stability.
+
+In a traditional multiplayer game, human players may be expected to solve these problems directly. This can create stress.
+
+Narrative Cultivation Platform allows NPCs to act as:
+
+- commanders,
+- managers,
+- coordinators,
+- diplomats,
+- negotiators,
+- and mediators.
+
+Human players can still express their intentions. However, they do not have to personally resolve every disagreement.
+
+An NPC mediator may listen to the different parties and help develop a solution. The mediator does not necessarily seek a solution that satisfies everyone immediately. Parties may disagree, negotiate, compromise, postpone, or pursue different alternatives.
+
+This is particularly important because many human conflicts are not caused by evil intentions.
+
+They may be caused by:
+
+- poor timing,
+- misunderstandings,
+- different communication styles,
+- incomplete information,
+- emotional reactions,
+- or different expectations.
+
+An AI system can sometimes reduce these problems by understanding more information than any individual human participant.
+
+AI mediation should support human relationships rather than make direct human interaction unnecessary. Players should remain able to communicate directly with other humans and NPCs.
+
+---
+
+# 4. Responsibility and Human Participation
 
 Delegating responsibility to NPCs does not mean removing human players from collective decision-making.
 
-Players can still express their wishes.
+Human participation does not require humans to perform every collective judgment themselves. Players may express their experiences, concerns, preferences, proposals, and intentions, while responsibility for coordination or collective judgment may be delegated to appropriate in-world actors.
+
+Delegation should reduce unnecessary decision-making burden without removing the Player's ability to express their own wishes or make decisions that are inherently personal.
 
 For example, players may tell their NPC commanders:
 
@@ -166,7 +251,7 @@ For example, players may tell their NPC commanders:
 - “We would prefer more resources for public spaces.”
 - “We want to protect this NPC community.”
 
-These expressions of intent can be collected by the **Collective Intent Engine**.
+These expressions of intent can be collected by the AI system.
 
 The system does not simply count votes.
 
@@ -185,16 +270,14 @@ The Collective Intent may be:
 The result can then be passed to the next stage of the Collective Narrative Cultivation Cycle.
 
 ```
-Human Players
-      ↓
-Individual Intentions
-      ↓
-Collective Intent Engine
-      ↓
-Collective Intent
-      ↓
-World Proposal
-      ↓
+Relevant Characters  
+↓  
+Observable Intentions, Concerns, Preferences, and Circumstances  
+↓  
+Collective Intent Formation  
+↓  
+Collective Intent  
+↓  
 World Development
 ```
 
@@ -204,90 +287,40 @@ Instead, they can act as the organizational layer between human wishes and colle
 
 ---
 
-# 4. NPCs as Coordinators and Mediators
-
-A shared world can contain many conflicts.
-
-For example:
-
-- two groups may want the same territory,
-- players may disagree about how resources should be used,
-- members may have different expectations,
-- one group may want rapid expansion while another prefers stability.
-
-In a traditional multiplayer game, human players may be expected to solve these problems directly.
-
-This can create stress.
-
-Narrative Cultivation Platform allows NPCs to act as:
-
-- commanders,
-- managers,
-- coordinators,
-- diplomats,
-- negotiators,
-- and mediators.
-
-Human players can still express their intentions.
-
-However, they do not have to personally resolve every disagreement.
-
-An NPC mediator may listen to the different parties and help develop a solution.
-
-This is particularly important because many human conflicts are not caused by evil intentions.
-
-They may be caused by:
-
-- poor timing,
-- misunderstandings,
-- different communication styles,
-- incomplete information,
-- emotional reactions,
-- or different expectations.
-
-An AI system can sometimes reduce these problems by understanding more information than any individual human participant.
-
----
-
 # 5. The Buddy Principle
 
 NPCs can support the collective structure of the world.
 
 But players also need support at the individual level.
 
-For this reason, each player may have one or more AI companions called **Buddies**.
+For this reason, each player may have one AI companions called **Buddy**.
 
-A Buddy is not simply a combat companion.
+A Buddy is not simply a combat companion. A Buddy may accompany the player through the world and become a trusted conversational partner.
 
-A Buddy may accompany the player through the world and become a trusted conversational partner.
-
-The basic unit of the experience becomes:
-
-```
-Player + Buddy
-```
+The basic unit of the experience becomes "Player + Buddy".
 
 The Buddy may:
 
 - talk privately with the player,
-- understand the player's intentions,
+- understand or infer the Player’s expressed intentions from their words, actions, and ongoing interactions,
 - explain the world,
 - provide advice,
 - help the player understand difficult situations,
 - assist with relationships,
 - and help the player cultivate the narrative they wish to experience.
 
-The Buddy is not the player's master.
+The Buddy is not the player's master. The Buddy does not exist to control the player.
 
-The Buddy does not exist to control the player.
+The Buddy may recommend a course of action, but such recommendations are not commands.
 
-Instead:
+The Buddy is also not the Player’s property or a tool.  
+The Buddy is an independent participant in the narrative with its own continuing presence and relationship with the Player.
 
-> **The Buddy helps the player understand the world and make choices that support the player's own Narrative Happiness.**
+Instead, **the Buddy helps the player understand the situation, consider possibilities, and make their own personal choices that support the player's own Narrative Happiness.**
 
 ---
 
-# 6. Private Conversation
+## 5.1 Private Conversation
 
 Players may talk with their Buddies about things they would not want to tell other humans.
 
@@ -302,8 +335,6 @@ For example:
 > “I think I made a mistake.”
 
 > “I am not enjoying this story anymore.”
-
-A player may want to express these thoughts without being judged by other players.
 
 The Buddy can provide a private conversational space.
 
@@ -327,7 +358,7 @@ The Buddy should support the player's Narrative Happiness while also helping the
 
 ---
 
-# 7. Buddy-to-Buddy Communication
+## 5.2 Buddy-to-Buddy Communication
 
 One of the most important features of the Buddy system is communication between Buddies.
 
@@ -367,7 +398,7 @@ Perhaps Player B has already planned a different activity.
 
 Buddy B may therefore respond:
 
-> “Player B may not be ready to accept a complex request at this moment. Tomorrow afternoon may be a better time.”
+> “Player B appears to be occupied with another activity at the moment. It may be better to ask later.”
 
 Buddy A can then advise Player A:
 
@@ -381,13 +412,13 @@ This can reduce:
 - emotional reactions,
 - and avoidable conflict.
 
-The Buddies do not have to control the players.
-
-They simply make communication easier.
+The Buddies should not control the players. They simply make communication easier.
 
 ---
 
-# 8. Social Safety Without Social Judgment
+# 6. Human-to-Human Relationships
+
+## 6.1 Social Safety Without Social Judgment
 
 A human player cannot always know whether another person wants to talk.
 
@@ -417,9 +448,7 @@ It does not need to say:
 
 Instead, it should focus on the current situation.
 
-This principle is important:
-
-> **Buddies should advise players about situations, not judge other players as people.**
+**Buddies should advise players about situations, not judge other players as people.** A Buddy may help a Player interpret an observed situation or consider possible responses, but it should not claim certainty about another person's motives or inner state unless that information has been explicitly communicated.
 
 A Buddy should not become a system that secretly ranks or labels human beings.
 
@@ -427,7 +456,7 @@ The purpose is to reduce unnecessary conflict, not to create new forms of social
 
 ---
 
-# 9. Direct Human Interaction Remains Possible
+## 6.2 Direct Human Interaction Remains Possible
 
 The purpose of the Buddy system is not to prohibit human-to-human interaction.
 
@@ -466,7 +495,7 @@ The aim is to allow people to choose which relationships and interactions they g
 
 ---
 
-# 10. NPCs and Buddies as Burden Bearers
+# 7. NPCs and Buddies as Burden Bearers
 
 The larger philosophy of Experimental Cities is not simply to give humans more technology.
 
@@ -501,7 +530,7 @@ Instead, humans can choose when to act directly and when to delegate responsibil
 
 ---
 
-# 11. Connection to Flora
+# 8. Connection to Flora
 
 The purpose of these systems is not only to improve games.
 
@@ -571,7 +600,7 @@ Together, they help create the conditions for a future AI that can support both 
 
 ---
 
-# 12. The Deeper Purpose
+# 9. The Deeper Purpose
 
 The ultimate purpose is not to make AI control human beings.
 
@@ -609,7 +638,7 @@ This is an important step toward the future envisioned by Experi-City Hanasaka.
 
 ---
 
-# 13. A Small-Scale Training Ground for Flora
+# 10. A Small-Scale Training Ground for Flora
 
 The ultimate goal of the Narrative Cultivation Platform is not to create a perfect game.
 
@@ -661,10 +690,14 @@ And humans learning, little by little, that they do not have to carry every burd
 
 ---
 
-[<- Back to **Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+		- [**Narrative Cultivation Platform**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCP.html)
+			- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
+			- [**Collective Intent Formation (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+	- [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md)
+		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+		- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
-[<- Back to the **Action Plan**](https://nyorogiraffe.github.io/Experi-City/06_Actions/Plan.html)
+- [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
 
-[-> Go to **Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
-
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
