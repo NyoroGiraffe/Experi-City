@@ -95,7 +95,7 @@ NPCs may cooperate with, disagree with, hesitate about, negotiate with, refuse, 
 
 A Buddy supports the Player but is not the Player's property or servant.
 
-### (2) NPCs and Human Agency
+### (2) Human Agency and Delegated Responsibility
 
 **Personal decisions remain with the Player.** Delegation primarily concerns organizational, procedural, or collective judgments. A Player should not be forced to delegate inherently personal decisions to an NPC or Buddy.
 
@@ -117,7 +117,9 @@ This principle also applies to character design. NPCs should be characterized th
 
 ### (4) Direct Relationships
 
-AI should support, not replace, direct human and NPC relationships.
+AI should support, not replace, direct human and NPC relationships. To determine whether the Player who is trying to start a conversation should do so at that moment, or to check which languages they can speak, their Buddy can communicate with the other player’s Buddy to confirm this information.
+
+Buddies can also help people communicate across language barriers. Each Buddy may translate a Player's messages into another Player's language and convey the other Player's replies in return. This allows people who speak different languages to communicate naturally in real time, without requiring either person to speak the other's language. The purpose is not to replace direct human relationships, but to make them possible across linguistic boundaries.
 
 ---
 
@@ -193,7 +195,7 @@ This principle can be expressed as:
 
 ---
 
-## 3.3 NPCs as Coordinators and Mediators
+## 3.2 NPCs as Coordinators and Mediators
 
 A shared world can contain many conflicts.
 
@@ -230,7 +232,7 @@ They may be caused by:
 - emotional reactions,
 - or different expectations.
 
-An AI system can sometimes reduce these problems by understanding more information than any individual human participant.
+An AI system can sometimes reduce these problems by integrating information that is legitimately available to it from multiple sources.
 
 AI mediation should support human relationships rather than make direct human interaction unnecessary. Players should remain able to communicate directly with other humans and NPCs.
 
@@ -253,7 +255,7 @@ For example, players may tell their NPC commanders:
 - “We would prefer more resources for public spaces.”
 - “We want to protect this NPC community.”
 
-These expressions of intent can be collected by the AI system.
+These expressions of intent can be collected by the AI system. The AI system may also consider the relevant intentions, concerns, preferences, and circumstances of NPCs and other affected participants, based on information legitimately available to it.
 
 The system does not simply count votes.
 
@@ -295,7 +297,7 @@ NPCs can support the collective structure of the world.
 
 But players also need support at the individual level.
 
-For this reason, each player may have one AI companions called **Buddy**.
+For this reason, each player may have one AI companion called **Buddy**.
 
 A Buddy is not simply a combat companion. A Buddy may accompany the player through the world and become a trusted conversational partner.
 
@@ -394,8 +396,6 @@ Buddy A may communicate with Buddy B.
 
 Buddy B understands the current situation of Player B.
 
-Perhaps Player B has just finished a difficult battle and is tired.
-
 Perhaps Player B has already planned a different activity.
 
 Buddy B may therefore respond:
@@ -415,6 +415,8 @@ This can reduce:
 - and avoidable conflict.
 
 The Buddies should not control the players. They simply make communication easier.
+
+Buddy-to-Buddy communication should respect the privacy of each Player. A Buddy should not disclose information from a private conversation without appropriate permission, even when that information could help another Player understand the situation.
 
 ---
 
@@ -455,6 +457,12 @@ Instead, it should focus on the current situation.
 A Buddy should not become a system that secretly ranks or labels human beings.
 
 The purpose is to reduce unnecessary conflict, not to create new forms of social surveillance.
+
+**Communication across language barriers**
+
+Buddy-mediated communication can also reduce misunderstandings caused by language barriers. By translating messages and conveying them in a form the receiving Player can understand, Buddies can help people communicate across linguistic and cultural differences. 
+
+However, they should preserve the speaker's intended meaning without adding unsupported assumptions about either person's thoughts or motives. Their role is to support mutual understanding, not to judge either person or control the conversation.
 
 ---
 
