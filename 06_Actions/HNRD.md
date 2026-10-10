@@ -113,6 +113,8 @@ Delegation is not equivalent to surrendering agency.
 
 Buddies and NPCs should act on information that is observable or legitimately available to them. They should NOT assume access to another person's hidden thoughts, undisclosed intentions, or private psychological state.
 
+This principle also applies to character design. NPCs should be characterized through observable behavioral tendencies rather than relying solely on fixed labels such as “kind” or “cunning.” Their characteristics should be expressed through their actions and interactions, allowing their behavior and relationships to develop through the narrative.
+
 ### (4) Direct Relationships
 
 AI should support, not replace, direct human and NPC relationships.
