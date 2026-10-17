@@ -238,9 +238,9 @@ The values defined in the Scenario Package are the initial values for the NPCs t
 
 The Game Master SHOULD track observable tendencies in how an NPC's statements and actions emphasize:
 
-- Efficiency (how to achieve objectives with the minimum expenditure of resources), 
-- Inclusivity (how to distribute benefits to as many citizens as possible, ensuring fairness), 
-- and Longevity (how to ensure that results are sustainable over the long term). 
+- **Efficiency** — how to achieve objectives with the minimum expenditure of resources, 
+- **Inclusivity** — how to distribute benefits to as many citizens as possible, ensuring fairness, 
+- and **Longevity** — how to ensure that results are sustainable over the long term. 
 
 The initial Deliberation Ratio provides a starting point, not a fixed personality definition. 
 
