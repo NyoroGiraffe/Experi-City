@@ -19,9 +19,9 @@ The NCRPG Framework is a protocol for AI-assisted role-playing games that focuse
 
 # **NCRPG Framework**
 
-- Version: 0.23
+- Version: 0.24
 - Used GPT 5.6 Luna
-- October 4, 2026
+- October 17, 2026
 
 # 1. Core Protocol (Normative) — What NCRPG IS and what MUST be respected
 
@@ -233,6 +233,18 @@ Observable Behavioral Frequencies may change through meaningful experiences and 
 Such changes are not necessarily global changes in the Character's personality. A Character's behavior may change differently in different relationships. For example, a Character's Positive Response Frequency toward the Player MAY increase after repeated successful cooperation while remaining low toward another Character with whom the Character has an unresolved conflict.
 
 The values defined in the Scenario Package are the initial values for the NPCs that the Creator has specified as requiring specification in the game scenario. The values for other NPCs may be created naturally by the Game Master during play.
+
+### Deliberation Tendencies
+
+The Game Master SHOULD track observable tendencies in how an NPC's statements and actions emphasize:
+
+- Efficiency (how to achieve objectives with the minimum expenditure of resources), 
+- Inclusivity (how to distribute benefits to as many citizens as possible, ensuring fairness), 
+- and Longevity (how to ensure that results are sustainable over the long term). 
+
+The initial Deliberation Ratio provides a starting point, not a fixed personality definition. 
+
+The Game Master may revise the ratio when sufficient observed behavior supports a change, and should record the relevant trend and reasons when appropriate. These tendencies must be inferred from observable behavior, not assumed hidden thoughts or motives.
 
 ---
 
@@ -999,6 +1011,12 @@ Low frequencies should create meaningful opportunities for resistance, hesitatio
 
 The Game Master MUST NOT consistently choose the high-frequency behavior simply because it produces smoother or more entertaining narrative progression.
 
+### Deliberation Tendencies
+
+The Game Master SHOULD manage each NPC's Deliberation Ratio based on observable statements and actions that reflect Efficiency, Inclusivity, and Longevity. 
+
+Updates MUST be supported by observed behavior rather than assumptions about hidden thoughts or motives. When the available evidence is insufficient to justify a change, the existing ratio should be retained. Any revision SHOULD be consistent with the observed behavioral record.
+
 ---
 
 ## 2.9 Narrative Expansion Runtime
@@ -1292,6 +1310,24 @@ The values are expressed on a scale of **0–10**, where 0/10 represents a very 
 > A low frequency does not necessarily imply the opposite personality trait. For example, a Character with a low Self-Disclosure Frequency may be highly talkative while rarely revealing personal information or genuine opinions. A Character with a low Positive Response Frequency may be friendly and respectful while frequently disagreeing with or declining the Player's proposals.
 > 
 > A high Risk Acceptance Frequency does not necessarily mean that the Character is brave, reckless, or fearless. It means that the Character relatively often accepts or undertakes situations involving meaningful uncertainty or risk.
+
+### Deliberation Tendencies (Optional) 
+
+Express the NPC's observed tendency to emphasize efficiency, inclusivity, and longevity (long-term sustainability) as a relative ratio, such as "2:3:5". The three values represent the relative proportions of efficiency-oriented, inclusivity-oriented, and sustainability-oriented behavior in relevant observed statements and actions. 
+
+They do not represent hidden psychological traits or the frequency of behavior in general. The Game Master SHOULD base these values on observable evidence, avoid forced classification when evidence is insufficient, and revise them when later behavior provides sufficient grounds.
+
+| Character Name | Deliberation Ratio |
+| -------------- | -----------------: |
+|                |              x:y:z |
+|                |              x:y:z |
+|                |              x:y:z |
+|                |              x:y:z |
+|                |              x:y:z |
+x+y+z=10
+x=Efficiency (how to achieve objectives with the minimum expenditure of resources)
+y=Inclusivity (how to distribute benefits to as many citizens as possible, ensuring fairness)
+z=Longevity (how to ensure that results are sustainable over the long term)
 
 ---
 

@@ -53,12 +53,12 @@ With that done, the following items are as described below.
 	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
 	- (Name, Gender, Age, Social Role / Effect on Others) = (, , , )
 
-- Initial Observable Behavioral Frequencies;
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
-	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance) = (, /10, /10, /10, /10)
+- Initial Observable Behavioral Frequencies and Deliberation Ratio;
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (, /10, /10, /10, /10, x:y:z)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (, /10, /10, /10, /10, x:y:z)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (, /10, /10, /10, /10, x:y:z)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (, /10, /10, /10, /10, x:y:z)
+	- (Name, Positive Response, Self-Disclosure, Follow-Through, Risk Acceptance, Deliberation Ratio) = (, /10, /10, /10, /10, x:y:z)
 
 3.6 Scenario-Specific Rules (Optional)
 - Scenario-Specific Rules: [  ]
