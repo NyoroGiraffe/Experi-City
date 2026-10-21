@@ -111,8 +111,8 @@ _This document provides a comprehensive structural reference for Experi-City Han
 ---
 
 - [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
-	- [Ultra-Compact Core (Quick Overview)](./00_Core/Core_Ultra-Compact.md)
-	- [Core Concepts (Full Definitions)](./00_Core/Core_Concepts.md)
+	- [**Ultra-Compact Core (Quick Overview)**](./00_Core/Core_Ultra-Compact.md)
+	- [**Core Concepts (Full Definitions)**](./00_Core/Core_Concepts.md)
 	- [**Experimental Cities**](ExperimentalCities.md)
 		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
 		- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
