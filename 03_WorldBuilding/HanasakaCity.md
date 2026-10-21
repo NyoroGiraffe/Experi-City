@@ -316,6 +316,7 @@ Mukade’s organization and Vaminas (specifically the faction led by a man named
 
 ---
 
-[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
-
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
+	- [**Charter**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)

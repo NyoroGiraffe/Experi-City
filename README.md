@@ -16,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.05
-- **Last Update to the Repository**: October 17, 2026
+- **Last Update to the Repository**: October 22, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -161,6 +161,8 @@ The following notes contain the foundational information required to understand 
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)."
 	- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
 
+[→ **Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
+
 ---
 <a id="analyses"></a>
 # **Analyses**
@@ -210,7 +212,6 @@ This action plan outlines the realization of "Experi-City Hanasaka."
 	- [**Human–NPC Relationship Design**](https://nyorogiraffe.github.io/Experi-City/06_Actions/HNRD.html): This gives rise to NPCs—collective entities that shoulder responsibilities—and AI buddies—personal companions who support individual well-being. 
 	- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html): The NCRPG Framework is a protocol for AI-assisted role-playing games that focuses on Narrative Cultivation rather than predefined stories. 
 		- → Go to [**"NCRPG" Website**](https://nyorogiraffe.github.io/NCRPG/)
-
 
 ---
 

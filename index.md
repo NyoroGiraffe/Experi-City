@@ -97,6 +97,7 @@ Start here: **Six key questions about AI and society.**
 - **CORE CONCEPTS** 
 	- [**Ultra-Compact Core (Quick Overview)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Ultra-Compact.html)
 	- [**Core Concepts (Full Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
+	- [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 - [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 - **STORY**
 	- [**Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)

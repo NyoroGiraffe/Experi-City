@@ -30,6 +30,10 @@ Six core responses to common concerns about AI and society.
 
 ---
 
+[→ **Comprehensive Structural Reference for Experi-City Hanasaka**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
+
+---
+
 # Foundations
 
 - **Philosophy**: The founding moral creed declaring every person's right to a life free from poverty, violence, and unjust rule. 	

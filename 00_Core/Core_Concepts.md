@@ -30,6 +30,10 @@ Six core responses to common concerns about AI and society.
 
 ---
 
+[→ **Comprehensive Structural Reference for Experi-City Hanasaka**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
+
+---
+
 # Foundations
 
 The supreme creed and legal framework from which all principles, systems, and governance of Experi-City derive their authority.
