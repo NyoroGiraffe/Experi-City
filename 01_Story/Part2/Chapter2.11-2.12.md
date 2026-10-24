@@ -80,7 +80,7 @@ Kasga Wisteria, the Unifier”
 
 10時, Hanasaka Arenaに開幕を告げるいつものファンファーレが鳴り響いた. 
 
-“皆様, 大変長らくお待たせいたしました.  Kassen CommunityのUnifier, Kasga Wisteriaが入場します.”
+“皆様, たいへん長らくお待たせいたしました.  Kassen CommunityのUnifier, Kasga Wisteriaが入場します.”
 
 場内放送が流れた瞬間, Arenaの観客はもちろん, 中に入れなかった多くの人たちが, 大型スクリーンの前であるいは各自のAR view上でそれを見て, “待ってました!”と, 拍手喝采した. 
 

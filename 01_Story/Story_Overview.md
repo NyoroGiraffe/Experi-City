@@ -194,6 +194,8 @@ Nyoro Giraffe
 **Ver. 1.2.05:** June 13, 2026
 - Some changes to Chapters 2.2, 2.12, 3.1, 3.22 and 3.23.
 
+**Ver. 1.2.06:** October 24, 2026
+- Some changes to Chapters 1.2, 1.3, 1.4, 1.7, 1.10, 2.2, 2.4, 2.5, 2.11, 2.14, 3.5 and 3.12.
 
 ---
 
