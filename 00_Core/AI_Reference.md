@@ -128,6 +128,8 @@ _This document provides a comprehensive structural reference for Experi-City Han
 	- [**Hanasaka City**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html)
 		- [**Hanasaka Castle**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCastle.html)
 		- [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
+	- [**Story Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
+		- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)
 	- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
 	- [**Collective Intent Formation (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 - [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
