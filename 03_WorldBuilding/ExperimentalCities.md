@@ -63,11 +63,11 @@ The **common information system infrastructure** that provides essential daily s
 
 ## **1. Universal Basic Income (UBI) and Perishable Currency**
 
-Experimental Cities provide every citizen with a **Universal Basic Income (UBI)** through a digital currency called **Experi-Coins (XC).** This income is sufficient to cover basic living needs such as food, housing, healthcare, and transportation. Unlike ordinary money, Experi-Coins are **perishable** and gradually expire if they are not used. This design encourages circulation rather than accumulation, helping resources flow throughout the community. As a result, citizens are freed from the constant fear of poverty and can focus more on learning, creativity, social contribution, and the pursuit of Narrative Happiness.
+Experimental Cities provide every citizen with a **Universal Basic Income (UBI)** through **Experi-Coins (XC),** a digital currency designed to encourage circulation rather than indefinite accumulation. UBI secures basic living needs and allows citizens to pursue learning, creativity, social contribution, and Narrative Happiness without depending on employment for survival.
 
-→ **Detailed system specifications: [UBI and Perishable Currency](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)**
+→ See: [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
 
-→ See: [**Work and Creative Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+→ See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ## **2. Prohibition of Physical Cash**
 
@@ -75,23 +75,23 @@ In Experimental Cities, the possession or use of physical cash — including pap
 
 ## **3. Property Policy and Urban Planning**
 
-- In Experimental Cities, economic and social policies **prioritize the mobility of wealth over its accumulation.**
-- Also, in Experimental Cities, **wealth is measured less by ownership and more by reliable access to resources.**
-- **Land as a Public Good & Universal Leasehold:** Experimental Cities operate on the fundamental principle that land is a communal asset. Private ownership by individuals or corporations is strictly restricted through heavy taxation. Instead, the city implements a **Universal Leasehold System** designed to balance individual stability with urban flexibility.
+Experimental Cities prioritize broad access to resources over the accumulation of private wealth. Land is treated primarily as a public asset, while private ownership of land and high-value assets is restricted through taxation. The city regulates land use to balance residential stability with urban flexibility. 
+
+Inheritance does not transfer monetary wealth or personal economic privileges across generations, though meaningful personal and cultural items may be passed on under the applicable rules.
 
 → See: [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 
 ## **4. Self-Sufficiency and Resource Management**
 
-• **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy (ex. Approximately 80% of the ingredients used at Hanasaka’s community cafeteria are produced within the city); through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
+- **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
-→ See: [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+- **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the Governing Intelligence can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
 
-• **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the Governing Intelligence can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
+- **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** 
 
-→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html) /  [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 
-• **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** Even if they do not engage in such work on a regular basis, they can participate temporarily whenever they have free time. While there is little or no monetary compensation, it was considered natural to engage in such social contribution activities from time to time, given that they were recipients of UBI. 
+→ See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ## **5. Restrictions on the Serving or Trading of Meat**
 
@@ -110,32 +110,27 @@ Since Experimental Cities prohibit the serving or trading of meat from quadruped
 
 "**E.E.**" is an abbreviation for “Establishment Era,” the standard used for counting years in the Experiment Cities, including Hanasaka City. The first year that Hanasaka City and several other Experiment Cities were initially established is designated as the 1st year, written as "1 E.E."
 
-• **Past Chronology:** The year immediately preceding **1 E.E.** is designated as **"0 E.E."**, and the year before that as **"-1 E.E."**. As the timeline moves further into the past, the negative integers increase (e.g., -2, -3, and so on).
+- **Past Chronology:** The year immediately preceding **1 E.E.** is designated as **"0 E.E."**, and the year before that as **"-1 E.E."**. As the timeline moves further into the past, the negative integers increase (e.g., -2, -3, and so on).
 
-• **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
+- **Correspondence with the Gregorian Calendar:** The specific Gregorian year (A.D.) that coincides with **1 E.E.** (the year the first ten Experimental Cities were founded) is **not explicitly defined** within the narrative. This relationship is intentionally left to the reader's imagination.
 
 ## **8. The Principle of Renunciation of Origins**
 
-**The Principle of Renunciation of Origins** is a mandatory policy for all individuals seeking citizenship within the **League of Experimental Cities**. While the "Principle of Non-Inquiry into Origins" prevents others from investigating a citizen's past, this principle requires the individual to **actively discard their previous identity** to join the social experiment.
+People seeking citizenship within the League of Experimental Cities must renounce their former nationality and titles of nobility or privileged status, abandon their original family names, and choose new surnames.
 
-**Core Requirements**:
-- **Renunciation of Nationality and any title of nobility or privileged status:** To obtain citizenship, individuals **must renounce** their former nationalities and any title of nobility or privileged status.
-- **Discarding Family Names:** Prospective citizens are **required to abandon** their original family names.
-- **Adoption of New Identities:** Residents **choose a new last name** (surname) of their own volition. 
+The principle aims to prevent inherited status and past political or social divisions from determining a person's place in the community.
 
-**Purpose and Significance**
+This principle is also based on the pragmatic realization that few people would volunteer to be "subjects" for social experiments if their backgrounds remained a barrier; thus, the city makes past status irrelevant to attract enough participants.
 
-• **Secure a Diverse Population:** This principle is based on the pragmatic realization that few people would volunteer to be "subjects" for social experiments if their backgrounds remained a barrier; thus, the city makes past status irrelevant to attract enough participants.
-
-• **Resetting Human Relationships:** By stripping away former identities, the cities aim to **reset human relationships** and prevent old ethnic conflicts, class systems, or family baggage from interfering with the new social order managed by **Flora**.
+→ See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ## **9. The Principle of Non-Inquiry into Origins**
 
-**The Principle of Non-Inquiry into Origins** is a fundamental policy implemented across all **23 Experimental Cities** globally. It is established to ensure that the cities can secure a **large and diverse population** necessary for their social experiments, as lineage, nationality, and past social status are rendered irrelevant. In Hanasaka, this principle is famously encapsulated in the slogan: "**Once you live in Hanasaka, everyone is a Hanafolk**".
+Across all 23 Experimental Cities, citizens are generally prohibited from asking about or disclosing another person's origins, except where an unavoidable reason justifies it. The principle protects personal privacy and helps prevent lineage, nationality, and past social status from shaping present relationships.
 
-**Core Provisions**:
-- **Prohibition of Inquiry:** No individual is permitted to inquire into another person’s background or origin unless there is an unavoidable reason.
-- **Confidentiality of Origins:** It is strictly forbidden to disclose another person's origin—whether based on fact or speculation—to others.
+In Hanasaka, this principle is expressed in the slogan: “Once you live in Hanasaka, everyone is a Hanafolk.”
+
+→ See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ## **10. Display of First Names**
 
