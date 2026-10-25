@@ -26,23 +26,19 @@ Buildings, factories, railways, power plants, and major equipment are valued mai
 
 A company may own and operate a factory, a solar power facility, or a railway line. However, tax exemptions are generally given only when these assets serve production, transportation, healthcare, safety, or other socially valuable purposes.
 
-Large public projects are often funded through municipal bonds. Unlike ordinary bonds, these are not repaid with money. Instead, bondholders receive access rights to the services created by the project.
-
-For example, a person who helps fund a railway extension may later receive free or priority access to that railway. Someone who supports a new data center may receive computing access. In this way, investment becomes a way to secure future access rather than accumulate wealth.
+Large public projects are often funded through special municipal bonds known as Civic Bonds. Rather than providing monetary interest or dividends, these bonds offer agreed access rights to the services or infrastructure created by the project. Such benefits recognize investment while preserving public access to socially important facilities. The details of Civic Bonds are explained below.
 
 ### 3. Knowledge and Intellectual Property
 
-Knowledge, inventions, designs, stories, and artistic works are viewed as resources that should spread through society rather than remain under long-term exclusive control.
+Knowledge, inventions, designs, stories, and artistic works are treated as resources that should benefit society rather than remain under permanent exclusive control.
 
-Creators are respected and rewarded, but they do not automatically receive unlimited rights to block others from using their ideas.
+Creators are respected and may receive compensation for their work. Their contributions should be properly credited, and presenting another person's work as one's own is not acceptable. However, creating a work does not grant an unlimited right to exclude others from accessing or using it. Experimental Cities do not recognize exclusive intellectual property rights that allow individuals or organizations to permanently monopolize socially needed knowledge, inventions, or creative works.
 
-For example, an engineer who develops a new battery technology may receive recognition, compensation, and cooperation from users of the technology. However, the technology itself is expected to contribute to society rather than remain locked behind permanent monopolies.
+This does not mean that copying or modifying works in violation of established rules is freely permitted. Creators and other affected parties may demand that such misconduct stop. These rights help deter dishonest conduct and protect the integrity of creative activity without granting an unlimited monopoly over the work itself.
 
-Similarly, a novelist's work may inspire adaptations, translations, or new creative projects. What matters is that creators are properly credited and treated fairly, not that all reuse is forbidden.
+Creators may receive compensation through commissions, grants, awards, or payments for the use of their works. People who fund creative or technical projects may also receive agreed benefits, including special access or usage rights. Such arrangements can reward creativity and investment, provided they do not become a means of establishing permanent monopolies over socially needed resources.
 
-As a result, intellectual property is often treated less as a form of ownership and more as a social relationship based on attribution, consent, and fair contribution.
-
-Together, these principles create a society where access, participation, and contribution are valued more highly than the accumulation of property.
+The aim is to recognize creators, encourage innovation and investment, deter misconduct, and keep knowledge and culture broadly accessible. In Experimental Cities, the value of a work lies not only in who controls it, but also in what it enables people and society to achieve.
 
 ---
 
@@ -64,15 +60,27 @@ To ensure resource circulation, high taxes are imposed on high-value private rea
 
 ### 3. Civic Bonds 
 
-In Experimental Cities, large-scale infrastructure projects and expensive industrial equipment are sometimes funded through **special municipal bonds**. 
-- Unlike Experi-Coins, these bonds do **not expire and may be held for long periods of time.** 
-- Both citizens and people outside the city are allowed to purchase them. 
-- However, the city does not repay bondholders with money when the bond reaches maturity. Instead, **bondholders receive long-term access rights to the infrastructure or services created by the project.** For example, a person who helped fund a railway may later gain the right to use that railway for free or with special priority, depending on the amount they contributed. 
-- This system exists not because Experimental Cities oppose investment itself, but because their people believe that **secure access to important resources and services is more valuable than simply increasing personal wealth.** In this society, practical access and participation are considered a greater form of richness than the accumulation of money or property.
+Experimental Cities use Civic Bonds to help fund large-scale infrastructure projects and expensive equipment that may require more resources than individual savings can provide.
+
+- **Long-term holding:** Unlike Experi-Coins, Civic Bonds do not expire and may be held over long periods.
+    
+- **Participation:** Citizens and people outside the city may purchase Civic Bonds under the city's established terms.
+    
+- **Non-monetary returns:** Civic Bonds do not provide monetary interest or dividends. Instead, contributors may receive agreed access rights to the infrastructure or services created by the project. For example, contributors to a railway project may receive free or priority access to the railway, while contributors to a data center may receive computing access.
+    
+- **Access without ownership:** These rights do not grant ownership of the infrastructure or unlimited power to exclude the public. The city must balance benefits for contributors with continued public access to socially important services.
+
+The purpose of Civic Bonds is to encourage collective investment without making the accumulation of financial wealth the main reward. Contributors can benefit from the resources they help create, while society retains access to essential infrastructure and services. In this way, investment supports shared capacity rather than permanent economic domination.
 
 
 ---
 
-[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
-
-[-> Go to the Charter](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Core Concepts**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
+	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+		- [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
+		- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+		- [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+		- [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+		- [**Restrictions on Citizens’ Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)
