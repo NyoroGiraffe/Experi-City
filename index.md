@@ -96,7 +96,7 @@ Start here: **Six key questions about AI and society.**
 
 - **CORE CONCEPTS** 
 	- [**Ultra-Compact Core (Quick Overview)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Ultra-Compact.html)
-	- [**Core Concepts (Full Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
+	- [**Core Concepts (Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
 	- [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 - [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
 - **STORY**
@@ -110,7 +110,7 @@ Start here: **Six key questions about AI and society.**
 			- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 		- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 			- [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
-			- [**Citizen's Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+			- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 			- [**Restrictions on Citizen's Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)
 		- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
 			- [**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
@@ -119,9 +119,8 @@ Start here: **Six key questions about AI and society.**
 		- [**Kassen**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html)
 - [**ANALYSES** by Gemini, ChatGPT and Claude](./README.md#analyses)
 	- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
-	-  [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+	- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
 	- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
-	- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 	- [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 	- [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
 	-  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)

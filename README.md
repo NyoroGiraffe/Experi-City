@@ -16,14 +16,14 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.06
-- **Last Update to the Repository**: October 24, 2026
+- **Last Update to the Repository**: October 25, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
 ## Start Here
 
 - [Ultra-Compact Core (Quick Overview)](./00_Core/Core_Ultra-Compact.md)
-- [Core Concepts (Full Definitions)](./00_Core/Core_Concepts.md)
+- [Core Concepts (Definitions)](./00_Core/Core_Concepts.md)
 
 ---
 <a id="project"></a>
@@ -151,7 +151,7 @@ The following notes contain the foundational information required to understand 
 - **Human Happiness, Value and Safety**
 	- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html): It is the practice of assigning certain decisions to AI systems rather than human authorities. 
 	- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to the super-intelligence **"Flora"** and all information systems operating under her direction in Experimental Cities.
-	- [**Citizens' Social Participation Activities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where Universal Basic Income has been implemented, citizens have a unique perspective on work and creative activities.
+	- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where Universal Basic Income has been implemented, citizens have a unique perspective on social participation.
 
 - **Circulation, Equality and Sustainability**
 	- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
@@ -173,8 +173,6 @@ The following notes contain the foundational information required to understand 
 
 - [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html): A technical analysis examining how Experimental Cities replace petroleum across six categories of use through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
 
-- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html): An analysis exploring how Experimental Cities achieve prosperity without dependence on survival-based competition. Analyzed by ChatGPT 5.5.
-
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
@@ -193,8 +191,7 @@ These articles document the analyses provided by three AI systems—**Gemini, Ch
 
 - [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 - [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
-- [**03_Analysis on "UBI"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
-- [**04_Analysis on "Identities"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA04_Identities.html)
+- 03 and 04: Reserved
 - [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 - [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 - [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
