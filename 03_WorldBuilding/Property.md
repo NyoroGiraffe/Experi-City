@@ -26,7 +26,7 @@ Buildings, factories, railways, power plants, and major equipment are valued mai
 
 A company may own and operate a factory, a solar power facility, or a railway line. However, tax exemptions are generally given only when these assets serve production, transportation, healthcare, safety, or other socially valuable purposes.
 
-Large public projects are often funded through special municipal bonds known as Civic Bonds. Rather than providing monetary interest or dividends, these bonds offer agreed access rights to the services or infrastructure created by the project. Such benefits recognize investment while preserving public access to socially important facilities. The details of Civic Bonds are explained below.
+Large public projects are sometimes funded through Civic Bonds, which allow citizens to contribute XC in exchange for future non-monetary benefits. The city does not repay the original contribution in XC or other money. Instead, contributors receive agreed priority-use or access rights to public facilities and services. These benefits may extend beyond the project being funded, allowing the city to recognize investment without creating permanent, interest-bearing financial claims.
 
 ### 3. Knowledge and Intellectual Property
 
@@ -60,18 +60,43 @@ To ensure resource circulation, high taxes are imposed on high-value private rea
 
 ### 3. Civic Bonds 
 
-Experimental Cities use Civic Bonds to help fund large-scale infrastructure projects and expensive equipment that may require more resources than individual savings can provide.
+Experimental Cities use Civic Bonds to help fund large-scale infrastructure projects and expensive equipment that require resources beyond ordinary public budgets.
 
-- **Long-term holding:** Unlike Experi-Coins, Civic Bonds do not expire and may be held over long periods.
+- **Contribution in XC:** Citizens and eligible outside contributors may purchase Civic Bonds under the city's established rules.
     
-- **Participation:** Citizens and people outside the city may purchase Civic Bonds under the city's established terms.
+- **No monetary repayment:** The city does not return the original contribution in XC or other money, and Civic Bonds pay no interest or dividends. This prevents the bonds from becoming a means of preserving and accumulating non-perishable money outside the Return and Re-issuance Mechanism.
     
-- **Non-monetary returns:** Civic Bonds do not provide monetary interest or dividends. Instead, contributors may receive agreed access rights to the infrastructure or services created by the project. For example, contributors to a railway project may receive free or priority access to the railway, while contributors to a data center may receive computing access.
+- **Broad non-monetary benefits:** Contributors receive agreed priority-use or access rights as recognition of their contribution. These benefits are not limited to the facility or project they helped fund. Depending on the terms, they may include free or priority access to transportation, priority medical treatment when several people require care at the same time, or priority in choosing a suitable home when the city requests relocation.
     
-- **Access without ownership:** These rights do not grant ownership of the infrastructure or unlimited power to exclude the public. The city must balance benefits for contributors with continued public access to socially important services.
+- **Benefits defined by rules:** The types and extent of these rights are established in advance and may reflect the contribution. They do not grant ownership of public infrastructure or unlimited power to exclude others from essential services.
+    
+- **Public interest remains protected:** The city must balance benefits for contributors with the needs of the wider community. Civic Bonds must not become a way to monopolize essential resources or obtain unrestricted control over other citizens.
 
-The purpose of Civic Bonds is to encourage collective investment without making the accumulation of financial wealth the main reward. Contributors can benefit from the resources they help create, while society retains access to essential infrastructure and services. In this way, investment supports shared capacity rather than permanent economic domination.
+Civic Bonds transform contributions of XC into recognized rights of access and priority, rather than claims to future monetary repayment. Their purpose is to encourage people to support projects that benefit the community while preserving the city's principle that wealth should not accumulate indefinitely as a stock of non-perishable money.
 
+The value of a contribution is therefore recognized through practical benefits, not through the return of the original XC. This allows Experimental Cities to support collective investment without creating a loophole in the perishable-currency system.
+
+**Personal and non-transferable benefits:** The rights to priority use or access belong exclusively to the individual contributor. They cannot be sold, transferred, or inherited. Purchasing a Civic Bond expresses the contributor's own decision to support society, and the resulting benefits recognize that person's contribution. These rights end when the holder dies and do not become assets that can be passed on to heirs.
+
+### 4. Inheritance and Individual Rights
+
+Experimental Cities distinguish between inheriting economic advantages and passing on things that have personal or cultural meaning. Inheritance is not recognized as a means of transferring monetary wealth or economic privilege across generations.
+
+**Monetary Wealth and Economic Rights**
+
+Experi-Coins and other monetary claims cannot be inherited. UBI provides basic living security independently of family wealth, so people do not need to inherit money to secure their future. Personal economic privileges, including rights that exist only because of an individual's contribution or status, do not automatically pass to heirs.
+
+**Housing and Property Use**
+
+Rights to use public housing and other shared facilities belong to individuals, not to households as a single legal unit. Each resident has an independent right to use their home under the applicable rules. If one household member dies, the other residents retain their own existing use rights; they do not need to inherit the deceased person's rights.
+
+Private ownership of land and buildings is exceptional in Experimental Cities and subject to heavy taxation. When an owner dies, ownership is not inherited but passes to the city. People who lived with the deceased may receive independent rights to continue using the home, allowing them to remain there without inheriting ownership. The city does not automatically extend the deceased owner's exceptional choice to own property to their heirs.
+
+**Cultural and Personal Continuity**
+
+The rejection of inherited economic privilege does not prevent people from passing on meaningful things. Personal belongings, family records, creative works, knowledge, and cultural traditions may be preserved or passed on under the applicable rules. Their value lies in their meaning and contribution to culture, not in creating an inheritable claim to economic power.
+
+The principle is that people may continue what matters to them, but family background alone must not determine who owns valuable resources or enjoys lasting economic advantages.
 
 ---
 

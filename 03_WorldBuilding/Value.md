@@ -70,9 +70,7 @@ This does not mean that copying or modifying works in violation of established r
 
 ### Compensation and Investment
 
-Creators may receive compensation through commissions, awards, grants, or payments for the use of their works. Investors may also receive agreed benefits in return for their support. Such arrangements recognize creative effort and investment without making exclusive ownership the only way to receive a return.
-
-Special access or usage rights may be established for people who fund or support a work. However, these rights should not become a means of establishing an unrestricted, permanent monopoly over socially needed resources.
+Creators may receive compensation through commissions, awards, grants, or payments for the use of their works. Investors may also receive agreed benefits in return for their support, including special access or usage rights. In arrangements such as Civic Bonds, the original contribution is not repaid in money; instead, its recognition takes the form of defined non-monetary benefits. Such arrangements can reward creativity and investment without creating permanent, interest-bearing claims or unrestricted monopolies over socially needed resources.
 
 The aim is to recognize creative effort, encourage investment, deter misconduct, and allow culture and knowledge to remain broadly accessible. UBI supports this approach by allowing people to create without depending on exclusive ownership for their basic livelihood.
 
@@ -137,6 +135,8 @@ The issue is not whether rich people are good or bad. Wealth, reputation, and co
 Flora therefore treats imported wealth and status as systemic risks, not proof of personal wrongdoing. The city accepts that these restrictions may cost it some valuable contributions, because preventing inherited power from being restored is more important than attracting everyone who might be useful.
 
 The goal is not to eliminate differences in ability or achievement, but to ensure that people build their standing within the community rather than bring an established hierarchy with them.
+
+This principle also shapes the city's view of inheritance. People may preserve and pass on meaningful belongings, creative works, knowledge, and cultural traditions, but monetary wealth and personal economic privileges are not inherited. Since UBI provides basic living security, family members do not need to inherit wealth to secure their future. Experimental Cities seek to preserve cultural continuity without allowing family background to determine access to economic power.
 
 ### The New Elite: Leadership Without Inherited Power
 

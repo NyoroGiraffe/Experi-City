@@ -17,7 +17,13 @@ Experimental Cities provide every citizen with a **Universal Basic Income (UBI)*
 
 ### The UBI System and the Experiment of Sustainability
 
-Experimental Cities serve as a grand social experiment to determine if a society can remain economically sustainable through a **Universal Basic Income (UBI)**. This income is distributed equally to every citizen, from newborns to the elderly, regardless of their employment status. By guaranteeing food, clothing, and shelter, the system aims to eliminate the fear of poverty and observe how citizens choose to contribute to society when their basic survival is no longer a concern.
+Experimental Cities serve as a grand social experiment to determine if a society can remain economically sustainable through a **Universal Basic Income (UBI)**. 
+
+This income is distributed equally to every citizen, from newborns to the elderly, regardless of their employment status. By guaranteeing food, clothing, and shelter, the system aims to eliminate the fear of poverty and observe how citizens choose to contribute to society when their basic survival is no longer a concern.
+
+Because UBI provides basic living security directly to each individual, people do not need to inherit monetary wealth to secure their livelihood. Experi-Coins cannot be inherited, and basic living security does not depend on family wealth. For the broader rules governing inheritance, housing rights, and Civic Bond benefits, see _Property and Wealth_.
+
+→ See: [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 
 ---
 
@@ -30,9 +36,14 @@ Experimental Cities serve as a grand social experiment to determine if a society
 ### Key Mechanism: "Perishable" Design & Circulation Logic
 
 To prevent the stagnant accumulation of wealth and encourage a healthy economic flow, XC is designed to be **“perishable”** and distributed in virtual **"monthly boxes."** This system is built upon several unique technical and economic rules: 
+
 - **The One-Year Expiry:** Each XC unit has a **one-year expiration date**. Any coins remaining in a box after twelve months simply vanish from the digital wallet unless returned to the city.
+
 - **The "First-In, First-Out" (FIFO) Spending Principle:** The city’s dedicated wallet app is programmed to automatically prioritize spending from the **oldest available box**. This ensures that citizens use their soon-to-expire credits first, maximizing the utility of their income. 
+
 - **The Return and Re-issuance Mechanism:** Citizens have the option to "return" or "deposit" their excess XC back to the city's treasury. While these coins do not accrue interest, they are not permanently confiscated. **Upon a citizen's request after a designated period**, the city (i. e. the Governing Intelligence) **re-issues** the equivalent amount in a **new monthly box** with a fresh expiration date. This allows for long-term planning without the inflationary pressure of traditional interest, provided the citizen proactively manages their assets. 
+  Civic Bonds serve a different purpose from personal savings. When citizens purchase these bonds, their XC contribution is not returned as money. Instead, they receive agreed non-monetary priority-use or access rights, which may cover services beyond the project being funded. This allows citizens to support large-scale collective projects without creating a permanent store of non-perishable money. Further details are provided in _Property and Wealth_.
+
 - **Non-Bankable Currency:** XC cannot be deposited into traditional commercial banks to accumulate interest, nor can it be used as collateral in the conventional sense. The currency exists solely within the city’s proprietary digital ecosystem, ensuring that money remains a medium of exchange rather than a tool for capital accumulation.
 
 ### Relationship with Public Land Ownership
@@ -52,8 +63,6 @@ Experimental Cities place great importance on producing essential resources such
 ### Preparing for Large-Scale Needs
 
 Personal savings through the Return and Re-issuance Mechanism help citizens plan for the future, but major projects and emergencies may require resources beyond individual savings. Experimental Cities can pool resources for such needs through collective investment, including Civic Bonds that provide access rights to the resulting infrastructure or services rather than monetary returns. The design of these bonds is explained in _Property and Wealth_.
-
-→ See: [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 
 ### Economic Rationale and Sustainability
 
