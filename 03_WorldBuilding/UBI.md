@@ -87,6 +87,5 @@ While XC is essential for daily life, it also functions as a tool for maintainin
 		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
 		- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html)
 		- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
-		- [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
-		- [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+		- [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 		- [**Restrictions on Citizens’ Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)

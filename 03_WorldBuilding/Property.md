@@ -106,6 +106,5 @@ The principle is that people may continue what matters to them, but family backg
 		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
 		- [**UBI and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html)
 		- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
-		- [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
-		- [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+		- [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 		- [**Restrictions on Citizens’ Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)

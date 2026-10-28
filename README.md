@@ -16,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.06
-- **Last Update to the Repository**: October 25, 2026
+- **Last Update to the Repository**: October 28, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
@@ -156,7 +156,8 @@ The following notes contain the foundational information required to understand 
 - **Circulation, Equality and Sustainability**
 	- [**Property and Wealth**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Property.html): In Experimental Cities, wealth is measured less by ownership and more by reliable access to resources.
 	- [**Universal Basic Income and Perishable Currency**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/UBI.html): Experimental Cities provide every citizen with a Universal Basic Income (UBI) through a digital perishable currency called Experi-Coins (XC). 
-	- [**Restrictions on Citizen's Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html): In Experimental Cities, in order to realize a sustainable society, citizens must accept certain restrictions on their daily lives.
+	- [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
+	- [**Restrictions on Citizen's Daily Lives**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Restrictions.html)
 
 - [**Hanasaka City**](./03_WorldBuilding/HanasakaCity.md): One of the 23 Experimental Cities, built around a centuries-old castle "[**Hanasaka Castle**](./03_WorldBuilding/HanasakaCastle.md)."
 	- [**Kassen**](./03_WorldBuilding/Kassen.md): A sport developed for the entertainment of the citizens of Hanasaka City. Two teams of 51 players, known as Fighters, face each other on opposite sides of a field.
@@ -169,15 +170,11 @@ The following notes contain the foundational information required to understand 
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
-- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html): A technical analysis examining how Experimental Cities can achieve electricity self-sufficiency without dependence on oil imports or external grid supply. Analyzed by Claude Sonnet 4.6.
-
-- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html): A technical analysis examining how Experimental Cities replace petroleum across six categories of use through plants, algae, and biological waste streams. Analyzed by Claude Sonnet 4.6.
-
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
 
--  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html): An analysis how a virtual layer of the Experimental Cities lets every citizen's story continue after death — and what it asks of the living in return. Analyzed by Claude Sonnet 5.
+- [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html): An analysis how a virtual layer of the Experimental Cities lets every citizen's story continue after death — and what it asks of the living in return. Analyzed by Claude Sonnet 5.
 
 ## **Raw Analyses**
 

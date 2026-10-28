@@ -89,7 +89,7 @@ Inheritance does not transfer monetary wealth or personal economic privileges ac
 
 - **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** 
 
-→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html) /  [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+→ See: [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 
 → See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
