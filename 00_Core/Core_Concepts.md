@@ -198,9 +198,7 @@ A principle underlying UBI and land policies, ensuring that economic value conti
 
 A guiding principle that prioritizes the internal production of food and energy, and the stable internal supply of water, to maintain independence, economic balance, and long-term sustainability.
 
-→ See: [**Energy Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
-
-→ See: [**Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+→ See:	[**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 
 ---
 
@@ -344,7 +342,7 @@ Most land is owned by the city and leased to citizens at low cost. Private owner
 
 Experi-City prioritizes self-sufficiency in essential resources to reduce dependency on external markets and maintain economic stability.
 
-→ See: [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
+→ See: [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 
 ---
 
@@ -354,7 +352,7 @@ Experi-City prioritizes self-sufficiency in essential resources to reduce depend
 
 The city restricts inefficient animal-based food systems and emphasizes plant-based and aquatic sources produced in optimized environments.
 
-→ See: [**How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
+→ See: [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
 
 ---
 
@@ -457,8 +455,6 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 # Analyses
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
-- [**Energy Self-Sufficiency in Experimental Cities: The SMR + Renewables Hybrid Grid**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_SSI_Energy.html)
-- [**Beyond Petroleum: How Experimental Cities Use Plants, Algae, and Waste to Build Material Self-Sufficiency**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_SSI_Materials.html)
 - [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
@@ -467,8 +463,6 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 - Raw Analyses:
 	- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 	- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
-	- [**03_Analysis on "UBI"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA03_UBI.html)
-	- [**04_Analysis on "Identities"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA04_Identities.html)
 	- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 	- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 	- [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
