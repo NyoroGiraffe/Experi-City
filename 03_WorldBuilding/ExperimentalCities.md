@@ -51,7 +51,7 @@ The **common information system infrastructure** that provides essential daily s
 <a id="GI"></a>
 # Governing Intelligence
 
-"**Governing Intelligence**" includes the super-intelligence Flora and all systems under her command. Together, they manage laws, administration, and judiciary in Experimental Cities. This network protects citizens and ensures their happiness by handling policy and justice.
+"**Governing Intelligence**" includes [the super-intelligence **Flora**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html) and all systems under her command. Together, they manage laws, administration, and judiciary in Experimental Cities. This network protects citizens and ensures their happiness by handling policy and justice.
 
 → Detailed Information: [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
@@ -83,15 +83,9 @@ Inheritance does not transfer monetary wealth or personal economic privileges ac
 
 ## **4. Self-Sufficiency and Resource Management**
 
-- **Food Self-Sufficiency:** Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
-
-- **Energy and Water Limits:** Energy and water consumption are strictly managed. Each individual and facility has an **annual usage limit**, and during emergencies, the Governing Intelligence can trigger **"Emergency Power Adjustment Intervention Measures"** to cut power to non-essential infrastructure.
-
-- **Social Contribution Activities:** Given the strong emphasis that Experimental Cities place on self-sufficiency in food, water and energy, **citizens are encouraged to participate in activities such as agriculture, forestry, fisheries, and the maintenance of social infrastructure.** 
+Because Experimental Cities place a strong emphasis on self-sufficiency in food, water and energy through such initiatives, the city maintains a cycle of production and consumption while keeping transportation costs low.
 
 → See: [**Self-Sufficiency and Resource Management**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/SSRM.html)
-
-→ See: [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ## **5. Restrictions on the Serving or Trading of Meat**
 
@@ -168,7 +162,7 @@ Under [the Charter of the Experimental Cities](https://nyorogiraffe.github.io/Ex
 
 For Experimental Cities, Flora is arguably their most powerful weapon. Using a unique method, she generates offensive and defensive programs based on the citizens’ “Narrative Happiness,” and through a diverse array of tactics, she has become the strongest warrior in cyberspace.
 
-→ See: [**Flora's Defense and Offense Tactics**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html#Flora)
+→ See: [**Flora's Defense and Offense Tactics**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
 
 ## Physical Space
 

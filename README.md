@@ -146,11 +146,11 @@ Through these conflicts, the story challenges the assumption that AI-led societi
 The following notes contain the foundational information required to understand this story.
 
 - [**Experimental Cities**](./03_WorldBuilding/ExperimentalCities.md): 23 independent cities established globally to conduct social experiments using [**advanced technology**](./03_WorldBuilding/Technologies.md) ([**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)) and AI governance to ensure human happiness and safety.
-	- [**Charter of the Experimental Cities**](./03_WorldBuilding/Charter.md): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
+	- [**Charter of the Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html): The supreme legal framework translating the Philosophy's ideals into binding obligations for all subjects.
 
 - **Human Happiness, Value and Safety**
 	- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html): It is the practice of assigning certain decisions to AI systems rather than human authorities. 
-	- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to the super-intelligence **"Flora"** and all information systems operating under her direction in Experimental Cities.
+	- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html): It refers collectively to [the super-intelligence **"Flora"**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html) and all information systems operating under her direction in Experimental Cities.
 	- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html): In the Experimental Cities where Universal Basic Income has been implemented, citizens have a unique perspective on social participation.
 
 - **Circulation, Equality and Sustainability**
@@ -186,7 +186,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
 
-- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
+- 01: Reserved
 - [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
 - 03 and 04: Reserved
 - [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)

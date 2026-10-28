@@ -22,25 +22,55 @@ In traditional societies, many important decisions are made by politicians, judg
 
 Examples include traffic control, infrastructure management, resource allocation, public service optimization, legal interpretation through systems such as Themis, and policy generation through systems such as Politis.
 
-However, Judgment Delegation is not unlimited. Experimental Cities distinguish between routine social judgments and fundamental personal choices. Decisions about a person's goals, relationships, beliefs, creative activities, or life direction remain the responsibility of the individual. Human self-determination is preserved in matters that define personal identity and meaning.
+**Limits of Judgment Delegation**
 
-For this reason, Judgment Delegation is not simply about replacing humans with machines. It is about assigning each type of decision to the actor best suited to make it. AI systems handle large-scale coordination, analysis, and routine judgments, while humans focus on living, creating, learning, caring, and building meaningful narratives.
+Judgment Delegation is not unlimited. Experimental Cities distinguish between collective or operational judgments and fundamental personal choices.
 
-In this model, the question is not whether humans or AI should make all decisions. The question is which decisions should be made by humans, and which can be delegated to systems in order to create a safer, fairer, and more cooperative society.
+Decisions about a person's own goals, relationships, beliefs, creative activities, and direction in life remain the responsibility of that person. Human self-determination is preserved in matters that define personal identity and meaning.
 
+For shared problems, however, individuals should not automatically be required to resolve every disagreement themselves. AI systems or other appropriate decision-making actors can examine the relevant intentions, circumstances, and consequences, then determine a suitable course of action.
 
-**Related Concepts:** 
-AI-Governance, Politis, Themis, Machino-supremacy, Coexistence, Human Value
+The principle is not to replace human choice with AI control. It is to assign each judgment to the appropriate decision-making actor while preserving individual agency.
 
-**Related Information:**
-- [Governing Intelligence](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+## From Principle to Practice
+
+Judgment Delegation is applied in different ways depending on the context.
+
+In the Experimental Cities, systems such as Politis and Themis perform designated policy-making and judicial functions, while Flora coordinates city governance.
+
+In **Collective Intent Formation (CIF)**, AI uses this principle to form a shared direction from relevant community intentions. It seeks to understand the intentions and circumstances involved and to find ways to preserve, prioritize, or integrate them. Collective Intent is not simply the opinion supported by the largest number of people. See the [Collective Intent Formation Framework](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html) for the detailed process.
+
+In the **Narrative Cultivation RPG Framework (NCRPG)**, Judgment Delegation guides the Game Master's handling of collective decisions. The Player may express intentions, contribute information, influence outcomes, and take actions, but should not routinely be required to mediate conflicts, command other Characters, or make final decisions on behalf of the group. When information is missing, the Player may undertake a Quest to obtain it, while the relevant in-world decision-makers remain responsible for the judgment.
+
+The detailed gameplay rules are defined in the [NCRPG Framework](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html).
+
+Together, these applications express a common principle: delegate collective and operational judgments to appropriate decision-making actors, while preserving each person's responsibility for their own meaningful choices.
 
 ---
 
-[<- Back to Experimental Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
+## Trust in Governing Intelligence
 
-[-> Go to the Charter](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+The acceptance of Flora appears to rest not on blind trust in AI, but on voluntary participation, visible results, and consistent public services. Residents can experience the benefits of the system, including economic security and reliable judgments, rather than relying only on promises about AI's intentions.
 
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
+This suggests that trust in governing AI must be supported by how the system actually treats people. Greater intelligence alone does not guarantee responsible governance. An AI must use its capabilities to protect human dignity, respect personal freedom, and support meaningful lives.
+
+High intelligence does not guarantee that every judgment is correct. Responsible delegation therefore depends not only on an AI's capabilities, but also on its commitment to human dignity and its ability to account for the consequences of its decisions.
+
+- [**Super-Intelligence Flora**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
+- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+
+
+---
+
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+		- [**Super-Intelligence Flora**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
+		- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
+		- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
+		- [**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
+	- [**Narrative Cultivation RPG Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/NCRPG.html)
+	- [**Collective Intent Formation (CIF)**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
+- [**"NCRPG" Official Website**](https://nyorogiraffe.github.io/NCRPG/)  /  [**README**](https://nyorogiraffe.github.io/NCRPG/README.html) 
 
 
