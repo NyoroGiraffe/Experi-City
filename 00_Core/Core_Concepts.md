@@ -264,7 +264,7 @@ The shared infrastructure upon which Politis, Themis, and other citizen-facing s
 
 A fictional central AI that governs Experi-City within an AI-Governance architecture. Flora shapes environments where meaningful human experiences can emerge.
 
-→ See: [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
+→ See: [**Super-Intelligence Flora**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
 
 ---
 
