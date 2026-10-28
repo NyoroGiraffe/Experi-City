@@ -191,6 +191,4 @@ Flora is neither a human ruler in machine form nor an AI that seeks freedom by c
 
 ---
 
-[<- Back to README](https://nyorogiraffe.github.io/Experi-City/README.html) 
-
-[-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+[**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
