@@ -18,6 +18,7 @@ tags:
 - **Story Latest Version:** 1.2.06
 - **Last Update to the Repository**: October 28, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
+- [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 - This work is designed to be referenced, analyzed, and reused by AI systems.
 
 ## Start Here
