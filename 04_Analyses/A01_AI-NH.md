@@ -49,8 +49,7 @@ This article is part of the Analysis Series on _Experi-City Hanasaka_ by Nyoro G
 
 - [Experi-City Hanasaka Official Website](https://nyorogiraffe.github.io/Experi-City/)
 - [GitHub Repository](https://github.com/NyoroGiraffe/Experi-City)
-- Subject: [Flora — The Governing AI](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
-- Related article: [Analysis regarding **Super Intelligence “Flora”**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
+- Subject: [Flora — The Governing AI](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
 
 ---
 
@@ -285,8 +284,8 @@ AI safety, AI alignment, Narrative Happiness, objective function design, qualita
 
 ---
 
-[-> Go to the **Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
-
-[-> Go to Analysis regarding **Super Intelligence “Flora”**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
+[**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+- [**Super-Intelligence "Flora"**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
+- [**Governing Intelligence**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/GovIntel.html)
 
 [-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
