@@ -8,10 +8,10 @@ tags:
 ---
 # Core Concepts of **"Experi-City Hanasaka"**
 
-## Quick Reference
+**For comprehensive setting details**: 
 
-For a minimal overview of all concepts:
-→ [Ultra-Compact Core](./Core_Ultra-Compact.md)
+→ See: [**Comprehensive Structural Reference for Experi-City Hanasaka**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
+
 
 ---
 
@@ -27,10 +27,6 @@ Six core responses to common concerns about AI and society.
   <li><strong>Risk:</strong> Safety comes from human-AI alignment, not isolation.</li>
 </ul>
 <p><a href="https://nyorogiraffe.github.io/Experi-City/README.html#AAD">→ Explore full arguments</a></p>
-
----
-
-[→ **Comprehensive Structural Reference for Experi-City Hanasaka**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 
 ---
 

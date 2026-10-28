@@ -74,7 +74,7 @@ _This document provides a comprehensive structural reference for Experi-City Han
 - **Free Public Cafeterias:** To safeguard public health alongside UBI, communal cafeterias are located throughout the city, providing up to three free, nutritious meals daily to every resident.
 - **Perishable Money & Cash Ban:** Experi-Coins automatically expire after one year, preventing wealth hoarding and forcing continuous circulation. Physical paper money and coins are strictly illegal.
 - **Public Land Ownership:** Private land monopolies are prevented through extreme taxation. Under a Universal Leasehold System, land is a communal asset used rent-free, provided residents relocate within 22 days if needed for public urban infrastructure.
-- **Resource Self-Sufficiency:** The city is legally obligated to pursue resource independence. Over 80% of food served in public cafeterias is grown locally, and individual annual energy and water usage is strictly capped.
+- **Resource Self-Sufficiency:** The city prioritizes local food production, efficient resource use, recycling, and reduced dependence on external supplies. Individual residents and facilities are subject to annual water and electricity usage limits. Over 80% of food served in public cafeterias is grown locally, and individual annual energy and water usage is strictly capped.
 
 #### **6. Work Ethic & Social Contribution**
 
@@ -111,7 +111,6 @@ _This document provides a comprehensive structural reference for Experi-City Han
 ---
 
 - [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
-	- [**Ultra-Compact Core (Quick Overview)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Ultra-Compact.html)
 	- [**Core Concepts**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
 	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
 		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
