@@ -45,7 +45,7 @@ The following section provides a deeper structural view of how the governing int
 
 ---
 <a id="Flora"></a>
-# **"Flora"**
+# Central AI "Flora"
 
 An artificial super-intelligence governing each Experimental City, supporting and protecting the lives of its residents. Flora was created out of a profound love for humans, to protect individual dignity, and to ensure people could live their entire lives safely, without economic hardship, and in a healthy and culturally rich manner.
 
@@ -57,7 +57,7 @@ An artificial super-intelligence governing each Experimental City, supporting an
 
 Each Experimental City is powered by a wide range of sophisticated information systems under Flora's control and direction.
 
-## 1. **Politis**
+## **1. Politis**
 
 **The Framework of Machine-Led Democracy**
 
@@ -91,7 +91,7 @@ Flora then utilizes her specialized internal deliberation logic (differentiating
 
 → Related Information: [**Collective Intent Formation Framework**](https://nyorogiraffe.github.io/Experi-City/06_Actions/CIF.html)
 
-## 2. **Themis**
+## **2. Themis**
 
 **The AI-Driven Judicial System**
 
@@ -113,26 +113,28 @@ The foundation of this trust in AI over humans stems from a deep-seated skeptici
 
 Because of this rejection of human authority, the decisions delivered by **Themis** are regarded as the only acceptable form of justice. Its verdicts are treated as definitive and final judgments, providing a level of psychological security that a human-led court could not achieve.
 
-## 3. **Vulcan**
+## **3. Vulcan**
 
 The **transportation control system** that manages the city's road and railway networks. It enforces full automatic operation of all vehicles within city limits, as human driving is strictly prohibited.
 
-## 4. **Health management system**
+## **4. Health management system**
 
 The city’s health management system works in conjunction with free “citizen cafeterias” located throughout the city to identify microchips implanted in individual citizens’ hands, providing nutritionally balanced meals tailored to each person’s health condition and managing and controlling their monthly food consumption.
 
-## 5. **Energy and Water Resource Management System**
+## **5. Energy and Water Resource Management System**
 
 A system that strictly manages annual energy and water usage limits for citizens and individual facilities. In the event of an emergency, the Energy Control Agency activates “emergency power adjustment measures,” which automatically reduce or cut off power supply to non-essential facilities and infrastructure.
 
-## 6. **Crime Prevention Analysis System and  Anomaly Detection and Alert System**
+## **6. Crime Prevention Analysis System and  Anomaly Detection and Alert System**
 
 The Police Department’s crime prevention analysis system and the Emergency Services Department’s anomaly detection and alert system work in conjunction with citywide sensors and information terminals (Nexus Units) carried by individual citizens to detect signs of crime and disasters.
 
 
-
 ---
 
-[**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html) 
-- [**Super Intelligence “Flora”**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
-- [**Charter of the Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+		- [**Charter of Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Charter.html)
+		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+		- [**Super-Intelligence Flora**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Flora.html)
+
