@@ -423,14 +423,12 @@ Key conflicts that define the narrative and philosophical depth of Experi-City.
 - Internal: Acceptance of AI-Governance as a foundation for Coexistence  
 - External: Perception of AI systems as a threat to human autonomy
 
-→ See: [Raw Analysis: Anti AI Governance](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
-
 ### Legitimacy vs Alignment
 
 - Formal Legitimacy: Authority derived from democratic procedures    
 - Philosophical Alignment: Authority derived from understanding and trust
 
-→ See: [Raw Analysis: Democracy](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
+→ See: [**Conflicts between AI Acceptance and Forms of Legitimacy**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_Tensions.html)
 
 ---
 
@@ -452,13 +450,12 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
 - [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html)
+- [**Conflicts between AI Acceptance and Forms of Legitimacy**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_Tensions.html)
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
--  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
+- [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 
 - Raw Analyses:
-	- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
-	- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 	- [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
 
 ---

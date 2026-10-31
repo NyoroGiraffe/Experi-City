@@ -168,7 +168,9 @@ The following notes contain the foundational information required to understand 
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
-- [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html): Analysis on Kasga, the Unifier of Kassen Community. Analyzed by Claude Sonnet 5.5.
+- [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html): An analysis on Kasga, the Unifier of Kassen Community. Analyzed by Claude Sonnet 5.5.
+
+- [**Conflicts between AI Acceptance and Forms of Legitimacy**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_Tensions.html): An analysis on key conflicts that define the narrative and philosophical depth of Experi-City. Analyzed by Claude Sonnet 5.5.
 
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
