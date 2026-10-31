@@ -126,7 +126,7 @@ A perspective within Coexistence that places AI or machines in a position of pri
 
 Experimental Cities reduce survival-based competition through UBI, automation, housing, and public services while preserving voluntary challenges in sports, art, research, and personal growth. The goal is to remove the fear of losing the means to live, not the value of challenge itself.
 
-→ See: [**Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
+→ See: [**Competition**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
 
 ---
 
@@ -451,13 +451,11 @@ Experi-City challenges the assumption that AI dominance leads to human decline. 
 # Analyses
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html)
-- [**Escaping the Competition Trap: Why Experimental Cities Do Not Need Endless Competition**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Competition.html)
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html)
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html)
 -  [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html)
 
 - Raw Analyses:
-	- [**01_Analysis on "Flora", the Governing AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA01_Flora.html)
 	- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
 	- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 	- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
