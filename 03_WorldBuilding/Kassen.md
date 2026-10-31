@@ -479,6 +479,15 @@ Formally known as the "Unifier of the Kassen Community," this figure stands tran
 
 ---
 
-[-> Go to **"Characters"**](../02_Characters/Characters.md)
-
-[-> Go to README](https://nyorogiraffe.github.io/Experi-City/README.html)  |  [-> Go to Official Website](https://nyorogiraffe.github.io/Experi-City/)
+- [**"Experi-City Hanasaka" Official Website**](https://nyorogiraffe.github.io/Experi-City/)  /  [**README**](https://nyorogiraffe.github.io/Experi-City/README.html) 
+	- [**Core Concepts**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
+	- [**Experimental Cities**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html)
+		- [**Judgment Delegation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Judgment.html)
+		- [**Values and Social Participation**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Value.html)
+		- [**Technologies**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Technologies.html)
+		- [**Human-System Interface**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Interface.html)
+	- [**Hanasaka City**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html)
+		- [**Hanasaka Castle**](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCastle.html)
+		- [**A Sport of Structured Competition under Identical Conditions for All Participants**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Kassen.html)
+	- [**Story Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
+		- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)

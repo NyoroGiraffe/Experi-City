@@ -16,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.06
-- **Last Update to the Repository**: October 28, 2026
+- **Last Update to the Repository**: October 31, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 - [**Core Concepts (Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
@@ -166,32 +166,19 @@ The following notes contain the foundational information required to understand 
 <a id="analyses"></a>
 # **Analyses**
 
-- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): An analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
 - [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html): An analysis on Kasga, the Unifier of Kassen Community. Analyzed by Claude Sonnet 5.5.
 
 - [**Conflicts between AI Acceptance and Forms of Legitimacy**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A03_Tensions.html): An analysis on key conflicts that define the narrative and philosophical depth of Experi-City. Analyzed by Claude Sonnet 5.5.
+
+- [**A Sport of Structured Competition under Identical Conditions for All Participants**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A04_Kassen.html): An analysis on Kassen, a sport developed for the entertainment of the citizens of Hanasaka City. Analyzed by Claude Sonnet 5.5.
 
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
 
 - [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html): An analysis how a virtual layer of the Experimental Cities lets every citizen's story continue after death — and what it asks of the living in return. Analyzed by Claude Sonnet 5.
-
-## **Raw Analyses**
-
-**"Deep Dives into the Story"**
-
-The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. In this series, we look closely at specific characters like Flora and Kasga, and sports like Kassen. We ask hard questions about how the story is built and what the author is trying to say. Think of this as a "lab report" where we break down the story into small pieces to see how everything works together.
-
-**Goal:** To understand the deep logic and hidden details of the Hanasaka world.
-
-These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
-
-- 01-04: Reserved
-- [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
-- [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
-- [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)
 
 ---
 <a id="plan"></a>

@@ -19,6 +19,7 @@ Here are some of the characters who appear in [“**Experi-City Hanasaka**.”](
 - "E.E." is an abbreviation for “Establishment Era,” the standard used for counting years in the [Experiment Cities](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/ExperimentalCities.html), including [Hanasaka City](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/HanasakaCity.html).
 - Unless otherwise specified, “Gender” refers to gender based on physical characteristics.
 - “Moto” is the name used by the citizens of Hanasaka City to refer to the country that once ceded a portion of its territory for the city's establishment, without specifying the country's actual name.
+- ["Kassen"](https://nyorogiraffe.github.io/Experi-City/03_WorldBuilding/Kassen.html) is a sport developed for the entertainment of the citizens of Hanasaka City. 
 
 ---
 
