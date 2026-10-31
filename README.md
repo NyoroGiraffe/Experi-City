@@ -168,6 +168,8 @@ The following notes contain the foundational information required to understand 
 
 - [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): A technical analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
 
+- [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html): Analysis on Kasga, the Unifier of Kassen Community. Analyzed by Claude Sonnet 5.5.
+
 - [**Experimental Cities Do Not Aim to Increase Population**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A05_Population.html): An analysis arguing that Experimental Cities neither seek population growth nor population decline. Analyzed by ChatGPT 5.5.
 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
@@ -184,9 +186,7 @@ The **Raw Analyses** are detailed studies of the _Experi-City Hanasaka_ world. I
 
 These articles document the analyses provided by three AI systems—**Gemini, ChatGPT, and Claude**—to questions posed by the author regarding themes and characters closely related to this story.
 
-- 01: Reserved
-- [**02_Analysis on "Kasga", the Unifier**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA02_Kasga.html)
-- 03 and 04: Reserved
+- 01-04: Reserved
 - [**05_Analysis on "Anti-AI-Governance"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA05_Anti-AIGovernance.html)
 - [**06_Analysis on "Democracy"**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA06_Democracy.html)
 - [**07_Analysis on "Kassen", a sport**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/RA07_Kassen.html)

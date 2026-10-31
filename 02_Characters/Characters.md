@@ -112,6 +112,7 @@ Here are some of the characters who appear in [“**Experi-City Hanasaka**.”](
 	    Kasga views Naoe as her trusted "boss."
 	    As the President of **Haruppi Office**, Naoe insists that Kasga’s **true profession is being a singer**. He has raised and cultivated her musical career from the beginning, even creating her stage name, "UESGI Kasga".
 - **Key Items:** "Haru Sword"
+- Reference: [Collaboration Between Super-Intelligence and Individuals with Strong Charisma](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html)
 
 ## Chammei
 - Chammei, nicknamed "Emerald Angel," is the Bow Fighter Squad Leader for Emerald North, becoming the first archer to reach that rank in Kassen history. Known for her gentle, cute face with drooping eyes and idol-like popularity, she studies at Hanasaka University. Possessing top-tier archery skills, she revolutionized Bow Fighter tactics on the field. She shares a close "battle friends" bond with Keiko, whom she deeply respects.
