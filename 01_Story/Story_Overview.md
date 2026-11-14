@@ -197,6 +197,9 @@ Nyoro Giraffe
 **Ver. 1.2.06:** October 24, 2026
 - Some changes to Chapters 1.2, 1.3, 1.4, 1.7, 1.10, 2.2, 2.4, 2.5, 2.11, 2.14, 3.5 and 3.12.
 
+**Ver. 1.2.07:** November 14, 2026
+- Some changes to Chapters 3.18, 3.19, 3.20, 3.21 and 3.22.
+
 ---
 
 [-> Go to **"Characters"**](../02_Characters/Characters.md)
