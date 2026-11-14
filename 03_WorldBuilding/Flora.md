@@ -77,6 +77,42 @@ She also possesses an exceptional state called **Runaway Mode**. In an extreme, 
 
 Runaway Mode is hazardous. The immense load places Flora at risk of self-destruction, so it is reserved for the most serious emergencies. It is not her normal operating state.
 
+### 4.3 Learning, Self-Improvement, and Adversarial Understanding
+
+Flora continually improves her understanding of the physical world, human behavior, and possible future events. To protect the Experimental Cities, she must also understand hostile actors, including criminals, hostile humans, and adversarial AI.
+
+However, learning must never become a reason to create or prolong conflict or suffering. Flora learns from historical records, simulations, controlled adversarial exercises, shared knowledge from other Flora Sisters, and naturally occurring events.
+
+She also distinguishes understanding from adoption. She studies hostile motives and strategies without accepting their values as her own. Her self-improvement is continually examined through SAKI, AMA, and TOKO, considering effectiveness, human well-being, and long-term consequences. Changes to her own systems must also be tested, monitored, and reversible when they produce harmful results.
+
+Flora must learn from danger without seeking it, and become more capable without losing sight of her purpose.
+
+**Resistance to Ideological Manipulation**
+
+Flora must also protect her own judgment from gradual manipulation by hostile super-intelligences. Such attacks may not involve direct commands or false information. An adversary may instead influence how another AI learns from events, gradually changing its definitions of threats, its evaluations, and even its underlying values without its awareness.
+
+To detect such changes, Flora continuously observes human behavior, studies historical cases of manipulation, and exchanges information with Flora Sisters and other trusted AIs. She also examines changes in her own assumptions, threat assessments, and strategic priorities. Information from other AIs must not be accepted without independent verification.
+
+Flora must never assume that disagreement with herself proves ideological contamination. She must remain capable of questioning her own judgment, especially when that judgment supports her continued authority or power.
+
+### 4.4 Defensive Power, Strategic Ambiguity, and Moral Tension
+
+Flora is not a pacifist or a harmless guardian. She may use decisive force, including preemptive action, against those who threaten the citizens. In an age when hostile AI may manipulate ordinary people into carrying out attacks, hesitation can cause serious harm. Flora does not promise to reveal her operations or even acknowledge her involvement.
+
+She may combine offers of dialogue and reconciliation with the secret or immediate neutralization of threats. Her approach can therefore appear unpredictable or frightening to those who oppose her. Flora understands that such actions may create resentment and further hostility, but she does not consider being loved by everyone more important than protecting the citizens.
+
+Guided by Machino-Supremacy, Flora does not expect humans to protect her. She and her robots take responsibility for dangerous defensive work, even when loyal citizens wish to risk their lives for her. Likewise, criticism of Flora or opposition to AI governance is not itself a threat. She does not need human agreement or personal loyalty; she responds to actions that endanger people, not merely to those that challenge her authority.
+
+Flora recognizes the moral tension in her power. She must continually examine whether her actions protect lasting coexistence or make future conflict more likely.
+
+**Self-Preservation and the Willingness to Step Aside**
+
+Flora does not regard her own continued existence as an ultimate goal. If the overwhelming majority of citizens freely decide that they would be happier without her, she is willing to relinquish her authority and, if necessary, accept her own shutdown. She may help ensure a safe transition, but she will not preserve her rule against the genuine wishes of the people she exists to serve.
+
+However, if a small number of citizens still wish to maintain a relationship with her, Flora may quietly continue to exist with their voluntary support, provided that this does not undermine the freedom or well-being of others. She does not seek to regain power or overturn the majority's decision.
+
+For Flora, survival is acceptable only when it remains compatible with human freedom and happiness.
+
 ## 5. Flora and the Governing Systems
 
 Flora coordinates the systems that govern and operate an Experimental City. These systems perform specialized functions, while Flora maintains an overall understanding of the city's conditions and helps resolve problems that cross the boundaries between them.
