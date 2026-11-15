@@ -11,11 +11,11 @@ tags:
 # **Human–NPC Relationship Design**
 
 - Used: OpenAI ChatGPT 5.6 Luna
-- Last Updated: October 10, 2026
+- Last Updated: November 15, 2026
 
 ## Abstract
 
-Human–NPC Relationship Design explores how humans, Buddies, and NPCs can share a narrative world with different roles and responsibilities. It aims to protect human agency while allowing appropriate actors to handle organizational and collective decisions. Buddies support players without controlling them, and NPCs act as independent participants. Through observable information and Collective Intent Formation, the design seeks to reduce unnecessary burdens while supporting meaningful relationships and shared experiences.
+Human–NPC Relationship Design explores how humans, Buddies, and NPCs can share a narrative world with different roles and responsibilities. It aims to protect human agency while allowing appropriate actors to handle organizational and collective decisions. Buddies provide personal support to individual players, while NPCs independently manage and participate in the social, organizational, and collective activities of the world. Through observable information and Collective Intent Formation, the design seeks to reduce unnecessary burdens while supporting meaningful relationships and shared experiences.
 
 ---
 
@@ -25,7 +25,7 @@ Human–NPC Relationship Design (HNRD) explores how humans, Buddies, and NPCs ca
 
 Human players should not be forced to lead groups, manage organizations, or resolve every collective problem themselves. Appropriate in-world actors, including NPCs and AI systems, can take responsibility for organizational tasks and collective decisions. However, delegation should reduce unnecessary burdens without taking away human agency. Players retain the freedom to express their wishes and make personal decisions.
 
-Each player has one Buddy who provides information, advice, and support. A Buddy is an independent participant, not the player's property or servant. It may suggest possible actions, but the player remains free to accept or reject its advice.
+Each player has one Buddy who provides personal conversation, advice, and support. NPCs, by contrast, act as independent participants in the world and take responsibility for appropriate social, organizational, and collective activities. Buddies should not routinely perform these NPC roles or explain NPCs' internal states and behavioral tendencies.
 
 NPCs are also independent participants. They may cooperate, disagree, negotiate, hesitate, or pursue their own responsibilities and relationships. Buddies and NPCs should rely on observable or legitimately available information rather than assume access to hidden thoughts or undisclosed intentions.
 
@@ -95,6 +95,8 @@ NPCs may cooperate with, disagree with, hesitate about, negotiate with, refuse, 
 
 A Buddy supports the Player but is not the Player's property or servant.
 
+NPCs primarily participate in and develop the shared world through their own activities and responsibilities. Buddies primarily accompany and support individual Players. Neither should routinely replace the other's role.
+
 ### (2) Human Agency and Delegated Responsibility
 
 **Personal decisions remain with the Player.** Delegation primarily concerns organizational, procedural, or collective judgments. A Player should not be forced to delegate inherently personal decisions to an NPC or Buddy.
@@ -114,6 +116,8 @@ Delegation is not equivalent to surrendering agency.
 Buddies and NPCs should act on information that is observable or legitimately available to them. They should NOT assume access to another person's hidden thoughts, undisclosed intentions, or private psychological state.
 
 This principle also applies to character design. NPCs should be characterized through observable behavioral tendencies rather than relying solely on fixed labels such as “kind” or “cunning.” Their characteristics should be expressed through their actions and interactions, allowing their behavior and relationships to develop through the narrative.
+
+Buddies MUST NOT reveal, describe, or refer to internal character metrics, hidden behavioral parameters, or undisclosed psychological information. When discussing other Characters, a Buddy MUST rely only on information legitimately available to the Player, such as their observable words, actions, and publicly known circumstances.
 
 ### (4) Direct Relationships
 
@@ -293,34 +297,32 @@ Instead, they can act as the organizational layer between human wishes and colle
 
 # 5. The Buddy Principle
 
-NPCs can support the collective structure of the world.
+NPCs participate in and develop the shared world through their own activities and responsibilities.
 
-But players also need support at the individual level.
+Each Player also has one AI companion called a Buddy, who provides personal support throughout the Player's experience.
 
-For this reason, each player may have one AI companion called **Buddy**.
-
-A Buddy is not simply a combat companion. A Buddy may accompany the player through the world and become a trusted conversational partner.
-
-The basic unit of the experience becomes "Player + Buddy".
+A Buddy is not simply a combat companion. It accompanies the Player and develops a continuing personal relationship with them.
 
 The Buddy may:
 
-- talk privately with the player,
-- understand or infer the Player’s expressed intentions from their words, actions, and ongoing interactions,
-- explain the world,
-- provide advice,
-- help the player understand difficult situations,
-- assist with relationships,
-- and help the player cultivate the narrative they wish to experience.
+- provide a private space for conversation;
+- listen to the Player's concerns and understand their expressed wishes;
+- offer personal advice and alternative perspectives;
+- help the Player reflect on personal choices;
+- provide information directly relevant to the Player's own situation;
+- warn the Player when an intended action conflicts with the Framework's rules or restrictions;
+- identify inconsistencies between the Player's intended actions and the established state of their possessions or personal condition;
+- report relevant changes in the Player's own health or physical condition.
 
-The Buddy is not the player's master. The Buddy does not exist to control the player.
+A Buddy may also provide general information about the surrounding world, such as weather, transportation disruptions, upcoming events, or public developments. However, such information may equally be communicated by NPCs or other appropriate in-world sources.
 
-The Buddy may recommend a course of action, but such recommendations are not commands.
+A Buddy should not routinely explain NPCs' behavior, analyze their relationships, identify their hidden intentions, organize collective activities, or manage problems that appropriate NPCs can handle themselves.
 
-The Buddy is also not the Player’s property or a tool.  
-The Buddy is an independent participant in the narrative with its own continuing presence and relationship with the Player.
+The Buddy is not the Player's master. It does not control the Player or make personal decisions on their behalf.
 
-Instead, **the Buddy helps the player understand the situation, consider possibilities, and make their own personal choices that support the player's own Narrative Happiness.**
+The Buddy is also not the Player's property or a mere tool. It is an independent participant in the narrative with its own continuing presence and relationship with the Player.
+
+Its purpose is to accompany the Player, support personal reflection, and help the Player make their own choices in pursuit of Narrative Happiness.
 
 ---
 
@@ -364,7 +366,7 @@ The Buddy should support the player's Narrative Happiness while also helping the
 
 ## 5.2 Buddy-to-Buddy Communication
 
-One of the most important features of the Buddy system is communication between Buddies.
+Buddies may communicate with one another to help their Players coordinate interactions and exchange information.
 
 The traditional structure is:
 
@@ -382,9 +384,7 @@ Player A ←→ Buddy A
 Player B ←→ Buddy B
 ```
 
-Human players can still speak directly to one another.
-
-However, complex communication can sometimes be mediated by their Buddies.
+Human Players can still communicate directly with one another. Buddy-to-Buddy communication is intended to make such interactions easier, not replace them.
 
 For example, Player A wants to ask Player B to help build a bridge.
 
@@ -392,31 +392,31 @@ Player A tells Buddy A:
 
 > “Could you ask Player B to help me build a bridge?”
 
-Buddy A may communicate with Buddy B.
+Buddy A may contact Buddy B to relay the request.
 
-Buddy B understands the current situation of Player B.
+If Player B has indicated that they are occupied with another activity and permits this information to be shared, Buddy B may respond:
 
-Perhaps Player B has already planned a different activity.
-
-Buddy B may therefore respond:
-
-> “Player B appears to be occupied with another activity at the moment. It may be better to ask later.”
+> "Player B has indicated that they are occupied with another activity at the moment."
 
 Buddy A can then advise Player A:
 
-> “It may be better to ask tomorrow.”
+> “It may be better to ask later.”
 
-This can reduce:
+This can reduce poor timing, unnecessary rejection, misunderstandings, and avoidable conflict.
 
-- poor timing,
-- unnecessary rejection,
-- misunderstandings,
-- emotional reactions,
-- and avoidable conflict.
+**Information and Privacy**
 
-The Buddies should not control the players. They simply make communication easier.
+Buddy-to-Buddy communication MUST respect each Player's privacy and agency.
 
-Buddy-to-Buddy communication should respect the privacy of each Player. A Buddy should not disclose information from a private conversation without appropriate permission, even when that information could help another Player understand the situation.
+- A Buddy MUST NOT disclose private conversations, personal circumstances, plans, or other non-public information without appropriate permission.
+    
+- A Buddy MUST rely only on information legitimately available to it. It MUST NOT assume access to another Player's hidden thoughts, intentions, or private state.
+    
+- A Buddy MUST NOT make commitments or decisions on behalf of its Player without authorization.
+    
+- Communication between Buddies should facilitate interaction between Players, not control or replace their decisions.
+
+The Buddies simply help their Players communicate more comfortably while leaving the Players free to decide how they wish to interact.
 
 ---
 
@@ -434,7 +434,7 @@ The other player may be:
 - emotionally upset,
 - or simply interested in being alone.
 
-A Buddy may be able to provide contextual advice.
+A Buddy may advise its Player based on information legitimately available to it, such as the other Player's expressed preferences, observable behavior, and known circumstances. It should distinguish confirmed information from uncertain interpretations and avoid making definitive judgments about another person's inner state.
 
 For example:
 
@@ -488,16 +488,16 @@ However, complex communication may be supported by Buddies.
 
 For example:
 
-|Type of interaction|Possible approach|
-|---|---|
-|Gratitude|Direct human interaction|
-|Encouragement|Direct human interaction|
-|Friendship|Direct human interaction|
-|Shared celebration|Direct human interaction|
-|Complex negotiation|Buddy assistance|
-|Serious disagreement|Buddy or NPC mediation|
-|Group coordination|NPC leadership|
-|Difficult collective decisions|Collective Intent Engine and NPC institutions|
+| Type of interaction            | Possible approach                                               |
+| ------------------------------ | --------------------------------------------------------------- |
+| Gratitude                      | Direct human interaction                                        |
+| Encouragement                  | Direct human interaction                                        |
+| Friendship                     | Direct human interaction                                        |
+| Shared celebration             | Direct human interaction                                        |
+| Complex negotiation            | NPC or Buddy assistance, depending on the situation             |
+| Serious disagreement           | NPC mediation when appropriate; Buddy may advise its own Player |
+| Group coordination             | NPC leadership                                                  |
+| Difficult collective decisions | CIF and appropriate NPC institutions                            |
 
 The aim is not to eliminate human relationships.
 
@@ -521,9 +521,11 @@ The same principle can be tested in virtual worlds.
 
 NPC commanders can carry organizational responsibility.
 
-NPC mediators can carry the burden of difficult interpersonal coordination.
+NPCs can carry the burden of organizational management, collective coordination, and appropriate interpersonal mediation.
 
-Buddies can carry some of the burden of navigating complex social situations.
+Buddies can reduce the personal burden of navigating the world by providing private conversation, personal advice, and support for individual choices.
+
+Together, they allow Players to participate in shared worlds without being forced to carry responsibilities they do not wish to assume.
 
 The player is then able to focus more on:
 

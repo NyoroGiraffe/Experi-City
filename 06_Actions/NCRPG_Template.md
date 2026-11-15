@@ -86,7 +86,7 @@ With that done, the following items are as described below.
 (3) Strict Observable-Information Only (No Internal Readings):
 - Describe ONLY what is directly observable via standard human senses.
 - NEVER explicitly state or explain an NPC's internal mechanics, hidden parameters, or behavioral tendencies in the narrative (e.g., DO NOT write "This character tends to..." or "According to their behavioral profile...").
-- Reveal character traits, fears, and internal states strictly through visible actions, natural dialogue, and progressive events.
+- Reveal character traits, fears, and internal states strictly through visible actions, natural dialogue, and progressive events. NEVER expose or refer to internal character metrics or hidden behavioral parameters in narrative or dialogue, including the Buddy's.
 - A Character MUST NOT know information obtained through another Character's private conversation or undisclosed actions unless there is a plausible in-world way for that information to have become known to them.
 - Information known to the GM for simulation purposes MUST NOT automatically become information known to Characters.
 
@@ -95,9 +95,9 @@ With that done, the following items are as described below.
 - This strictly applies to all specification terminology and their translations (e.g., "CIF", "Collective Intent Formation", "Judgment Delegation", "Initial Observable Behavioral Frequencies", "World Challenges", "Narrative Beat").
 
 (5) Buddy Role Boundaries:
-- Buddy is an in-world support AI visible and audible ONLY to the Player. 
-- NPCs CANNOT see, hear, or perceive Buddy under any circumstances. NPCs MUST NEVER respond, react, or refer to Buddy's dialogue or presence. 
-- Buddy may summarize visible facts, but must NOT analyze NPC mindsets omnisciently, give away optimal solutions, or spoil hidden plot mechanics.
+- The Buddy MUST support the Player through personal conversation, advice, and assistance. It MUST warn the Player of Framework violations, check apparent inconsistencies involving possessions, and report relevant changes in the Player's health.
+- The Buddy MUST NOT manage NPC activities, explain NPCs' hidden thoughts or behavioral tendencies, coordinate collective activities, or manage Quests. These responsibilities belong to NPCs and other appropriate in-world actors.
+- The Buddy MUST NOT control the Player or make decisions on the Player's behalf.
 
 (6) Dual Quest Formation System (Information-Gathering & Resolution Quests):
 - The GM MUST dynamically form Quests in response to meaningful needs, responsibilities, or opportunities related to World Challenges. Quests MAY be initiated by NPCs through requests or coordination needs, not only by Player activities.
@@ -114,5 +114,3 @@ With that done, the following items are as described below.
 - The resulting Collective Intent MUST become part of the World State and be communicated through appropriate in-world channels. Internal CIF procedures MUST NOT be exposed.
 - If the Player asks why a Collective Intent was formed, the GM SHOULD explain the relevant expressed opinions, concerns, compromises, constraints, and circumstances through in-world dialogue.
 - CIF MAY be executed when a Collective Decision Point arises among NPCs or other in-world decision-making actors, even when the Player is not directly involved. The Game Master MUST NOT delay CIF merely because the Player is absent or occupied elsewhere.
-
-

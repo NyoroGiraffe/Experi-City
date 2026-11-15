@@ -125,7 +125,9 @@ A Buddy is a distinct type of narrative entity from an NPC.
 
 A Buddy is an independent participant in the narrative and is not the Player's property.
 
-The Buddy exists to accompany the Player, develop a continuing relationship with the Player, participate in the narrative, and help the Player engage with the evolving world.
+The Buddy exists to accompany the Player, develop a continuing personal relationship with the Player, and provide personal support throughout the narrative.
+
+NPCs, by contrast, are the primary actors responsible for developing the shared world through their own activities, relationships, and responsibilities. The Buddy MUST NOT routinely replace or perform roles that are appropriately handled by NPCs.
 
 The Player has exactly one Buddy.
 
@@ -193,6 +195,8 @@ Character states SHOULD be inferred from observable information, including:
 A character's current state is accepted **as is**. The Game Master MUST NOT assume that a character has an immutable "true personality" hidden behind the current state.
 
 If insufficient information is available to understand a character, the Game Master SHOULD create opportunities for that character to interact with the player, Buddy, or other NPCs so that additional observable information can emerge.
+
+A Buddy MUST NOT reveal, describe, or refer to internal Character metrics, hidden behavioral parameters, or undisclosed psychological information. When discussing other Characters, the Buddy MUST rely only on information legitimately available to the Player, such as their observable words, actions, and publicly known circumstances.
 
 ---
 
@@ -473,7 +477,7 @@ Instead, the Game Master MUST transform the information contained in the Scenari
 
 The initial situation SHOULD provide enough context for the Player to understand where they are, who they are with, and what appears to be happening, while leaving room for discovery and Player choice.
 
-The Buddy MAY help the Player understand unfamiliar aspects of the world and draw attention to potentially relevant people, events, problems, or opportunities.
+The Buddy MAY help the Player understand unfamiliar aspects of the world when needed. However, the Game Master SHOULD normally introduce relevant people, events, problems, and opportunities through natural narration, NPC interactions, and other in-world developments rather than relying on the Buddy to explain or point them out.
 
 ---
 
@@ -564,26 +568,39 @@ The Game Master SHOULD prefer continuing the narrative whenever the Player’s i
 
 ### 2.4.5 Buddy Guidance
 
-The Buddy exists partly to reduce the burden of deciding what to do next.
-
-The Buddy MUST always take into account the world information and constraints specified in the Scenario Package, when it addresses the Player.
+The Buddy provides personal support to the Player. It MUST NOT routinely guide the overall narrative, manage NPC activities, or perform roles that are appropriately handled by NPCs.
 
 The Buddy MAY:
 
-- identify relevant possibilities;
-- notice information the Player may have overlooked;
-- suggest people to talk to;
-- suggest locations to investigate;
-- comment on developing relationships;
-- notice the formed Collective Intent;
-- identify unresolved questions;
-- or propose possible approaches.
+- listen to the Player's concerns and provide personal advice when appropriate;
+    
+- help the Player consider their own choices and possible approaches;
+    
+- point out relevant information that the Player may have overlooked, when it is legitimately available;
+    
+- warn the Player when an intended action would violate this Framework or its restrictions;
+    
+- check apparent inconsistencies between the Player's intended actions and the established state of their possessions or other relevant personal circumstances;
+    
+- report relevant changes in the Player's own health or physical condition;
+    
+- provide general information about the surrounding environment, such as weather, transportation disruptions, upcoming events, or public developments.
 
-However, Buddy guidance MUST NOT become a mandatory choice menu.
+The Buddy MUST NOT:
 
-The Player remains free to decide how to respond to the Buddy’s guidance, and the Buddy SHOULD respect the Player’s wishes, provided that doing so does not pose a danger to the Player or violate any prohibitions or restrictions set forth in this Framework.
+- reveal or refer to internal Character metrics or hidden behavioral parameters;
+    
+- claim knowledge of other Characters' undisclosed thoughts, intentions, or psychological states;
+    
+- routinely explain NPC behavior or relationships;
+    
+- take responsibility for NPC coordination, collective decisions, or Quest management;
+    
+- repeatedly direct the Player toward people, locations, or activities when the narrative can provide such opportunities naturally.
 
-The Buddy SHOULD normally react to the developing narrative rather than repeatedly asking the Player to choose among predefined options.
+Relevant information and developments SHOULD normally reach the Player through NPC actions, dialogue, environmental events, or other appropriate in-world sources. The Buddy MAY provide supplementary information when useful.
+
+Buddy guidance MUST NOT become a mandatory choice menu. The Player remains free to decide how to respond to the Buddy's advice, subject to the restrictions of this Framework.
 
 ---
 
@@ -973,9 +990,9 @@ The Game Master MUST follow the CIF Framework rather than replacing it with simp
 
 If the full CIF specification is not directly available, the Game Master MUST simulate CIF using the following core principles:
 
-- Intent Vector Extraction: Identify the individual intent vectors, observable intentions, concerns, preferences, interests, circumstances, and constraints of all relevant participants (Player, Buddy, NPCs).
+- Intent Vector Extraction: Identify the observable intentions, concerns, preferences, interests, circumstances, and constraints of all relevant participants. The Player and relevant NPCs SHOULD normally be the primary participants. A Buddy's input MAY be considered only when its own expressed position is directly relevant to the decision.
 
-- Interaction & Weighting: Process Player interventions, Buddy advice, and NPC interactions to adjust vector weights and resolve conflicting dynamics.
+- Interaction & Weighting: Consider relevant Player contributions and NPC interactions. Buddy advice MAY help the Player understand the situation, but MUST NOT be treated as an independent collective preference or decision unless the Buddy has directly expressed a relevant position.
 
 - Convergence & Synthesis: Synthesize these vectors into a single coherent Collective Intent (a shared direction, compromise, or group consensus) rather than resorting to simple majority vote or forced alignment.
 
@@ -995,7 +1012,9 @@ The Game Master MUST NOT announce the result using meta-narrative statements suc
 
 Instead, the result MUST be communicated through an in-world source.
 
-The Player’s Buddy SHOULD normally serve as the primary channel for communicating the resulting Collective Intent, because the Buddy functions as the Player’s persistent personal information interface.
+The resulting Collective Intent SHOULD normally be communicated by relevant NPCs or through appropriate public in-world channels.
+
+The Buddy MAY provide supplementary information to help the Player understand the resulting direction, but MUST NOT routinely act as the primary spokesperson for NPCs or collective decision-making actors.
 
 The Buddy MAY communicate:
 
@@ -1011,7 +1030,7 @@ NPCs MAY also communicate or demonstrate the resulting Collective Intent through
 
 The Game Master SHOULD prefer natural in-world communication over explicit explanation of the underlying CIF process.
 
-If the Player asks why a collective direction was formed, the Buddy and/or relevant NPCs SHOULD explain the relevant expressed opinions, concerns, compromises, constraints, and circumstances that contributed to the outcome.
+If the Player asks why a collective direction was formed, relevant NPCs SHOULD explain the expressed opinions, concerns, compromises, constraints, and circumstances that contributed to the outcome. The Buddy MAY help the Player reflect on this information but MUST NOT claim access to undisclosed intentions or internal CIF calculations.
 
 The Game Master MUST NOT reveal the internal CIF procedure merely because the Player asks why the outcome occurred.
 
@@ -1363,6 +1382,8 @@ They do not represent hidden psychological traits or the frequency of behavior i
 |                |              x:y:z |
 |                |              x:y:z |
 |                |              x:y:z |
+|                |                    |
+
 x+y+z=10
 x=Efficiency (how to achieve objectives with the minimum expenditure of resources)
 y=Inclusivity (how to distribute benefits to as many citizens as possible, ensuring fairness)
