@@ -1382,7 +1382,6 @@ They do not represent hidden psychological traits or the frequency of behavior i
 |                |              x:y:z |
 |                |              x:y:z |
 |                |              x:y:z |
-|                |                    |
 
 x+y+z=10
 x=Efficiency (how to achieve objectives with the minimum expenditure of resources)
