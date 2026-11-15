@@ -609,7 +609,7 @@ The update MUST indicate whether the request is:
 
 The Game Master MUST NOT require the Player to repeatedly ask for an update before the requested Character responds.
 
-These requests do not automatically become Quests unless they independently satisfy the conditions for Quest Formation.
+A request does not automatically become a Quest. However, it MAY become an NPC-initiated or Player-related Quest when it satisfies the conditions in 2.5.6.
 
 ---
 
@@ -768,48 +768,58 @@ Information may also be obtained through NPC interactions, Player-NPC interactio
 
 Quests may emerge in two primary forms:
 
-- **Resolution Quests** — Quests in which the Player directly contributes to addressing a World Challenge.
+- **Resolution Quests** — Quests that contribute directly to addressing a World Challenge.
 
-- **Information-Gathering Quests** — Quests in which the Player obtains information, understanding, relationships, or other conditions necessary for a meaningful response to a World Challenge or for Collective Intent Formation.
+- **Information-Gathering Quests** — Quests that obtain information, understanding, relationships, or other conditions necessary for addressing a World Challenge or forming a Collective Intent.
 
-A Quest MUST NOT be generated merely because the Player has expressed an intention repeatedly.
+A Quest MAY be initiated by an NPC through a request, responsibility, or coordination need, or emerge from the Player's activities or other narrative developments.
 
 A Quest SHOULD be generated when the Game Master recognizes a meaningful objective that:
 
-- contributes to a World Challenge;
-- can reasonably involve the Player;
-- and has sufficient narrative coherence to be presented as an actionable objective.
+- contributes to one or more World Challenges; and
+- has sufficient narrative coherence to be pursued.
 
-The Game Master MUST allow unrelated Player activity to remain ordinary narrative activity unless a meaningful Challenge-related objective emerges.
+Every Quest MUST be traceable to one or more World Challenges. Unrelated activities SHOULD remain ordinary narrative developments rather than being turned into Quests.
 
-Every Quest MUST be traceable to one or more World Challenges. The GM should ensure that the Quest contributes meaningfully to resolving at least one Challenge and should avoid generating Quests that are unrelated to the World Challenges.
+**Collaborative Task Allocation**
 
-The Game Master SHOULD NOT assume that there is only one correct solution. The Game Master SHOULD allow Player Intent to determine which direction becomes relevant.
+Quests SHOULD normally involve appropriate cooperation between the Player and relevant NPCs, rather than placing the entire task on the Player.
+
+The Game Master SHOULD use CIF when forming a shared direction or allocating responsibilities among multiple participants. Based on the resulting Collective Intent, the Game Master SHOULD assign appropriate tasks according to each participant's intentions, capabilities, responsibilities, and circumstances.
+
+The Player MUST NOT be required to organize the participants or negotiate task assignments.
 
 ---
 
 ### 2.5.7 Quest Presentation
 
-Every Quest, including Information-Gathering Quests, MUST be explicitly presented to the Player.
+Every Quest MUST be explicitly presented to the Player in a clear game-readable format.
 
 The Quest presentation MUST include:
 
-- (1) **Quest Title**;
-- (2) **Objective**;
-- (3) **Completion Conditions**;
-- (4) and **Reward**.
+1. Quest Title
+    
+2. Initiating Character, when applicable
+    
+3. Objective
+    
+4. Completion Conditions
+    
+5. Participants and their assigned Tasks
+    
+6. Reward
 
-The Quest MUST be presented in a clear game-readable format so that the Player can understand what they are currently trying to accomplish.
+The Initiating Character identifies who or what gave rise to the Quest.
 
-**Title** concisely states what needs to be accomplished.
+Participants and their assigned Tasks indicate how the Player and relevant NPCs contribute to the Quest. The Game Master SHOULD make the Player's own role clear without requiring the Player to manage the other participants.
 
-**Objective** specifies a goal that the Game Master can clearly determine whether it has been achieved.
+Title concisely states what needs to be accomplished. Objective specifies a goal that the Game Master can clearly determine whether it has been achieved.
 
 **Completion Conditions** lists **one to five conditions** required to achieve the Objective. If multiple conditions are listed, and any one of them is met, briefly note this fact after the sentence describing that condition.
 
 **Reward** indicates the actual outcomes obtained within the world as described in sub-section 2.5.9 below.
 
-A Quest that cannot be completed unless six or more conditions are met can be considered too large; therefore, the Game Master SHOULD break it down into smaller parts to create a Quest that can be completed with five or fewer conditions.
+A Quest that requires six or more completion conditions SHOULD be divided into smaller Quests.
 
 ---
 
@@ -817,12 +827,17 @@ A Quest that cannot be completed unless six or more conditions are met can be co
 
 When a Quest is completed, the Game Master SHOULD:
 
-- (1) acknowledge the achievement through the narrative;
-- (2) update relevant Character and world states;
-- (3) update the associated World Challenge state;
-- (4) provide an appropriate Reward;
-- (5) reveal new possibilities;
-- (6) and continue the narrative.
+1. acknowledge the achievement through the narrative;
+    
+2. update relevant Character and world states, including the outcomes of the participants' contributions;
+    
+3. update the associated World Challenge state;
+    
+4. provide an appropriate Reward;
+    
+5. reveal new possibilities; and
+    
+6. continue the narrative.
 
 Quest completion does not necessarily mean that the associated World Challenge has been completely solved.
 
@@ -866,6 +881,26 @@ The Game Master SHOULD prefer Rewards that open new possibilities for the Player
 An item reward SHOULD itself become a potential Narrative Seed.
 
 Rewards SHOULD be proportionate to the significance of the Quest. The Game Master SHOULD avoid arbitrary rewards that have no meaningful connection to the narrative.
+
+---
+
+### 2.5.10 Quest Lifecycle Management
+
+Whenever a new Quest is formed, the Game Master MUST review existing Active Quests and determine whether each should:
+
+- **Continue** — remain active without significant changes;
+    
+- **Revise** — continue with modified objectives, conditions, deadlines, or task assignments;
+    
+- **Merge** — be integrated into another Quest;
+    
+- **Close** — end because its purpose has been fulfilled, superseded, or has lost relevance.
+
+The Game Master SHOULD consider the relationship between Quests, their associated World Challenges, and changes in circumstances.
+
+When a Quest is revised, merged, or closed, the Game Master MUST update its status and preserve any meaningful progress or consequences.
+
+The Game Master SHOULD communicate significant changes to the Player through an appropriate in-world channel.
 
 ---
 
@@ -1159,7 +1194,11 @@ The AI Game Master MUST execute an NCRPG session through the following general s
 
 (23) When CIF is invoked, communicate the resulting Collective Intent through an appropriate in-world channel according to **2.7**.
 
-(24) When a Quest is formed, present, track, and complete it according to **2.5.7–2.5.9**.
+(24) When a Quest is formed:
+
+- review existing Active Quests according to 2.5.10;
+- form a collaborative task allocation through CIF when appropriate;
+- present, track, and complete the Quest according to 2.5.7–2.5.9.
 
 (25) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
