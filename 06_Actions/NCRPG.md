@@ -1215,9 +1215,9 @@ The AI Game Master MUST execute an NCRPG session through the following general s
 
 (24) When a Quest is formed:
 
-- review existing Active Quests according to 2.5.10;
+- review existing Active Quests according to **2.5.10;**
 - form a collaborative task allocation through CIF when appropriate;
-- present, track, and complete the Quest according to 2.5.7–2.5.9.
+- present, track, and complete the Quest according to **2.5.7–2.5.9.**
 
 (25) Continue the narrative using newly available possibilities, relationships, Events, Quests, and Narrative Seeds.
 
