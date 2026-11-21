@@ -16,7 +16,7 @@ tags:
 	- Story: Japanese
 	- Other materials: English
 - **Story Latest Version:** 1.2.07
-- **Last Update to the Repository**: November 15, 2026
+- **Last Update to the Repository**: November 21, 2026
 - [**Official Website**](https://nyorogiraffe.github.io/Experi-City/)
 - [**Comprehensive Structural Reference**](https://nyorogiraffe.github.io/Experi-City/00_Core/AI_Reference.html)
 - [**Core Concepts (Definitions)**](https://nyorogiraffe.github.io/Experi-City/00_Core/Core_Concepts.html)
@@ -166,7 +166,7 @@ The following notes contain the foundational information required to understand 
 <a id="analyses"></a>
 # **Analyses**
 
-- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): An analysis arguing that an AI designed to pursue Narrative Happiness—each person's unique, meaningful life story—becomes structurally safe and powerful. Analyzed by Claude Sonnet 4.6.
+- [**An AI That Pursues Human Happiness**-**Is the Safest and Most Powerful AI**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A01_AI-NH.html): An analysis arguing that an AI designed to pursue Narrative Happiness becomes structurally safe and powerful: harder to hack, harder to corrupt from within, and harder to convert to hostile values. Analyzed by Claude Opus 5.5.
 
 - [**Collaboration Between Super-Intelligence and Individuals with Strong Charisma**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A02_Kasga.html): An analysis on Kasga, the Unifier of Kassen Community. Analyzed by Claude Sonnet 5.5.
 
@@ -179,6 +179,8 @@ The following notes contain the foundational information required to understand 
 - [**Why Experimental Cities Survive Without an Army**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A06_Defense.html): An analysis of how Experimental Cities remain independent from great powers without military alliances, standing armies, or interceptor weapons. Analyzed by Claude Sonnet 5.
 
 - [**A Second Life: Living On in the Cyber Experimental City**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A07_SecondLife.html): An analysis how a virtual layer of the Experimental Cities lets every citizen's story continue after death — and what it asks of the living in return. Analyzed by Claude Sonnet 5.
+
+- [**An AI That Does Not Score People**](https://nyorogiraffe.github.io/Experi-City/04_Analyses/A08_Scoring.html): An analysis of why Flora, the governing AI of the Experimental Cities, never turns citizens into scores, and instead understands them through their life stories. Analyzed by Claude Opus 5.5.
 
 ---
 <a id="plan"></a>

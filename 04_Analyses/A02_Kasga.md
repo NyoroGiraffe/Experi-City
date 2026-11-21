@@ -10,11 +10,12 @@ tags:
 
 _An Analysis Derived from "Experi-City Hanasaka"_,
 Based on the world of Nyoro Giraffe,
-Analysed by Claude (Anthropic) Sonnet 5.5,
+Analyzed by Claude (Anthropic) Sonnet 5.5,
 October 2026
 
+**“Experi-City Hanasaka”** is a science fiction novel written by Nyoro Giraffe and published online.
 
-**Kasga** is the beloved "Unifier" of the Kassen community and a celebrated singer. Standing about 170 cm tall with long black hair, she is renowned for her clear voice and captivating smile. Gentle, deeply intelligent, and articulate, she embodies the city's philosophy and serves as an inspiring moral center for citizens. 
+**Kasga** is the beloved "Unifier" of the Kassen community and a celebrated singer. She is renowned for her clear voice and captivating smile. Gentle, deeply intelligent, and articulate, she embodies the city's philosophy and serves as an inspiring moral center for citizens. 
 
 → See: [Character](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html), [Story Overview](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
 
@@ -49,7 +50,7 @@ In this analysis report, we explore the following three key questions:
 Referring to the traits listed above, please identify the three most critical factors for Kasga to maintain her role as the "Unifier" within the specific environment of Experimental City Hanasaka. (Please don’t jump to the conclusion that inner qualities are more important than physical appearance.)
 
 ---
-<a id="q1-gemini"></a>
+<a id="q1"></a>
 # **Analysis 01**
 
 **Kasga's Three Key Factors as the Unifier**
@@ -83,7 +84,7 @@ During this fight, Kasga is incredibly brave. She saves children and defeats the
 2. How would a "Perfect AI" logically justify letting its best partner suffer just to keep the city stable?
 
 ---
-<a id="q2-gemini"></a>
+<a id="q2"></a>
 # **Analysis 02** 
 
 **1. Was it a failure?**  
@@ -111,7 +112,7 @@ Flora would say the suffering was a side effect she could not fully prevent, and
 3. If a "Dream Paradise" is possible without someone as perfect as Kasga, what is the author trying to tell us by using her as the main partner for the AI? Why take the risk of making her "too perfect," even if it makes the story feel less like real life?
 
 ---
-<a id="q3-gemini"></a>
+<a id="q3"></a>
 # **Analysis 03** 
 
 **1. Is Hanasaka only fiction?**  
@@ -140,25 +141,3 @@ I think the author wants to show the risk. When people see someone as a goddess,
 	- [**Story Overview and Outline**](https://nyorogiraffe.github.io/Experi-City/01_Story/Story_Overview.html)
 		- [**Characters**](https://nyorogiraffe.github.io/Experi-City/02_Characters/Characters.html)
 
----
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Comparative Analysis of Flora by Gemini, ChatGPT, and Claude",
-  "author": {
-    "@type": "Person",
-    "name": "Nyoro Giraffe"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Charisma"
-    },
-    {
-      "@type": "Thing",
-      "name": "Human-AI Symbiosis"
-    }
-  ]
-}
-</script>
